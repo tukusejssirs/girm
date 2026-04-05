@@ -216,30 +216,70 @@ def build_master():
 # ─────────────────────────────────────────────────────────────────────────────
 
 # All quote variants → same canonical char for comparison only
+# Quote variants normalised to U+0022 for COMPARISON only — never for display
 QUOTE_NORM = re.compile(r'[\u0022\u0027\u0060\u00AB\u00BB\u2018\u2019\u201A\u201B\u201C\u201D\u201E\u201F\u2039\u203A]')
 
-def normalise(text):
+def _strip_refs_md(text):
+    """Strip footnote refs and markdown formatting; preserve original quote chars."""
     t = re.sub(r"\[\^\d+\]", "", text or "")
-    t = re.sub(r"\*\*?([^*]+)\*\*?", r"\1", t)  # strip md
-    t = QUOTE_NORM.sub("\u0022", t)              # all quotes → straight "
+    t = re.sub(r"\*\*?([^*]+)\*\*?", r"\1", t)
     t = re.sub(r"\s+", " ", t).strip()
     return t
 
+def normalise(text):
+    """For comparison: strip refs/md AND normalise all quotes to same char."""
+    t = _strip_refs_md(text)
+    t = QUOTE_NORM.sub("\u0022", t)
+    return t
+
 def tokenise(text):
+    """Comparison tokens (normalised quotes)."""
     return re.findall(r"\S+", normalise(text))
 
+def tokenise_display(text):
+    """Display tokens: same stripping as normalise but quotes preserved."""
+    return re.findall(r"\S+", _strip_refs_md(text))
+
 def diff_tokens(a_text, b_text):
-    a = tokenise(a_text)
-    b = tokenise(b_text)
-    if a == b: return []
-    diffs = []
-    sm = SequenceMatcher(None, a, b, autojunk=False)
+    # Compare on normalised tokens (quotes collapsed)
+    a_cmp = tokenise(a_text)
+    b_cmp = tokenise(b_text)
+    if a_cmp == b_cmp: return []
+
+    # Display tokens: same structure but original quote chars
+    a_dis = tokenise_display(a_text)
+    b_dis = tokenise_display(b_text)
+
+    raw = []
+    sm = SequenceMatcher(None, a_cmp, b_cmp, autojunk=False)
     for tag, i1, i2, j1, j2 in sm.get_opcodes():
         if tag == "equal": continue
-        a_chunk = " ".join(a[i1:i2]) or "\u2014"
-        b_chunk = " ".join(b[j1:j2]) or "\u2014"
-        diffs.append((a_chunk, b_chunk))
-    return diffs
+        # Use display tokens for output; fall back to EM-DASH when span is empty
+        a_chunk = " ".join(a_dis[i1:i2]) if i2 > i1 else "\u2014"
+        b_chunk = " ".join(b_dis[j1:j2]) if j2 > j1 else "\u2014"
+        raw.append((a_chunk, b_chunk))
+
+    # Merge adjacent orphan pairs to eliminate confusing (—, Y)+(X, —) patterns:
+    #   (X, "—") + ("—", Y)  →  (X, Y)   [delete then insert]
+    #   ("—", Y) + (X, "—")  →  (X, Y)   [insert then delete]
+    merged = []
+    i = 0
+    EM = "\u2014"
+    while i < len(raw):
+        a, b = raw[i]
+        if i + 1 < len(raw):
+            na, nb = raw[i + 1]
+            if b == EM and na == EM:        # (X, —) + (—, Y)
+                merged.append((a, nb))
+                i += 2
+                continue
+            if a == EM and nb == EM:        # (—, Y) + (X, —)
+                merged.append((na, b))
+                i += 2
+                continue
+        merged.append((a, b))
+        i += 1
+    return merged
 
 def is_quote_only_diff(a_tok, b_tok):
     """True if the only difference is quote style (not extra/missing quotes)."""

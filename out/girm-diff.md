@@ -50,9 +50,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** judged that
 
 - **VA 2003:** as applying
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** applied
 
 - **VA 2003:** when
@@ -82,11 +79,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** current
 - **UK 2010:** present
 
-- **VA 2003:** —
-- **UK 2010:** too,
-
 - **VA 2003:** Ecumenical
-- **UK 2010:** —
+- **UK 2010:** too,
 
 - **VA 2003:** and
 - **UK 2010:** together with
@@ -118,7 +112,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** Eucharist. They likewise bear witness
 - **UK 2010:** Eucharist, and also attest
 
-- **VA 2003:** the Church"s
+- **VA 2003:** the Church’s
 - **UK 2010:** her
 
 - **VA 2003:** unbroken
@@ -145,11 +139,11 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK:** Saviour
 - **US:** Savior
 
-- **UK:** Leonine – "for
-- **US:** Leonine—"for
+- **UK:** Leonine – ’for
+- **US:** Leonine—“for
 
-- **UK:** accomplished" – is
-- **US:** accomplished"—is
+- **UK:** accomplished’ – is
+- **US:** accomplished“—is
 
 - **UK:** propitiation
 - **US:** propitiation,
@@ -162,7 +156,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** Trent in accordance
 - **UK 2010:** Trent, because it accords
 
-- **VA 2003:** Church"s
+- **VA 2003:** Church’s
 - **UK 2010:** —
 
 - **VA 2003:** tradition,
@@ -195,20 +189,14 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** death
 - **UK 2010:** Death
 
-- **VA 2003:** resurrection."
-- **UK 2010:** Resurrection to his beloved spouse, the Church".
-
-- **VA 2003:** —
-- **UK 2010:** is taught in this way by
+- **VA 2003:** resurrection.”
+- **UK 2010:** Resurrection to his beloved spouse, the Church’.
 
 - **VA 2003:** thus teaches
-- **UK 2010:** —
-
-- **VA 2003:** —
-- **UK 2010:** consistently
+- **UK 2010:** is taught in this way by
 
 - **VA 2003:** constantly
-- **UK 2010:** —
+- **UK 2010:** consistently
 
 - **VA 2003:** formulas
 - **UK 2010:** formulae
@@ -225,8 +213,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** known as
 - **UK 2010:** called
 
-- **VA 2003:** Leonine"As often as
-- **UK 2010:** Leonine – "for whenever
+- **VA 2003:** Leonine“As often as
+- **UK 2010:** Leonine – ’for whenever
 
 - **VA 2003:** commemoration
 - **UK 2010:** memorial
@@ -234,8 +222,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** celebrated,
 - **UK 2010:** celebrated
 
-- **VA 2003:** carried out"is
-- **UK 2010:** accomplished" – is
+- **VA 2003:** carried out”is
+- **UK 2010:** accomplished’ – is
 
 - **VA 2003:** accurately developed
 - **UK 2010:** exactly expounded
@@ -255,17 +243,11 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** God, even
 - **UK 2010:** God likewise
 
-- **VA 2003:** —
+- **VA 2003:** whole
 - **UK 2010:** all
 
-- **VA 2003:** whole
-- **UK 2010:** —
-
-- **VA 2003:** —
-- **UK 2010:** he
-
 - **VA 2003:** him
-- **UK 2010:** —
+- **UK 2010:** he
 
 - **VA 2003:** Sacrifice, namely,
 - **UK 2010:** sacrifice, that is,
@@ -300,19 +282,13 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** Missal, then,
 - **UK 2010:** Missal
 
-- **VA 2003:** Church"s
-- **UK 2010:** —
-
-- **VA 2003:** —
+- **VA 2003:** Church’s
 - **UK 2010:** of the Church
 
 - **VA 2003:** belief
 - **UK 2010:** faith
 
 - **VA 2003:** namely
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** truly
 
 - **VA 2003:** Sacrifice
@@ -327,11 +303,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** offering,
 - **UK 2010:** their offering;
 
-- **VA 2003:** —
-- **UK 2010:** as a result,
-
 - **VA 2003:** consequently
-- **UK 2010:** —
+- **UK 2010:** as a result,
 
 - **VA 2003:** once
 - **UK 2010:** one and the same time
@@ -349,15 +322,12 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 ### §3
 
 #### Wording (UK vs US)
-- **UK:** Ecumenical Council of Trent, Session XXII, 17 September 1562: Denzinger-Schönmetzer, nos. 1738-1759. Second Ecumenical Council of the Vatican, Constitution on the Sacred Liturgy, Sacrosanctum Concilium, no. 47; cf. Dogmatic Constitution on the Church, Lumen gentium, nos. 3, 28; Decree on the Ministry and Life of Priests, Presbyterorum ordinis, nos. 2, 4, 5. Evening Mass of the Lord"s Supper, Prayer over the Offerings. Cf. Sacramentarium Veronense, L.C. Mohlberg editor, no. 93. Cf. Eucharistic Prayer III. Cf. Eucharistic Prayer IV. Second Ecumenical Council of the Vatican, Sacrosanctum Concilium, nos. 7, 47; Presbyterorum ordinis, nos. 5, 18. Cf. Pius XII, Encyclical Letter, Humani generis, 12 August 1950: Acta Apostolicae Sedis 42 (1950), pp. 570‑571; Paul VI, Encyclical Letter, Mysterium fidei, 3 September 1965: Acta Apostolicae Sedis 57 (1965), pp. 762‑769; Paul VI, Solemn Profession of Faith, 30 June 1968, nos. 24-26: Acta Apostolicae Sedis 60 (1968), pp. 442-443; Sacred Congregation of Rites, Instruction, Eucharisticum mysterium, 25 May 1967, nos. 3f, 9: Acta Apostolicae Sedis 59 (1967), pp. 543, 547.
+- **UK:** Ecumenical Council of Trent, Session XXII, 17 September 1562: Denzinger-Schönmetzer, nos. 1738-1759. Second Ecumenical Council of the Vatican, Constitution on the Sacred Liturgy, Sacrosanctum Concilium, no. 47; cf. Dogmatic Constitution on the Church, Lumen gentium, nos. 3, 28; Decree on the Ministry and Life of Priests, Presbyterorum ordinis, nos. 2, 4, 5. Evening Mass of the Lord’s Supper, Prayer over the Offerings. Cf. Sacramentarium Veronense, L.C. Mohlberg editor, no. 93. Cf. Eucharistic Prayer III. Cf. Eucharistic Prayer IV. Second Ecumenical Council of the Vatican, Sacrosanctum Concilium, nos. 7, 47; Presbyterorum ordinis, nos. 5, 18. Cf. Pius XII, Encyclical Letter, Humani generis, 12 August 1950: Acta Apostolicae Sedis 42 (1950), pp. 570‑571; Paul VI, Encyclical Letter, Mysterium fidei, 3 September 1965: Acta Apostolicae Sedis 57 (1965), pp. 762‑769; Paul VI, Solemn Profession of Faith, 30 June 1968, nos. 24-26: Acta Apostolicae Sedis 60 (1968), pp. 442-443; Sacred Congregation of Rites, Instruction, Eucharisticum mysterium, 25 May 1967, nos. 3f, 9: Acta Apostolicae Sedis 59 (1967), pp. 543, 547.
 - **US:** —
 
 
 #### Translation (VA 2003 vs UK/US 2010)
-- **VA 2003:** Lord"s
-- **UK 2010:** —
-
-- **VA 2003:** —
+- **VA 2003:** Lord’s
 - **UK 2010:** of the Lord
 
 - **VA 2003:** reaffirmed
@@ -369,11 +339,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** words that
 - **UK 2010:** doctrine as
 
-- **VA 2003:** —
-- **UK 2010:** Ecumenical Council of Trent, Session XXII, 17 September 1562: Denzinger-Schönmetzer, nos. 1738-1759. Second Ecumenical Council of the Vatican, Constitution on the Sacred Liturgy, Sacrosanctum Concilium, no. 47; cf. Dogmatic Constitution on the Church, Lumen gentium, nos. 3, 28; Decree on the Ministry and Life of Priests, Presbyterorum ordinis, nos. 2, 4, 5. Evening Mass of the Lord"s Supper, Prayer over the Offerings. Cf. Sacramentarium Veronense, L.C. Mohlberg editor, no. 93. Cf. Eucharistic Prayer III. Cf. Eucharistic Prayer IV. Second Ecumenical Council of the Vatican, Sacrosanctum Concilium, nos. 7, 47; Presbyterorum ordinis, nos. 5, 18. Cf. Pius XII, Encyclical Letter, Humani generis, 12 August 1950: Acta Apostolicae Sedis 42 (1950), pp. 570‑571; Paul VI, Encyclical Letter, Mysterium fidei, 3 September 1965: Acta Apostolicae Sedis 57 (1965), pp. 762‑769; Paul VI, Solemn Profession of Faith, 30 June 1968, nos. 24-26: Acta Apostolicae Sedis 60 (1968), pp. 442-443; Sacred Congregation of Rites, Instruction, Eucharisticum mysterium, 25 May 1967, nos. 3f, 9: Acta Apostolicae Sedis 59 (1967), pp. 543, 547.
-
 - **VA 2003:** had
-- **UK 2010:** —
+- **UK 2010:** Ecumenical Council of Trent, Session XXII, 17 September 1562: Denzinger-Schönmetzer, nos. 1738-1759. Second Ecumenical Council of the Vatican, Constitution on the Sacred Liturgy, Sacrosanctum Concilium, no. 47; cf. Dogmatic Constitution on the Church, Lumen gentium, nos. 3, 28; Decree on the Ministry and Life of Priests, Presbyterorum ordinis, nos. 2, 4, 5. Evening Mass of the Lord’s Supper, Prayer over the Offerings. Cf. Sacramentarium Veronense, L.C. Mohlberg editor, no. 93. Cf. Eucharistic Prayer III. Cf. Eucharistic Prayer IV. Second Ecumenical Council of the Vatican, Sacrosanctum Concilium, nos. 7, 47; Presbyterorum ordinis, nos. 5, 18. Cf. Pius XII, Encyclical Letter, Humani generis, 12 August 1950: Acta Apostolicae Sedis 42 (1950), pp. 570‑571; Paul VI, Encyclical Letter, Mysterium fidei, 3 September 1965: Acta Apostolicae Sedis 57 (1965), pp. 762‑769; Paul VI, Solemn Profession of Faith, 30 June 1968, nos. 24-26: Acta Apostolicae Sedis 60 (1968), pp. 442-443; Sacred Congregation of Rites, Instruction, Eucharisticum mysterium, 25 May 1967, nos. 3f, 9: Acta Apostolicae Sedis 59 (1967), pp. 543, 547.
 
 - **VA 2003:** as a matter of faith,
 - **UK 2010:** that it must be believed,
@@ -399,11 +366,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** supreme
 - **UK 2010:** the greatest
 
-- **VA 2003:** —
-- **UK 2010:** which strives for realization
-
 - **VA 2003:** which
-- **UK 2010:** —
+- **UK 2010:** which strives for realization
 
 - **VA 2003:** Liturgy is carried out.
 - **UK 2010:** liturgy.
@@ -490,9 +454,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** is made clear how
 
 - **VA 2003:** the
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** is
 
 - **VA 2003:** —
@@ -591,7 +552,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** sharing
 - **UK 2010:** Communion
 
-- **VA 2003:** Communion of Christ"s
+- **VA 2003:** Communion of Christ’s
 - **UK 2010:** —
 
 - **VA 2003:** Blood. Though
@@ -691,9 +652,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** first of all
 
 - **VA 2003:** being
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** Cf. Ecumenical Council of Trent, Session XIII, 11 October 1551: Denzinger-Schönmetzer, nos. 1635-1661. Cf. Second Ecumenical Council of the Vatican, Decree on the Ministry and Life of Priests, Presbyterorum ordinis, no. 2. Cf. Second Ecumenical Council of the Vatican, Constitution on the Sacred Liturgy, Sacrosanctum Concilium, no. 11. Ibidem, no. 50
 
 - **VA 2003:** follows
@@ -724,8 +682,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 ### §8
 
 #### Wording (UK vs US)
-- **UK:** Fathers"
-- **US:** Fathers,"
+- **UK:** Fathers’
+- **US:** Fathers,“
 
 
 #### Translation (VA 2003 vs UK/US 2010)
@@ -774,11 +732,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** West,
 - **UK 2010:** West were formed,
 
-- **VA 2003:** —
-- **UK 2010:** now
-
 - **VA 2003:** today
-- **UK 2010:** —
+- **UK 2010:** now
 
 - **VA 2003:** Moreover,
 - **UK 2010:** Furthermore,
@@ -810,11 +765,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** study
 - **UK 2010:** pondering
 
-- **VA 2003:** —
-- **UK 2010:** ages
-
 - **VA 2003:** and only
-- **UK 2010:** —
+- **UK 2010:** ages
 
 - **VA 2003:** set forth
 - **UK 2010:** expressed
@@ -872,8 +824,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 ### §11
 
 #### Wording (UK vs US)
-- **UK:** "lest
-- **US:** "Lest
+- **UK:** ’lest
+- **US:** “Lest
 
 - **UK:** hungry…
 - **US:** hungry . . .
@@ -910,7 +862,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** this request with a reaffirmation
 - **UK 2010:** by insisting once more on the teaching
 
-- **VA 2003:** Church"s traditional teaching,
+- **VA 2003:** Church’s traditional teaching,
 - **UK 2010:** Church as had been handed on,
 
 - **VA 2003:** is,
@@ -941,16 +893,13 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** the faithful people,
 
 - **VA 2003:** expedient
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** expedient, however,
 
 - **VA 2003:** everywhere
 - **UK 2010:** indiscriminately
 
-- **VA 2003:** vernacular." The
-- **UK 2010:** vernacular". And the
+- **VA 2003:** vernacular.” The
+- **UK 2010:** vernacular’. And the
 
 - **VA 2003:** accordingly anathematized
 - **UK 2010:** declared worthy of censure
@@ -958,8 +907,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** spoken
 - **UK 2010:** pronounced
 
-- **VA 2003:** vernacular." Although on
-- **UK 2010:** vernacular". Nevertheless, at
+- **VA 2003:** vernacular.” Although on
+- **UK 2010:** vernacular’. Nevertheless, at
 
 - **VA 2003:** one hand
 - **UK 2010:** same time as
@@ -970,8 +919,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** the Council did direct
 - **UK 2010:** —
 
-- **VA 2003:** "Lest
-- **UK 2010:** "lest
+- **VA 2003:** “Lest
+- **UK 2010:** ’lest
 
 - **VA 2003:** hungry . . .
 - **UK 2010:** hungry…
@@ -994,8 +943,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** they should include some explanation
 - **UK 2010:** something
 
-- **VA 2003:** holy days."
-- **UK 2010:** feast days".
+- **VA 2003:** holy days.”
+- **UK 2010:** feast days’.
 
 
 ### §12
@@ -1031,8 +980,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** grant
 - **UK 2010:** concede
 
-- **VA 2003:** "the use of
-- **UK 2010:** "not rarely adopting
+- **VA 2003:** “the use of
+- **UK 2010:** ’not rarely adopting
 
 - **VA 2003:** frequently
 - **UK 2010:** —
@@ -1052,11 +1001,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** —
 - **UK 2010:** was everywhere received
 
-- **VA 2003:** —
-- **UK 2010:** certainly
-
 - **VA 2003:** everywhere
-- **UK 2010:** —
+- **UK 2010:** certainly
 
 - **VA 2003:** leadership
 - **UK 2010:** guidance
@@ -1094,16 +1040,10 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** —
 - **UK 2010:** catechesis on
 
-- **VA 2003:** —
+- **VA 2003:** regarding the mystery that is
 - **UK 2010:** mystery, a
 
-- **VA 2003:** regarding the mystery that is
-- **UK 2010:** —
-
 - **VA 2003:** also
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** additionally
 
 - **VA 2003:** homily
@@ -1115,8 +1055,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** urged
 - **UK 2010:** recommended
 
-- **VA 2003:** priest"s
-- **UK 2010:** Priest"s
+- **VA 2003:** priest’s
+- **UK 2010:** Priest’s
 
 - **VA 2003:** realized, namely
 - **UK 2010:** put into effect, namely,
@@ -1124,8 +1064,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** holy
 - **UK 2010:** Holy
 
-- **VA 2003:** "the
-- **UK 2010:** "at each Mass the
+- **VA 2003:** “the
+- **UK 2010:** ’at each Mass the
 
 - **VA 2003:** at each Mass
 - **UK 2010:** —
@@ -1158,9 +1098,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** alone are not in any way called into question,
 
 - **VA 2003:** thus
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** on occasion
 
 - **VA 2003:** kinds on some occasions,
@@ -1219,12 +1156,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** directs
 - **UK 2010:** orders
 
-- **VA 2003:** —
-- **UK 2010:** way
-
-- **VA 2003:** way
-- **UK 2010:** —
-
 - **VA 2003:** times, which is
 - **UK 2010:** times. Of this kind are
 
@@ -1246,7 +1177,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** many other expressions
 - **UK 2010:** numerous others
 
-- **VA 2003:** today"s
+- **VA 2003:** today’s
 - **UK 2010:** the
 
 - **VA 2003:** circumstances. Still
@@ -1289,7 +1220,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** state
 
 - **VA 2003:** Church. Thus, not a few
-- **UK 2010:** Church"s discipline. Hence, several
+- **UK 2010:** Church’s discipline. Hence, several
 
 - **VA 2003:** bearing on
 - **UK 2010:** regarding
@@ -1310,7 +1241,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** other periods
 
 - **VA 2003:** Church. Finally, in
-- **UK 2010:** Church"s past. In
+- **UK 2010:** Church’s past. In
 
 - **VA 2003:** manner
 - **UK 2010:** way, finally,
@@ -1340,9 +1271,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** Successors. Cf. Second Ecumenical Council of the Vatican, Constitution on the Sacred Liturgy, Sacrosanctum Concilium, no. 55. Chapter
 
 - **VA 2003:** Eucharistic
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** of the Eucharist
 
 
@@ -1376,12 +1304,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 - **VA 2003:** recalled
 - **UK 2010:** celebrated
-
-- **VA 2003:** —
-- **UK 2010:** to be
-
-- **VA 2003:** to be
-- **UK 2010:** —
 
 - **VA 2003:** Furthermore,
 - **UK 2010:** As to
@@ -1720,12 +1642,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 #### Wording (UK vs US)
 - **UK:** —
-- **US:** certain adaptations
-
-- **UK:** certain adaptations
-- **US:** —
-
-- **UK:** —
 - **US:** also
 
 - **UK:** 388–393).
@@ -1825,7 +1741,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** Lord, the
 - **UK 2010:** Lord or
 
-- **VA 2003:** For this reason Christ"s promise applies in
+- **VA 2003:** For this reason Christ’s promise applies in
 - **UK 2010:** In
 
 - **VA 2003:** —
@@ -1867,7 +1783,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** word
 - **UK 2010:** Word
 
-- **VA 2003:** Christ"s
+- **VA 2003:** Christ’s
 - **UK 2010:** the
 
 - **VA 2003:** is prepared,
@@ -1898,7 +1814,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** all must listen with reverence to
 - **UK 2010:** —
 
-- **VA 2003:** God"s word,
+- **VA 2003:** God’s word,
 - **UK 2010:** the Word of God are to be listened to reverently by everyone,
 
 - **VA 2003:** make up
@@ -1907,7 +1823,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** —
 - **UK 2010:** the
 
-- **VA 2003:** God"s word
+- **VA 2003:** God’s word
 - **UK 2010:** the Word of God
 
 - **VA 2003:** every
@@ -2116,8 +2032,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 ### §35
 
 #### Translation (VA 2003 vs UK/US 2010)
-- **VA 2003:** priest"s
-- **UK 2010:** Priest"s
+- **VA 2003:** priest’s
+- **UK 2010:** Priest’s
 
 - **VA 2003:** —
 - **UK 2010:** is to be made by
@@ -2138,7 +2054,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** very
 - **UK 2010:** most
 
-- **VA 2003:** faithful"s
+- **VA 2003:** faithful’s
 - **UK 2010:** —
 
 - **VA 2003:** participation, that
@@ -2247,11 +2163,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** In
 - **UK 2010:** Therefore, in
 
-- **VA 2003:** —
-- **UK 2010:** either
-
 - **VA 2003:** both
-- **UK 2010:** —
+- **UK 2010:** either
 
 - **VA 2003:** and
 - **UK 2010:** or of
@@ -2260,9 +2173,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** with due regard for
 
 - **VA 2003:** just
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** here
 
 - **VA 2003:** *The Importance of Singing*
@@ -2302,17 +2212,17 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** 2:46).
 - **UK 2010:** 2: 46).
 
-- **VA 2003:** loves." There
-- **UK 2010:** loves", and there
+- **VA 2003:** loves.” There
+- **UK 2010:** loves’, and there
 
 - **VA 2003:** the
 - **UK 2010:** an
 
-- **VA 2003:** "One who
-- **UK 2010:** "Whoever
+- **VA 2003:** “One who
+- **UK 2010:** ’Whoever
 
-- **VA 2003:** twice."
-- **UK 2010:** twice over".
+- **VA 2003:** twice.”
+- **UK 2010:** twice over’.
 
 
 ### §40
@@ -2325,9 +2235,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** in principle
 
 - **VA 2003:** is
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** be
 
 - **VA 2003:** holy days
@@ -2553,11 +2460,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** United States of America, they should kneel beginning after the singing or recitation of the Sanctus until after the Amen of the Eucharistic Prayer,
 - **UK 2010:** Consecration,
 
-- **VA 2003:** —
-- **UK 2010:** ill health, or for
-
 - **VA 2003:** health,
-- **UK 2010:** —
+- **UK 2010:** ill health, or for
 
 - **VA 2003:** —
 - **UK 2010:** of
@@ -2612,12 +2516,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 ### §44
 
 #### Translation (VA 2003 vs UK/US 2010)
-- **VA 2003:** —
-- **UK 2010:** are
-
-- **VA 2003:** are
-- **UK 2010:** —
-
 - **VA 2003:** processions: of
 - **UK 2010:** processions, by which
 
@@ -2681,11 +2579,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** Thus within
 - **UK 2010:** For in
 
-- **VA 2003:** —
-- **UK 2010:** Penitential
-
 - **VA 2003:** of Penitence
-- **UK 2010:** —
+- **UK 2010:** Penitential
 
 - **VA 2003:** all
 - **UK 2010:** individuals
@@ -2762,13 +2657,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** one
 - **UK 2010:** one,
 
-- **VA 2003:** —
-- **UK 2010:** properly
-
-- **VA 2003:** properly
-- **UK 2010:** —
-
-- **VA 2003:** God"s word
+- **VA 2003:** God’s word
 - **UK 2010:** the Word of God
 
 - **VA 2003:** performed
@@ -3004,8 +2893,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** the entire community carries out through
 - **UK 2010:** it does by means of
 
-- **VA 2003:** priest"s
-- **UK 2010:** Priest"s
+- **VA 2003:** priest’s
+- **UK 2010:** Priest’s
 
 - **VA 2003:** On
 - **UK 2010:** From time to time on
@@ -3071,7 +2960,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** Penitential Act,
 
 - **VA 2003:** trope may precede
-- **UK 2010:** "trope" precedes
+- **UK 2010:** ’trope’ precedes
 
 - **VA 2003:** *The Gloria*
 - **UK 2010:** —
@@ -3114,9 +3003,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** choirs
 
 - **VA 2003:** the Seasons of
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** and also
 
 - **VA 2003:** solemnities
@@ -3139,23 +3025,14 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 ### §54
 
 #### Wording (UK vs US)
-- **UK:** —
+- **UK:** one
 - **US:** -
 
 - **UK:** one
-- **US:** —
-
-- **UK:** —
 - **US:** -
 
 - **UK:** one
-- **US:** —
-
-- **UK:** —
 - **US:** -
-
-- **UK:** one
-- **US:** —
 
 - **UK:** B.
 - **US:** —
@@ -3190,7 +3067,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** usually called
 
 - **VA 2003:** collect
-- **UK 2010:** "Collect"
+- **UK 2010:** ’Collect’
 
 - **VA 2003:** is expressed. In accordance with the
 - **UK 2010:** finds expression. By an
@@ -3292,9 +3169,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** Homily,
 
 - **VA 2003:** them
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** through his word
 
 - **VA 2003:** faithful through his word.
@@ -3306,7 +3180,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** singing
 - **UK 2010:** by singing,
 
-- **VA 2003:** God"s
+- **VA 2003:** God’s
 - **UK 2010:** this divine
 
 - **VA 2003:** they also
@@ -3504,11 +3378,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** gives
 - **UK 2010:** it pronounces
 
-- **VA 2003:** —
-- **UK 2010:** and by means of the reply the assembled people give honour
-
 - **VA 2003:** which
-- **UK 2010:** —
+- **UK 2010:** and by means of the reply the assembled people give honour
 
 - **VA 2003:** gathered people reply, honoring the word
 - **UK 2010:** Word
@@ -3631,9 +3502,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** Hence
 
 - **VA 2003:** the
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** Psalm
 
 - **VA 2003:** of the Psalm from
@@ -3861,11 +3729,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** Sequence, which is optional
 - **UK 2010:** Sequence which,
 
-- **VA 2003:** —
-- **UK 2010:** optional, is
-
 - **VA 2003:** *The Homily*
-- **UK 2010:** —
+- **UK 2010:** optional, is
 
 
 #### Formatting (italics)
@@ -4009,11 +3874,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** use,
 - **UK 2010:** use and
 
-- **VA 2003:** —
-- **UK 2010:** the celebration of
-
 - **VA 2003:** are celebrated
-- **UK 2010:** —
+- **UK 2010:** the celebration of
 
 - **VA 2003:** Eucharist.
 - **UK 2010:** Eucharist begins.
@@ -4085,11 +3947,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** —
 - **UK 2010:** there usually be
 
-- **VA 2003:** —
-- **UK 2010:** form of
-
 - **VA 2003:** be included, as a rule,
-- **UK 2010:** —
+- **UK 2010:** form of
 
 - **VA 2003:** a congregation,
 - **UK 2010:** the people,
@@ -4111,9 +3970,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 #### Wording (UK vs US)
 - **UK:** a. b. c. d.
-- **US:** —
-
-- **UK:** —
 - **US:** - a)
 
 - **UK:** —
@@ -4242,13 +4098,13 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** thanks; he
 - **UK 2010:** thanks,
 
-- **VA 2003:** saying, "Take, eat,
+- **VA 2003:** saying, “Take, eat,
 - **UK 2010:** saying: Take, eat
 
 - **VA 2003:** cup
 - **UK 2010:** chalice
 
-- **VA 2003:** me." Accordingly,
+- **VA 2003:** me.” Accordingly,
 - **UK 2010:** me. Hence,
 
 - **VA 2003:** Christ:
@@ -4273,15 +4129,12 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** c.
 
 - **VA 2003:** they are
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** that
 
-- **VA 2003:** Christ"s own hands. Through
+- **VA 2003:** Christ’s own hands. Through
 - **UK 2010:** —
 
-- **VA 2003:** fraction and through Communion, the faithful, though they are many, receive from the one bread the Lord"s Body and from the one chalice the Lord"s Blood in the same way the Apostles received them from Christ"s own hands. *The Preparation
+- **VA 2003:** fraction and through Communion, the faithful, though they are many, receive from the one bread the Lord’s Body and from the one chalice the Lord’s Blood in the same way the Apostles received them from Christ’s own hands. *The Preparation
 - **UK 2010:** hands
 
 - **VA 2003:** the Gifts*
@@ -4661,7 +4514,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** particular invocations,
 - **UK 2010:** —
 
-- **VA 2003:** Church implores the power of the Holy Spirit that the gifts offered by human hands be consecrated, that is, become Christ"s Body and Blood, and that the spotless Victim to be received in Communion be for the salvation of those who will partake of it. Institution narrative and consecration: In which, by means of
+- **VA 2003:** Church implores the power of the Holy Spirit that the gifts offered by human hands be consecrated, that is, become Christ’s Body and Blood, and that the spotless Victim to be received in Communion be for the salvation of those who will partake of it. Institution narrative and consecration: In which, by means of
 - **UK 2010:** —
 
 - **VA 2003:** the
@@ -4730,16 +4583,10 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** Mediator,
 - **UK 2010:** mediation of Christ,
 
-- **VA 2003:** —
-- **UK 2010:** God may
-
-- **VA 2003:** God may
-- **UK 2010:** —
-
 - **VA 2003:** Offering: By which, in this very memorial, the Churchand in particular the Church here and now gatheredoffers in the Holy Spirit the spotless Victim to the Father.
 - **UK 2010:** g.
 
-- **VA 2003:** Church"s intention, however, is that the faithful not only offer this spotless Victim but also learn to offer themselves, and so day
+- **VA 2003:** Church’s intention, however, is that the faithful not only offer this spotless Victim but also learn to offer themselves, and so day
 - **UK 2010:** intercessions,
 
 - **VA 2003:** day to be consummated, through Christ the Mediator, into unity with God and with each other, so that at last God may be all in all. Intercessions: By
@@ -4763,7 +4610,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** the
 - **UK 2010:** —
 
-- **VA 2003:** Christ"s
+- **VA 2003:** Christ’s
 - **UK 2010:** the
 
 - **VA 2003:** Blood. Intercessions: By which expression is given to the fact that the Eucharist is celebrated in communion with the entire Church,
@@ -4772,7 +4619,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** heaven as well as of earth, and that the offering is made for her and for all her members, living and dead, who have been called to participate in the redemption and the salvation purchased
 - **UK 2010:** Christ. h. The concluding doxology,
 
-- **VA 2003:** Christ"s Body and Blood. Final doxology: By
+- **VA 2003:** Christ’s Body and Blood. Final doxology: By
 - **UK 2010:** —
 
 - **VA 2003:** confirmed
@@ -4781,7 +4628,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** acclamation,
 - **UK 2010:** acclamation
 
-- **VA 2003:** Final doxology: By which the glorification of God is expressed and which is confirmed and concluded by the people"s acclamation, Amen. *The Communion Rite*
+- **VA 2003:** Final doxology: By which the glorification of God is expressed and which is confirmed and concluded by the people’s acclamation, Amen. *The Communion Rite*
 - **UK 2010:** f.
 
 
@@ -4807,7 +4654,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** directly
 - **UK 2010:** more immediately
 
-- **VA 2003:** *The Lord"s Prayer*
+- **VA 2003:** *The Lord’s Prayer*
 - **UK 2010:** —
 
 
@@ -4826,11 +4673,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** bread,
 - **UK 2010:** Bread,
 
-- **VA 2003:** —
-- **UK 2010:** entreating
-
 - **VA 2003:** for
-- **UK 2010:** —
+- **UK 2010:** entreating
 
 - **VA 2003:** may,
 - **UK 2010:** may
@@ -4865,11 +4709,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** entire
 - **UK 2010:** whole
 
-- **VA 2003:** —
-- **UK 2010:** are
-
 - **VA 2003:** *The Rite of Peace*
-- **UK 2010:** —
+- **UK 2010:** are
 
 
 #### Formatting (italics)
@@ -4929,7 +4770,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** deacon
 - **UK 2010:** Deacon
 
-- **VA 2003:** Christ"s
+- **VA 2003:** Christ’s
 - **UK 2010:** The
 
 - **VA 2003:** —
@@ -5018,7 +4859,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** —
 - **UK 2010:** so
 
-- **VA 2003:** Christ"s
+- **VA 2003:** Christ’s
 - **UK 2010:** the
 
 - **VA 2003:** Blood.
@@ -5074,7 +4915,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** is
 - **UK 2010:** being
 
-- **VA 2003:** communicants"
+- **VA 2003:** communicants’
 - **UK 2010:** spiritual
 
 - **VA 2003:** in spirit
@@ -5228,19 +5069,13 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 #### Wording (UK vs US)
 - **UK:** Cf. Sacred Congregation of Rites, Instruction, Eucharisticum mysterium, 25 May 1967, nos. 31, 32: Acta Apostolicae Sedis 59 (1969), pp. 558-559; Sacred Congregation for the Discipline of the Sacraments, Instruction, Immensae caritatis, 29 January 1973, no. 2: Acta Apostolicae Sedis 65 (1973), pp. 267-268. Cf. Sacred Congregation for the Sacraments and Divine Worship, Instruction, Inestimabile donum, 3 April 1980, no. 17: Acta Apostolicae Sedis 72 (1980), p. 338. The Structure of the Mass, Its Elements and Its Parts
-- **US:** —
-
-- **UK:** —
-- **US:** -
-
-- **UK:** —
 - **US:** -
 
 - **UK:** —
 - **US:** -
 
 - **UK:** D.
-- **US:** —
+- **US:** -
 
 
 #### Translation (VA 2003 vs UK/US 2010)
@@ -5335,8 +5170,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** are
 - **UK 2010:** be
 
-- **VA 2003:** Brief announcements, if they are necessary; The priest"s greeting
-- **UK 2010:** b. the Priest"s Greeting
+- **VA 2003:** Brief announcements, if they are necessary; The priest’s greeting
+- **UK 2010:** b. the Priest’s Greeting
 
 - **VA 2003:** blessing,
 - **UK 2010:** Blessing,
@@ -5350,7 +5185,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** prayer
 - **UK 2010:** Prayer
 
-- **VA 2003:** The priest"s greeting and blessing, which on certain days and occasions is enriched and expressed in
+- **VA 2003:** The priest’s greeting and blessing, which on certain days and occasions is enriched and expressed in
 - **UK 2010:** c.
 
 - **VA 2003:** prayer over the People or another more solemn formula; The dismissal
@@ -5413,9 +5248,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 #### Translation (VA 2003 vs UK/US 2010)
 - **VA 2003:** Eucharistic
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** of the Eucharist
 
 - **VA 2003:** an
@@ -5439,11 +5271,11 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** offices,
 - **UK 2010:** functions,
 
-- **VA 2003:** God"s
+- **VA 2003:** God’s
 - **UK 2010:** a people for his
 
-- **VA 2003:** people,"
-- **UK 2010:** possession",
+- **VA 2003:** people,”
+- **UK 2010:** possession’,
 
 - **VA 2003:** they are
 - **UK 2010:** —
@@ -5485,8 +5317,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** express in a clearer light
 - **UK 2010:** signify more vividly
 
-- **VA 2003:** unity." Even if
-- **UK 2010:** unity". If, on the other hand,
+- **VA 2003:** unity.” Even if
+- **UK 2010:** unity’. If, on the other hand,
 
 - **VA 2003:** —
 - **UK 2010:** it to
@@ -5504,11 +5336,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** priest
 - **UK 2010:** Priest,
 
-- **VA 2003:** —
-- **UK 2010:** sacred
-
 - **VA 2003:** Holy
-- **UK 2010:** —
+- **UK 2010:** sacred
 
 - **VA 2003:** stands for
 - **UK 2010:** presides by
@@ -5517,9 +5346,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** fact over
 
 - **VA 2003:** together
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** to them
 
 - **VA 2003:** salvation to them,
@@ -5616,7 +5442,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 #### Translation (VA 2003 vs UK/US 2010)
 - **VA 2003:** whom God has made his own,
-- **UK 2010:** of God"s own possession and
+- **UK 2010:** of God’s own possession and
 
 - **VA 2003:** spotless
 - **UK 2010:** unblemished sacrificial
@@ -5767,11 +5593,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 ### §99
 
 #### Translation (VA 2003 vs UK/US 2010)
-- **VA 2003:** —
-- **UK 2010:** Universal
-
 - **VA 2003:** of the Faithful
-- **UK 2010:** —
+- **UK 2010:** Universal
 
 - **VA 2003:** proclaim
 - **UK 2010:** recite
@@ -5877,11 +5700,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** that
 - **UK 2010:** for
 
-- **VA 2003:** —
-- **UK 2010:** to be accomplished in the art of singing Psalms and
-
 - **VA 2003:** the ability for singing and
-- **UK 2010:** —
+- **UK 2010:** to be accomplished in the art of singing Psalms and
 
 - **VA 2003:** correct pronunciation
 - **UK 2010:** public speaking
@@ -5912,9 +5732,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** schola cantorum
 
 - **VA 2003:** in accordance
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** due regard for
 
 - **VA 2003:** —
@@ -6011,7 +5828,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** facing
 - **UK 2010:** within sight of
 
-- **VA 2003:** The commentator, who provides the faithful, when appropriate, with brief explanations and commentaries with the purpose of introducing them to the celebration and preparing them to understand it better. The commentator"s remarks must be meticulously prepared and clear though brief. In performing this function the commentator stands in an appropriate place facing the faithful, but not at the ambo.
+- **VA 2003:** The commentator, who provides the faithful, when appropriate, with brief explanations and commentaries with the purpose of introducing them to the celebration and preparing them to understand it better. The commentator’s remarks must be meticulously prepared and clear though brief. In performing this function the commentator stands in an appropriate place facing the faithful, but not at the ambo.
 - **UK 2010:** c.
 
 - **VA 2003:** collection
@@ -6056,11 +5873,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** proper planning
 - **UK 2010:** appropriate arrangement
 
-- **VA 2003:** —
-- **UK 2010:** to
-
 - **VA 2003:** the
-- **UK 2010:** —
+- **UK 2010:** to
 
 - **VA 2003:** order,
 - **UK 2010:** order
@@ -6280,7 +6094,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** Conventual
 
 - **VA 2003:** community Mass, has a particular place.
-- **UK 2010:** "community" Mass.
+- **UK 2010:** ’community’ Mass.
 
 - **VA 2003:** have a
 - **UK 2010:** involve any
@@ -6351,7 +6165,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 
 #### Translation (VA 2003 vs UK/US 2010)
-- **VA 2003:** a congregation"
+- **VA 2003:** a congregation”
 - **UK 2010:** the people
 
 - **VA 2003:** It
@@ -6440,12 +6254,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** the altar,
 - **UK 2010:** it,
 
-- **VA 2003:** —
-- **UK 2010:** adorned
-
-- **VA 2003:** adorned
-- **UK 2010:** —
-
 - **VA 2003:** a
 - **UK 2010:** the
 
@@ -6484,13 +6292,13 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** Next
 - **UK 2010:** a. next
 
-- **VA 2003:** priest"s
-- **UK 2010:** Priest"s
+- **VA 2003:** priest’s
+- **UK 2010:** Priest’s
 
 - **VA 2003:** as needed,
 - **UK 2010:** if appropriate,
 
-- **VA 2003:** Next to the priest"s chair: the Missal and, as needed, a hymnal; At
+- **VA 2003:** Next to the priest’s chair: the Missal and, as needed, a hymnal; At
 - **UK 2010:** b. at
 
 - **VA 2003:** At the ambo: the Lectionary; On
@@ -6814,11 +6622,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 ### §125
 
 #### Translation (VA 2003 vs UK/US 2010)
-- **VA 2003:** —
-- **UK 2010:** Penitential
-
 - **VA 2003:** of Penitence
-- **UK 2010:** —
+- **UK 2010:** Penitential
 
 - **VA 2003:** Afterwards,
 - **UK 2010:** After this,
@@ -7088,11 +6893,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** priest
 - **UK 2010:** Priest
 
-- **VA 2003:** —
-- **UK 2010:** being
-
 - **VA 2003:** remaining at the ambo
-- **UK 2010:** —
+- **UK 2010:** being
 
 - **VA 2003:** —
 - **UK 2010:** incense
@@ -7206,11 +7008,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 ### §139
 
 #### Translation (VA 2003 vs UK/US 2010)
-- **VA 2003:** —
-- **UK 2010:** Universal
-
 - **VA 2003:** of the Faithful
-- **UK 2010:** —
+- **UK 2010:** Universal
 
 - **VA 2003:** completed,
 - **UK 2010:** over,
@@ -7231,7 +7030,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** appropriate for
 - **UK 2010:** desirable that
 
-- **VA 2003:** faithful"s
+- **VA 2003:** faithful’s
 - **UK 2010:** —
 
 - **VA 2003:** to
@@ -7704,11 +7503,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** priest
 - **UK 2010:** Priest
 
-- **VA 2003:** —
-- **UK 2010:** pronouncing
-
 - **VA 2003:** singing or saying
-- **UK 2010:** —
+- **UK 2010:** pronouncing
 
 - **VA 2003:** doxology, Per ipsum (Through him).
 - **UK 2010:** doxology Through him.
@@ -7901,12 +7697,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 #### Translation (VA 2003 vs UK/US 2010)
 - **VA 2003:** priest,
 - **UK 2010:** Priest,
-
-- **VA 2003:** —
-- **UK 2010:** says
-
-- **VA 2003:** says
-- **UK 2010:** —
 
 - **VA 2003:** preparatory
 - **UK 2010:** —
@@ -8503,11 +8293,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** himself
 - **UK 2010:** himself,
 
-- **VA 2003:** —
-- **UK 2010:** necessary, when
-
 - **VA 2003:** As needed, fulfills the duties of other ministers himself if none of them is present. *The Introductory Rites*
-- **UK 2010:** —
+- **UK 2010:** necessary, when
 
 
 #### Formatting (italics)
@@ -8522,8 +8309,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** priest
 - **UK 2010:** Priest
 
-- **VA 2003:** priest"s
-- **UK 2010:** Priest"s
+- **VA 2003:** priest’s
+- **UK 2010:** Priest’s
 
 
 ### §173
@@ -8574,11 +8361,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** —
 - **UK 2010:** stands
 
-- **VA 2003:** —
-- **UK 2010:** Priest"s
-
 - **VA 2003:** of the priest
-- **UK 2010:** —
+- **UK 2010:** Priest’s
 
 - **VA 2003:** *The Liturgy of the Word*
 - **UK 2010:** —
@@ -8626,11 +8410,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** thurifer,
 - **UK 2010:** thurifer
 
-- **VA 2003:** —
-- **UK 2010:** smoking
-
 - **VA 2003:** with smoking incense,
-- **UK 2010:** —
+- **UK 2010:** smoking
 
 - **VA 2003:** servers
 - **UK 2010:** ministers
@@ -8686,8 +8467,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** (May
 - **UK 2010:** (Through
 
-- **VA 2003:** priest"s
-- **UK 2010:** Priest"s
+- **VA 2003:** priest’s
+- **UK 2010:** Priest’s
 
 - **VA 2003:** deacon
 - **UK 2010:** Deacon
@@ -8767,8 +8548,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** deacon
 - **UK 2010:** Deacon
 
-- **VA 2003:** deacon"s
-- **UK 2010:** Deacon"s
+- **VA 2003:** deacon’s
+- **UK 2010:** Deacon’s
 
 - **VA 2003:** priest
 - **UK 2010:** Priest
@@ -8944,8 +8725,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 ### §182
 
 #### Translation (VA 2003 vs UK/US 2010)
-- **VA 2003:** priest"s
-- **UK 2010:** Priest"s
+- **VA 2003:** priest’s
+- **UK 2010:** Priest’s
 
 - **VA 2003:** deacon
 - **UK 2010:** Deacon
@@ -9064,11 +8845,11 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** Inclinate vos ad benedictionem (Bow your heads and pray
 - **UK 2010:** Bow down
 
-- **VA 2003:** God"s blessing).
+- **VA 2003:** God’s blessing).
 - **UK 2010:** the blessing.
 
-- **VA 2003:** priest"s
-- **UK 2010:** Priest"s
+- **VA 2003:** priest’s
+- **UK 2010:** Priest’s
 
 - **VA 2003:** deacon,
 - **UK 2010:** Deacon,
@@ -9154,11 +8935,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 
 #### Translation (VA 2003 vs UK/US 2010)
-- **VA 2003:** —
-- **UK 2010:** it is for
-
 - **VA 2003:** is
-- **UK 2010:** —
+- **UK 2010:** it is for
 
 - **VA 2003:** priest
 - **UK 2010:** Priest
@@ -9170,9 +8948,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** appropriate that,
 
 - **VA 2003:** that
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** should
 
 - **VA 2003:** conveniently
@@ -9191,11 +8966,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** If no deacon is present,
 - **UK 2010:** In the absence of a Deacon,
 
-- **VA 2003:** —
-- **UK 2010:** Universal
-
 - **VA 2003:** of the Faithful is concluded
-- **UK 2010:** —
+- **UK 2010:** Universal
 
 - **VA 2003:** priest
 - **UK 2010:** Priest
@@ -9270,11 +9042,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 
 #### Translation (VA 2003 vs UK/US 2010)
-- **VA 2003:** —
-- **UK 2010:** together with the Deacon and the Priest
-
 - **VA 2003:** together with the deacon and the priest
-- **UK 2010:** —
+- **UK 2010:** together with the Deacon and the Priest
 
 - **VA 2003:** way
 - **UK 2010:** manner
@@ -9365,9 +9134,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** Priest,
 
 - **VA 2003:** from the ambo
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** Universal
 
 - **VA 2003:** of
@@ -9413,11 +9179,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 
 #### Translation (VA 2003 vs UK/US 2010)
-- **VA 2003:** —
-- **UK 2010:** by
-
 - **VA 2003:** appropriately expresses
-- **UK 2010:** —
+- **UK 2010:** by
 
 - **VA 2003:** priesthood,
 - **UK 2010:** Priesthood,
@@ -9446,7 +9209,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** The Evening Mass of
 - **UK 2010:** b.
 
-- **VA 2003:** Lord"s Supper; The
+- **VA 2003:** Lord’s Supper; The
 - **UK 2010:** —
 
 - **VA 2003:** meetings
@@ -9474,9 +9237,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** However, on
 
 - **VA 2003:** however,
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** the
 
 - **VA 2003:** —
@@ -9597,7 +9357,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** Thursday
 - **UK 2010:** Week
 
-- **VA 2003:** A priest who has celebrated or concelebrated the Chrism Mass on Holy Thursday may also celebrate or concelebrate the Evening Mass of the Lord"s Supper; A priest
+- **VA 2003:** A priest who has celebrated or concelebrated the Chrism Mass on Holy Thursday may also celebrate or concelebrate the Evening Mass of the Lord’s Supper; A priest
 - **UK 2010:** b. a Priest
 
 - **VA 2003:** A priest who has celebrated or concelebrated the Mass of the Easter Vigil may celebrate or concelebrate Mass during the day
@@ -9618,7 +9378,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** that the norms established
 - **UK 2010:** with due regard for what has been laid down
 
-- **VA 2003:** Masses are observed; On the Commemoration of All the Faithful Departed (All Souls" Day), all priests may celebrate or concelebrate three Masses, provided that the celebrations take place at different times, and that the norms established regarding the application of second and third Masses are observed; A priest
+- **VA 2003:** Masses are observed; On the Commemoration of All the Faithful Departed (All Souls’ Day), all priests may celebrate or concelebrate three Masses, provided that the celebrations take place at different times, and that the norms established regarding the application of second and third Masses are observed; A priest
 - **UK 2010:** Masses; e. a Priest
 
 - **VA 2003:** meeting
@@ -9831,7 +9591,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** not be in
 - **UK 2010:** they obstruct
 
-- **VA 2003:** deacon"s way
+- **VA 2003:** deacon’s way
 - **UK 2010:** Deacon
 
 - **VA 2003:** go to
@@ -9954,11 +9714,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 ### §220
 
 #### Translation (VA 2003 vs UK/US 2010)
-- **VA 2003:** —
-- **UK 2010:** (Memento)
-
 - **VA 2003:** (the Memento)
-- **UK 2010:** —
+- **UK 2010:** (Memento)
 
 - **VA 2003:** union
 - **UK 2010:** communion
@@ -9990,9 +9747,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** (Therefore, Lord, we pray)
 
 - **VA 2003:** likewise
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** once again
 
 
@@ -10125,12 +9879,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 #### Translation (VA 2003 vs UK/US 2010)
 - **VA 2003:** The
 - **UK 2010:** It is appropriate that the
-
-- **VA 2003:** —
-- **UK 2010:** (Memento)
-
-- **VA 2003:** (Memento)
-- **UK 2010:** —
 
 - **VA 2003:** (Though we are sinners) are appropriately
 - **UK 2010:** (To us, also, your servants) be
@@ -10623,7 +10371,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** Next,
 
 - **VA 2003:** prayer
-- **UK 2010:** Lord"s Prayer
+- **UK 2010:** Lord’s Prayer
 
 - **VA 2003:** extended
 - **UK 2010:** extended,
@@ -10889,9 +10637,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** b.
 
 - **VA 2003:** normally
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** as usual
 
 - **VA 2003:** principal celebrant normally consumes the Blood of the Lord standing at the middle of the altar. The concelebrants may,
@@ -10907,9 +10652,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** even
 
 - **VA 2003:** communicating,
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** has communicated, he
 
 
@@ -10945,9 +10687,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** in such a way
 
 - **VA 2003:** concelebrant
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** from
 
 - **VA 2003:** —
@@ -11064,12 +10803,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 
 #### Translation (VA 2003 vs UK/US 2010)
-- **VA 2003:** —
-- **UK 2010:** until the end of Mass
-
-- **VA 2003:** until the end of Mass
-- **UK 2010:** —
-
 - **VA 2003:** 166-168), while
 - **UK 2010:** 166–168), with
 
@@ -11218,11 +10951,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 ### §258
 
 #### Translation (VA 2003 vs UK/US 2010)
-- **VA 2003:** —
-- **UK 2010:** Penitential
-
 - **VA 2003:** of Penitence
-- **UK 2010:** —
+- **UK 2010:** Penitential
 
 - **VA 2003:** if required by
 - **UK 2010:** in accordance with
@@ -11356,11 +11086,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 ### §264
 
 #### Translation (VA 2003 vs UK/US 2010)
-- **VA 2003:** —
-- **UK 2010:** Universal
-
 - **VA 2003:** of the Faithful
-- **UK 2010:** —
+- **UK 2010:** Universal
 
 - **VA 2003:** priest
 - **UK 2010:** Priest
@@ -11514,11 +11241,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** priest
 - **UK 2010:** Priest
 
-- **VA 2003:** —
-- **UK 2010:** be arranged once
-
 - **VA 2003:** be placed
-- **UK 2010:** —
+- **UK 2010:** be arranged once
 
 - **VA 2003:** altar
 - **UK 2010:** altar,
@@ -11609,11 +11333,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** Where, however,
 - **UK 2010:** However, where
 
-- **VA 2003:** —
-- **UK 2010:** The Different Forms of Celebrating Mass
-
 - **VA 2003:** *Genuflections and Bows*
-- **UK 2010:** —
+- **UK 2010:** The Different Forms of Celebrating Mass
 
 
 #### Formatting (italics)
@@ -11921,9 +11642,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** consumed
 
 - **VA 2003:** usually
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** as usual
 
 - **VA 2003:** must
@@ -11955,7 +11673,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** relationship
 - **UK 2010:** connection
 
-- **VA 2003:** Father"s Kingdom.
+- **VA 2003:** Father’s Kingdom.
 - **UK 2010:** Kingdom of the Father.
 
 
@@ -12081,7 +11799,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** who are
 - **UK 2010:** those
 
-- **VA 2003:** are taking part in a spiritual or pastoral gathering. Members of communities at the conventual Mass or "community" Mass, along with seminarians, and all who are engaged in a retreat or are
+- **VA 2003:** are taking part in a spiritual or pastoral gathering. Members of communities at the conventual Mass or “community” Mass, along with seminarians, and all who are engaged in a retreat or are
 - **UK 2010:** —
 
 - **VA 2003:** diocesan
@@ -12097,9 +11815,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** whom a community has been entrusted
 
 - **VA 2003:** a community has been entrusted,
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** that
 
 - **VA 2003:** —
@@ -12193,19 +11908,16 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** carried out
 - **UK 2010:** done
 
-- **VA 2003:** communicants"
+- **VA 2003:** communicants’
 - **UK 2010:** —
 
 - **VA 2003:** Care should, however,
 - **UK 2010:** However, care should
 
 - **VA 2003:** in planning
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** b.
 
-- **VA 2003:** carried out by communicants" drinking directly from the chalice, a chalice of a sufficiently large size or several chalices are prepared. Care should, however, be taken in planning lest beyond what is needed of the Blood of Christ remains to be consumed at the end of the celebration. If Communion is carried out
+- **VA 2003:** carried out by communicants’ drinking directly from the chalice, a chalice of a sufficiently large size or several chalices are prepared. Care should, however, be taken in planning lest beyond what is needed of the Blood of Christ remains to be consumed at the end of the celebration. If Communion is carried out
 - **UK 2010:** done
 
 - **VA 2003:** dipped
@@ -12314,12 +12026,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** people
 - **UK 2010:** People
 
-- **VA 2003:** —
-- **UK 2010:** are
-
-- **VA 2003:** are
-- **UK 2010:** —
-
 - **VA 2003:** Churches, therefore, and
 - **UK 2010:** Therefore, churches or
 
@@ -12389,7 +12095,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** Church decor
 - **UK 2010:** The ornamentation of a church
 
-- **VA 2003:** the church"s
+- **VA 2003:** the church’s
 - **UK 2010:** its
 
 - **VA 2003:** —
@@ -12428,11 +12134,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** meets contemporary
 - **UK 2010:** the
 
-- **VA 2003:** —
-- **UK 2010:** of our own age
-
 - **VA 2003:** attention
-- **UK 2010:** —
+- **UK 2010:** of our own age
 
 - **VA 2003:** to the elements related
 - **UK 2010:** that care be taken as regards whatever pertains
@@ -12556,19 +12259,13 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** functions.
 
 - **VA 2003:** suitably
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** appropriately
 
 - **VA 2003:** however,
 - **UK 2010:** moreover,
 
-- **VA 2003:** —
-- **UK 2010:** easily
-
 - **VA 2003:** properly
-- **UK 2010:** —
+- **UK 2010:** easily
 
 - **VA 2003:** easily
 - **UK 2010:** —
@@ -12595,11 +12292,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** altar
 - **UK 2010:** altar,
 
-- **VA 2003:** —
-- **UK 2010:** is effected
-
 - **VA 2003:** is
-- **UK 2010:** —
+- **UK 2010:** is effected
 
 - **VA 2003:** signs
 - **UK 2010:** signs,
@@ -12659,7 +12353,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** 2:20).
 - **UK 2010:** 2: 20).
 
-- **VA 2003:** called "fixed"
+- **VA 2003:** called “fixed”
 - **UK 2010:** said to be fixed
 
 - **VA 2003:** —
@@ -12674,7 +12368,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** removeable; otherwise
 - **UK 2010:** movable if
 
-- **VA 2003:** is called "moveable."
+- **VA 2003:** is called “moveable.”
 - **UK 2010:** can be displaced.
 
 
@@ -12701,11 +12395,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** is
 - **UK 2010:** should
 
-- **VA 2003:** —
-- **UK 2010:** be
-
 - **VA 2003:** is
-- **UK 2010:** —
+- **UK 2010:** be
 
 
 ### §300
@@ -12758,7 +12449,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** —
 - **UK 2010:** with what
 
-- **VA 2003:** altar"s symbolism,
+- **VA 2003:** altar’s symbolism,
 - **UK 2010:** altar signifies,
 
 - **VA 2003:** is to
@@ -12829,12 +12520,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** which
 - **UK 2010:** to be erected, one that
 
-- **VA 2003:** —
-- **UK 2010:** so
-
-- **VA 2003:** so
-- **UK 2010:** —
-
 - **VA 2003:** its
 - **UK 2010:** —
 
@@ -12874,9 +12559,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** —
 
 - **VA 2003:** there should be
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** cloth,
 
 - **VA 2003:** cloth, its
@@ -12941,8 +12623,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** microphones that
 - **UK 2010:** arranged discreetly, there should be whatever
 
-- **VA 2003:** priest"s voice should be arranged discreetly.
-- **UK 2010:** Priest"s voice.
+- **VA 2003:** priest’s voice should be arranged discreetly.
+- **UK 2010:** Priest’s voice.
 
 
 #### Formatting (italics)
@@ -12984,7 +12666,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** —
 - **UK 2010:** the faithful may
 
-- **VA 2003:** interfere with the faithful"s
+- **VA 2003:** interfere with the faithful’s
 - **UK 2010:** be impeded from a
 
 - **VA 2003:** on
@@ -13038,9 +12720,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** from which it may be proclaimed
 
 - **VA 2003:** of the whole congregation
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** generally
 
 - **VA 2003:** ordinarily
@@ -13052,11 +12731,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** responsorial
 - **UK 2010:** Responsorial
 
-- **VA 2003:** —
-- **UK 2010:** likewise
-
 - **VA 2003:** also
-- **UK 2010:** —
+- **UK 2010:** likewise
 
 - **VA 2003:** homily
 - **UK 2010:** Homily
@@ -13181,12 +12857,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 
 #### Translation (VA 2003 vs UK/US 2010)
-- **VA 2003:** —
-- **UK 2010:** for the faithful
-
-- **VA 2003:** for the faithful
-- **UK 2010:** —
-
 - **VA 2003:** celebrations visually
 - **UK 2010:** celebrations, duly following them with their eyes
 
@@ -13214,11 +12884,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** chairs
 - **UK 2010:** seating
 
-- **VA 2003:** —
-- **UK 2010:** so
-
 - **VA 2003:** in such a way
-- **UK 2010:** —
+- **UK 2010:** so
 
 - **VA 2003:** people
 - **UK 2010:** faithful
@@ -13328,7 +12995,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** that is consistent with
 - **UK 2010:** suited to
 
-- **VA 2003:** season"s
+- **VA 2003:** season’s
 - **UK 2010:** —
 
 - **VA 2003:** and does not anticipate
@@ -13358,9 +13025,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** conspicuous, worthily
 
 - **VA 2003:** one
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** usually
 
 - **VA 2003:** immovable,
@@ -13420,10 +13084,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** Either in the sanctuary, apart from the altar of celebration, in a form and place more appropriate, not excluding on an old altar no longer used for celebration (cf. no. 303); Or
 - **UK 2010:** b. or
 
-- **VA 2003:** faithful"s
-- **UK 2010:** —
-
-- **VA 2003:** —
+- **VA 2003:** faithful’s
 - **UK 2010:** of the faithful
 
 - **VA 2003:** visible to
@@ -13432,7 +13093,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** Or even in some chapel suitable
 - **UK 2010:** Cf. Sacred Congregation of Rites, Instruction, Musicam sacram, 5 March 1967, no. 23: Acta Apostolicae Sedis 59 (1967), p. 307. Cf. Rituale Romanum, De Benedictionibus, editio typica, 1984, Ordo benedictionis organi, nos. 1052-1067. Cf. Sacred Congregation of Rites, Instruction, Eucharisticum mysterium, 25 May 1967, no. 54: Acta Apostolicae Sedis 59 (1967), p. 568; cf. also Instruction, Inter Oecumenici, 26 September 1964, no. 95: Acta Apostolicae Sedis 56 (1964), p. 898. Cf. Sacred Congregation of Rites, Instruction, Eucharisticum mysterium, 25 May 1967. no. 52: Acta Apostolicae Sedis 59 (1967), p. 568; Sacred Congregation of Rites, Instruction, Inter Oecumenici, 26 September 1964, no. 95: Acta Apostolicae Sedis 56 (1964), p. 898; Sacred Congregation
 
-- **VA 2003:** faithful"s private adoration and prayer and organically connected to the church and readily visible to the Christian faithful.
+- **VA 2003:** faithful’s private adoration and prayer and organically connected to the church and readily visible to the Christian faithful.
 - **UK 2010:** Sacraments, Instruction, Nullo umquam tempore, 28 May 1938, no. 4: Acta Apostolicae Sedis 30 (1938), pp. 199200; Rituale Romanum, De sacra Communione et de cultu mysterii eucharistici extra Missam, editio typica, 1973, nos. 10-11; Code of Canon Law, can. 938 § 3 Cf. Rituale Romanum, De Benedictionibus, editio typica, 1984, Ordo benedictionis occasione data auspicandi novum tabernaculum eucharisticum, nos. 919-929. Cf. Sacred Congregation of Rites, Instruction, Eucharisticum mysterium, 25 May 1967, no. 55: Acta Apostolicae Sedis 59 (1967), p. 569. Cf. Sacred Congregation of Rites, Instruction, Eucharisticum mysterium, 25 May 1967, no. 53: Acta Apostolicae Sedis 59 (1967), p. 568; Rituale Romanum, De sacra Communione et de cultu mysterii eucharistici extra Missam, editio typica, 1973, no. 9; Code of Canon Law, can. 938 §2; John Paul II, Apostolic Letter, Dominicae Cenae, 24 February 1980, no. 3: Acta Apostolicae Sedis (1980), pp. 117-119.
 
 
@@ -13496,19 +13157,13 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** —
 - **UK 2010:** of
 
-- **VA 2003:** —
+- **VA 2003:** the Church’s
 - **UK 2010:** of
-
-- **VA 2003:** the Church"s
-- **UK 2010:** —
 
 - **VA 2003:** tradition,
 - **UK 2010:** tradition of the Church,
 
 - **VA 2003:** in sacred buildings
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** so
 
 - **VA 2003:** usher
@@ -13523,10 +13178,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** distract
 - **UK 2010:** draw
 
-- **VA 2003:** faithful"s
-- **UK 2010:** —
-
-- **VA 2003:** —
+- **VA 2003:** faithful’s
 - **UK 2010:** of the faithful to themselves and away
 
 - **VA 2003:** church
@@ -13590,11 +13242,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** a congregation
 - **UK 2010:** the people
 
-- **VA 2003:** —
-- **UK 2010:** truly
-
 - **VA 2003:** in practice
-- **UK 2010:** —
+- **UK 2010:** truly
 
 - **VA 2003:** for distribution
 - **UK 2010:** and distribute these
@@ -13630,9 +13279,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 #### Translation (VA 2003 vs UK/US 2010)
 - **VA 2003:** Eucharistic
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** of the Eucharist
 
 - **VA 2003:** grapevine
@@ -13775,9 +13421,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** should
 
 - **VA 2003:** then ordinarily
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** generally
 
 
@@ -13888,11 +13531,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** may
 - **UK 2010:** to
 
-- **VA 2003:** —
-- **UK 2010:** particularly
-
 - **VA 2003:** each vessel is suited to
-- **UK 2010:** —
+- **UK 2010:** particularly
 
 - **VA 2003:** —
 - **UK 2010:** individual vessels are suitable for their
@@ -13920,11 +13560,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** is to
 - **UK 2010:** should
 
-- **VA 2003:** —
-- **UK 2010:** in the sacristy
-
 - **VA 2003:** in the sacristy,
-- **UK 2010:** —
+- **UK 2010:** in the sacristy
 
 - **VA 2003:** purification
 - **UK 2010:** washing
@@ -13945,12 +13582,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 - **VA 2003:** variety
 - **UK 2010:** diversity
-
-- **VA 2003:** —
-- **UK 2010:** is shown outwardly
-
-- **VA 2003:** is shown outwardly
-- **UK 2010:** —
 
 - **VA 2003:** should
 - **UK 2010:** must
@@ -14292,9 +13923,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** observed, namely: a. The colour white
 
 - **VA 2003:** the
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** Time
 
 - **VA 2003:** seasons; also
@@ -14334,12 +13962,12 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** Friday of Holy Week,
 
 - **VA 2003:** feasts
-- **UK 2010:** "birthday" feast days
+- **UK 2010:** ’birthday’ feast days
 
 - **VA 2003:** the
 - **UK 2010:** —
 
-- **VA 2003:** Red is used on Palm Sunday of the Lord"s Passion and on Good Friday, on Pentecost Sunday, on celebrations of the Lord"s Passion, on the feasts of the Apostles and Evangelists, and on celebrations of Martyr Saints. Green
+- **VA 2003:** Red is used on Palm Sunday of the Lord’s Passion and on Good Friday, on Pentecost Sunday, on celebrations of the Lord’s Passion, on the feasts of the Apostles and Evangelists, and on celebrations of Martyr Saints. Green
 - **UK 2010:** c. The colour green
 
 - **VA 2003:** Green is used in the Offices and Masses of Ordinary Time. Violet
@@ -14366,11 +13994,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** Rose may be used, where it is the practice, on Gaudete Sunday (Third Sunday of Advent) and on Laetare Sunday (Fourth Sunday of Lent).
 - **UK 2010:** g.
 
-- **VA 2003:** —
-- **UK 2010:** festive, that is, more precious,
-
 - **VA 2003:** that are festive, that is, more precious,
-- **UK 2010:** —
+- **UK 2010:** festive, that is, more precious,
 
 - **VA 2003:** color
 - **UK 2010:** colour
@@ -14794,12 +14419,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** optional memorials,
 - **UK 2010:** Optional Memorials: a.
 
-- **VA 2003:** —
-- **UK 2010:** 17
-
-- **VA 2003:** 17
-- **UK 2010:** —
-
 - **VA 2003:** December 24,
 - **UK 2010:** 24 December,
 
@@ -14869,11 +14488,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** listed
 - **UK 2010:** inscribed
 
-- **VA 2003:** —
-- **UK 2010:** c.
-
 - **VA 2003:** the
-- **UK 2010:** —
+- **UK 2010:** c.
 
 - **VA 2003:** of Advent before December 17, the weekdays of the Christmas Season from January 2, and the weekdays of the Easter Season, it is possible to choose
 - **UK 2010:** in Ordinary Time, there may be chosen
@@ -14896,17 +14512,11 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** priest
 - **UK 2010:** people, the Priest
 
-- **VA 2003:** —
+- **VA 2003:** for
 - **UK 2010:** too frequently and without sufficient reason
 
-- **VA 2003:** for
-- **UK 2010:** —
-
-- **VA 2003:** —
-- **UK 2010:** to the weekdays,
-
 - **VA 2003:** weekdays too frequently and without sufficient reason, since
-- **UK 2010:** —
+- **UK 2010:** to the weekdays,
 
 - **VA 2003:** word
 - **UK 2010:** Word should
@@ -14977,9 +14587,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** for
 
 - **VA 2003:** following
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** that follow
 
 - **VA 2003:** *The Readings*
@@ -15089,7 +14696,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** priest, taking into consideration
 - **UK 2010:** Priest shall be permitted, bearing in mind the scheme of readings for
 
-- **VA 2003:** week"s scheme of readings, is allowed
+- **VA 2003:** week’s scheme of readings, is allowed
 - **UK 2010:** week,
 
 - **VA 2003:** preferred
@@ -15111,11 +14718,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 ### §359
 
 #### Translation (VA 2003 vs UK/US 2010)
-- **VA 2003:** —
-- **UK 2010:** in
-
 - **VA 2003:** has
-- **UK 2010:** —
+- **UK 2010:** in
 
 - **VA 2003:** —
 - **UK 2010:** is given
@@ -15350,9 +14954,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** numerous Prefaces with which
 
 - **VA 2003:** many prefaces that enrich The
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** endowed have as their purpose
 
 
@@ -15405,12 +15006,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 - **VA 2003:** —
 - **UK 2010:** Missale Romanum, Ordo lectionum Missae, editio typica altera, 1981, Praenotanda, no. 80 Ibidem, no. 81.
-
-- **VA 2003:** —
-- **UK 2010:** likewise
-
-- **VA 2003:** likewise
-- **UK 2010:** —
 
 - **VA 2003:** appropriate
 - **UK 2010:** suited
@@ -15552,11 +15147,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** paschal mystery,
 - **UK 2010:** Paschal Mystery,
 
-- **VA 2003:** —
-- **UK 2010:** examples of Mass
-
 - **VA 2003:** for Masses
-- **UK 2010:** —
+- **UK 2010:** examples of Mass
 
 - **VA 2003:** circumstances
 - **UK 2010:** occasions
@@ -15635,22 +15227,22 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **US:** —
 
 - **UK:** competent authority
-- **US:** Mass "For Giving Thanks to God
+- **US:** Mass “For Giving Thanks to God
 
 - **UK:** special days
 - **US:** the Gift
 
 - **UK:** prayer in the course
-- **US:** Human Life" (no. 48/1
+- **US:** Human Life” (no. 48/1
 
 - **UK:** year that are established by
 - **US:** Masses and Prayers for Various Needs and Occasions), celebrated with white vestments, or
 
 - **UK:** Conference
-- **US:** Mass "For the Preservation
+- **US:** Mass “For the Preservation
 
 - **UK:** Bishops.
-- **US:** Peace and Justice" (no. 30 of the Masses and Prayers for Various Needs and Occasions), cele-brated with violet vestments.
+- **US:** Peace and Justice” (no. 30 of the Masses and Prayers for Various Needs and Occasions), cele-brated with violet vestments.
 
 
 #### Translation (VA 2003 vs UK/US 2010)
@@ -15678,7 +15270,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** diocesan Bishop. In all the dioceses
 - **UK 2010:** Conference
 
-- **VA 2003:** the United States of America, January 22 (or January 23, when January 22 falls on a Sunday) shall be observed as a particular day of penance for violations to the dignity of the human person committed through acts of abortion, and of prayer for the full restoration of the legal guarantee of the right to life. The Mass "For Peace and Justice" (no. 22 of the "Masses for Various Needs") should be celebrated with violet vestments as an appropriate liturgical observance for this day.
+- **VA 2003:** the United States of America, January 22 (or January 23, when January 22 falls on a Sunday) shall be observed as a particular day of penance for violations to the dignity of the human person committed through acts of abortion, and of prayer for the full restoration of the legal guarantee of the right to life. The Mass “For Peace and Justice” (no. 22 of the “Masses for Various Needs”) should be celebrated with violet vestments as an appropriate liturgical observance for this day.
 - **UK 2010:** Bishops.
 
 
@@ -15735,7 +15327,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** sake
 - **UK 2010:** devotion
 
-- **VA 2003:** faithful"s devotion
+- **VA 2003:** faithful’s devotion
 - **UK 2010:** faithful
 
 - **VA 2003:** optional memorial
@@ -15836,9 +15428,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** prayer
 
 - **VA 2003:** various circumstances, though not from
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** same, but to the exclusion of
 
 
@@ -15854,9 +15443,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** Particularly recommended
 
 - **VA 2003:** especially recommended to celebrate
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** Saturday
 
 - **VA 2003:** Mary on Saturday,
@@ -15980,7 +15566,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** those
 
 - **VA 2003:** deceased,
-- **UK 2010:** deceased"s family,
+- **UK 2010:** deceased’s family,
 
 - **VA 2003:** person
 - **UK 2010:** person,
@@ -16014,7 +15600,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK:** nonCatholics
 - **US:** non-Catholics
 
-- **UK:** Cf. Second Ecumenical Council of the Vatican, Dogmatic Constitution on the Church, Lumen gentium, no. 54; Paul VI, Apostolic Exhortation, Marialis cultus, 2 February 1974, no. 9: Acta Apostolicae Sedis 66 (1974), pp. 122-123 146 Cf. particularly Code of Canon Law, cann. 1176-1185; Rituale Romanum, Ordo Exsequiarum, editio typica, 1969. Chapter Ix Adaptations within the Competence of Bishops and Bishops" Conferences
+- **UK:** Cf. Second Ecumenical Council of the Vatican, Dogmatic Constitution on the Church, Lumen gentium, no. 54; Paul VI, Apostolic Exhortation, Marialis cultus, 2 February 1974, no. 9: Acta Apostolicae Sedis 66 (1974), pp. 122-123 146 Cf. particularly Code of Canon Law, cann. 1176-1185; Rituale Romanum, Ordo Exsequiarum, editio typica, 1969. Chapter Ix Adaptations within the Competence of Bishops and Bishops’ Conferences
 - **US:** —
 
 
@@ -16079,9 +15665,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** display
 
 - **VA 2003:** with
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** very
 
 - **VA 2003:** itself
@@ -16105,7 +15688,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** diocesan
 - **UK 2010:** Diocesan
 
-- **VA 2003:** Bishops" Conferences.
+- **VA 2003:** Bishops’ Conferences.
 - **UK 2010:** Conferences of Bishops.
 
 
@@ -16400,11 +15983,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK:** —
 - **US:** Secretariat of Divine Worship of the United States
 
-- **UK:** —
-- **US:** Catholic
-
 - **UK:** of England and Wales
-- **US:** —
+- **US:** Catholic
 
 - **UK:** Likewise it
 - **US:** While the organ
@@ -16430,18 +16010,12 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** Ordinary of Mass,
 
 - **VA 2003:** in the Order of Mass
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** the
 
 - **VA 2003:** Secretariat for the Liturgy of the United States
 - **UK 2010:** —
 
 - **VA 2003:** Catholic
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** of England and Wales
 
 - **VA 2003:** While
@@ -16475,15 +16049,12 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 ### §394
 
 #### Wording (UK vs US)
-- **UK:** Cf. Second Ecumenical Council of the Vatican, Constitution on the Sacred Liturgy, Sacrosanctum Concilium, no. 24. Cf. ibidem, no. 36 § 3. Cf. ibidem, no. 112. Cf. Universal Norms on the Liturgical Year and the Calendar, nos. 48-51, infra, p. 99; Sacred Congregation for Divine Worship, Instruction, Calendaria particularia, 24 June 1970, nos. 4, 8: Acta Apostolicae Sedis 62 (1970), pp. 652-653. 154 Cf. Second Ecumenical Council of the Vatican, Constitution on the Sacred Liturgy, Sacrosanctum Concilium, no. 106. Adaptations within the Competence of Bishops and Bishops" Conferences
+- **UK:** Cf. Second Ecumenical Council of the Vatican, Constitution on the Sacred Liturgy, Sacrosanctum Concilium, no. 24. Cf. ibidem, no. 36 § 3. Cf. ibidem, no. 112. Cf. Universal Norms on the Liturgical Year and the Calendar, nos. 48-51, infra, p. 99; Sacred Congregation for Divine Worship, Instruction, Calendaria particularia, 24 June 1970, nos. 4, 8: Acta Apostolicae Sedis 62 (1970), pp. 652-653. 154 Cf. Second Ecumenical Council of the Vatican, Constitution on the Sacred Liturgy, Sacrosanctum Concilium, no. 106. Adaptations within the Competence of Bishops and Bishops’ Conferences
 - **US:** —
 
 
 #### Translation (VA 2003 vs UK/US 2010)
-- **VA 2003:** Bishops"
-- **UK 2010:** —
-
-- **VA 2003:** —
+- **VA 2003:** Bishops’
 - **UK 2010:** of Bishops
 
 - **VA 2003:** calendar
@@ -16505,7 +16076,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** are
 
 - **VA 2003:** —
-- **UK 2010:** Cf. Second Ecumenical Council of the Vatican, Constitution on the Sacred Liturgy, Sacrosanctum Concilium, no. 24. Cf. ibidem, no. 36 § 3. Cf. ibidem, no. 112. Cf. Universal Norms on the Liturgical Year and the Calendar, nos. 48-51, infra, p. 99; Sacred Congregation for Divine Worship, Instruction, Calendaria particularia, 24 June 1970, nos. 4, 8: Acta Apostolicae Sedis 62 (1970), pp. 652-653. 154 Cf. Second Ecumenical Council of the Vatican, Constitution on the Sacred Liturgy, Sacrosanctum Concilium, no. 106. Adaptations within the Competence of Bishops and Bishops" Conferences
+- **UK 2010:** Cf. Second Ecumenical Council of the Vatican, Constitution on the Sacred Liturgy, Sacrosanctum Concilium, no. 24. Cf. ibidem, no. 36 § 3. Cf. ibidem, no. 112. Cf. Universal Norms on the Liturgical Year and the Calendar, nos. 48-51, infra, p. 99; Sacred Congregation for Divine Worship, Instruction, Calendaria particularia, 24 June 1970, nos. 4, 8: Acta Apostolicae Sedis 62 (1970), pp. 652-653. 154 Cf. Second Ecumenical Council of the Vatican, Constitution on the Sacred Liturgy, Sacrosanctum Concilium, no. 106. Adaptations within the Competence of Bishops and Bishops’ Conferences
 
 - **VA 2003:** calendar
 - **UK 2010:** Calendar
@@ -16541,25 +16112,19 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** for
 
 - **VA 2003:** respond
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** correspond with
 
 - **VA 2003:** peoples,
 - **UK 2010:** nations,
 
-- **VA 2003:** Bishops"
-- **UK 2010:** —
-
-- **VA 2003:** —
+- **VA 2003:** Bishops’
 - **UK 2010:** of Bishops
 
 - **VA 2003:** such
 - **UK 2010:** these
 
-- **VA 2003:** latter"s
-- **UK 2010:** Apostolic See"s
+- **VA 2003:** latter’s
+- **UK 2010:** Apostolic See’s
 
 - **VA 2003:** peoples
 - **UK 2010:** nations
@@ -16588,10 +16153,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** If need be, once
 - **UK 2010:** When
 
-- **VA 2003:** Bishops"
-- **UK 2010:** —
-
-- **VA 2003:** —
+- **VA 2003:** Bishops’
 - **UK 2010:** of Bishops
 
 - **VA 2003:** decide
@@ -16676,11 +16238,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** Church. Its
 - **UK 2010:** Church; its
 
-- **VA 2003:** —
-- **UK 2010:** conducive to the good
-
 - **VA 2003:** benefit to
-- **UK 2010:** —
+- **UK 2010:** conducive to the good
 
 - **VA 2003:** were they to be lost, the Church
 - **UK 2010:** their loss
@@ -16718,11 +16277,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** those
 - **UK 2010:** the
 
-- **VA 2003:** —
+- **VA 2003:** Bishops’
 - **UK 2010:** for Cf. Universal Norms on the Liturgical Year and the Calendar, nos. 48-51, infra, p. 99; Sacred Congregation for Divine Worship, Instruction, Calendaria particularia, 24 June 1970, no. 38: Acta Apostolicae Sedis 62 (1970), p. 660. Cf. Second Ecumenical Council of the Vatican, Constitution on the Sacred Liturgy, Sacrosanctum Concilium, nos. 37-40. Cf. Congregation for Divine Worship and the Discipline of the Sacraments, Instruction, Varietates legitimae, 25 January 1994, nos. 54, 62-69: Acta Apostolicae Sedis 87 (1995), pp. 308-309, 311-313. Cf. ibidem, nos. 66-68: Acta Apostolicae Sedis 87 (1995), p. 313. Cf. ibidem, nos. 26-27: Acta Apostolicae Sedis 87 (1995), pp. 298-299. their territories
-
-- **VA 2003:** Bishops"
-- **UK 2010:** —
 
 - **VA 2003:** for their territories
 - **UK 2010:** of Bishops and endowed
@@ -16782,11 +16338,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** a lack of caution.
 - **UK 2010:** incautious contamination.
 
-- **VA 2003:** —
-- **UK 2010:** pursuit of inculturation does not have as its
-
 - **VA 2003:** of pursuing inculturation is not
-- **UK 2010:** —
+- **UK 2010:** pursuit of inculturation does not have as its
 
 - **VA 2003:** culture
 - **UK 2010:** culture, though
@@ -16819,9 +16372,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **UK 2010:** a diversity of
 
 - **VA 2003:** be preserved
-- **UK 2010:** —
-
-- **VA 2003:** —
 - **UK 2010:** be safeguarded
 
 - **VA 2003:** —
