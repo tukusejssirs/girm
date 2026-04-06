@@ -219,16 +219,16 @@ h3("4.1 The Sacristy")
 
 # §119 is long — quote just the server-relevant parts
 L(
-"In the sacristy there should be prepared, according to the form of celebration:",
+"In the sacristy there should be prepared, according to the form of celebration *(§119)*:",
 "",
-"- **For the Priest:** the alb, stole, and chasuble",
-"- **For the Deacon:** the alb, stole, and dalmatic (dalmatic may be omitted for lesser solemnity or necessity)",
-"- **For other ministers:** albs or other lawfully approved attire",
+"- **For the Priest:** the alb, stole, and chasuble *(§119)*",
+"- **For the Deacon:** the alb, stole, and dalmatic; dalmatic may be omitted for lesser solemnity or out of necessity *(§119)*",
+"- **For other ministers:** albs or other lawfully approved attire *(§119, §339)*",
 "",
-"The ministers also prepare: the chalice, corporal, purificator, pall; the paten and ciborium;",
-"the cruets with wine and water; the communion plate; the Missal; and, if used,",
-"the thurible with incense, the processional cross, candles, and the processional Book of the Gospels.",
-f"*(§{para_cite(119)})*",
+"The ministers also prepare *(§118–119)*: the chalice, corporal, purificator, pall; paten and ciborium;",
+"cruets with wine and water; the communion plate; the Missal; and, if used,",
+"the thurible with incense, the processional cross, candles, and the Book of the Gospels.",
+f"",
 ""
 )
 
@@ -236,13 +236,12 @@ h3("4.2 What Ministers Must Prepare")
 
 L(f"*(§{para_cite(118)})* The following should be prepared:")
 L(
-"- Next to the Priest's chair: the Missal and, if appropriate, a hymnal",
-"- At the ambo: the Lectionary",
+"- Next to the Priest's chair: the Missal and, if appropriate, a hymnal *(§118a)*",
+"- At the ambo: the Lectionary *(§118b)*",
 "- At the credence table: the chalice, corporal, purificator, and pall; "
-  "the paten and, if appropriate, the ciborium with bread; "
-  "cruets with wine and water; the book of the prayers of the faithful; "
-  "if incense is used, the thurible and boat",
-"- At the altar: the chalice, corporal, and Missal (if not placed elsewhere)",
+  "paten and ciborium; cruets with wine and water; "
+  "book of the prayers of the faithful; thurible and boat if incense is used *(§118c)*",
+"- At the altar: the chalice, corporal, and Missal if not placed elsewhere *(§118d)*",
 ""
 )
 
@@ -368,8 +367,9 @@ rule(
     cite_para=189
 )
 rule(
-    "A little before the Consecration, if appropriate, a minister rings a small bell "
-    "as a signal to the faithful. The minister also rings the bell at each elevation by the Priest.",
+    "A little before the Consecration, *if appropriate*, a minister may ring a small bell "
+    "as a signal to the faithful. At each elevation the bell may also be rung "
+    "*according to local custom*. Both usages are optional, not required.",
     cite_para=150
 )
 blank()
@@ -550,7 +550,8 @@ h3("12.4 Prohibited for Any Server or Lay Minister")
 
 L(
 "- Preach the Homily *(§66)*",
-"- Perform any act reserved to the Priest (e.g. Eucharistic Prayer, consecration, absolution)",
+"- Perform any act reserved to the Priest or Deacon: Eucharistic Prayer, Consecration, "
+  "words of absolution, or any presidential prayer *(§4, §5, §24)*",
 "- Purify sacred vessels unless duly instituted as an acolyte *(§279)*",
 "- Stand within the sanctuary in a manner that implies ordination or higher ministry *(§335)*",
 ""
@@ -562,10 +563,10 @@ L(
 "The function of serving the Priest at the altar is specifically subject to",
 "norms established by the Diocesan Bishop *(§107)*. These may include:",
 "",
-"- Whether girls and women may serve as altar servers",
-"- The age and formation requirements for servers",
-"- The attire to be worn when the alb is not used",
-"- Any particular ceremonies or gestures proper to that diocese",
+"- Whether women and girls may serve as altar servers *(§107)*[^89]",
+"- The suitability and formation required of candidates before deputation *(§107)*",
+"- The attire to be worn when the alb is not used *(§339)*",
+"- Any particular ceremonies or gestures specific to the diocese *(§107)*",
 ""
 )
 

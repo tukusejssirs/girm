@@ -78,24 +78,24 @@ the procession to the altar, wearing approved attire. *(§194)*
 
 ### 4.1 The Sacristy
 
-In the sacristy there should be prepared, according to the form of celebration:
+In the sacristy there should be prepared, according to the form of celebration *(§119)*:
 
-- **For the Priest:** the alb, stole, and chasuble
-- **For the Deacon:** the alb, stole, and dalmatic (dalmatic may be omitted for lesser solemnity or necessity)
-- **For other ministers:** albs or other lawfully approved attire
+- **For the Priest:** the alb, stole, and chasuble *(§119)*
+- **For the Deacon:** the alb, stole, and dalmatic; dalmatic may be omitted for lesser solemnity or out of necessity *(§119)*
+- **For other ministers:** albs or other lawfully approved attire *(§119, §339)*
 
-The ministers also prepare: the chalice, corporal, purificator, pall; the paten and ciborium;
-the cruets with wine and water; the communion plate; the Missal; and, if used,
-the thurible with incense, the processional cross, candles, and the processional Book of the Gospels.
-*(§119)*
+The ministers also prepare *(§118–119)*: the chalice, corporal, purificator, pall; paten and ciborium;
+cruets with wine and water; the communion plate; the Missal; and, if used,
+the thurible with incense, the processional cross, candles, and the Book of the Gospels.
+
 
 ### 4.2 What Ministers Must Prepare
 
 *(§118)* The following should be prepared:
-- Next to the Priest's chair: the Missal and, if appropriate, a hymnal
-- At the ambo: the Lectionary
-- At the credence table: the chalice, corporal, purificator, and pall; the paten and, if appropriate, the ciborium with bread; cruets with wine and water; the book of the prayers of the faithful; if incense is used, the thurible and boat
-- At the altar: the chalice, corporal, and Missal (if not placed elsewhere)
+- Next to the Priest's chair: the Missal and, if appropriate, a hymnal *(§118a)*
+- At the ambo: the Lectionary *(§118b)*
+- At the credence table: the chalice, corporal, purificator, and pall; paten and ciborium; cruets with wine and water; book of the prayers of the faithful; thurible and boat if incense is used *(§118c)*
+- At the altar: the chalice, corporal, and Missal if not placed elsewhere *(§118d)*
 
 ## 5. The Procession to the Altar and Introductory Rites
 
@@ -172,7 +172,7 @@ altar, assisted by the acolyte. If no Deacon is present, this falls to the acoly
 ### 7.2 The Eucharistic Prayer
 
 - The server holds the Missal for the Priest at the chair whenever needed. Throughout the celebration, the acolyte approaches the Priest or Deacon, whenever necessary, to present the book or to assist in any other way required. *(§189)*
-- A little before the Consecration, if appropriate, a minister rings a small bell as a signal to the faithful. The minister also rings the bell at each elevation by the Priest. *(§150)*
+- A little before the Consecration, *if appropriate*, a minister may ring a small bell as a signal to the faithful. At each elevation the bell may also be rung *according to local custom*. Both usages are optional, not required. *(§150)*
 
 ### 7.3 Communion Rite
 
@@ -292,7 +292,7 @@ to direct the orderly carrying out of the rites.
 ### 12.4 Prohibited for Any Server or Lay Minister
 
 - Preach the Homily *(§66)*
-- Perform any act reserved to the Priest (e.g. Eucharistic Prayer, consecration, absolution)
+- Perform any act reserved to the Priest or Deacon: Eucharistic Prayer, Consecration, words of absolution, or any presidential prayer *(§4, §5, §24)*
 - Purify sacred vessels unless duly instituted as an acolyte *(§279)*
 - Stand within the sanctuary in a manner that implies ordination or higher ministry *(§335)*
 
@@ -301,10 +301,10 @@ to direct the orderly carrying out of the rites.
 The function of serving the Priest at the altar is specifically subject to
 norms established by the Diocesan Bishop *(§107)*. These may include:
 
-- Whether girls and women may serve as altar servers
-- The age and formation requirements for servers
-- The attire to be worn when the alb is not used
-- Any particular ceremonies or gestures proper to that diocese
+- Whether women and girls may serve as altar servers *(§107)*[^89]
+- The suitability and formation required of candidates before deputation *(§107)*
+- The attire to be worn when the alb is not used *(§339)*
+- Any particular ceremonies or gestures specific to the diocese *(§107)*
 
 > **§107 (UK 2011):** *“As to the function of serving the Priest at the altar, the norms
 > established by the Bishop for his diocese should be observed.”*
@@ -343,8 +343,6 @@ fit even without a cincture. A stole or dalmatic is not worn by non-ordained min
 [^86]: Cf. Second Ecumenical Council of the vatican, Constitution on the Sacred Liturgy, Sacrosanctum Concilium, no. 24.
 
 [^89]: Cf. Pontifical Commission for the Interpretation of Legal Texts, response to dubium regarding can. 230 § 2: Acta Apostolicae Sedis 86 (1994), p. 541.
-
-[^96]: Cf. the Interdicasterial Instruction on certain questions regarding the collaboration of the non-ordained faithful in the sacred ministry of Priests, Ecclesiae de mysterio, 15 August 1997, art. 6: Acta Apostolicae Sedis 89 (1997), p. 869.
 
 [^100]: Paul vI, Apostolic Letter, Ministeria quaedam, 15 August 1972: Acta Apostolicae Sedis 64 (1972), p. 532.
 
