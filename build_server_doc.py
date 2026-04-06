@@ -304,6 +304,13 @@ rule("The readings are proclaimed by a reader; the Gospel by the Deacon or, "
 rule("The reader takes his place and reads the readings that precede the Gospel. "
      "In the absence of a psalmist, the reader may also proclaim the Responsorial Psalm.", 196)
 blank()
+L(wrap(
+    f"*({pcite(62)})* The *Alleluia* acclamation **is sung by everybody standing** "
+    f"and is led by the choir or cantor. The universal GIRM specifies that standing is for "
+    f"'the *Alleluia* Chant' *(§43)* — meaning from the start of the chant itself, i.e. "
+    f"when the cantor or choir **first sings** (first sung syllable), not from any "
+    f"instrumental introduction that may precede it."
+), "")
 
 h3("7.2 Incensation Before the Gospel")
 rule("If incense is used, during the *Alleluia* or other chant the Deacon ministers to "
@@ -320,6 +327,20 @@ L(wrap(
 ), "")
 
 h3("7.4 The Profession of Faith — see §6.4 above")
+h3("7.5a Kneeling During the Eucharistic Prayer — Universal Norm")
+L(wrap(
+    f"*({pcite(43)})* The universal GIRM requires the faithful to **kneel at the Consecration**, "
+    f"unless prevented by health, lack of space, large numbers, or another reasonable cause. "
+    f"Those who cannot kneel make a profound bow when the Priest genuflects after the Consecration."
+), "")
+L(wrap(
+    f"*({pcite(43)})* The GIRM also provides: **'Where it is the practice for the people "
+    f"to remain kneeling after the** *Sanctus* **until the end of the Eucharistic Prayer and "
+    f"before Communion when the Priest says** *Ecce Agnus Dei***, it is laudable for this "
+    f"practice to be retained.'** This means: kneeling from Sanctus through the EP is not "
+    f"universally mandated, but where it is the custom, it is explicitly praised and retained."
+), "")
+blank()
 
 h3("7.5 The Universal Prayer (Prayer of the Faithful)")
 L(wrap(
@@ -399,9 +420,11 @@ L(wrap(
     f"whether instituted or deputed**."
 ), "")
 note(
-    "A server who has been deputed as an extraordinary minister (even for a single occasion) "
-    "may administer the chalice. A server who has **not** been deputed as an EMHC "
-    "may **not** hold or administer the chalice at Communion."
+    f"*({pcite(284)})* The chalice may also be administered by "
+    "'one of the faithful who, in a case of necessity, has been entrusted with this duty "
+    "for a single occasion' — this entrusting by the Priest (e.g. just before Communion) "
+    "suffices without prior formal deputation. A server who has NOT been so entrusted "
+    "may not hold or administer the chalice at Communion."
 )
 rule("If Communion from the chalice is by intinction, the minister holds the chalice "
      "while the Priest or EMHC intincts the host and distributes it.", 287)
@@ -504,15 +527,28 @@ L(wrap(
     f"of the particular church govern this."
 ), "")
 
-h3("11.6 Double Genuflection Before the Blessed Sacrament Exposed")
+h3("11.6 Genuflection: Single or Double?")
 L(wrap(
-    f"*({pcite(274)})* The GIRM prescribes only a **single genuflection** (right knee to the ground) "
-    f"for the Blessed Sacrament reserved in the tabernacle. "
-    f"A **double genuflection** (both knees, brief pause) is traditionally prescribed when "
-    f"the Blessed Sacrament is **solemnly exposed** (e.g. during Benediction or Exposition) — "
-    f"this comes from the *Caeremoniale Episcoporum* and eucharistic rites, not from the GIRM itself. "
-    f"During Mass, when the Sacrament is in the tabernacle, a single genuflection suffices."
+    f"*({pcite(274)})* The GIRM prescribes a **single genuflection** (right knee to the ground) "
+    f"for the Most Blessed Sacrament and for the Holy Cross on Good Friday. "
+    f"The *Caeremoniale Episcoporum* (CB 69, 1984 edition) likewise prescribes a single "
+    f"genuflection before the Cross exposed for veneration on Good Friday until the Easter Vigil."
 ), "")
+L(wrap(
+    f"The pre-1973 practice of a **double genuflection** (both knees) before the Blessed "
+    f"Sacrament when solemnly exposed in a monstrance was abolished by the Sacred Congregation "
+    f"for Divine Worship's instruction *Eucharistiae Sacramentum* (1973, no. 84), which "
+    f"established: *“Genuflection in the presence of the Blessed Sacrament, whether reserved in "
+    f"the tabernacle or exposed for public adoration, is on one knee.”* "
+    f"This single-knee norm now applies to both the reserved and exposed Sacrament. "
+    f"Some episcopal conferences have retained the double genuflection as a local adaptation, "
+    f"but this is not the universal norm."
+), "")
+note(
+    "The double genuflection before the Holy Cross on Good Friday is similarly not prescribed "
+    "by the current *Missale Romanum* or *Caeremoniale Episcoporum*. The single genuflection "
+    "is the norm from Good Friday's solemn adoration until the start of the Easter Vigil."
+)
 
 h3("11.7 Blessing at the End of Mass")
 L(wrap(
@@ -683,6 +719,98 @@ L(
   "Constitution on the Sacred Liturgy *Sacrosanctum Concilium*, 1963; "
   "Dogmatic Constitution on the Church *Lumen gentium*, 1964; "
   "Decree on the Ministry and Life of Priests *Presbyterorum ordinis*, 1965.",
+""
+)
+
+# ── 16. Slovak Norms ─────────────────────────────────────────────────────────
+h2("16. Applicable Norms in Slovakia")
+L(
+"> **Note on sources:** Norms marked **[GIRM]** derive from the universal",
+"> *General Instruction of the Roman Missal* (3rd typical edition, 2002/2011) and",
+"> bind the whole Latin Church. Norms marked **[KBS]** are adaptations by the",
+"> Konferencia biskupov Slovenska (Slovak Bishops' Conference) with *recognitio*",
+"> from the Holy See; they bind all Slovak dioceses. Norms marked **[BB]** are",
+"> particular to the Diocese of Banská Bystrica.",
+""
+)
+
+h3("16.1 Slovak Bishops' Conference (KBS) — Postures and Gestures at Mass")
+L(
+"**Source:** KBS Pastoral Letter and Directives on Gestures and Postures at Mass",
+"(51st KBS Plenary Session, 7–8 June 2005, Donovaly; in force from Sunday 7 August 2005).",
+"URL: https://www.kbs.sk/obsah/sekcia/c/gesta-a-postoje-pri-svatej-omsi-smernice-k-pastierskemu-listu-kbs",
+""
+)
+L(
+f"The KBS adopted the full text of GIRM §43 for Slovakia without alteration.",
+f"The following are the resulting norms for Slovak parishes, with source labelled:",
+"",
+"- **[GIRM §43]** Stand from the beginning of the Entrance Chant until after the Collect",
+"- **[GIRM §43]** Sit during readings before the Gospel, Responsorial Psalm, Homily, "
+  "Preparation of Gifts",
+"- **[GIRM §43]** Stand for the *Alleluia* Chant and the Gospel",
+"- **[GIRM §43]** Stand during the Profession of Faith and Universal Prayer",
+"- **[GIRM §43]** Stand from *Orate, fratres* until end of Mass (except for kneeling as below)",
+"- **[GIRM §43]** **Kneel at the Consecration** (unless health, space, or other reasonable cause prevents it)",
+"- **[GIRM §43 / KBS]** Kneeling from end of *Sanctus* through the Eucharistic Prayer and "
+  "before *Ecce Agnus Dei*: the KBS confirmed the existing Slovak custom is retained, "
+  "consistent with GIRM §43's explicit approbation of such customs",
+"- **[KBS pastoral guidance]** Stand for the *Alleluia* from the **first sung note** of "
+  "the cantor or schola — i.e. from the first sung syllable of the acclamation, "
+  "not from any organ introduction",
+"- **[GIRM §43]** During the Gospel, the faithful (standing) turn toward the ambo "
+  "as a sign of personal reverence toward Christ's Gospel *(VSRM 133)*",
+"- **[GIRM §82]** The sign of peace is given soberly only to immediately neighbouring persons",
+""
+)
+
+h3("16.2 Slovak Bishops' Conference (KBS) — Roman Missal")
+L(
+"**[KBS]** The KBS promulgated the new Slovak edition of the *Rímsky misál* (Roman Missal, "
+"3rd typical edition) in October 2021, replacing the previous Slovak translation.",
+"The Slovak VSRM (*Všeobecné smernice Rímskeho misála*) is contained within it.",
+"URL: https://www.kbs.sk/obsah/sekcia/c/usmernenie-k-uvedeniu-tretieho-slovenskeho-vydania-rimskeho-misala",
+""
+)
+
+h3("16.3 Diocese of Banská Bystrica — Server-Specific Norms")
+L(
+"**[GIRM §107]** The function of serving the Priest at the altar is governed by the norms of the "
+"Diocesan Bishop (Mons. Marián Chovanec, bishop since 15 December 2012).",
+"",
+"**As of the date of this document, no publicly accessible server-specific decrees or "
+"liturgical directives for servers have been published on the diocesan website "
+"(bbdieceza.sk).** The Diocesan Liturgical Commission (secretary: Mgr. Peter Staroštík; "
+"contact: Biskupstvo Banská Bystrica, Námestie SNP 19, 975 90 Banská Bystrica) "
+"should be contacted directly for any particular norms.",
+"",
+"In the absence of particular diocesan norms, the following apply in descending order:",
+"",
+"- **[GIRM]** Universal *General Instruction of the Roman Missal* (3rd typical edition)",
+"- **[KBS]** Slovak Bishops' Conference adaptations, including the 2005 postures directive",
+"- **[CIC]** Code of Canon Law, esp. can. 230 §2–3 (deputation of lay ministers)",
+"- **[local]** Parish pastor's directives under CIC can. 230 §2 and GIRM §107",
+""
+)
+
+h3("16.4 Terminology")
+L(
+"| Slovak | Latin / English |",
+"|--------|----------------|",
+"| Miništrant | Altar server / Acolytus |",
+"| Riadne ustanovený akolyta | Instituted acolyte |",
+"| Mimoriadny vysluhovateľ svätého prijímania | Extraordinary minister of Holy Communion (EMHC) |",
+"| Lektorka / lektor | Reader / Lector |",
+"| Žertviar / kazateľnica | Credence table / Ambo |",
+"| Kalich | Chalice / *Calix* |",
+"| Korporál | Corporal / *Corporale* |",
+"| Purifikátorium | Purificator / *Purificatorium* |",
+"| Patena | Paten / *Patena* |",
+"| Kadidlnica | Thurible / *Thuribulum* |",
+"| Loďka (navicula) | Incense boat / *Navicula* |",
+"| Alba | Alb / *Alba* |",
+"| Sutana | Cassock / *Talaris* |",
+"| Komža (superpelícia) | Surplice / *Superpelliceum* |",
 ""
 )
 

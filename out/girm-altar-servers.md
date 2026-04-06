@@ -178,6 +178,11 @@ on the Nativity of the Lord and the Annunciation, all genuflect.
 - The readings are proclaimed by a reader; the Gospel by the Deacon or, in his absence, another Priest. If neither is present, the Priest Celebrant reads the Gospel. *(§59)*
 - The reader takes his place and reads the readings that precede the Gospel. In the absence of a psalmist, the reader may also proclaim the Responsorial Psalm. *(§196)*
 
+*(§62)* The *Alleluia* acclamation **is sung by everybody standing** and is led by the choir or
+cantor. The universal GIRM specifies that standing is for 'the *Alleluia* Chant' *(§43)* — meaning
+from the start of the chant itself, i.e. when the cantor or choir **first sings** (first sung
+syllable), not from any instrumental introduction that may precede it.
+
 ### 7.2 Incensation Before the Gospel
 
 - If incense is used, during the *Alleluia* or other chant the Deacon ministers to the Priest as he puts incense in the thurible. If no Deacon is present, the server (thurifer) presents the thurible and assists. *(§175, §276)*
@@ -189,6 +194,19 @@ on the Nativity of the Lord and the Annunciation, all genuflect.
 time to time to the Deacon, **but never to a lay person.**[^65][^66]
 
 ### 7.4 The Profession of Faith — see §6.4 above
+
+### 7.5a Kneeling During the Eucharistic Prayer — Universal Norm
+
+*(§43)* The universal GIRM requires the faithful to **kneel at the Consecration**, unless prevented
+by health, lack of space, large numbers, or another reasonable cause. Those who cannot kneel make a
+profound bow when the Priest genuflects after the Consecration.
+
+*(§43)* The GIRM also provides: **'Where it is the practice for the people to remain kneeling after
+the** *Sanctus* **until the end of the Eucharistic Prayer and before Communion when the Priest
+says** *Ecce Agnus Dei***, it is laudable for this practice to be retained.'** This means: kneeling
+from Sanctus through the EP is not universally mandated, but where it is the custom, it is
+explicitly praised and retained.
+
 
 ### 7.5 The Universal Prayer (Prayer of the Faithful)
 
@@ -248,7 +266,7 @@ for this purpose.[^97][^98]
 *(§284)* The chalice is administered by: the Deacon; in his absence, a Priest; or a duly instituted
 acolyte; **or another extraordinary minister of Holy Communion, whether instituted or deputed**.
 
-> **Note:** A server who has been deputed as an extraordinary minister (even for a single occasion) may administer the chalice. A server who has **not** been deputed as an EMHC may **not** hold or administer the chalice at Communion.
+> **Note:** *(§284)* The chalice may also be administered by 'one of the faithful who, in a case of necessity, has been entrusted with this duty for a single occasion' — this entrusting by the Priest (e.g. just before Communion) suffices without prior formal deputation. A server who has NOT been so entrusted may not hold or administer the chalice at Communion.
 
 - If Communion from the chalice is by intinction, the minister holds the chalice while the Priest or EMHC intincts the host and distributes it. *(§287)*
 
@@ -345,13 +363,22 @@ practice: passing **behind** the altar (between altar and east wall or tabernacl
 need to genuflect or bow before the Blessed Sacrament mid-action, and is the customary norm in many
 churches. Local practice and the layout of the particular church govern this.
 
-### 11.6 Double Genuflection Before the Blessed Sacrament Exposed
+### 11.6 Genuflection: Single or Double?
 
-*(§274)* The GIRM prescribes only a **single genuflection** (right knee to the ground) for the
-Blessed Sacrament reserved in the tabernacle. A **double genuflection** (both knees, brief pause) is
-traditionally prescribed when the Blessed Sacrament is **solemnly exposed** (e.g. during Benediction
-or Exposition) — this comes from the *Caeremoniale Episcoporum* and eucharistic rites, not from the
-GIRM itself. During Mass, when the Sacrament is in the tabernacle, a single genuflection suffices.
+*(§274)* The GIRM prescribes a **single genuflection** (right knee to the ground) for the Most
+Blessed Sacrament and for the Holy Cross on Good Friday. The *Caeremoniale Episcoporum* (CB 69, 1984
+edition) likewise prescribes a single genuflection before the Cross exposed for veneration on Good
+Friday until the Easter Vigil.
+
+The pre-1973 practice of a **double genuflection** (both knees) before the Blessed Sacrament when
+solemnly exposed in a monstrance was abolished by the Sacred Congregation for Divine Worship's
+instruction *Eucharistiae Sacramentum* (1973, no. 84), which established: *“Genuflection in the
+presence of the Blessed Sacrament, whether reserved in the tabernacle or exposed for public
+adoration, is on one knee.”* This single-knee norm now applies to both the reserved and exposed
+Sacrament. Some episcopal conferences have retained the double genuflection as a local adaptation,
+but this is not the universal norm.
+
+> **Note:** The double genuflection before the Holy Cross on Good Friday is similarly not prescribed by the current *Missale Romanum* or *Caeremoniale Episcoporum*. The single genuflection is the norm from Good Friday's solemn adoration until the start of the Easter Vigil.
 
 ### 11.7 Blessing at the End of Mass
 
@@ -477,6 +504,73 @@ fit without one. A stole or dalmatic is **never** worn by a non-ordained ministe
 - **Caeremoniale Episcoporum**, editio typica, 1984. [Governing ceremonies for Pontifical Masses and the role of ministers.]
 - **Second Ecumenical Council of the Vatican** (Vatican II): Constitution on the Sacred Liturgy *Sacrosanctum Concilium*, 1963; Dogmatic Constitution on the Church *Lumen gentium*, 1964; Decree on the Ministry and Life of Priests *Presbyterorum ordinis*, 1965.
 
+## 16. Applicable Norms in Slovakia
+
+> **Note on sources:** Norms marked **[GIRM]** derive from the universal
+> *General Instruction of the Roman Missal* (3rd typical edition, 2002/2011) and
+> bind the whole Latin Church. Norms marked **[KBS]** are adaptations by the
+> Konferencia biskupov Slovenska (Slovak Bishops' Conference) with *recognitio*
+> from the Holy See; they bind all Slovak dioceses. Norms marked **[BB]** are
+> particular to the Diocese of Banská Bystrica.
+
+### 16.1 Slovak Bishops' Conference (KBS) — Postures and Gestures at Mass
+
+**Source:** KBS Pastoral Letter and Directives on Gestures and Postures at Mass
+(51st KBS Plenary Session, 7–8 June 2005, Donovaly; in force from Sunday 7 August 2005).
+URL: https://www.kbs.sk/obsah/sekcia/c/gesta-a-postoje-pri-svatej-omsi-smernice-k-pastierskemu-listu-kbs
+
+The KBS adopted the full text of GIRM §43 for Slovakia without alteration.
+The following are the resulting norms for Slovak parishes, with source labelled:
+
+- **[GIRM §43]** Stand from the beginning of the Entrance Chant until after the Collect
+- **[GIRM §43]** Sit during readings before the Gospel, Responsorial Psalm, Homily, Preparation of Gifts
+- **[GIRM §43]** Stand for the *Alleluia* Chant and the Gospel
+- **[GIRM §43]** Stand during the Profession of Faith and Universal Prayer
+- **[GIRM §43]** Stand from *Orate, fratres* until end of Mass (except for kneeling as below)
+- **[GIRM §43]** **Kneel at the Consecration** (unless health, space, or other reasonable cause prevents it)
+- **[GIRM §43 / KBS]** Kneeling from end of *Sanctus* through the Eucharistic Prayer and before *Ecce Agnus Dei*: the KBS confirmed the existing Slovak custom is retained, consistent with GIRM §43's explicit approbation of such customs
+- **[KBS pastoral guidance]** Stand for the *Alleluia* from the **first sung note** of the cantor or schola — i.e. from the first sung syllable of the acclamation, not from any organ introduction
+- **[GIRM §43]** During the Gospel, the faithful (standing) turn toward the ambo as a sign of personal reverence toward Christ's Gospel *(VSRM 133)*
+- **[GIRM §82]** The sign of peace is given soberly only to immediately neighbouring persons
+
+### 16.2 Slovak Bishops' Conference (KBS) — Roman Missal
+
+**[KBS]** The KBS promulgated the new Slovak edition of the *Rímsky misál* (Roman Missal, 3rd typical edition) in October 2021, replacing the previous Slovak translation.
+The Slovak VSRM (*Všeobecné smernice Rímskeho misála*) is contained within it.
+URL: https://www.kbs.sk/obsah/sekcia/c/usmernenie-k-uvedeniu-tretieho-slovenskeho-vydania-rimskeho-misala
+
+### 16.3 Diocese of Banská Bystrica — Server-Specific Norms
+
+**[GIRM §107]** The function of serving the Priest at the altar is governed by the norms of the Diocesan Bishop (Mons. Marián Chovanec, bishop since 15 December 2012).
+
+**As of the date of this document, no publicly accessible server-specific decrees or liturgical directives for servers have been published on the diocesan website (bbdieceza.sk).** The Diocesan Liturgical Commission (secretary: Mgr. Peter Staroštík; contact: Biskupstvo Banská Bystrica, Námestie SNP 19, 975 90 Banská Bystrica) should be contacted directly for any particular norms.
+
+In the absence of particular diocesan norms, the following apply in descending order:
+
+- **[GIRM]** Universal *General Instruction of the Roman Missal* (3rd typical edition)
+- **[KBS]** Slovak Bishops' Conference adaptations, including the 2005 postures directive
+- **[CIC]** Code of Canon Law, esp. can. 230 §2–3 (deputation of lay ministers)
+- **[local]** Parish pastor's directives under CIC can. 230 §2 and GIRM §107
+
+### 16.4 Terminology
+
+| Slovak | Latin / English |
+|--------|----------------|
+| Miništrant | Altar server / Acolytus |
+| Riadne ustanovený akolyta | Instituted acolyte |
+| Mimoriadny vysluhovateľ svätého prijímania | Extraordinary minister of Holy Communion (EMHC) |
+| Lektorka / lektor | Reader / Lector |
+| Žertviar / kazateľnica | Credence table / Ambo |
+| Kalich | Chalice / *Calix* |
+| Korporál | Corporal / *Corporale* |
+| Purifikátorium | Purificator / *Purificatorium* |
+| Patena | Paten / *Patena* |
+| Kadidlnica | Thurible / *Thuribulum* |
+| Loďka (navicula) | Incense boat / *Navicula* |
+| Alba | Alb / *Alba* |
+| Sutana | Cassock / *Talaris* |
+| Komža (superpelícia) | Surplice / *Superpelliceum* |
+
 ---
 
 ## Footnotes
@@ -484,6 +578,8 @@ fit without one. A stole or dalmatic is **never** worn by a non-ordained ministe
 [^26]: Cf. Second Ecumenical Council of the vatican, Constitution on the Sacred Liturgy, Sacrosanctum Concilium, nos. 14, 19, 26, 28, 30.
 
 [^27]: Cf. ibidem, no. 47.
+
+[^53]: Cf. ibidem, no. 40; Congregation for Divine Worship and the Discipline of the Sacraments, Instruction, Varietates legitimae, 25 January 1994, no. 41: Acta Apostolicae Sedis 87 (1995), p. 304.
 
 [^65]: Cf. Code of Canon Law, can. 767 § 1; Pontifical Commission for the Authentic Interpretation of the Code of Canon Law, response to dubium regarding can. 767 § 1: Acta Apostolicae Sedis 79 (1987), p. 1249; Interdicasterial Instruction on certain questions regarding the collaboration of the non-ordained faithful in the sacred ministry of Priests, Ecclesiae de mysterio, 15 August 1997, art. 3: Acta Apostolicae Sedis 89 (1997), p. 864.
 
