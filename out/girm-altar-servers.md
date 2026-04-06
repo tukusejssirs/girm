@@ -176,12 +176,17 @@ on the Nativity of the Lord and the Annunciation, all genuflect.
 ### 7.1 The Readings
 
 - The readings are proclaimed by a reader; the Gospel by the Deacon or, in his absence, another Priest. If neither is present, the Priest Celebrant reads the Gospel. *(§59)*
+- **🇸🇰 Slovakia [KBS 2005 / VSRM §133]:** During the Gospel, those standing **turn toward the
+  ambo** as an expression of personal reverence for Christ's Gospel. — *Slovak norm only*
 - The reader takes his place and reads the readings that precede the Gospel. In the absence of a psalmist, the reader may also proclaim the Responsorial Psalm. *(§196)*
 
 *(§62)* The *Alleluia* acclamation **is sung by everybody standing** and is led by the choir or
-cantor. The universal GIRM specifies that standing is for 'the *Alleluia* Chant' *(§43)* — meaning
-from the start of the chant itself, i.e. when the cantor or choir **first sings** (first sung
-syllable), not from any instrumental introduction that may precede it.
+cantor. The universal GIRM specifies that standing is for 'the *Alleluia* Chant' *(§43)* — from
+the start of the chant itself (first sung syllable).
+
+> **🇸🇰 Slovakia [KBS 2005]:** The faithful stand from the **first sung note** of the cantor
+> or schola — the first sung syllable of the acclamation, not from any organ or instrumental
+> introduction that may precede it. — *Slovak pastoral guidance*
 
 ### 7.2 Incensation Before the Gospel
 
@@ -201,11 +206,16 @@ time to time to the Deacon, **but never to a lay person.**[^65][^66]
 by health, lack of space, large numbers, or another reasonable cause. Those who cannot kneel make a
 profound bow when the Priest genuflects after the Consecration.
 
-*(§43)* The GIRM also provides: **'Where it is the practice for the people to remain kneeling after
-the** *Sanctus* **until the end of the Eucharistic Prayer and before Communion when the Priest
-says** *Ecce Agnus Dei***, it is laudable for this practice to be retained.'** This means: kneeling
-from Sanctus through the EP is not universally mandated, but where it is the custom, it is
-explicitly praised and retained.
+*(§43)* The GIRM also provides: *'Where it is the practice for the people to remain kneeling
+after the* Sanctus *until the end of the Eucharistic Prayer and before Communion when the Priest
+says* Ecce Agnus Dei*, it is laudable for this practice to be retained.'* The key phrase is
+**'where it is the practice'** — this applies only where that local custom already exists. The
+GIRM does not mandate this kneeling universally; it protects existing customs.
+
+> **🇸🇰 Slovakia [KBS 2005]:** The KBS directive adopted VSRM §43 verbatim for Slovakia,
+> including this *kde je zvyk* ('where it is the custom') clause. Kneeling from *Sanctus*
+> through the EP therefore applies **only in Slovak parishes where that custom has been
+> maintained** — it is not universally required across Slovakia. See §16.1 for full analysis.
 
 
 ### 7.5 The Universal Prayer (Prayer of the Faithful)
@@ -250,8 +260,16 @@ performs these duties (§190).
 ### 9.1 Lord's Prayer, Rite of Peace
 
 - During the Lord's Prayer and Rite of Peace, servers observe the same postures as the faithful. They do not exchange the peace before the faithful unless directed. *(§82, §83)*
+- **🇸🇰 Slovakia [KBS 2005]:** The sign of peace is given soberly only to immediately
+  neighbouring persons *(VSRM §82)*. — *Slovak norm only*
 
 ### 9.2 Who Distributes Holy Communion
+
+> **🇸🇰 Slovakia [KBS 2005]:** The faithful kneel at the *Ecce Agnus Dei* (*Hľa, Baránok
+> Boží*) and remain kneeling until they receive Communion. This kneeling counts as the
+> reverential genuflection before receiving — **no separate kneeling is needed in the
+> Communion procession**. This is a universal Slovak norm (*Na Slovensku zachováme*),
+> not merely a local custom. — *Slovak norm only*
 
 *(§162)* The Priest may be assisted by other Priests who happen to be present. If no Priest is
 available and there is **a truly large number of communicants**, the Priest may call upon
@@ -515,23 +533,74 @@ fit without one. A stole or dalmatic is **never** worn by a non-ordained ministe
 
 ### 16.1 Slovak Bishops' Conference (KBS) — Postures and Gestures at Mass
 
-**Source:** KBS Pastoral Letter and Directives on Gestures and Postures at Mass
+**Source:** KBS Pastoral Letter and Directives on Gestures and Postures at Holy Mass
 (51st KBS Plenary Session, 7–8 June 2005, Donovaly; in force from Sunday 7 August 2005).
 URL: https://www.kbs.sk/obsah/sekcia/c/gesta-a-postoje-pri-svatej-omsi-smernice-k-pastierskemu-listu-kbs
 
-The KBS adopted the full text of GIRM §43 for Slovakia without alteration.
-The following are the resulting norms for Slovak parishes, with source labelled:
+The KBS adopted the full verbatim text of VSRM §43 (*Kde je zvyk*…) for Slovakia. Where
+the directive quotes §43 directly, it carries the same force as the GIRM. Where the KBS
+adds its own statement ("Na Slovensku zachováme…"), it creates an additional Slovak-specific norm.
+
+#### Standing, sitting, kneeling — universal norms confirmed for Slovakia
 
 - **[GIRM §43]** Stand from the beginning of the Entrance Chant until after the Collect
 - **[GIRM §43]** Sit during readings before the Gospel, Responsorial Psalm, Homily, Preparation of Gifts
 - **[GIRM §43]** Stand for the *Alleluia* Chant and the Gospel
 - **[GIRM §43]** Stand during the Profession of Faith and Universal Prayer
 - **[GIRM §43]** Stand from *Orate, fratres* until end of Mass (except for kneeling as below)
-- **[GIRM §43]** **Kneel at the Consecration** (unless health, space, or other reasonable cause prevents it)
-- **[GIRM §43 / KBS 2005]** Kneeling from end of *Sanctus* through the Eucharistic Prayer and before *Ecce Agnus Dei*: the 2005 KBS directive confirmed the existing Slovak custom is retained, consistent with GIRM §43's explicit approbation of such customs. — ⚠ **PENDING:** Current practice in many Slovak parishes appears to have shifted to kneeling only at the Consecration and after the *Agnus Dei* until Communion begins. No updated published KBS posture directive has been found as of April 2026; the 2021/22 Missal guidance covers text changes only. Contact the KBS Liturgical Commission (liturgia.kbs.sk) to verify the current norm.
-- **[KBS pastoral guidance]** Stand for the *Alleluia* from the **first sung note** of the cantor or schola — i.e. from the first sung syllable of the acclamation, not from any organ introduction
-- **[GIRM §43]** During the Gospel, the faithful (standing) turn toward the ambo as a sign of personal reverence toward Christ's Gospel *(VSRM 133)*
-- **[GIRM §82]** The sign of peace is given soberly only to immediately neighbouring persons
+- **[GIRM §43]** **Kneel at the Consecration** (unless health, space, or other reasonable cause
+  prevents it; if unable to kneel, make a profound bow at the Priest's genuflection after Consecration)
+
+#### Kneeling during the Eucharistic Prayer — two distinct clauses
+
+The 2005 KBS directive contains two separate provisions regarding kneeling during the EP:
+
+**Clause A — "Kde je zvyk" (verbatim from VSRM §43, NOT a KBS addition):**
+
+> *Kde je zvyk, že ľud zostáva kľačať po skončení zvolania Svätý až do konca Eucharistickej
+> modlitby a pred prijímaním, keď kňaz hovorí Hľa, Baránok Boží, chvályhodne sa to môže zachovať.*
+>
+> (Where it is the practice for the people to remain kneeling after the end of the *Sanctus*
+> until the end of the Eucharistic Prayer and before Communion when the Priest says *Ecce Agnus
+> Dei*, this may laudably be retained.)
+
+This is GIRM §43 quoted verbatim. The operative phrase **"kde je zvyk"** (where it is the custom)
+means this kneeling applies **only in parishes where that tradition is already observed**.
+The KBS did not mandate it universally for Slovakia — it merely confirmed that existing customs
+of this kind may continue.
+
+**Clause B — "Na Slovensku zachováme" (KBS addition, universal for Slovakia):**
+
+> *Na Slovensku zachováme aj naďalej zvyk, „že ľud zostáva kľačať…, pred prijímaním, keď kňaz
+> hovorí «Hľa, Baránok Boží…»."*
+>
+> (In Slovakia we retain the custom that the people remain kneeling before Communion when the
+> Priest says "Behold the Lamb of God.")
+
+This is a distinct KBS statement. "Na Slovensku zachováme" means this IS retained for
+**all of Slovakia**: the faithful kneel when/before the Priest says *Ecce Agnus Dei* and remain
+kneeling until Communion. The KBS adds: this kneeling at *Ecce Agnus Dei* also counts as the
+preparatory genuflection/reverence before receiving; **no separate kneeling is needed while
+moving in the Communion procession**.
+
+#### Summary: correct Slovak postures during the EP
+
+| Part of Mass | Universal Church | Slovakia (KBS 2005) |
+|---|---|---|
+| At the Consecration | **Kneel** (§43) | **Kneel** [GIRM §43] |
+| From *Sanctus* through end of EP | Only if local custom exists (§43) | Only if local parish custom exists [VSRM §43 — not universally mandated] |
+| Before *Ecce Agnus Dei* until Communion | Permitted; no universal mandate | **Kneel** — universal Slovak norm [KBS 2005] |
+| In the Communion procession | Optional reverence | No separate kneeling needed (already knelt at *Ecce Agnus Dei*) [KBS 2005] |
+
+#### Additional KBS postures (not in GIRM)
+
+- **[KBS 2005 / VSRM §133]** During the Gospel, those standing **turn toward the ambo**
+  as an expression of personal reverence for Christ's Gospel — *Slovakia only*
+- **[KBS 2005 / VSRM §82]** The sign of peace is given **soberly, only to immediately
+  neighbouring persons** — *Slovakia only (guidance for priests and faithful)*
+- **[KBS 2005 pastoral guidance]** Stand for the *Alleluia* from the **first sung note** of
+  the cantor or schola (first sung syllable of "Alleluia", not from any organ introduction)
+  — *Slovakia only*
 
 ### 16.2 Slovak Bishops' Conference (KBS) — Roman Missal
 
