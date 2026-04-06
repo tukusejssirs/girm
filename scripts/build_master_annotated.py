@@ -21,10 +21,12 @@ OUT  = ROOT / "out"
 
 uk_data = json.loads((ROOT/"extracted/uk.json").read_text())
 us_data = json.loads((ROOT/"extracted/us.json").read_text())
+la_data = json.loads((ROOT/"extracted/la.json").read_text())
 adaptations = json.loads((ROOT/"src/girm-adaptations.json").read_text())
 
 uk_map = {p["num"]: p for p in uk_data["paragraphs"]}
 us_map = {p["num"]: p for p in us_data["paragraphs"]}
+la_map = {p["num"]: p for p in la_data["paragraphs"]}
 uk_gfn = uk_data["footnotes"]
 us_gfn = us_data["footnotes"]
 
@@ -52,16 +54,19 @@ UK_PHRASE = re.compile(
 )
 
 def get_universal_text(n):
-    """Return universal text for a paragraph.
-    For US-only adapted paras: UK text is universal.
-    For UK-adapted paras: UK text up to the E&W-specific phrase.
-    For non-adapted: UK text.
+    """Return the universal text for a paragraph.
+    Primary source: Latin (la_map — IGMR editio typica tertia emendata 2008).
+    Fallback: UK ICEL text stripped of E&W-specific phrases.
     """
+    la_t = la_map.get(n, {}).get("text", "")
+    if la_t:
+        return la_t
     uk_t = uk_map.get(n, {}).get("text", "")
     if n in UK_ADAPTED:
         m = UK_PHRASE.search(uk_t)
         if m:
             return uk_t[:m.start()].strip()
+    return uk_t[:m.start()].strip()
     return uk_t
 
 def get_us_extra(n):
@@ -121,8 +126,8 @@ L(
 "  [*]  Pastoral guidance or note (not a binding canon law adaptation)",
 "-->",
 "",
-"> **Base text:** England & Wales 2011 (ICEL), with Universal text identified by",
-"> comparison with the Vatican 2003 ICEL translation and USCCB 2010.",
+"> **Base text:** Latin *Institutio Generalis Missalis Romani*, *editio typica tertia emendata* 2008.",
+"> English adaptations annotated from UK 2011 ICEL (national phrases stripped).",
 "> All paragraph numbers (§§1–399) follow the *editio typica tertia* (2002).",
 "> See `meta/` directory for full bibliographical metadata per source.",
 "",
@@ -162,7 +167,7 @@ for p in uk_data["paragraphs"]:
     marker = " 🌐" if (has_us or has_uk or has_sk) else ""
     
     if has_us or has_uk or has_sk:
-        L(f"🌐 **Universal:**")
+        L(f"🌐 **Universal (Latin — *Institutio Generalis Missalis Romani* 2008):**")
         blank()
 
     # Universal text: UK base, stripped of any E&W-specific phrases

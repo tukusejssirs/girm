@@ -25,6 +25,8 @@ us_data = json.loads((EXT/"us.json").read_text(encoding="utf-8"))
 uk_map = {p["num"]: p for p in uk_data["paragraphs"]}
 us_map = {p["num"]: p for p in us_data["paragraphs"]}
 uk_fn_global = uk_data.get("footnotes", {})
+la_data = json.loads((EXT/"la.json").read_text(encoding="utf-8"))
+la_map  = {p["num"]: p for p in la_data["paragraphs"]}
 us_fn_global = us_data.get("footnotes", {})
 
 CHAPTERS = [
@@ -448,6 +450,14 @@ if __name__ == "__main__":
     import sys
 
     visual_compare()
+
+    print("Writing girm-src-la.md…")
+    (OUT/"girm-src-la.md").write_text(
+        build_source(la_map, {},
+                     "Institutio Generalis Missalis Romani",
+                     "Editio typica tertia emendata (Latin, 2008)",
+                     "Latin original; no inline national adaptations"),
+        encoding="utf-8")
 
     print("Writing girm-src-uk.md…")
     (OUT/"girm-src-uk.md").write_text(
