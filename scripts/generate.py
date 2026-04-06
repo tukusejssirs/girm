@@ -117,21 +117,28 @@ def build_source(para_map, fn_global, title, edition, notes):
             # Paragraph
             lines.append(f"### §{num}")
             lines.append("")
-            lines.append(wrap(p["text"]))
+            para_text = wrap(p["text"])
+            # For sources without inline markers, append fn refs at paragraph end
+            para_fns = p.get("footnotes", {})
+            if para_fns and not fn_global:
+                fn_refs = " ".join(f"[^{k}]" for k in sorted(para_fns, key=int))
+                para_text = para_text.rstrip() + " " + fn_refs
+            lines.append(para_text)
             lines.append("")
 
             # Collect footnotes
-            collected_fns.update(p.get("footnotes", {}))
+            collected_fns.update(para_fns)
 
         lines.append("")
 
     # Footnotes section at end
-    if fn_global:
+    fns_to_write = fn_global if fn_global else collected_fns
+    if fns_to_write:
         lines.append("---")
         lines.append("")
         lines.append("## Footnotes")
         lines.append("")
-        for k, v in sorted(fn_global.items(), key=lambda x: int(x[0])):
+        for k, v in sorted(fns_to_write.items(), key=lambda x: int(x[0])):
             lines.append(f"[^{k}]: {v}")
             lines.append("")
 

@@ -21,40 +21,39 @@ quoque hodiernae, quae, voluntate Concilii Oecumenici Vaticani II innixae, praes
 novum Missale, quo Ecclesia ritus romani in Missa celebranda posthac utetur, iterum sunt argumentum
 huius sollicitudinis Ecclesiae, eius fidei immutatique amoris erga summum mysterium eucharisticum,
 atque continuam contextamque eius traditionem, quamquam res novae quaedam inductae sunt, testantur.
-Testimonium fidei immutatae
 
 #### Testimony of an Unaltered Faith
 
 ### §2
 
 Missae natura sacrificalis, a Concilio Tridentino, quod universae traditioni Ecclesiae congruebat,
-sollemniter asserta, [1] rursus enuntiata est a Concilio Vaticano II, quod circa Missam haec
+sollemniter asserta, rursus enuntiata est a Concilio Vaticano II, quod circa Missam haec
 significantia protulit verba: «Salvator noster in Cena novissima sacrificium eucharisticum Corporis
 et Sanguinis sui instituit, quo sacrificium crucis in saecula, donec veniret, perpetuaret, atque
-adeo Ecclesiae dilectae sponsae memoriale concrederet mortis et resurrectionis suae». [2] Quod sic a
+adeo Ecclesiae dilectae sponsae memoriale concrederet mortis et resurrectionis suae». Quod sic a
 Concilio docetur, id formulis Missae continenter exprimitur. Etenim doctrina, quae hac sententia,
 iam in antiquo Sacramentario, vulgo Leoniano nuncupato, exstante, presse significatur: «quoties
-huius hostiae commemoratio celebratur, opus nostrae redemptionis exercetur», [3] apte accurateque
+huius hostiae commemoratio celebratur, opus nostrae redemptionis exercetur», apte accurateque
 explicatur in Precibus eucharisticis; in his enim sacerdos, dum anamnesin peragit, ad Deum nomine
 etiam totius populi conversus, ei gratias persolvit et sacrificium offert vivum et sanctum,
-oblationem scilicet Ecclesiae et hostiam, cuius immolatione ipse Deus voluit placari, [4] atque
-orat, ut Corpus et Sanguis Christi sint Patri sacrificium acceptabile et toti mundo salutare. [5]
-Ita in novo Missali lex orandi Ecclesiae respondet perenni legi credendi, qua nempe monemur unum et
-idem esse, excepta diversa offerendi ratione, crucis sacrificium eiusque in Missa sacramentalem
-renovationem, quam in Cena novissima Christus Dominus instituit Apostolisque faciendam mandavit in
-sui memoriam, atque proinde Missam simul esse sacrificium laudis, gratiarum actionis, propitiatorium
-et satisfactorium.
+oblationem scilicet Ecclesiae et hostiam, cuius immolatione ipse Deus voluit placari, atque orat, ut
+Corpus et Sanguis Christi sint Patri sacrificium acceptabile et toti mundo salutare. Ita in novo
+Missali lex orandi Ecclesiae respondet perenni legi credendi, qua nempe monemur unum et idem esse,
+excepta diversa offerendi ratione, crucis sacrificium eiusque in Missa sacramentalem renovationem,
+quam in Cena novissima Christus Dominus instituit Apostolisque faciendam mandavit in sui memoriam,
+atque proinde Missam simul esse sacrificium laudis, gratiarum actionis, propitiatorium et
+satisfactorium. [^1] [^2] [^3] [^4] [^5]
 
 ### §3
 
 Mirabile etiam mysterium praesentiae realis Domini sub speciebus eucharisticis, a Concilio Vaticano
-II [6] aliisque Ecclesiae Magisterii documentis [7] eodem sensu eademque sententia, quibus Concilium
-Tridentinum id credendum proposuerat, [8] confirmatum, in Missae celebratione declaratur non solum
-ipsis verbis consecrationis, quibus Christus per transubstantiationem praesens redditur, sed etiam
-sensu et exhibitione summae reverentiae et adorationis, quae in Liturgia eucharistica fieri
-contingit. Eadem de causa populus christianus adducitur, ut feria V Hebdomadae sanctae in Cena
-Domini, et in sollemnitate Ss.mi Corporis et Sanguinis Christi, hoc admirabile Sacramentum
-peculiarem in modum excolat adorando.
+II aliisque Ecclesiae Magisterii documentis eodem sensu eademque sententia, quibus Concilium
+Tridentinum id credendum proposuerat, confirmatum, in Missae celebratione declaratur non solum ipsis
+verbis consecrationis, quibus Christus per transubstantiationem praesens redditur, sed etiam sensu
+et exhibitione summae reverentiae et adorationis, quae in Liturgia eucharistica fieri contingit.
+Eadem de causa populus christianus adducitur, ut feria V Hebdomadae sanctae in Cena Domini, et in
+sollemnitate Ss.mi Corporis et Sanguinis Christi, hoc admirabile Sacramentum peculiarem in modum
+excolat adorando. [^6] [^7] [^8]
 
 ### §4
 
@@ -70,7 +69,7 @@ describitur, quae est continuatio potestatis Christi, Summi Pontificis Novi Test
 
 Sed hac sacerdotii ministerialis natura etiam aliud quiddam, magni sane faciendum, in sua luce
 collocatur, id est regale sacerdotium fidelium, quorum sacrificium spirituale per Episcopi et
-pesbyterorum ministerium in unione cum sacrificio Christi, unici Mediatoris, consummatur. [9] Namque
+pesbyterorum ministerium in unione cum sacrificio Christi, unici Mediatoris, consummatur. Namque
 celebratio Eucharistiae est actio Ecclesiae universae; in qua unusquisque solum et totum id agat,
 quod ad ipsum pertinet, respectu habito gradus eius in populo Dei. Quo efficitur, ut etiam rationes
 quaedam celebrationis magis attendantur, quibus saeculorum decursu interdum est minor cura adhibita.
@@ -79,19 +78,19 @@ nutritus, populus ad id vocatus, ut preces totius familiae humanae ad Deum admov
 pro mysterio salutis gratias in Christo agit eius sacrificium offerendo, populus denique, qui per
 Communionem Corporis et Sanguinis Christi in unum coalescit. Qui populus, licet origine sua sit
 sanctus, tamen per ipsam participationem consciam, actuosam et fructuosam mysterii eucharistici in
-sanctitate continenter crescit. [10] Traditio non intermissa declaratur
+sanctitate continenter crescit. [^9] [^10]
 
 #### Uninterrupted Tradition
 
 ### §6
 
 Cum praecepta enuntiaret, quibus Ordo Missae recognosceretur, Concilium Vaticanum II praeter alia
-mandavit quoque, ut ritus nonnulli restituerentur «ad pristinam sanctorum Patrum normam», [11]
-iisdem videlicet usum verbis ac S. Pius V in Constitutione Apostolica «Quo primum» inscriptis, qua
-anno 1570 Missale Tridentinum est promulgatum. Ob hanc vero ipsam verborum convenientiam notari
-potest, qua ratione ambo Missalia Romana, quamvis intercesserint quattuor saecula, aequalem et parem
+mandavit quoque, ut ritus nonnulli restituerentur «ad pristinam sanctorum Patrum normam», iisdem
+videlicet usum verbis ac S. Pius V in Constitutione Apostolica «Quo primum» inscriptis, qua anno
+1570 Missale Tridentinum est promulgatum. Ob hanc vero ipsam verborum convenientiam notari potest,
+qua ratione ambo Missalia Romana, quamvis intercesserint quattuor saecula, aequalem et parem
 complectantur traditionem. Si autem huius traditionis ponderentur interiora elementa, intellegitur
-etiam, quam egregie ac feliciter prius perficiatur altero.
+etiam, quam egregie ac feliciter prius perficiatur altero. [^11]
 
 ### §7
 
@@ -125,7 +124,6 @@ tempora ac modi universi, quibus unica eius fides declarata est in humani civili
 tam inter se differentibus, quippe quae vigerent in regionibus semiticis, graecis, latinis. Amplior
 autem hic prospectus cernere nos sinit, quemadmodum Spiritus Sanctus praestet populo Dei mirandam
 fidelitatem in conservando immutabili fidei deposito, licet permagna sit precum rituumque varietas.
-Ad novas rerum condiciones accommodatio
 
 #### Accommodation to New Conditions
 
@@ -147,39 +145,38 @@ officii esse arbitrabatur doctrinam Ecclesiae tralaticiam denuo inculcare, secun
 eucharisticum imprimis Christi ipsius est actio, cuius proinde efficacitas propria eo modo non
 afficitur, quo fideles eiusdem fiunt participes. Idcirco firmis hisce simulque moderatis verbis
 edictum est: «Etsi Missa magnam contineat populi fidelis eruditionem, non tamen expedire visum est
-Patribus, ut vulgari passim lingua celebraretur». [12] Atque condemnandum esse pronuntiavit eum, qui
+Patribus, ut vulgari passim lingua celebraretur». Atque condemnandum esse pronuntiavit eum, qui
 censeret «Ecclesiae romanae ritum, quo submissa voce pars Canonis et verba consecrationis
-proferuntur, damnandum esse; aut lingua tantum vulgari Missam celebrari debere». [13] Nihilominus,
-dum hinc vetuit in Missa linguae vernaculae usum, illinc animarum pastores eius in locum congruentem
+proferuntur, damnandum esse; aut lingua tantum vulgari Missam celebrari debere». Nihilominus, dum
+hinc vetuit in Missa linguae vernaculae usum, illinc animarum pastores eius in locum congruentem
 substituere catechesim iussit: «Ne oves Christi esuriant … mandat sancta Synodus pastoribus et
 singulis curam animarum gerentibus, ut frequenter inter Missarum celebrationem vel per se vel per
 alios, ex his, quae in Missa leguntur, exponant atque inter cetera sanctissimi huius sacrificii
-mysterium aliquod declarent, diebus praesertim dominicis et festis». [14]
+mysterium aliquod declarent, diebus praesertim dominicis et festis». [^12] [^13] [^14]
 
 ### §12
 
 Propterea congregatum, ut Ecclesiam aptaret ad proprii muneris apostolici necessitates hisce ipsis
 temporibus, Concilium Vaticanum II funditus perspexit, quemadmodum Tridentinum, didascalicam et
-pastoralem indolem sacrae Liturgiae. [15] Et, cum nemo catholicorum esset, qui legitimum
-efficacemque ritum sacrum negaret lingua latina peractum, concedere etiam valuit: «Haud raro linguae
-vernaculae usurpatio valde utilis apud populum exsistere possit», eiusque adhibendae facultatem
-dedit. [16] Flagrans illud studium, quo hoc consultum ubivis est susceptum, profecto effecit ut,
-ducibus Episcopis atque ipsa Apostolica Sede, universae liturgicae celebrationes quas populus
-participaret, exsequi liceret vulgari sermone, quo plenius intellegeretur mysterium, quod
-celebraretur.
+pastoralem indolem sacrae Liturgiae. Et, cum nemo catholicorum esset, qui legitimum efficacemque
+ritum sacrum negaret lingua latina peractum, concedere etiam valuit: «Haud raro linguae vernaculae
+usurpatio valde utilis apud populum exsistere possit», eiusque adhibendae facultatem dedit. Flagrans
+illud studium, quo hoc consultum ubivis est susceptum, profecto effecit ut, ducibus Episcopis atque
+ipsa Apostolica Sede, universae liturgicae celebrationes quas populus participaret, exsequi liceret
+vulgari sermone, quo plenius intellegeretur mysterium, quod celebraretur. [^15] [^16]
 
 ### §13
 
 Verumtamen, cum linguae vernaculae usus in sacra Liturgia instrumentum sit, quamvis magni momenti,
 quo apertius exprimeretur catechesis mysterii, quae in celebratione continetur, Concilium Vaticanum
 II admonuit praeterea, ut aliqua Tridentini praescripta, quibus non omnibus locis erat obtemperatum,
-ad exitum deducerentur, veluti homilia diebus dominicis et festis habenda [17] et facultas inter
-ipsos sacros ritus quasdam monitiones intericiendi. [18] Potissimum vero Concilium Vaticanum II, a
-quo suadebatur «illa perfectior Missae participatio, qua fideles post Communionem sacerdotis ex
-eodem sacrificio Corpus dominicum sumunt», [19] incitavit, ut aliud optatum Patrum Tridentinorum in
-rem transferretur, ut scilicet ad sacram Eucharistiam plenius participandam «in singulis Missis
-fideles adstantes non solum spirituali affectu, sed sacramentali etiam Eucharistiae perceptione
-communicarent». [20]
+ad exitum deducerentur, veluti homilia diebus dominicis et festis habenda et facultas inter ipsos
+sacros ritus quasdam monitiones intericiendi. Potissimum vero Concilium Vaticanum II, a quo
+suadebatur «illa perfectior Missae participatio, qua fideles post Communionem sacerdotis ex eodem
+sacrificio Corpus dominicum sumunt», incitavit, ut aliud optatum Patrum Tridentinorum in rem
+transferretur, ut scilicet ad sacram Eucharistiam plenius participandam «in singulis Missis fideles
+adstantes non solum spirituali affectu, sed sacramentali etiam Eucharistiae perceptione
+communicarent». [^17] [^18] [^19] [^20]
 
 ### §14
 
@@ -188,7 +185,7 @@ potuit institutum Tridentinum de Communione sub utraque specie. Etenim, quoniam 
 minime revocantur doctrinae principia de plenissima vi Communionis, qua Eucharistia sub una specie
 panis suscipitur, permisit interdum Communionem sub utraque specie, cum scilicet, per dilucidiorem
 signi sacramentalis formam, opportunitas peculiaris offerretur altius intellegendi mysterii, quod
-fideles participarent. [21]
+fideles participarent. [^21]
 
 ### §15
 
@@ -210,8 +207,7 @@ secus ac nonnulla, quae exterioris quandam paenitentiae formam prodebant aliarum
 propriam. Hoc denique modo normae liturgicae Concilii Tridentini pluribus sane in partibus completae
 et perfectae sunt normis Concilii Vaticani II, quod ad exitum perduxit conatus ad sacram Liturgiam
 fideles propius admovendi, qui per haec quattuor saecula sunt suscepti, praesertim vero recentiore
-aetate, maxime studio rei liturgicae a S. Pio X eiusque Successoribus promoto. Caput I DE
-CELEBRATIONIS EUCHARISTICAE MOMENTO ET DIGNITATE
+aetate, maxime studio rei liturgicae a S. Pio X eiusque Successoribus promoto.
 
 
 ## Chapter I: The Importance and Dignity of the Celebration of the Eucharist
@@ -221,19 +217,18 @@ CELEBRATIONIS EUCHARISTICAE MOMENTO ET DIGNITATE
 ### §16
 
 Celebratio Missae, ut actio Christi et populi Dei hierarchice ordinati, centrum est totius vitae
-christianae pro Ecclesia tum universa tum locali, ac pro singulis fidelibus. [22] In ea enim culmen
+christianae pro Ecclesia tum universa tum locali, ac pro singulis fidelibus. In ea enim culmen
 habetur et actionis qua Deus in Christo mundum sanctificat, et cultus quem homines exhibent Patri,
-eum per Christum Dei Filium in Spiritu Sancto adorantes. [23] In ea insuper mysteria redemptionis
-ita per anni circulum recoluntur, ut quodammodo praesentia reddantur. [24] Ceterae autem actiones
-sacrae et omnia opera christianae vitae cum ea cohaerent, ex ea profluunt et ad eam ordinantur. [25]
+eum per Christum Dei Filium in Spiritu Sancto adorantes. In ea insuper mysteria redemptionis ita per
+anni circulum recoluntur, ut quodammodo praesentia reddantur. Ceterae autem actiones sacrae et omnia
+opera christianae vitae cum ea cohaerent, ex ea profluunt et ad eam ordinantur. [^22] [^23] [^24] [^25]
 
 ### §17
 
 Maxime proinde interest ut celebratio Missae seu Cenae dominicae ita ordinetur, ut sacri ministri
-atque fideles, illam pro sua condicione participantes, eos fructus plenius exinde capiant, [26] ad
-quos obtinendos Christus Dominus sacrificium eucharisticum sui Corporis et sui Sanguinis instituit
-illudque, velut memoriale passionis et resurrectionis suae, Ecclesiae dilectae sponsae concredidit.
-[27]
+atque fideles, illam pro sua condicione participantes, eos fructus plenius exinde capiant, ad quos
+obtinendos Christus Dominus sacrificium eucharisticum sui Corporis et sui Sanguinis instituit
+illudque, velut memoriale passionis et resurrectionis suae, Ecclesiae dilectae sponsae concredidit. [^26] [^27]
 
 ### §18
 
@@ -241,41 +236,39 @@ Quod apte fiet si, attentis natura aliisque adiunctis uniuscuiusque coetus litur
 celebratio ita disponatur, ut consciam illam, actuosam atque plenam participationem fidelium
 inducat, corporis nempe et animi, fide, spe et caritate ferventem, quae ab Ecclesia exoptatur et ab
 ipsa celebrationis natura postulatur, et ad quam populus christianus vi baptismatis ius habet et
-officium. [28]
+officium. [^28]
 
 ### §19
 
 Quamvis fidelium praesentia et actuosa participatio, quae ecclesialem celebrationis naturam apertius
-manifestant, [29] aliquando non possint haberi, eucharistica celebratio sua efficacia et dignitate
-semper est praedita, quippe quae sit actus Christi et Ecclesiae, in quo sacerdos munus suum
-praecipuum adimplet et semper agit pro salute populi. Ipsi ergo commendatur ut sacrificium
-eucharisticum etiam cotidie, pro posse, celebret. [30]
+manifestant, aliquando non possint haberi, eucharistica celebratio sua efficacia et dignitate semper
+est praedita, quippe quae sit actus Christi et Ecclesiae, in quo sacerdos munus suum praecipuum
+adimplet et semper agit pro salute populi. Ipsi ergo commendatur ut sacrificium eucharisticum etiam
+cotidie, pro posse, celebret. [^29] [^30]
 
 ### §20
 
 Cum autem Eucharistiae celebratio, sicut et universa Liturgia, fiat per signa sensibilia, quibus
-fides alitur, roboratur et exprimitur, [31] maxime curandum est eas formas et elementa ab Ecclesia
+fides alitur, roboratur et exprimitur, maxime curandum est eas formas et elementa ab Ecclesia
 proposita seligi et ordinari, quae, attentis personarum et locorum adiunctis, actuosam et plenam
-participationem intensius foveant et fidelium utilitati spirituali aptius respondeant.
+participationem intensius foveant et fidelium utilitati spirituali aptius respondeant. [^31]
 
 ### §21
 
 Haec itaque Institutio eo spectat ut tum lineamenta generalia praebeat, quibus Eucharistiae
-celebratio apte ordinetur, tum regulas exponat, quibus singulae celebrationis formae disponantur.
-[32]
+celebratio apte ordinetur, tum regulas exponat, quibus singulae celebrationis formae disponantur. [^32]
 
 ### §22
 
 Summi autem momenti est Eucharistiae celebratio in Ecclesia particulari. Episcopus enim dioecesanus,
 primus mysteriorum Dei dispensator in Ecclesia particulari sibi commissa, moderator est, promotor et
-custos totius vitae liturgicae. [33] In celebrationibus quae, ipso praesidente, aguntur, praesertim
-vero in celebratione eucharistica, quae ab ipso agitur, presbyterio, diaconis et populo
-participantibus, mysterium Ecclesiae manifestatur. Quare huiusmodi Missarum sollemnia exemplo esse
-debent universae dioecesi. Eius ergo est animum intendere ut presbyteri, diaconi et christifideles
-laici, genuinum sensum rituum et textuum liturgicorum penitius semper comprehendant et ita ad
-actuosam et fructuosam Eucharistiae celebrationem ducantur. Eundem in finem invigilet ut ipsarum
-celebrationum dignitas augeatur, ad quam promovendam loci sacri, musicae et artis pulchritudo
-quamplurimum conferat.
+custos totius vitae liturgicae. In celebrationibus quae, ipso praesidente, aguntur, praesertim vero
+in celebratione eucharistica, quae ab ipso agitur, presbyterio, diaconis et populo participantibus,
+mysterium Ecclesiae manifestatur. Quare huiusmodi Missarum sollemnia exemplo esse debent universae
+dioecesi. Eius ergo est animum intendere ut presbyteri, diaconi et christifideles laici, genuinum
+sensum rituum et textuum liturgicorum penitius semper comprehendant et ita ad actuosam et fructuosam
+Eucharistiae celebrationem ducantur. Eundem in finem invigilet ut ipsarum celebrationum dignitas
+augeatur, ad quam promovendam loci sacri, musicae et artis pulchritudo quamplurimum conferat. [^33]
 
 ### §23
 
@@ -289,21 +282,20 @@ Hae aptationes, ut plurimum, in electione consistunt quorundam rituum aut textuu
 lectionum, orationum, monitionum et gestuum, qui sint necessitatibus, praeparationi et ingenio
 participantium magis respondentes quique sacerdoti celebranti committuntur. Attamen meminerit
 sacerdos se servitorem esse sacrae Liturgiae, sibique quidquam proprio marte in Missae celebratione
-addere, demere aut mutare non licere. [34]
+addere, demere aut mutare non licere. [^34]
 
 ### §25
 
 Insuper in Missali suo loco aptationes quaedam innuuntur quae, iuxta Constitutionem de sacra
-Liturgia, respective competunt aut Episcopo dioecesano aut Conferentiae Episcoporum [35] ( cf.
-infra, nn. 387, 388-393 ).
+Liturgia, respective competunt aut Episcopo dioecesano aut Conferentiae Episcoporum ( cf. infra, nn.
+387, 388-393 ). [^35]
 
 ### §26
 
 Quod autem ad varietates et adaptationes profundiores attinet, quae ad traditiones et ingenium
 populorum et regionum attendant, ad mentem art. 40 Constitutionis de sacra Liturgia pro utilitate
 vel necessitate introducendas, ea serventur quae in Instructione «De Liturgia romana et
-inculturatione» [36] et infra ( nn. 395-399 ) exponuntur. Caput II DE STRUCTURA MISSAE EIUSQUE
-ELEMENTIS ET PARTIBUS I. DE GENERALI STRUCTURA MISSAE
+inculturatione» et infra ( nn. 395-399 ) exponuntur. [^36]
 
 
 ## Chapter II: The Structure of the Mass, Its Elements and Its Parts
@@ -315,20 +307,19 @@ ELEMENTIS ET PARTIBUS I. DE GENERALI STRUCTURA MISSAE
 ### §27
 
 In Missa seu Cena dominica populus Dei in unum convocatur, sacerdote praeside personamque Christi
-gerente, ad memoriale Domini seu sacrificium eucharisticum celebrandum. [37] Quare de huiusmodi
-sanctae Ecclesiae coadunatione locali eminenter valet promissio Christi: «Ubi sunt duo vel tres
-congregati in nomine meo, ibi sum in medio eorum» ( Mt 18, 20). In Missae enim celebratione, in qua
-sacrificium crucis perpetuatur, [38] Christus realiter praesens adest in ipso coetu in suo nomine
-congregato, in persona ministri, in verbo suo, et quidem substantialiter et continenter sub
-speciebus eucharisticis. [39]
+gerente, ad memoriale Domini seu sacrificium eucharisticum celebrandum. Quare de huiusmodi sanctae
+Ecclesiae coadunatione locali eminenter valet promissio Christi: «Ubi sunt duo vel tres congregati
+in nomine meo, ibi sum in medio eorum» ( Mt 18, 20). In Missae enim celebratione, in qua sacrificium
+crucis perpetuatur, Christus realiter praesens adest in ipso coetu in suo nomine congregato, in
+persona ministri, in verbo suo, et quidem substantialiter et continenter sub speciebus
+eucharisticis. [^37] [^38] [^39]
 
 ### §28
 
 Missa duabus partibus quodammodo constat, liturgia nempe verbi et liturgia eucharistica, quae tam
-arcte inter se coniunguntur, ut unum actum cultus efficiant. [40] Siquidem in Missa mensa tam verbi
-Dei quam Corporis Christi paratur e qua fideles instituantur et reficiantur. [41] Quidam autem ritus
-celebrationem aperiunt et concludunt. II. DE DIVERSIS ELEMENTIS MISSAE De lectione verbi Dei eiusque
-explanatione
+arcte inter se coniunguntur, ut unum actum cultus efficiant. Siquidem in Missa mensa tam verbi Dei
+quam Corporis Christi paratur e qua fideles instituantur et reficiantur. Quidam autem ritus
+celebrationem aperiunt et concludunt. [^40] [^41]
 
 ### II. The Different Elements of the Mass
 
@@ -341,7 +332,7 @@ in verbo suo, Evangelium annuntiat. Ideoque lectiones verbi Dei, quae elementum 
 Liturgiae praebent, cum veneratione ab omnibus sunt audiendae. Quamvis autem verbum divinum in
 lectionibus sacrae Scripturae ad omnes homines cuiusque temporis dirigatur iisque intellegibile sit,
 eius tamen plenior intellegentia et efficacitas expositione viva, id est homilia, utpote parte
-actionis liturgicae, [42] fovetur. De orationibus aliisque partibus ad sacerdotem pertinentibus
+actionis liturgicae, fovetur. [^42]
 
 #### The Prayers and Other Parts Pertaining to the Priest
 
@@ -350,8 +341,8 @@ actionis liturgicae, [42] fovetur. De orationibus aliisque partibus ad sacerdote
 Inter ea quae sacerdoti tribuuntur, primum locum obtinet Prex eucharistica, quae culmen est totius
 celebrationis. Accedunt deinde orationes, idest collecta, oratio super oblata et oratio post
 Communionem. Hae preces a sacerdote, qui coetui personam Christi gerens praeest, ad Deum diriguntur
-nomine totius plebis sanctae et omnium circumstantium. [43] Merito igitur «orationes
-praesidentiales» nominantur.
+nomine totius plebis sanctae et omnium circumstantium. Merito igitur «orationes praesidentiales»
+nominantur. [^43]
 
 ### §31
 
@@ -367,30 +358,29 @@ Precem ipsam; necnon universam actionem sacram, ante dimissionem, concludere.
 ### §32
 
 Natura partium «praesidentialium» exigit ut clara et elata voce proferantur et ab omnibus cum
-attentione auscultentur. [44] Proinde dum sacerdos eas profert aliae orationes vel cantus non
-habeantur, atque organum vel alia instrumenta musica sileant.
+attentione auscultentur. Proinde dum sacerdos eas profert aliae orationes vel cantus non habeantur,
+atque organum vel alia instrumenta musica sileant. [^44]
 
 ### §33
 
 Sacerdos etenim, tamquam praeses, nomine Ecclesiae et congregatae communitatis preces effundit,
 aliquando autem nomine dumtaxat suo, ut ministerium suum maiore cum animi attentione et pietate
 adimpleat. Huiusmodi preces, quae ante lectionem Evangelii, in praeparatione donorum, necnon ante et
-post sacerdotis Communionem proponuntur, secreto dicuntur. De aliis formulis in celebratione
-occurrentibus
+post sacerdotis Communionem proponuntur, secreto dicuntur.
 
 #### Other Formulas Occurring during the Celebration
 
 ### §34
 
-Cum Missae celebratio natura sua indolem «communitariam» habeat, [45] dialogis inter sacerdotem et
-fideles congregatos necnon acclamationibus magna vis inhaeret: [46] etenim non sunt tantum signa
-externa celebrationis communis, sed communionem inter sacerdotem et populum fovent et efficiunt.
+Cum Missae celebratio natura sua indolem «communitariam» habeat, dialogis inter sacerdotem et
+fideles congregatos necnon acclamationibus magna vis inhaeret: etenim non sunt tantum signa externa
+celebrationis communis, sed communionem inter sacerdotem et populum fovent et efficiunt. [^45] [^46]
 
 ### §35
 
 Acclamationes et responsiones fidelium salutationibus sacerdotis et orationibus illum
 participationis actuosae gradum constituunt, qui in omni Missae forma a fidelibus congregatis
-praestandus est, ut actio totius communitatis clare exprimatur et foveatur. [47]
+praestandus est, ut actio totius communitatis clare exprimatur et foveatur. [^47]
 
 ### §36
 
@@ -403,7 +393,7 @@ universalis et Oratio dominica.
 Demum ex aliis formulis: a) nonnullae ritum seu actum per se stantem, uti hymnus Glória , psalmus
 responsorius, Allelúia et versus ante Evangelium, Sanctus , acclamatio anamneseos, cantus post
 Communionem, constituunt; b) nonnullae vero, uti cantus ad introitum, ad offertorium, ad fractionem
-( Agnus Dei ) et ad Communionem, ritum aliquem comitantur. De modis proferendi varios textus
+( Agnus Dei ) et ad Communionem, ritum aliquem comitantur.
 
 #### The Manner of Pronouncing the Different Texts
 
@@ -414,7 +404,7 @@ omnibus, vox respondeat generi ipsius textus, prouti hic est lectio, oratio, adm
 cantus; necnon formae celebrationis et sollemnitati coetus. Ratio insuper habeatur indolis
 diversarum linguarum et ingenii populorum. In rubricis ergo et in normis quae sequuntur, verba
 «dicere» vel «proferre» intellegi debent sive de cantu sive de recitatione, servatis principiis
-supra propositis. De momento cantus
+supra propositis.
 
 #### The Importance of Singing
 
@@ -422,8 +412,8 @@ supra propositis. De momento cantus
 
 Ab Apostolo monentur christifideles qui in unum conveniunt exspectantes adventum Domini sui, ut una
 simul cantent psalmis, hymnis et canticis spiritualibus (cf. Col 3, 16). Cantus enim est signum
-exsultationis cordis (cf. Act 2, 46). Unde S. Augustinus recte dicit: «cantare amantis est», [48] et
-iam antiquitus in proverbium venit: «bis orat qui bene cantat».
+exsultationis cordis (cf. Act 2, 46). Unde S. Augustinus recte dicit: «cantare amantis est», et iam
+antiquitus in proverbium venit: «bis orat qui bene cantat». [^48]
 
 ### §40
 
@@ -433,16 +423,16 @@ textus cantu proferre qui per se cantui destinantur, curandum omnino est ne desi
 et populi in celebrationibus, quae diebus dominicis et festis de praecepto peraguntur. In seligendis
 tamen partibus quae revera canantur, eae praeferendae sunt quae maioris sunt momenti, et praesertim,
 quae a sacerdote vel a diacono aut lectore, populo respondente, canendae sunt, aut a sacerdote et
-populo simul proferendae. [49]
+populo simul proferendae. [^49]
 
 ### §41
 
 Principem locum obtineat, ceteris paribus, cantus gregorianus, utpote Liturgiae romanae proprius.
 Alia genera musicae sacrae, praesertim vero polyphonia, minime excluduntur, dummodo spiritui
-actionis liturgicae respondeant et participationem omnium fidelium foveant. [50] Cum frequentius in
-dies fideles ex diversis nationibus inter se conveniant, expedit ut iidem fideles aliquas saltem
-partes Ordinarii Missae, praesertim vero symbolum fidei et orationem dominicam, modulis adhibitis
-facilioribus, lingua latina simul cantare sciant. [51] De gestibus et corporis habitibus
+actionis liturgicae respondeant et participationem omnium fidelium foveant. Cum frequentius in dies
+fideles ex diversis nationibus inter se conveniant, expedit ut iidem fideles aliquas saltem partes
+Ordinarii Missae, praesertim vero symbolum fidei et orationem dominicam, modulis adhibitis
+facilioribus, lingua latina simul cantare sciant. [^50] [^51]
 
 #### Gestures and Bodily Posture
 
@@ -450,12 +440,11 @@ facilioribus, lingua latina simul cantare sciant. [51] De gestibus et corporis h
 
 Gestus et corporis habitus tum sacerdotis, diaconi, et ministrorum, tum populi eo contendere debent
 ut tota celebratio decore nobilique simplicitate fulgeat, diversarum eius partium vera plenaque
-significatio percipiatur et omnium participatio foveatur. [52] Attendendum igitur erit ad ea quae ab
-hac Institutione generali et tradita praxi Ritus romani definiuntur, et quae ad commune bonum
-spirituale populi Dei conferant, potius quam ad privatam propensionem aut arbitrium. Communis
-corporis habitus, ab omnibus participantibus servandus, signum est unitatis membrorum communitatis
-christianae ad sacram Liturgiam congregatorum: mentem enim et sensus animi participantium exprimit
-eosdemque fovet.
+significatio percipiatur et omnium participatio foveatur. Attendendum igitur erit ad ea quae ab hac
+Institutione generali et tradita praxi Ritus romani definiuntur, et quae ad commune bonum spirituale
+populi Dei conferant, potius quam ad privatam propensionem aut arbitrium. Communis corporis habitus,
+ab omnibus participantibus servandus, signum est unitatis membrorum communitatis christianae ad
+sacram Liturgiam congregatorum: mentem enim et sensus animi participantium exprimit eosdemque fovet. [^52]
 
 ### §43
 
@@ -469,12 +458,12 @@ valetudinis causa, vel ob angustiam loci vel frequentiorem numerum adstantium al
 causas impediantur, ad consecrationem. Hi vero qui non genuflectunt ad consecrationem, inclinationem
 profundam peragant dum sacerdos genuflectit post consecrationem. Est tamen Conferentiae Episcoporum,
 gestus et corporis habitus in Ordine Missae descriptos ingenio et rationabilibus populorum
-traditionibus ad normam iuris aptare. [53] Attendendum tamen erit, ut sensui et indoli cuiusque
-partis celebrationis respondeant. Ubi mos est, populum ab acclamatione Sanctus expleta usque ad
-finem Precis eucharisticae et ante Communionem quando sacerdos dicit Ecce Agnus Dei genuflexum
-manere, hic laudabiliter retinetur. Ad uniformitatem in gestibus et corporis habitibus in una
-eademque celebratione obtinendam, fideles monitionibus obtemperent, quas diaconus, vel minister
-laicus, vel sacerdos proferunt, iuxta ea quae in Missali statuuntur.
+traditionibus ad normam iuris aptare. Attendendum tamen erit, ut sensui et indoli cuiusque partis
+celebrationis respondeant. Ubi mos est, populum ab acclamatione Sanctus expleta usque ad finem
+Precis eucharisticae et ante Communionem quando sacerdos dicit Ecce Agnus Dei genuflexum manere, hic
+laudabiliter retinetur. Ad uniformitatem in gestibus et corporis habitibus in una eademque
+celebratione obtinendam, fideles monitionibus obtemperent, quas diaconus, vel minister laicus, vel
+sacerdos proferunt, iuxta ea quae in Missali statuuntur. [^53]
 
 ### §44
 
@@ -482,19 +471,17 @@ In gestibus numerantur etiam actiones et processiones, quibus sacerdos cum diaco
 altare adit; diaconus ante Evangelii proclamationem Evangeliarium seu Librum evangeliorum ad ambonem
 defert; fideles dona afferunt et ad Communionem accedunt. Convenit ut huiusmodi actiones et
 processiones decore peragantur, dum cantus ipsis proprii fiunt, iuxta normas pro singulis statutas.
-De silentio
 
 #### Silence
 
 ### §45
 
-Sacrum quoque silentium, tamquam pars celebrationis, suo tempore est servandum. [54] Eius autem
-natura a tempore pendet, quo in singulis celebrationibus occurrit. In actu enim paenitentiali et
-post invitationem ad orandum singuli ad seipsos convertuntur; lectione autem vel homilia peracta, ea
-quae audierunt breviter meditantur; post Communionem vero in corde suo Deum laudant et orant. Iam
-ante ipsam celebrationem silentium laudabiliter servatur in ecclesia, in sacristia, in secretario et
-in locis ipsis propinquioribus, ut omnes se ad sacra peragenda devote et rite disponantur. III. DE
-SINGULIS MISSAE PARTIBUS A) Ritus initiales
+Sacrum quoque silentium, tamquam pars celebrationis, suo tempore est servandum. Eius autem natura a
+tempore pendet, quo in singulis celebrationibus occurrit. In actu enim paenitentiali et post
+invitationem ad orandum singuli ad seipsos convertuntur; lectione autem vel homilia peracta, ea quae
+audierunt breviter meditantur; post Communionem vero in corde suo Deum laudant et orant. Iam ante
+ipsam celebrationem silentium laudabiliter servatur in ecclesia, in sacristia, in secretario et in
+locis ipsis propinquioribus, ut omnes se ad sacra peragenda devote et rite disponantur. [^54]
 
 ### III. The Individual Parts of the Mass
 
@@ -507,7 +494,6 @@ Glória et collecta, characterem habent exordii, introductionis et praeparationi
 ut fideles in unum convenientes communionem constituant et recte ad verbum Dei audiendum digneque
 Eucharistiam celebrandam sese disponant. In quibusdam celebrationibus, quae cum Missa ad normam
 librorum liturgicorum conectuntur, ritus initiales omittuntur aut modo peculiari peraguntur.
-Introitus
 
 #### The Entrance
 
@@ -522,11 +508,10 @@ ministrorumque comitari.
 
 Peragitur autem a schola et populo alternatim, vel simili modo a cantore et populo, vel totus a
 populo vel a schola sola. Adhiberi potest sive antiphona cum suo psalmo in Graduali Romano vel in
-Graduali simplici exstans, sive alius cantus, actioni sacrae, diei vel temporis indoli congruus
-[55], cuius textus a Conferentia Episcoporum sit approbatus. Si ad introitum non habetur cantus,
-antiphona in Missali proposita recitatur sive a fidelibus, sive ab aliquibus ex ipsis, sive a
-lectore, sin aliter ab ipso sacerdote, qui potest etiam in modum monitionis initialis ( cf. n. 31 )
-eam aptare. Salutatio altaris et populi congregati
+Graduali simplici exstans, sive alius cantus, actioni sacrae, diei vel temporis indoli congruus,
+cuius textus a Conferentia Episcoporum sit approbatus. Si ad introitum non habetur cantus, antiphona
+in Missali proposita recitatur sive a fidelibus, sive ab aliquibus ex ipsis, sive a lectore, sin
+aliter ab ipso sacerdote, qui potest etiam in modum monitionis initialis ( cf. n. 31 ) eam aptare. [^55]
 
 #### Reverence to the Altar and Greeting of the Assembled People
 
@@ -542,7 +527,6 @@ Expleto cantu ad introitum, sacerdos, stans ad sedem, una cum universo coetu sig
 deinde communitati congregatae praesentiam Domini per salutationem significat. Qua salutatione et
 populi responsione manifestatur Ecclesiae congregatae mysterium. Salutatione populi facta, sacerdos,
 vel diaconus, vel minister laicus potest brevissimis verbis introducere fideles in Missam diei.
-Actus paenitentialis
 
 #### The Penitential Act
 
@@ -552,7 +536,7 @@ Postea sacerdos invitat ad actum paenitentialem, qui, post brevem pausam silenti
 communitate formula confessionis generalis perficitur, et sacerdotis absolutione concluditur, quae
 tamen efficacia sacramenti Paenitentiae caret. Die dominica, praesertim tempore paschali, loco
 consueti actus paenitentialis, quandoque fieri potest benedictio et aspersio aquae in memoriam
-baptismi. [56] Kyrie, eleison
+baptismi. [^56]
 
 #### The Kyrie, Eleison
 
@@ -563,7 +547,7 @@ actu paenitentiali. Cum sit cantus quo fideles Dominum acclamant eiusque miseric
 peragitur de more ab omnibus, partem nempe in eo habentibus populo atque schola vel cantore.
 Acclamatio quaeque de more bis repetitur, maiore tamen numero non excluso, ratione ingenii
 diversarum linguarum necnon musicae artis vel rerum adiunctorum. Quando Kýrie cantatur ut pars actus
-paenitentialis, singulis acclamationibus «tropus» praeponitur. Gloria in excelsis
+paenitentialis, singulis acclamationibus «tropus» praeponitur.
 
 #### The Gloria in Excelsis
 
@@ -575,7 +559,7 @@ Inchoatur a sacerdote vel, pro opportunitate, a cantore, aut a schola, cantatur 
 simul, vel a populo alternatim cum schola, vel ab ipsa schola. Si non cantatur, recitandum est ab
 omnibus simul aut a duobus choris sibi invicem respondentibus. Cantatur autem vel dicitur diebus
 dominicis extra tempus Adventus et Quadragesimae, necnon in sollemnitatibus et festis, et in
-peculiaribus celebrationibus sollemnioribus. Collecta
+peculiaribus celebrationibus sollemnioribus.
 
 #### The Collect [*] [* Revised translation of the Collect conclusions approved by the USCCB on January 29, 2021, confirmed by the Holy See on February 3, 2021, and implemented in the Dioceses of the United States of America on February 17, 2021 ]
 
@@ -585,13 +569,13 @@ Deinde sacerdos populum ad orandum invitat; et omnes una cum sacerdote parumper 
 fiant se in conspectu Dei stare, et vota sua in animo possint nuncupare. Tunc sacerdos profert
 orationem, quae solet «collecta» nominari, et per quam indoles celebrationis exprimitur. Ex antiqua
 traditione Ecclesiae, oratio collecta de more ad Deum Patrem, per Christum in Spiritu Sancto,
-dirigitur [57] et conclusione trinitaria, idest longiore concluditur, hoc modo: – si dirigitur ad
-Patrem: Per Dóminum nostrum Iesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte
-Spíritus Sancti, Deus, per ómnia sáecula saeculórum ; – si dirigitur ad Patrem, sed in fine ipsius
-fit mentio Filii: Qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sáecula
-saeculórum ; – si dirigitur ad Filium: Qui vivis et regnas cum Deo Patre in unitáte Spíritus Sancti,
-Deus, per ómnia sáecula saeculórum . Populus, precationi se coniungens, acclamatione Amen orationem
-facit suam  . In Missa semper unica dicitur collecta. B) Liturgia verbi
+dirigitur et conclusione trinitaria, idest longiore concluditur, hoc modo: – si dirigitur ad Patrem:
+Per Dóminum nostrum Iesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus
+Sancti, Deus, per ómnia sáecula saeculórum ; – si dirigitur ad Patrem, sed in fine ipsius fit mentio
+Filii: Qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sáecula saeculórum ; –
+si dirigitur ad Filium: Qui vivis et regnas cum Deo Patre in unitáte Spíritus Sancti, Deus, per
+ómnia sáecula saeculórum . Populus, precationi se coniungens, acclamatione Amen orationem facit suam
+. In Missa semper unica dicitur collecta. [^57]
 
 #### B) The Liturgy of the Word
 
@@ -600,10 +584,10 @@ facit suam  . In Missa semper unica dicitur collecta. B) Liturgia verbi
 Partem praecipuam liturgiae verbi constituunt lectiones e sacra Scriptura desumptae cum cantibus
 inter eas occurrentibus; homilia autem, professio fidei et oratio universalis seu oratio fidelium
 illam evolvunt et concludunt. Nam in lectionibus, quas homilia exponit, Deus populum suum
-alloquitur, [58] mysterium redemptionis et salutis patefacit, atque nutrimentum spirituale offert;
-et ipse Christus per verbum suum in medio fidelium praesens adest. [59] Hoc verbum divinum populus
-suum facit silentio et cantibus, atque ipsi adhaeret professione fidei; eo autem nutritus, oratione
-universali pro necessitatibus totius Ecclesiae et pro totius mundi salute preces fundit. Silentium
+alloquitur, mysterium redemptionis et salutis patefacit, atque nutrimentum spirituale offert; et
+ipse Christus per verbum suum in medio fidelium praesens adest. Hoc verbum divinum populus suum
+facit silentio et cantibus, atque ipsi adhaeret professione fidei; eo autem nutritus, oratione
+universali pro necessitatibus totius Ecclesiae et pro totius mundi salute preces fundit. [^58] [^59]
 
 ### §56
 
@@ -611,17 +595,16 @@ Liturgia verbi ita celebranda est ut faveat meditationi, ideo plane vitanda est 
 festinationis quae recollectionem impediat. In ea conveniunt etiam brevia momenta silentii, coetui
 congregato accommodata, quibus, Spiritu Sancto fovente, Dei Verbum corde percipiatur, ac responsio
 per orationem praeparetur. Quae momenta silentii opportune servari possunt, e.g., antequam inchoetur
-ipsa liturgia verbi, post primam et secundam lectionem, peracta denique homilia. [60] Lectiones
-biblicae
+ipsa liturgia verbi, post primam et secundam lectionem, peracta denique homilia. [^60]
 
 #### The Biblical Readings
 
 ### §57
 
-In lectionibus mensa verbi Dei paratur fidelibus et thesauri biblici eis aperiuntur. [61] Praestat
+In lectionibus mensa verbi Dei paratur fidelibus et thesauri biblici eis aperiuntur. Praestat
 proinde lectionum biblicarum dispositionem servari, qua unitas utriusque Testamenti et historiae
 salutis illustratur; neque fas est lectiones et psalmum responsorium, quae verbum Dei continent, cum
-aliis textibus non biblicis commutari. [62]
+aliis textibus non biblicis commutari. [^61] [^62]
 
 ### §58
 
@@ -642,8 +625,7 @@ Lectio Evangelii culmen constituit liturgiae verbi. Maximam venerationem illi es
 Liturgia docet, cum eam prae ceteris lectionibus speciali honore insigniat, sive ex parte ministri
 ad eam annuntiandam deputati et per benedictionem vel orationem sese praeparantis; sive ex parte
 fidelium, qui per acclamationes Christum praesentem sibique loquentem agnoscunt et profitentur, et
-lectionem ipsam stantes auscultant; sive ex ipsis signis venerationis Evangeliario tributis. Psalmus
-responsorius
+lectionem ipsam stantes auscultant; sive ex ipsis signis venerationis Evangeliario tributis.
 
 #### The Responsorial Psalm
 
@@ -660,8 +642,7 @@ responsorum et psalmorum pro diversis temporibus anni aut pro diversis ordinibus
 sunt, qui adhiberi valent, loco textus lectioni respondentis, quoties psalmus cantu profertur. Si
 psalmus cani non potest, recitatur modo aptiore ad meditationem verbi Dei fovendam. Loco psalmi in
 lectionario assignati cani potest etiam vel responsorium graduale e Graduali Romano, vel psalmus
-responsorius aut alleluiaticus e Graduali simplici, sicut in his libris describuntur. Acclamatio
-ante lectionem Evangelii
+responsorius aut alleluiaticus e Graduali simplici, sicut in his libris describuntur.
 
 #### The Acclamation before the Gospel
 
@@ -686,27 +667,26 @@ vel versus ante Evangelium, si non cantantur, omitti possunt.
 ### §64
 
 Sequentia, quae praeter quam diebus Paschae et Pentecostes, est ad libitum, cantatur ante Allelúia .
-Homilia
 
 #### The Homily
 
 ### §65
 
-Homilia est pars Liturgiae et valde commendatur: [63] est enim ad nutrimentum vitae christianae
+Homilia est pars Liturgiae et valde commendatur: est enim ad nutrimentum vitae christianae
 necessaria. Sit oportet explicatio aut alicuius aspectus lectionum sacrae Scripturae aut alterius
 textus ex Ordinario vel Proprio Missae diei, ratione habita sive mysterii, quod celebratur, sive
-peculiarium necessitatum auditorum. [64]
+peculiarium necessitatum auditorum. [^63] [^64]
 
 ### §66
 
 Homilia de more ab ipso sacerdote celebrante habeatur vel ab eo committatur sacerdoti concelebranti,
-vel quandoque, pro opportunitate, etiam diacono, numquam vero laico. [65] In casibus peculiaribus
+vel quandoque, pro opportunitate, etiam diacono, numquam vero laico. In casibus peculiaribus
 iustaque de causa homilia haberi potest etiam ab Episcopo vel presbytero qui celebrationi interest
 quin concelebrare possit. Diebus dominicis et festis de praecepto homilia habenda est nec omitti
 potest nisi gravi de causa, in omnibus Missis, quae concurrente populo celebrantur; ceteris vero
 diebus commendatur, praesertim in feriis Adventus, Quadragesimae et temporis paschalis, necnon in
-aliis festis et occasionibus, in quibus populus frequentior ad ecclesiam convenit. [66] Opportune
-post homiliam breve spatium silentii servatur. Professio fidei
+aliis festis et occasionibus, in quibus populus frequentior ad ecclesiam convenit. Opportune post
+homiliam breve spatium silentii servatur. [^65] [^66]
 
 #### The Profession of Faith
 
@@ -723,7 +703,7 @@ Symbolum cantandum vel dicendum est a sacerdote cum populo diebus dominicis et i
 dici potest etiam in peculiaribus celebrationibus sollemnioribus. Si in cantu profertur, inchoatur a
 sacerdote vel, pro opportunitate, a cantore, aut a schola, cantatur autem vel ab omnibus simul, vel
 a populo alternatim cum schola. Si non cantatur, recitandum est ab omnibus simul aut a duobus choris
-sibi invicem respondentibus. Oratio universalis
+sibi invicem respondentibus.
 
 #### The Universal Prayer
 
@@ -733,7 +713,7 @@ In oratione universali, seu oratione fidelium, populus, verbo Dei in fide suscep
 respondet et, sui sacerdotii baptismalis munus exercens, preces Deo offert pro salute omnium.
 Expedit ut huiusmodi oratio in Missis cum populo de more habeatur, ita ut obsecrationes fiant pro
 sancta Ecclesia, pro iis qui in potestate nos regunt, pro iis qui variis premuntur necessitatibus,
-ac pro omnibus hominibus totiusque mundi salute. [67]
+ac pro omnibus hominibus totiusque mundi salute. [^67]
 
 ### §70
 
@@ -748,8 +728,8 @@ Est sacerdotis celebrantis precationem a sede moderari. Ipse eam brevi monitione
 fideles ad orandum invitat, ipsamque oratione concludit. Intentiones quae proponuntur sint sobriae,
 sapienti libertate et paucis verbis compositae et precationem universae communitatis exprimant.
 Proferuntur ex ambone aut ex alio loco convenienti, a diacono vel a cantore vel a lectore, vel a
-fideli laico. [68] Populus vero stans precationem suam exprimit sive invocatione communi post
-singulas intentiones prolatas, sive orando sub silentio. C) Liturgia eucharistica
+fideli laico. Populus vero stans precationem suam exprimit sive invocatione communi post singulas
+intentiones prolatas, sive orando sub silentio. [^68]
 
 #### C) The Liturgy of the Eucharist
 
@@ -757,16 +737,15 @@ singulas intentiones prolatas, sive orando sub silentio. C) Liturgia eucharistic
 
 In Cena novissima, Christus sacrificium et convivium paschale instituit, quo sacrificium crucis in
 Ecclesia continue praesens efficitur, cum sacerdos, Christum Dominum repraesentans, idem perficit
-quod ipse Dominus egit atque discipulis in sui memoriam faciendum tradidit. [69] Christus enim
-accepit panem et calicem, gratias egit, fregit deditque discipulis suis, dicens: Accipite,
-manducate, bibite; hoc est Corpus meum; hic est calix Sanguinis mei. Hoc facite in meam
-commemorationem. Proinde Ecclesia totam celebrationem Liturgiae eucharisticae partibus hisce Christi
-verbis et actibus respondentibus ordinavit. Siquidem: 1) In praeparatione donorum, ad altare
-afferuntur panis et vinum cum aqua, ea nempe elementa, quae Christus in manus suas accepit. 2) In
-Prece eucharistica Deo pro toto opere salutis gratiae aguntur, et oblata Christi Corpus et Sanguis
-fiunt. 3) Per fractionem panis et per Communionem fideles, quamvis multi, ex uno pane accipiunt
-Corpus et ex uno calice Sanguinem Domini eodem modo ac Apostoli de manibus ipsius Christi.
-Praeparatio donorum
+quod ipse Dominus egit atque discipulis in sui memoriam faciendum tradidit. Christus enim accepit
+panem et calicem, gratias egit, fregit deditque discipulis suis, dicens: Accipite, manducate,
+bibite; hoc est Corpus meum; hic est calix Sanguinis mei. Hoc facite in meam commemorationem.
+Proinde Ecclesia totam celebrationem Liturgiae eucharisticae partibus hisce Christi verbis et
+actibus respondentibus ordinavit. Siquidem: 1) In praeparatione donorum, ad altare afferuntur panis
+et vinum cum aqua, ea nempe elementa, quae Christus in manus suas accepit. 2) In Prece eucharistica
+Deo pro toto opere salutis gratiae aguntur, et oblata Christi Corpus et Sanguis fiunt. 3) Per
+fractionem panis et per Communionem fideles, quamvis multi, ex uno pane accipiunt Corpus et ex uno
+calice Sanguinem Domini eodem modo ac Apostoli de manibus ipsius Christi. [^69]
 
 #### The Preparation of the Gifts
 
@@ -774,13 +753,13 @@ Praeparatio donorum
 
 Initio Liturgiae eucharisticae dona, quae Corpus et Sanguis Christi efficientur, ad altare
 afferuntur. Imprimis altare, seu mensa dominica, quae centrum est totius liturgiae eucharisticae,
-[70] praeparatur, cum corporale, purificatorium, missale et calix, nisi ad abacum paratur, in eo
+praeparatur, cum corporale, purificatorium, missale et calix, nisi ad abacum paratur, in eo
 collocantur. Oblationes deinde afferuntur: panis et vinum laudabiliter a fidelibus praesentantur, a
 sacerdote autem vel a diacono loco opportuno accipiuntur ad altare deferenda. Quamvis fideles panem
 et vinum ad liturgiam destinata non iam de suis proferant sicut olim, ritus tamen illa deferendi vim
 et significationem spiritualem servat. Etiam pecunia vel alia dona pro pauperibus vel pro ecclesia a
 fidelibus allata vel in ecclesia collecta accepta habentur; quapropter loco apto extra mensam
-eucharisticam collocantur.
+eucharisticam collocantur. [^70]
 
 ### §74
 
@@ -800,7 +779,7 @@ ministro.
 ### §76
 
 Deinde sacerdos manus lavat ad latus altaris, quo ritu desiderium internae purificationis
-exprimitur. Oratio super oblata
+exprimitur.
 
 #### The Prayer over the Offerings
 
@@ -811,7 +790,6 @@ cum sacerdote et per orationem super oblata praeparatio donorum concluditur et P
 praeparatur. In Missa unica dicitur oratio super oblata, quae concluditur conclusione breviore,
 idest: Per Christum Dóminum nostrum ; si vero in fine ipsius fit mentio Filii: Qui vivit et regnat
 in sáecula saeculórum . Populus precationi se coniungens, acclamatione Amen orationem facit suam.
-Prex eucharistica
 
 #### The Eucharistic Prayer
 
@@ -842,13 +820,12 @@ Christo Domino per Apostolos accepit, Ecclesia memoriam ipsius Christi agit, rec
 beatam passionem, gloriosam resurrectionem et ad caelos ascensionem. f) Oblatio: per quam in ipsa
 hac memoria Ecclesia, eaque praesertim hic et nunc congregata, in Spiritu Sancto hostiam immaculatam
 Patri offert. Intendit vero Ecclesia ut fideles non solummodo immaculatam hostiam offerant sed etiam
-seipsos offerre discant, [71] et de die in diem consummentur, Christo mediatore, in unitatem cum Deo
-et inter se, ut sit tandem Deus omnia in omnibus. [72] g) Intercessiones: per quas exprimitur
-Eucharistiam celebrari in communione cum tota Ecclesia tam caelesti quam terrestri, oblationemque
-fieri pro ipsa et omnibus eius membris vivis atque defunctis, quae ad participandam redemptionem et
-salutem per Christi Corpus et Sanguinem acquisitam vocata sunt. h) Doxologia finalis: qua
-glorificatio Dei exprimitur, quaeque acclamatione: Amen populi, confirmatur et concluditur. Ritus
-Communionis
+seipsos offerre discant, et de die in diem consummentur, Christo mediatore, in unitatem cum Deo et
+inter se, ut sit tandem Deus omnia in omnibus. g) Intercessiones: per quas exprimitur Eucharistiam
+celebrari in communione cum tota Ecclesia tam caelesti quam terrestri, oblationemque fieri pro ipsa
+et omnibus eius membris vivis atque defunctis, quae ad participandam redemptionem et salutem per
+Christi Corpus et Sanguinem acquisitam vocata sunt. h) Doxologia finalis: qua glorificatio Dei
+exprimitur, quaeque acclamatione: Amen populi, confirmatur et concluditur. [^71] [^72]
 
 #### The Communion Rite
 
@@ -856,7 +833,7 @@ Communionis
 
 Cum celebratio eucharistica convivium paschale sit, expedit ut, iuxta mandatum Domini, Corpus et
 Sanguis eius a fidelibus rite dispositis ut cibus spiritualis accipiantur. Ad hoc tendunt fractio
-aliique ritus praeparatorii, quibus fideles ad Communionem immediate adducuntur. Oratio dominica
+aliique ritus praeparatorii, quibus fideles ad Communionem immediate adducuntur.
 
 #### The Lord’s Prayer
 
@@ -868,7 +845,7 @@ invitationem ad orationem profert, omnes vero fideles orationem una cum sacerdot
 sacerdos solus embolismum adiungit, quem populus doxologia concludit. Embolismus, ultimam petitionem
 ipsius orationis dominicae evolvens, liberationem a potestate mali pro tota communitate fidelium
 expetit. Invitatio, oratio ipsa, embolismus et doxologia qua populus haec concludit, cantu vel clara
-voce proferuntur. Ritus pacis
+voce proferuntur.
 
 #### The Rite of Peace
 
@@ -878,7 +855,7 @@ Sequitur ritus pacis, quo Ecclesia pacem et unitatem pro se ipsa et universa hom
 implorat et fideles ecclesialem communionem mutuamque caritatem sibi exprimunt, priusquam Sacramento
 communicent. Ad ipsum signum pacis tradendae quod attinet, modus a Conferentiis Episcoporum,
 secundum ingenium et mores populorum, statuatur. Convenit tamen ut unusquisque solummodo sibi
-propinquioribus sobrie pacem significet. Fractio panis
+propinquioribus sobrie pacem significet.
 
 #### The Fraction of the Bread
 
@@ -894,7 +871,7 @@ hostiae in calicem immittit, ad significandam unitatem Corporis et Sanguinis Dom
 salutis, scilicet Corporis Christi Iesu viventis et gloriosi. Supplicatio Agnus Dei a schola vel a
 cantore, populo respondente, de more cantatur, vel saltem elata voce dicitur. Invocatio fractionem
 panis comitatur, quare repeti potest quoties necesse est adusque ritum peractum. Ultima vice
-concluditur verbis dona nobis pacem . Communio
+concluditur verbis dona nobis pacem .
 
 #### Communion
 
@@ -909,15 +886,15 @@ verbis utens evangelicis praescriptis, elicit.
 
 Valde optandum est, ut fideles, sicut et ipse sacerdos facere tenetur, ex hostiis, in eadem Missa
 consecratis, Corpus dominicum accipiant et in casibus praevisis calicem ( cf. n. 283 ) participent,
-quo etiam per signa Communio melius appareat participatio sacrificii, quod actu celebratur. [73]
+quo etiam per signa Communio melius appareat participatio sacrificii, quod actu celebratur. [^73]
 
 ### §86
 
 Dum sacerdos sumit Sacramentum, inchoatur cantus ad Communionem, cuius est spiritualem unionem
 communicantium per unitatem vocum exprimere, gaudium cordis demonstrare et indolem «communitariam»
 processionis ad Eucharistiam suscipiendam magis in lucem ponere. Cantus protrahitur, dum fidelibus
-Sacramentum ministratur. [74] Si tamen hymnus post Communionem habetur, cantus ad Communionem
-tempestive claudatur. Curetur ut etiam cantores commode communicare possint.
+Sacramentum ministratur. Si tamen hymnus post Communionem habetur, cantus ad Communionem tempestive
+claudatur. Curetur ut etiam cantores commode communicare possint. [^74]
 
 ### §87
 
@@ -941,7 +918,7 @@ orationem post Communionem profert, in qua pro fructibus mysterii celebrati depr
 unica dicitur oratio post Communionem, quae terminatur conclusione breviore, idest: – si dirigitur
 ad Patrem: Per Christum Dóminum nostrum ; – si dirigitur ad Patrem, sed in fine ipsius fit mentio
 Filii: Qui vivit et regnat in sáecula saeculórum ; – si dirigitur ad Filium: Qui vivis et regnas in
-sáecula saeculórum . Populus acclamatione Amen orationem facit suam. D) Ritus conclusionis
+sáecula saeculórum . Populus acclamatione Amen orationem facit suam.
 
 #### D) The Concluding Rites
 
@@ -952,7 +929,7 @@ sacerdotis, quae quibusdam diebus et occasionibus oratione super populum vel ali
 formula ditatur et exprimitur; c) dimissio populi ex parte diaconi vel sacerdotis; ut unusquisque ad
 opera sua bona revertatur, collaudans et benedicens Deum; d) osculatio altaris ex parte sacerdotis
 et diaconi et deinde inclinatio profunda ad altare ex parte sacerdotis, diaconi, aliorumque
-ministrorum. Caput III DE OFFICIIS ET MINISTERIIS IN MISSA
+ministrorum.
 
 
 ## Chapter III: Duties and Ministries in the Mass
@@ -964,41 +941,41 @@ ministrorum. Caput III DE OFFICIIS ET MINISTERIIS IN MISSA
 Celebratio eucharistica est actio Christi et Ecclesiae, scilicet plebis sanctae sub Episcopo
 adunatae et ordinatae. Quare ad universum Corpus Ecclesiae pertinet illudque manifestat et afficit;
 singula vero membra ipsius diverso modo, pro diversitate ordinum, munerum, et actualis
-participationis attingit. [75] Hoc modo populus christianus, «genus electum, regale sacerdotium,
-gens sancta, populus adquisitionis», suam cohaerentem et hierarchicam ordinationem manifestat. [76]
-Omnes ergo sive ministri ordinati sive christifideles laici, munere vel officio suo fungentes, solum
-et totum id agant, quod ad ipsos pertinet. [77] I. DE OFFICIIS ORDINIS SACRI
+participationis attingit. Hoc modo populus christianus, «genus electum, regale sacerdotium, gens
+sancta, populus adquisitionis», suam cohaerentem et hierarchicam ordinationem manifestat. Omnes ergo
+sive ministri ordinati sive christifideles laici, munere vel officio suo fungentes, solum et totum
+id agant, quod ad ipsos pertinet. [^75] [^76] [^77]
 
 ### I. The Duties of Those in Holy Orders
 
 ### §92
 
 Omnis legitima Eucharistiae celebratio dirigitur ab Episcopo, sive per seipsum, sive per presbyteros
-adiutores ipsius. [78] Cum Episcopus Missae interest, ubi populus est congregatus, maxime decet
-ipsum Eucharistiam celebrare, et presbyteros, ut concelebrantes, sibi in actione sacra consociare.
-Quod fit non ad sollemnitatem exteriorem ritus augendam, sed ad significandum vividiore luce
-mysterium Ecclesiae, «unitatis sacramentum». [79] Si vero Episcopus Eucharistiam non celebrat, sed
-alii hoc faciendum attribuit, tunc convenienter ipse, cruce pectorali, stola et pluviali super albam
-indutus, liturgiae verbi praesidet, et in fine Missae benedictionem impertit. [80]
+adiutores ipsius. Cum Episcopus Missae interest, ubi populus est congregatus, maxime decet ipsum
+Eucharistiam celebrare, et presbyteros, ut concelebrantes, sibi in actione sacra consociare. Quod
+fit non ad sollemnitatem exteriorem ritus augendam, sed ad significandum vividiore luce mysterium
+Ecclesiae, «unitatis sacramentum». Si vero Episcopus Eucharistiam non celebrat, sed alii hoc
+faciendum attribuit, tunc convenienter ipse, cruce pectorali, stola et pluviali super albam indutus,
+liturgiae verbi praesidet, et in fine Missae benedictionem impertit. [^78] [^79] [^80]
 
 ### §93
 
 Etiam presbyter, qui in Ecclesia sacra Ordinis potestate pollet sacrificium in persona Christi
-offerendi, [81] exinde populo fideli hic et nunc congregato praeest, eius orationi praesidet, illi
+offerendi, exinde populo fideli hic et nunc congregato praeest, eius orationi praesidet, illi
 nuntium salutis proclamat, populum sibi sociat in offerendo sacrificio per Christum in Spiritu
 Sancto Deo Patri, fratribus suis panem vitae aeternae dat, ipsumque cum illis participat. Cum igitur
 Eucharistiam celebrat, debet Deo et populo cum dignitate et humilitate servire, et in modo se
-gerendi et verba divina proferendi praesentiam vivam Christi fidelibus insinuare.
+gerendi et verba divina proferendi praesentiam vivam Christi fidelibus insinuare. [^81]
 
 ### §94
 
 Post presbyterum diaconus, vi sacrae ordinationis acceptae, primum locum obtinet inter eos qui in
 celebratione eucharistica ministrant. Sacer enim diaconatus Ordo iam a prisca Apostolorum aetate in
-Ecclesia in magno honore habitus est. [82] In Missa diaconus proprias habet partes in Evangelio
-nuntiando et quandoque verbo Dei praedicando, in orationis universalis intentiones enuntiando, in
-ministrando sacerdoti, in altare apparando et sacrificii celebrationi inserviendo, in Eucharistia
-fidelibus distribuenda, praecipue sub specie vini, et in gestibus et corporis habitibus populi
-aliquando innuendis. II. DE MUNERIBUS POPULI DEI
+Ecclesia in magno honore habitus est. In Missa diaconus proprias habet partes in Evangelio nuntiando
+et quandoque verbo Dei praedicando, in orationis universalis intentiones enuntiando, in ministrando
+sacerdoti, in altare apparando et sacrificii celebrationi inserviendo, in Eucharistia fidelibus
+distribuenda, praecipue sub specie vini, et in gestibus et corporis habitibus populi aliquando
+innuendis. [^82]
 
 ### II. The Functions of the People of God
 
@@ -1006,10 +983,10 @@ aliquando innuendis. II. DE MUNERIBUS POPULI DEI
 
 In celebratione Missae fideles efficiunt plebem sanctam, populum acquisitionis et sacerdotium
 regale, ut gratias Deo agant et immaculatam hostiam, non tantum per sacerdotis manus, sed etiam una
-cum ipso offerant et seipsos offerre discant. [83] Curent autem id manifestare per profundum sensum
+cum ipso offerant et seipsos offerre discant. Curent autem id manifestare per profundum sensum
 religiosum et per caritatem erga fratres, qui eandem celebrationem participant. Vitent proinde omnes
 species vel singulariae vitae vel divisionis, prae oculis habentes se unicum Patrem habere in
-caelis, omnesque propterea esse inter se fratres.
+caelis, omnesque propterea esse inter se fratres. [^83]
 
 ### §96
 
@@ -1020,8 +997,7 @@ Haec unitas pulchre apparet ex gestibus et corporis habitibus a fidelibus commun
 ### §97
 
 Ne renuant autem fideles populo Dei cum gaudio servire, quoties rogantur, ut aliquod peculiare
-ministerium vel munus in celebratione praestent. III. DE MINISTERIIS PECULIARIBUS De ministerio
-acolythi et lectoris institutorum
+ministerium vel munus in celebratione praestent.
 
 ### III. Particular Ministries
 
@@ -1031,15 +1007,15 @@ acolythi et lectoris institutorum
 
 Acolythus instituitur ad servitium altaris et in adiutorium sacerdotis et diaconi. Ipsius praecipue
 est altare atque vasa sacra parare et, si necesse est, Eucharistiam, cuius est minister
-extraordinarius, fidelibus distribuere. [84] In ministerio altaris, acolythus partes proprias habet
-( cf. nn. 187-193 ) quas ipse exercere debet.
+extraordinarius, fidelibus distribuere. In ministerio altaris, acolythus partes proprias habet ( cf.
+nn. 187-193 ) quas ipse exercere debet. [^84]
 
 ### §99
 
 Lector instituitur ad proferendas lectiones sacrae Scripturae, Evangelio excepto. Potest etiam
 intentiones orationis universalis proponere et, deficiente psalmista, psalmum inter lectiones
 proferre. In celebratione eucharistica lector proprium munus habet ( cf. nn. 194-198 ), quod ipse
-per se exercere debet. De ceteris muneribus
+per se exercere debet.
 
 #### Other Functions
 
@@ -1047,13 +1023,13 @@ per se exercere debet. De ceteris muneribus
 
 Deficiente acolytho instituto, ad servitium altaris et in adiutorium sacerdotis et diaconi deputari
 possunt ministri laici qui crucem, cereos, thuribulum, panem, vinum, aquam, deferunt, vel etiam ad
-sacram Communionem distribuendam deputantur ut ministri extraordinarii. [85]
+sacram Communionem distribuendam deputantur ut ministri extraordinarii. [^85]
 
 ### §101
 
 Deficiente lectore instituto, alii laici deputentur ad proferendas lectiones sacrae Scripturae, qui
 revera apti sint huic muneri adimplendo et sedulo praeparati, ut fideles ex auditione lectionum
-divinarum suavem et vivum sacrae Scripturae affectum [86] in corde concipiant.
+divinarum suavem et vivum sacrae Scripturae affectum in corde concipiant. [^86]
 
 ### §102
 
@@ -1065,13 +1041,13 @@ pronuntiandi et dicendi polleat.
 
 Inter fideles suum munus liturgicum exercet schola cantorum vel chorus, cuius est de partibus sibi
 propriis, iuxta diversa genera cantuum, debite exsequendis, curare, et actuosam fidelium
-participationem in cantu fovere. [87] Quae de schola cantorum dicuntur, valent, servatis servandis,
-pro aliis etiam musicis, praesertim vero pro organista.
+participationem in cantu fovere. Quae de schola cantorum dicuntur, valent, servatis servandis, pro
+aliis etiam musicis, praesertim vero pro organista. [^87]
 
 ### §104
 
 Decet adesse cantorem vel magistrum chori ad cantum populi dirigendum et sustentandum. Immo, cum
-deficit schola, cantori competit diversos cantus moderari, populo pro sua parte participante. [88]
+deficit schola, cantori competit diversos cantus moderari, populo pro sua parte participante. [^88]
 
 ### §105
 
@@ -1093,10 +1069,9 @@ pietate per ministros sacros et fideles laicos exercendis.
 ### §107
 
 Liturgica munera, quae non sunt propria sacerdotis vel diaconi, et de quibus superius ( nn. 100-106
-) dicitur, etiam laicis idoneis a parocho vel rectore ecclesiae selectis, [89] committi possunt
-liturgica benedictione vel temporanea deputatione. Quoad munus inserviendi sacerdoti ad altare,
-serventur normae ab Episcopo datae pro sua dioecesi. IV. DE DISTRIBUTIONE MUNERUM ET DE
-PRAEPARATIONE CELEBRATIONIS
+) dicitur, etiam laicis idoneis a parocho vel rectore ecclesiae selectis, committi possunt liturgica
+benedictione vel temporanea deputatione. Quoad munus inserviendi sacerdoti ad altare, serventur
+normae ab Episcopo datae pro sua dioecesi. [^89]
 
 ### IV. The Distribution of Functions and the Preparation of the Celebration
 
@@ -1121,10 +1096,10 @@ Si in Missa cum populo unus tantum minister adest, ipse diversa munera exerceat.
 ### §111
 
 Effectiva cuiusque celebrationis liturgicae praeparatio concordi et diligenti animo iuxta Missale et
-alios libros liturgicos  fiat inter omnes quorum interest sive quoad ritus, sive quoad rem
-pastoralem et musicam, rectore ecclesiae moderante et auditis quoque fidelibus pro iis quae ad ipsos
-directe pertinent. Sacerdoti vero, qui celebrationi praeest, ius semper manet disponendi de his quae
-ipsi competunt. [90] CAPUT IV DE DIVERSIS FORMIS MISSAM CELEBRANDI
+alios libros liturgicos fiat inter omnes quorum interest sive quoad ritus, sive quoad rem pastoralem
+et musicam, rectore ecclesiae moderante et auditis quoque fidelibus pro iis quae ad ipsos directe
+pertinent. Sacerdoti vero, qui celebrationi praeest, ius semper manet disponendi de his quae ipsi
+competunt. [^90]
 
 
 ## Chapter IV: The Different Forms of Celebrating Mass
@@ -1134,16 +1109,16 @@ ipsi competunt. [90] CAPUT IV DE DIVERSIS FORMIS MISSAM CELEBRANDI
 ### §112
 
 In Ecclesia locali primus sane locus tribuatur, propter eius significationem, Missae cui praeest
-Episcopus a suo presbyterio, diaconis et ministris laicis circumdatus [91] et in qua plebs sancta
-Dei plene et actuose participat, ibi enim habetur praecipua manifestatio Ecclesiae. In Missa quam
+Episcopus a suo presbyterio, diaconis et ministris laicis circumdatus et in qua plebs sancta Dei
+plene et actuose participat, ibi enim habetur praecipua manifestatio Ecclesiae. In Missa quam
 Episcopus celebrat, vel cui ipse praeest quin Eucharistiam celebret, serventur normae quae in
-Caeremoniali Episcoporum inveniuntur. [92]
+Caeremoniali Episcoporum inveniuntur. [^91] [^92]
 
 ### §113
 
 Magni etiam habeatur Missa quae cum aliqua communitate, praesertim vero paroeciali, celebratur,
 utpote quae Ecclesiam universalem repraesentet tempore et loco statutis, praecipue vero in communi
-celebratione dominicali. [93]
+celebratione dominicali. [^93]
 
 ### §114
 
@@ -1155,10 +1130,10 @@ canonicorum. In iis proinde munus suum exerceant singuli iuxta Ordinem vel minis
 Expedit ideo ut omnes sacerdotes qui pro utilitate pastorali fidelium singulariter celebrare non
 tenentur, in iis, quantum fieri potest, concelebrent. Omnes insuper ad eam communitatem pertinentes
 sacerdotes qui officio in bonum pastorale fidelium singulariter celebrandi tenentur, Missam quoque
-conventualem aut «communitatis» eadem die concelebrare possunt. [94] Praestat enim presbyteros, qui
+conventualem aut «communitatis» eadem die concelebrare possunt. Praestat enim presbyteros, qui
 celebrationi eucharisticae intersunt, nisi iusta causa excusentur, munus proprii ordinis de more
 exercere et proinde uti concelebrantes participare, sacris vestibus indutos. Secus habitum choralem
-proprium aut superpelliceum super vestem talarem gestant. I. DE MISSA CUM POPULO
+proprium aut superpelliceum super vestem talarem gestant. [^94]
 
 ### I. Mass with the People
 
@@ -1166,14 +1141,14 @@ proprium aut superpelliceum super vestem talarem gestant. I. DE MISSA CUM POPULO
 
 Missa cum populo ea intellegitur quae cum fidelium participatione celebratur. Convenit autem ut,
 quantum fieri potest, praesertim vero diebus dominicis et festis de praecepto, cum cantu et congruo
-numero ministrorum celebratio peragatur; [95] attamen etiam sine cantu et cum uno ministro perfici
-potest.
+numero ministrorum celebratio peragatur; attamen etiam sine cantu et cum uno ministro perfici
+potest. [^95]
 
 ### §116
 
 In qualibet Missae celebratione si adest diaconus, hic suo munere fungatur. Expedit autem ut
 sacerdoti celebranti de more adsint acolythus, lector et cantor. Ritus vero qui infra describitur
-facultatem praevidet amplioris etiam numeri ministrorum. Praeparanda
+facultatem praevidet amplioris etiam numeri ministrorum.
 
 #### Things to Be Prepared
 
@@ -1202,11 +1177,11 @@ aut coloris diei aut coloris albi.
 In sacristia, pro diversis formis celebrationis, parentur sacrae vestes ( cf. nn. 337-341 )
 sacerdotis, diaconi et aliorum ministrorum: a) pro sacerdote: alba, stola et casula seu planeta; b)
 pro diacono: alba, stola et dalmatica, quae tamen, ob necessitatem vel minorem gradum sollemnitatis,
-omitti potest; c) pro aliis ministris: albae vel aliae vestes legitime approbatae. [96] Omnes qui
-albam induunt, cingulum adhibeant et amictu utantur, nisi ob ipsius albae formam non exigantur. Cum
+omitti potest; c) pro aliis ministris: albae vel aliae vestes legitime approbatae. Omnes qui albam
+induunt, cingulum adhibeant et amictu utantur, nisi ob ipsius albae formam non exigantur. Cum
 introitus processione perficitur, parentur etiam Evangeliarium; in diebus dominicis et festivis
 thuribulum et navicula cum thure, si incensum seu thus adhibetur; crux in processione deferenda,
-candelabra cum cereis accensis. A) De Missa sine diacono Ritus initiales
+candelabra cum cereis accensis. [^96]
 
 #### A) Mass without a Deacon
 
@@ -1257,7 +1232,7 @@ In celebrationibus statutis, cantatur vel dicitur Glória ( cf. n. 53 ).
 
 Deinde sacerdos populum ad orandum invitat, manibus iunctis, dicens: Orémus . Et omnes una cum
 sacerdote ad breve tempus silentes orant. Tunc sacerdos, manibus extensis, dicit collectam, qua
-expleta, populus acclamat: Amen . Liturgia verbi
+expleta, populus acclamat: Amen .
 
 #### The Liturgy of the Word
 
@@ -1325,7 +1300,7 @@ et Nativitatis Domini genua flectunt.
 Dicto symbolo, sacerdos stans ad sedem, manibus iunctis, brevi monitione fideles invitat ad
 orationem universalem. Deinde cantor vel lector vel alius, ex ambone aut ex alio loco convenienti,
 intentiones versus populum proponit, populo pro sua parte suppliciter respondente. Postremo
-sacerdos, manibus extensis, precationem oratione concludit. Liturgia eucharistica
+sacerdos, manibus extensis, precationem oratione concludit.
 
 #### The Liturgy of the Eucharist
 
@@ -1405,7 +1380,7 @@ dicit: Sanctus ( cf. n. 79 b ).
 Sacerdos prosequitur Precem eucharisticam iuxta rubricas, quae in singulis Precibus exponuntur. Si
 celebrans est Episcopus, in Precibus, post verba: Papa nostro N. subiungit: et me indigno famulo tuo
 , vel post verba: Papae nostri N. , subiungit: mei indigni famuli tui . Si autem Episcopus extra
-dioecesim suam celebrat, post verba: Papa nostro N. subiungit: et fratre meo N., Episcopo huius
+dioecesim suam celebrat, post verba: Papa nostro N. subiungit: et fratre meo N., Episcopo huius
 Ecclesiae, et me indigno famulo tuo , vel post verba: Papae nostri N. , subiungit: fratris mei N.,
 Episcopi huius Ecclesiae, et mei indigni famuli tui . Episcopus dioecesanus, aut qui eidem in iure
 aequiparatus est, nominari debet hac formula: una cum fámulo tuo Papa nostro N. et Episcopo (vel:
@@ -1496,10 +1471,9 @@ vero Communio fit sub utraque specie, servetur ritus suo loco descriptus ( cf. n
 In distribuenda Communione sacerdotem adiuvare possunt alii presbyteri forte praesentes. Si isti
 praesto non sunt et communicantium numerus valde magnus, sacerdos in adiutorium sibi vocare potest
 ministros extraordinarios, idest acolythum rite institutum aut etiam alios fideles, qui ad hoc rite
-deputati sint. [97] In casu necessitatis, sacerdos potest fideles idoneos, ad actum deputare. [98]
-Hi ministri ad altare ne accedant antequam sacerdos Communionem sumpserit, semperque vas ubi
-continentur Ss.mae Eucharistiae species, fidelibus distribuendae, e manu sacerdotis celebrantis
-accipiant.
+deputati sint. In casu necessitatis, sacerdos potest fideles idoneos, ad actum deputare. Hi ministri
+ad altare ne accedant antequam sacerdos Communionem sumpserit, semperque vas ubi continentur Ss.mae
+Eucharistiae species, fidelibus distribuendae, e manu sacerdotis celebrantis accipiant. [^97] [^98]
 
 ### §163
 
@@ -1522,7 +1496,6 @@ psalmus aut aliud laudis canticum aut hymnus proferri potest ( cf. n. 88 ).
 Deinde, stans ad sedem vel ad altare, sacerdos, versus ad populum, dicit, manibus iunctis: Orémus
 et, extensis manibus, orationem post Communionem recitat, cui praemitti potest breve spatium
 silentii, nisi iam praecesserit statim post Communionem. In fine orationis populus acclamat: Amen .
-Ritus conclusionis
 
 #### The Concluding Rites
 
@@ -1538,7 +1511,7 @@ pectus ponens et manum dexteram elevans, subdit: Benedícat vos omnípotens Deus
 super populum faciens, prosequitur: Pater, et Fílius, et Spíritus Sanctus . Omnes respondent: Amen .
 Quibusdam diebus et occasionibus, haec benedictio, iuxta rubricas, oratione super populum vel alia
 formula sollemniore ditatur et exprimitur. Episcopus populo benedicit congruenti formula, ter signum
-crucis super populum faciens. [99]
+crucis super populum faciens. [^99]
 
 ### §168
 
@@ -1553,7 +1526,7 @@ inclinatione, cum eis recedit.
 ### §170
 
 Si vero Missam sequitur aliqua actio liturgica, ritus conclusionis, idest salutatio, benedictio et
-dimissio, omittuntur. B) De Missa cum diacono
+dimissio, omittuntur.
 
 #### B) Mass with a Deacon
 
@@ -1565,7 +1538,7 @@ sive ad librum ministrat; c) Evangelium proclamat et potest, de mandato sacerdot
 homiliam habere ( cf. n. 66 ); d) populum fidelem per opportunas monitiones dirigit et intentiones
 orationis universalis enuntiat; e) sacerdotem celebrantem adiuvat in distribuenda Communione, et
 vasa sacra purificat et componit; f) officia aliorum ministrorum, pro necessitate, ipse adimplet si
-nullus eorum adsit. Ritus initiales
+nullus eorum adsit.
 
 ### §172
 
@@ -1583,7 +1556,7 @@ imponendum et ad crucem et altare thurificandum.
 ### §174
 
 Altari incensato, sedem una cum sacerdote petit, ibique ad latus sacerdotis consistit eique pro
-necessitate ministrat. Liturgia verbi
+necessitate ministrat.
 
 ### §175
 
@@ -1608,7 +1581,7 @@ Si alius quoque idoneus lector absit, diaconus etiam alias lectiones proferat.
 ### §177
 
 Intentiones orationis fidelium, post introductionem sacerdotis, ipse diaconus de more ex ambone
-profert. Liturgia eucharistica
+profert.
 
 ### §178
 
@@ -1650,7 +1623,7 @@ remansit ad altare reverenter consumit, adiuvantibus, si casus fert, aliis diaco
 Distributione Communionis expleta, diaconus cum sacerdote ad altare revertitur, colligit fragmenta,
 si quae sint, deinde portat calicem et alia vasa sacra ad abacum, ibique ea purificat et de more
 componit, dum sacerdos ad sedem redit. Licet tamen vasa purificanda, opportune cooperta, in abaco
-super corporale relinquere eaque statim post Missam, populo dimisso, purificare. Ritus conclusionis
+super corporale relinquere eaque statim post Missam, populo dimisso, purificare.
 
 ### §184
 
@@ -1666,7 +1639,7 @@ ad populum versus: Ite, missa est .
 ### §186
 
 Deinde, una cum sacerdote, altare osculo veneratur, et, facta profunda inclinatione, simili modo quo
-processerat, recedit. C) De muneribus acolythi
+processerat, recedit.
 
 #### C) The Functions of the Acolyte
 
@@ -1675,7 +1648,7 @@ processerat, recedit. C) De muneribus acolythi
 Munera quae acolythus exercere potest varii sunt generis; plura autem ex iis simul occurrere
 possunt. Expedit proinde ut opportune inter plures distribuantur; si vero unus tantum acolythus
 praesens adest, ea quae potioris sunt momenti ipse exsequatur, cetera vero inter plures ministros
-distribuantur. Ritus initiales
+distribuantur.
 
 ### §188
 
@@ -1688,7 +1661,7 @@ reponit. Deinde locum suum in presbyterio occupat.
 Per totam celebrationem, acolythi est ad sacerdotem vel diaconum, quoties opus sit, accedere, ut
 ipsis librum praebeat et in aliis quae necessaria sunt eos adiuvet. Convenit proinde ut, quantum
 fieri possit, locum occupet e quo ministerium suum commode possit implere, sive ad sedem sive ad
-altare. Liturgia eucharistica
+altare.
 
 ### §190
 
@@ -1701,8 +1674,8 @@ cruce et altari. Deinde sacerdotem et populum incensat.
 ### §191
 
 Acolythus rite institutus, qua minister extraordinarius, sacerdotem, si necesse est, adiuvare potest
-in Communione populo distribuenda. [100] Quod si Communio sub utraque specie fit, absente diacono,
-ipse calicem sumentibus ministrat, vel calicem sustinet si Communio per intinctionem praebetur.
+in Communione populo distribuenda. Quod si Communio sub utraque specie fit, absente diacono, ipse
+calicem sumentibus ministrat, vel calicem sustinet si Communio per intinctionem praebetur. [^100]
 
 ### §192
 
@@ -1713,8 +1686,7 @@ vasa sacra ad abacum defert ibique more solito ea purificat, abstergit et compon
 ### §193
 
 Celebratione Missae expleta, acolythus aliique ministri, una cum diacono et sacerdote ad sacristiam
-revertuntur processionaliter eodem modo et ordine quo venerunt. D) De muneribus lectoris Ritus
-initiales
+revertuntur processionaliter eodem modo et ordine quo venerunt.
 
 #### D) The Functions of the Reader
 
@@ -1729,7 +1701,7 @@ deferre potest: tunc ante sacerdotem incedit; secus cum aliis ministris.
 
 Cum ad altare pervenerit, cum aliis facit profundam inclinationem. Si Evangeliarium defert, ad
 altare accedit et Evangeliarium supra illud deponit. Deinde in presbyterio una cum aliis ministris
-locum suum occupat. Liturgia verbi
+locum suum occupat.
 
 ### §196
 
@@ -1744,8 +1716,7 @@ proferre potest.
 ### §198
 
 Si ad introitum vel ad Communionem non habetur cantus, et antiphonae in Missali propositae a
-fidelibus non recitantur, tempore conveniente eas proferre potest ( cf. nn. 48, 87 ). II. DE MISSA
-CONCELEBRATA
+fidelibus non recitantur, tempore conveniente eas proferre potest ( cf. nn. 48, 87 ).
 
 ### II. Concelebrated Mass
 
@@ -1756,10 +1727,10 @@ ipso ritu praecipitur: in ordinatione Episcopi et presbyterorum, in benedictione
 chrismatis. Commendatur autem, nisi utilitas christifidelium aliud requirat aut suadeat: a) ad
 Missam vespertinam in Cena Domini; b) ad Missam in Conciliis, Conventibus Episcoporum et Synodis; c)
 ad Missam conventualem et ad Missam principalem in ecclesiis et oratoriis; d) ad Missas in
-conventibus cuiusvis generis sacerdotum tum saecularium tum religiosorum. [101] Singulo tamen
-sacerdoti liceat Eucharistiam individuali modo celebrare, non vero eo tempore, quo in eadem ecclesia
-aut oratorio concelebratio habetur. Attamen feria V in Cena Domini et in Missa Vigiliae paschalis
-modo individuali sacrum litare non permittitur.
+conventibus cuiusvis generis sacerdotum tum saecularium tum religiosorum. Singulo tamen sacerdoti
+liceat Eucharistiam individuali modo celebrare, non vero eo tempore, quo in eadem ecclesia aut
+oratorio concelebratio habetur. Attamen feria V in Cena Domini et in Missa Vigiliae paschalis modo
+individuali sacrum litare non permittitur. [^101]
 
 ### §200
 
@@ -1770,7 +1741,7 @@ sacerdotalis cognoscatur.
 
 Ubi magnus habetur numerus sacerdotum, concelebratio pluries etiam in eodem die fieri potest, ubi
 necessitas vel pastoralis utilitas id suadeat; fieri tamen debet temporibus subsequentibus vel in
-locis sacris diversis. [102]
+locis sacris diversis. [^102]
 
 ### §202
 
@@ -1786,8 +1757,7 @@ in Missa vespertina in Cena Domini, in celebrationibus Sancti Fundatoris Ecclesi
 Patroni dioecesis, in anniversariis Episcopi, occasione denique Synodi vel visitationis pastoralis.
 Eadem ratione concelebratio commendatur quoties presbyteri cum proprio Episcopo conveniunt, sive
 occasione exercitiorum spiritualium, sive alicuius conventus. In his casibus illud signum unitatis
-sacerdotii, necnon Ecclesiae, omni concelebrationi proprium, magis perspicuo modo manifestatur.
-[103]
+sacerdotii, necnon Ecclesiae, omni concelebrationi proprium, magis perspicuo modo manifestatur. [^103]
 
 ### §204
 
@@ -1799,10 +1769,10 @@ Missam in die Paschae celebrare aut concelebrare; c) in Nativitate Domini omnes 
 Missas celebrare vel concelebrare possunt, dummodo hae suo tempore, celebrentur; d) die
 Commemorationis omnium fidelium defunctorum omnes sacerdotes tres Missas celebrare vel concelebrare
 possunt, dummodo celebrationes diversis temporibus fiant et servatis iis quae circa applicationem
-secundae et tertiae Missae statuta sunt; [104] e) si quis in Synodo et in visitatione pastorali cum
+secundae et tertiae Missae statuta sunt; e) si quis in Synodo et in visitatione pastorali cum
 Episcopo vel eius delegato aut occasione cuiusdam conventus sacerdotum concelebrat, Missam ad
 utilitatem fidelium iterum celebrare potest. Idem valet, servatis servandis, pro coetibus
-religiosorum.
+religiosorum. [^104]
 
 ### §205
 
@@ -1829,7 +1799,7 @@ concelebrantibus absolvuntur.
 Concelebrantes in secretario, vel alio loco apto, sacras vestes induunt, quas sumere solent cum
 Missam singuli celebrant. Accedente tamen iusta causa, v. gr. frequentiore concelebrantium numero et
 deficientia paramentorum, concelebrantes, excepto semper celebrante principali, omittere possunt
-casulam seu planetam, adhibita stola super albam. Ritus initiales
+casulam seu planetam, adhibita stola super albam.
 
 ### §210
 
@@ -1840,7 +1810,7 @@ incedunt ante celebrantem principalem.
 
 Cum ad altare pervenerint, concelebrantes et celebrans principalis, facta profunda inclinatione,
 altare osculo venerantur, deinde sedem sibi assignatam petunt. Celebrans vero principalis crucem et
-altare, pro opportunitate, incensat, ac deinde sedem petit. Liturgia verbi
+altare, pro opportunitate, incensat, ac deinde sedem petit.
 
 ### §212
 
@@ -1852,7 +1822,7 @@ proclamat, benedictionem celebrantis principalis nec petit nec accipit.
 
 ### §213
 
-Homiliam habet de more celebrans principalis, vel unus e concelebrantibus. Liturgia eucharistica
+Homiliam habet de more celebrans principalis, vel unus e concelebrantibus.
 
 ### §214
 
@@ -1866,8 +1836,7 @@ circa illud consistunt, ita tamen ut impedimento non sint in ritibus peragendis,
 fidelibus bene conspiciatur, neque impedimento sint diacono quando ad altare, ratione sui
 ministerii, accedere debet. Diaconus suo ministerio prope altare fungatur, quando opus est calici et
 missali ministrando. Attamen, quantum fieri potest stat aliquantulum retro, post sacerdotes
-concelebrantes, qui circa celebrantem principalem consistunt. De modo proferendi Precem
-eucharisticam
+concelebrantes, qui circa celebrantem principalem consistunt.
 
 #### The Manner of Pronouncing the Eucharistic Prayer
 
@@ -1887,7 +1856,7 @@ Partes quae ab omnibus concelebrantibus simul proferuntur, et praesertim consecr
 exprimere omnes tenentur, in recitatione ita dicendae sunt, ut eas concelebrantes submissa voce
 proferant et vox celebrantis principalis clare audiatur. Hac ratione verba a populo facilius
 percipiuntur. Partes ab omnibus concelebrantibus simul dicendae, quae notis in missali ornantur,
-laudabiliter cantu proferuntur. Prex eucharistica I, seu Canon Romanus
+laudabiliter cantu proferuntur.
 
 #### Eucharistic Prayer I, or the Roman Canon
 
@@ -1926,7 +1895,7 @@ Ad verba Nobis quoque peccatóribus omnes concelebrantes pectus sibi percutiunt.
 
 ### §225
 
-Per quem haec ómnia a solo celebrante principali dicitur. Prex eucharistica II
+Per quem haec ómnia a solo celebrante principali dicitur.
 
 #### Eucharistic Prayer II
 
@@ -1946,7 +1915,7 @@ súpplices , manibus extensis.
 
 Intercessiones pro vivis: Recordáre, Dómine, et pro defunctis: Meménto étiam fratrum nostrórum, uni
 alterive e concelebrantibus committi convenit, qui solus eas, manibus extensis et elata voce,
-profert. Prex eucharistica III
+profert.
 
 #### Eucharistic Prayer III
 
@@ -1965,8 +1934,7 @@ postea profunde se inclinantes; d) Mémores ígitur et Réspice, quáesumus , ma
 ### §231
 
 Intercessiones: Ipse nos, Haec hostia nostrae reconciliatiónis, et Fratres nostros uni alterive e
-concelebrantibus committi convenit, qui solus eas, manibus extensis et elata voce, profert. Prex
-eucharistica IV
+concelebrantibus committi convenit, qui solus eas, manibus extensis et elata voce, profert.
 
 #### Eucharistic Prayer IV
 
@@ -1996,7 +1964,7 @@ statutae.
 ### §236
 
 Doxologia finalis Precis eucharisticae solummodo a sacerdote celebrante principali et, si placuerit,
-una cum aliis concelebrantibus profertur, non autem a fidelibus. Ritus Communionis
+una cum aliis concelebrantibus profertur, non autem a fidelibus.
 
 ### §237
 
@@ -2093,7 +2061,7 @@ loca sua recedunt ut initio Missae. Per intinctionem Communionem accipit etiam d
 respondet concelebranti sibi dicenti: Corpus et Sanguis Christi . Diaconus autem ad altare totum
 Sanguinem qui remansit sumit, adiuvantibus, si casus fert, aliquibus concelebrantibus, calicem ad
 abacum transfert, ibique ipse vel acolythus rite institutus more solito eum purificat, abstergit et
-componit. Ritus conclusionis
+componit.
 
 ### §250
 
@@ -2103,8 +2071,7 @@ concelebrantibus suis sedibus remanentibus.
 ### §251
 
 Concelebrantes, antequam ab altari discedant, altari profundam inclinationem faciunt. Celebrans vero
-principalis cum diacono altare de more osculo veneratur. III. DE MISSA, CUIUS UNUS TANTUM MINISTER
-PARTICIPAT
+principalis cum diacono altare de more osculo veneratur.
 
 ### III. Mass at Which only One Minister Participates
 
@@ -2126,7 +2093,6 @@ casu salutationes, monitiones et benedictio in fine Missae omittuntur.
 ### §255
 
 Ante Missam vasa necessaria parantur vel ad abacum iuxta altare, vel super altare ad latus dexterum.
-Ritus initiales
 
 ### §256
 
@@ -2146,7 +2112,7 @@ Deinde peragitur actus paenitentialis, et, iuxta rubricas, dicitur Kyrie et Glor
 ### §259
 
 Deinde, manibus iunctis, dicit Oremus et, interposita mora convenienti, manibus extensis, profert
-collectam. In fine minister acclamat: Amen . Liturgia verbi
+collectam. In fine minister acclamat: Amen .
 
 ### §260
 
@@ -2170,7 +2136,7 @@ Sacerdos postea symbolum, iuxta rubricas, una cum ministro recitat.
 ### §264
 
 Sequitur oratio universalis, quae etiam in hac Missa dici potest. Sacerdos introducit et concludit
-orationem, minister vero intentiones profert. Liturgia eucharistica
+orationem, minister vero intentiones profert.
 
 ### §265
 
@@ -2210,13 +2176,12 @@ a ministro deferri, aut super altare ad latus reponi.
 ### §271
 
 Purificatione calicis expleta, oportet ut sacerdos aliquam pausam silentii servet; postea vero dicit
-orationem post Communionem. Ritus conclusionis
+orationem post Communionem.
 
 ### §272
 
 Ritus conclusionis perficiuntur sicut in Missa cum populo, Ite, missa est omisso. Sacerdos altare de
-more osculo veneratur et, facta profunda inclinatione cum ministro, recedit. IV. QUAEDAM NORMAE
-GENERALIORES PRO OMNIBUS FORMIS MISSAE De veneratione altaris et Evangeliarii
+more osculo veneratur et, facta profunda inclinatione cum ministro, recedit.
 
 ### IV. Some General Norms for All Forms of Mass
 
@@ -2226,8 +2191,7 @@ GENERALIORES PRO OMNIBUS FORMIS MISSAE De veneratione altaris et Evangeliarii
 
 Iuxta morem traditum, veneratio altaris et Evangeliarii osculo perficitur. Attamen, ubi huiusmodi
 signum non congruit cum traditionibus aut ingenio alicuius regionis, ibi est Conferentiae
-Episcoporum aliud signum statuere loco illius adhibendum, consentiente Sede Apostolica. De
-genuflexione et inclinatione
+Episcoporum aliud signum statuere loco illius adhibendum, consentiente Sede Apostolica.
 
 #### Genuflections and Bows
 
@@ -2253,7 +2217,7 @@ honorem celebratur Missa. b ) Inclinatio corporis seu inclinatio profunda, fit: 
 orationes Munda cor meum et In spíritu humilitátis ; in symbolo ad verba Et incarnátus est; in
 Canone Romano ad verba Súpplices te rogamus . Eadem inclinatio fit a diacono, cum petit
 benedictionem ante proclamationem Evangelii. Sacerdos insuper parum se inclinat cum, in
-consecratione, verba Domini profert. De incensatione
+consecratione, verba Domini profert.
 
 #### Incensation
 
@@ -2279,7 +2243,7 @@ seiunctum, sacerdos illud circumeundo incensat; b ) si vero altare non est a par
 sacerdos transeundo incensat primo partem dexteram, deinde partem sinistram. Crux, si est super
 altare vel apud ipsum, thurificatur ante altaris incensationem, secus cum sacerdos transit ante
 ipsam. Oblata incensat sacerdos tribus ductibus thuribuli, ante incensationem crucis et altaris, vel
-signum crucis super oblata thuribulo producens. De purificatione
+signum crucis super oblata thuribulo producens.
 
 #### The Purification
 
@@ -2301,7 +2265,6 @@ altare.
 
 Si hostia vel aliqua particula dilabatur, reverenter accipiatur; si quid vero Sanguinis fundatur,
 locus ubi ceciderit aqua lavetur, et haec aqua postea in sacrarium in sacristia collocatum mittatur.
-De Communione sub utraque specie
 
 #### Communion under Both Kinds
 
@@ -2310,7 +2273,7 @@ De Communione sub utraque specie
 Formam ratione signi pleniorem habet sacra Communio cum fit sub utraque specie. In ea enim forma
 signum eucharistici convivii perfectius elucet, et clarius exprimitur voluntas qua novum et aeternum
 Testamentum in Sanguine Domini ratum habetur, necnon ratio inter convivium eucharisticum et
-convivium eschatologicum in regno Patris. [105]
+convivium eschatologicum in regno Patris. [^105]
 
 ### §282
 
@@ -2318,11 +2281,11 @@ Curent sacri pastores fidelibus, qui ritum participant, vel ei intersunt, aptior
 modo doctrinam catholicam de forma sacrae Communionis in mentem revocare iuxta Concilium Oecumenicum
 Tridentinum. In primis christifideles moneant fidem catholicam docere etiam sub altera tantum specie
 totum atque integrum Christum verumque Sacramentum sumi, ac propterea, quod ad fructum attinet,
-nulla gratia necessaria ad salutem eos defraudari qui unam speciem solam recipiant. [106] Doceant
-insuper Ecclesiam potestatem habere in Sacramentorum dispensatione, salva eorum substantia,
-statuendi vel mutandi quae ipsorum venerationi vel suscipientium utilitati pro rerum, temporum et
-locorum varietate magis expedire iudicaverit. [107] Simul tamen fideles moneantur ut sacrum ritum,
-quo signum eucharistici convivii plenius elucet, impensius participare velint.
+nulla gratia necessaria ad salutem eos defraudari qui unam speciem solam recipiant. Doceant insuper
+Ecclesiam potestatem habere in Sacramentorum dispensatione, salva eorum substantia, statuendi vel
+mutandi quae ipsorum venerationi vel suscipientium utilitati pro rerum, temporum et locorum
+varietate magis expedire iudicaverit. Simul tamen fideles moneantur ut sacrum ritum, quo signum
+eucharistici convivii plenius elucet, impensius participare velint. [^106] [^107]
 
 ### §283
 
@@ -2371,8 +2334,7 @@ Si Communio calicis fit per intinctionem, communicandus, patinam sub ore tenens,
 sacerdotem, qui vas cum sacris particulis tenet et ad cuius latus sistit minister qui calicem
 sustinet. Sacerdos hostiam accipit, partem eius in calicem intingit et eam ostendendo dicit: Corpus
 et Sanguis Christi ; communicandus respondet: Amen , a sacerdote Sacramentum ore recipit, ac postea
-recedit. Caput V DE ECCLESIARUM DISPOSITIONE ET ORNATU AD EUCHARISTIAM CELEBRANDAM I. PRINCIPIA
-GENERALIA
+recedit.
 
 
 ## Chapter V: The Arrangement and Ornamentation of Churches for the Celebration of the Eucharist
@@ -2387,16 +2349,16 @@ Ad Eucharistiam celebrandam, populus Dei plerumque in ecclesiam congregatur vel,
 insufficiente, in alium locum honestum qui tamen sit tanto mysterio dignus. Ecclesiae igitur, aliave
 loca, ad sacram actionem exsequendam et ad fidelium actuosam participationem obtinendam apta sint.
 Aedes sacrae insuper et res ad cultum divinum pertinentes vere sint dignae, pulchrae, atque rerum
-supernarum signa et symbola. [108]
+supernarum signa et symbola. [^108]
 
 ### §289
 
 Proinde, Ecclesia nobile subsidium artium continenter quaerit, et omnium gentium atque regionum
-artis significationes admittit. [109] Immo, sicut studet artis opera atque thesauros a saeculis
-anteactis tradita servare [110] et, quatenus opus est, novis necessitatibus aptare, nova cuiusque
-aetatis indoli consona promovere contendit. [111] Quapropter in instituendis artificibus necnon in
-seligendis operibus in ecclesiam admittendis, vera artis praestantia exquiratur, quae fidem et
-pietatem alat et cum veritate significationis et finis cui destinatur congruat. [112]
+artis significationes admittit. Immo, sicut studet artis opera atque thesauros a saeculis anteactis
+tradita servare et, quatenus opus est, novis necessitatibus aptare, nova cuiusque aetatis indoli
+consona promovere contendit. Quapropter in instituendis artificibus necnon in seligendis operibus in
+ecclesiam admittendis, vera artis praestantia exquiratur, quae fidem et pietatem alat et cum
+veritate significationis et finis cui destinatur congruat. [^109] [^110] [^111] [^112]
 
 ### §290
 
@@ -2409,7 +2371,7 @@ Ad sacras aedes recte exstruendas, reficiendas atque disponendas, omnes quorum i
 dioecesanam de sacra Liturgia et de Arte sacra consulant. Episcopus autem dioecesanus eiusdem
 Commissionis consilio et adiutorio utatur, quando agitur de normis in hac re tradendis, aut de
 novarum aedium adumbrationibus approbandis aut de quibusdam quaestionibus nonnullius momenti
-diiudicandis. [113]
+diiudicandis. [^113]
 
 ### §292
 
@@ -2431,13 +2393,12 @@ diversis ministeriis diversaque actione pro singulis celebrationis partibus expr
 itaque dispositio aedis sacrae ea sit oportet quae coetus congregati imaginem quodammodo prae se
 ferat, atque congruam omnium ordinationem permittat necnon rectam muneris exsecutionem uniuscuiusque
 foveat. Fideles atque schola cantorum locum obtinebunt, qui ipsorum actuosam participationem
-faciliorem reddat. [114] Sacerdos celebrans, diaconus et alii ministri locum capient in presbyterio.
+faciliorem reddat. Sacerdos celebrans, diaconus et alii ministri locum capient in presbyterio.
 Ibidem parentur sedes concelebrantium; si vero eorum numerus magnus sit, sedes in alia ecclesiae
 parte, sed prope altare, disponantur. Haec omnia, quamvis hierarchicam dispositionem et munerum
 diversitatem exprimere debeant, intimam tamen et cohaerentem unitatem efficiant, qua unitas totius
 plebis sanctae clare eluceat. Natura vero et pulchritudo loci universaeque supellectilis pietatem
-foveant et sanctitatem mysteriorum quae celebrantur ostendant. II. DE PRESBYTERII ORDINATIONE AD
-SACRAM SYNAXIM
+foveant et sanctitatem mysteriorum quae celebrantur ostendant. [^114]
 
 ### II. Arrangement of the Sanctuary for the Sacred Synaxis
 
@@ -2446,7 +2407,7 @@ SACRAM SYNAXIM
 Presbyterium locus est ubi altare exstat, verbum Dei proclamatur, et sacerdos, diaconus et alii
 ministri munus suum exercent. Ab aula ecclesiae opportune distinguatur aut per aliquam elevationem,
 aut per peculiarem structuram et ornatum. Talis autem amplitudinis sit, ut Eucharistiae celebratio
-commode peragi et conspici possit. [115] De altari eiusque ornatu
+commode peragi et conspici possit. [^115]
 
 #### The Altar and Its Ornamentation
 
@@ -2473,8 +2434,7 @@ ideoque amoveri nequeat; mobile vero si transferri possit.
 
 Altare exstruatur a pariete seiunctum, ut facile circumiri et in eo celebratio versus populum peragi
 possit, quod expedit ubicumque possibile sit. Altare eum autem occupet locum, ut revera centrum sit
-ad quod totius congregationis fidelium attentio sponte convertatur. [116] De more sit fixum et
-dedicatum.
+ad quod totius congregationis fidelium attentio sponte convertatur. De more sit fixum et dedicatum. [^116]
 
 ### §300
 
@@ -2537,21 +2497,20 @@ iis facile conspiciendis, quae super altare aguntur vel deponuntur.
 
 Item super altare vel prope ipsum crux, cum effigie Christi crucifixi, habeatur, quae a populo
 congregato bene conspiciatur. Expedit ut huiusmodi crux, ad salutiferam Domini passionem in mentem
-fidelium revocandam, etiam extra celebrationes liturgicas prope altare permaneat. De ambone
+fidelium revocandam, etiam extra celebrationes liturgicas prope altare permaneat.
 
 #### The Ambo
 
 ### §309
 
 Dignitas verbi Dei requirit ut in ecclesia locus congruus exsistat e quo annuntietur et ad quem,
-inter liturgiam verbi, attentio fidelium sponte convertatur. [117] Convenit ut generatim locus
-huiusmodi sit ambo stabilis et non simplex pluteus mobilis. Ambo, pro cuiusque ecclesiae structura,
-ita dispositus esse debet, ut ministri ordinati et lectores a fidelibus bene conspici et audiri
-possint. Ex ambone unice proferuntur lectiones, psalmus responsorius atque praeconium paschale; item
-proferri possunt homilia et intentiones orationis universalis. Ambonis dignitas exigit ut ad eum
-solus minister verbi ascendat. Convenit ut novus ambo benedicatur, antequam usui liturgico
-destinetur, iuxta ritum in Rituali Romano descriptum. [118] De sede pro sacerdote celebrante
-aliisque sedibus
+inter liturgiam verbi, attentio fidelium sponte convertatur. Convenit ut generatim locus huiusmodi
+sit ambo stabilis et non simplex pluteus mobilis. Ambo, pro cuiusque ecclesiae structura, ita
+dispositus esse debet, ut ministri ordinati et lectores a fidelibus bene conspici et audiri possint.
+Ex ambone unice proferuntur lectiones, psalmus responsorius atque praeconium paschale; item proferri
+possunt homilia et intentiones orationis universalis. Ambonis dignitas exigit ut ad eum solus
+minister verbi ascendat. Convenit ut novus ambo benedicatur, antequam usui liturgico destinetur,
+iuxta ritum in Rituali Romano descriptum. [^117] [^118]
 
 #### The Chair for the Priest Celebrant and Other Seats
 
@@ -2561,12 +2520,12 @@ Sedes sacerdotis celebrantis debet munus eius praesidendi coetui atque orationem
 significare. Proinde locus eius magis congruus est versus ad populum in vertice presbyterii, nisi
 aedis structura vel alia adiuncta id impediant, ex. gr. si propter nimiam distantiam communicatio
 inter sacerdotem et coetum congregatum difficilis evadat, aut si tabernaculum locum habeat in media
-parte retro altare. Omnis autem species throni vitetur. [119] Convenit ut sedes benedicatur,
-antequam usui liturgico destinetur, iuxta ritum in Rituali Romano descriptum. [120] Item in
-presbyterio sedes disponantur pro sacerdotibus concelebrantibus necnon pro presbyteris, qui veste
-chorali induti, celebrationi intersunt, quin concelebrent. Sedes diaconi prope sedem celebrantis
-ponatur. Pro aliis ministris sedes ita collocentur, ut clare distinguantur a sedibus cleri et ipsi
-munus sibi concreditum facile implere possint. [121] III. DE ECCLESIAE ORDINATIONE De locis fidelium
+parte retro altare. Omnis autem species throni vitetur. Convenit ut sedes benedicatur, antequam usui
+liturgico destinetur, iuxta ritum in Rituali Romano descriptum. Item in presbyterio sedes
+disponantur pro sacerdotibus concelebrantibus necnon pro presbyteris, qui veste chorali induti,
+celebrationi intersunt, quin concelebrent. Sedes diaconi prope sedem celebrantis ponatur. Pro aliis
+ministris sedes ita collocentur, ut clare distinguantur a sedibus cleri et ipsi munus sibi
+concreditum facile implere possint. [^119] [^120] [^121]
 
 ### III. The Arrangement of the Church
 
@@ -2576,12 +2535,11 @@ munus sibi concreditum facile implere possint. [121] III. DE ECCLESIAE ORDINATIO
 
 Loca fidelium congrua cura disponantur, ut ipsi oculis et animo sacras celebrationes debite
 participare possint. Expedit ut de more scamna seu sedilia ad eorum usum ponantur. Consuetudo tamen
-personis quibusdam privatis sedes reservandi reprobanda est. [122] Scamna autem seu sedilia,
-praesertim in ecclesiis noviter exstructis, ita disponantur, ut fideles corporis habitus a diversis
-celebrationis partibus requisitos facile sumere possint et expedite ad sacram Communionem
-recipiendam accedere valeant. Caveatur ut fideles sive sacerdotem sive diaconum et lectores non
-tantum videre, sed etiam, hodiernis instrumentis technicis adhibitis, commode audire valeant. De
-loco scholæ cantorum et instrumentorum musicorum
+personis quibusdam privatis sedes reservandi reprobanda est. Scamna autem seu sedilia, praesertim in
+ecclesiis noviter exstructis, ita disponantur, ut fideles corporis habitus a diversis celebrationis
+partibus requisitos facile sumere possint et expedite ad sacram Communionem recipiendam accedere
+valeant. Caveatur ut fideles sive sacerdotem sive diaconum et lectores non tantum videre, sed etiam,
+hodiernis instrumentis technicis adhibitis, commode audire valeant. [^122]
 
 #### The Place for the Schola Cantorum and the Musical Instruments
 
@@ -2590,18 +2548,17 @@ loco scholæ cantorum et instrumentorum musicorum
 Schola cantorum, attenta cuiusque ecclesiae dispositione, ita collocetur, ut clare appareat eius
 natura, eam nempe fidelium communitatis congregatae partem esse, et peculiare munus agere; eiusdem
 muneris exsecutio facilior evadat; singulis scholae sodalibus plena in Missa participatio
-sacramentalis, commode permittatur. [123]
+sacramentalis, commode permittatur. [^123]
 
 ### §313
 
 Organum aliaque instrumenta musica legitime probata apto loco collocentur, ut tum scholae tum populo
 cantanti subsidio esse possint, atque, si sola pulsentur, commode ab omnibus audiri queant. Convenit
 ut organum benedicatur, antequam usui liturgico destinetur, iuxta ritum in Rituali Romano
-descriptum. [124] Tempore Adventus organum aliaque musica instrumenta adhibeantur ea moderatione,
-quae indoli huius temporis conveniat, quin tamen plenam laetitiam Nativitatis Domini praeveniat.
-Tempore in Quadragesima sonus organi aliorumque instrumentorum permittitur tantum ad cantum
-sustentandum. Excipiuntur tamen dominica Laetáre (IV in Quadragesima), sollemnitates et festa. De
-loco asservationis sanctissimæ eucharistiæ
+descriptum. Tempore Adventus organum aliaque musica instrumenta adhibeantur ea moderatione, quae
+indoli huius temporis conveniat, quin tamen plenam laetitiam Nativitatis Domini praeveniat. Tempore
+in Quadragesima sonus organi aliorumque instrumentorum permittitur tantum ad cantum sustentandum.
+Excipiuntur tamen dominica Laetáre (IV in Quadragesima), sollemnitates et festa. [^124]
 
 #### The Place for the Reservation of the Most Holy Eucharist
 
@@ -2609,29 +2566,29 @@ loco asservationis sanctissimæ eucharistiæ
 
 Pro cuiusque ecclesiae structura et iuxta legitimas locorum consuetudines, Ss.mum Sacramentum
 asservetur in tabernaculo in parte ecclesiae pernobili, insigni, conspicua, decore ornata, et ad
-orationem apta. [125] Tabernaculum de more unicum sit, inamovibile, materia solida atque inviolabili
-non transparenti confectum, et ita clausum ut quam maxime periculum profanationis vitetur. [126]
-Convenit insuper ut benedicatur, antequam usui liturgico destinetur, iuxta ritum in Rituali Romano
-descriptum. [127]
+orationem apta. Tabernaculum de more unicum sit, inamovibile, materia solida atque inviolabili non
+transparenti confectum, et ita clausum ut quam maxime periculum profanationis vitetur. Convenit
+insuper ut benedicatur, antequam usui liturgico destinetur, iuxta ritum in Rituali Romano
+descriptum. [^125] [^126] [^127]
 
 ### §315
 
 Ratione signi magis congruit ut in altari in quo Missa celebratur non sit tabernaculum in quo Ss.ma
-Eucharistia asservatur. [128] Praestat proinde tabernaculum collocari, de iudicio Episcopi
-dioecesani: a) aut in presbyterio, extra altare celebrationis, forma et loco magis convenientibus,
-non excluso vetere altari quod ad celebrationem amplius non adhibetur ( cf. n. 303 ); b) aut etiam
-in aliquo sacello ad privatam fidelium adorationem et precationem idoneo, [129] quod sit cum
-ecclesia organice coniunctum et christifidelibus conspicuum.
+Eucharistia asservatur. Praestat proinde tabernaculum collocari, de iudicio Episcopi dioecesani: a)
+aut in presbyterio, extra altare celebrationis, forma et loco magis convenientibus, non excluso
+vetere altari quod ad celebrationem amplius non adhibetur ( cf. n. 303 ); b) aut etiam in aliquo
+sacello ad privatam fidelium adorationem et precationem idoneo, quod sit cum ecclesia organice
+coniunctum et christifidelibus conspicuum. [^128] [^129]
 
 ### §316
 
 Secundum traditam consuetudinem, iuxta tabernaculum peculiaris perenniter luceat lampas, oleo vel
-cera nutrienda, qua indicetur et honoretur Christi praesentia. [130]
+cera nutrienda, qua indicetur et honoretur Christi praesentia. [^130]
 
 ### §317
 
 Minime obliviscantur etiam cetera omnia quae de asservatione Ss.mae Eucharistiae ad normam iuris
-praescribuntur. [131] De imaginibus sacris
+praescribuntur. [^131]
 
 #### Sacred Images
 
@@ -2639,15 +2596,14 @@ praescribuntur. [131] De imaginibus sacris
 
 Ecclesia in terrena Liturgia caelestem illam praegustando participat, quae in sancta civitate
 Ierusalem, ad quam peregrina tendit, celebratur, ubi Christus est in dextera Dei sedens, et memoriam
-Sanctorum venerando partem aliquam et societatem cum iis sperat se habituram. [132] Itaque Domini,
-beatae Mariae Virginis et Sanctorum imagines, iuxta antiquissimam Ecclesiae traditionem, in aedibus
-sacris fidelium venerationi exhibeantur [133] et ibi ita disponantur ut fideles manuducant ad
-mysteria fidei quae ibi celebrantur. Ideoque caveatur ne eorum numerus indiscrete augeatur, hinc ut
-earum dispositio debito ordine fiat, ne fidelium attentionem ab ipsa celebratione avocent. [134]
-Unius autem eiusdemque Sancti plus quam una imago de more ne habeatur. Generatim in ornamento et
-dispositione ecclesiae ad imagines quod attinet, pietati totius communitatis prospiciatur atque
-pulchritudini et dignitati imaginum. Caput VI DE IIS QUAE AD MISSAE CELEBRATIONEM REQUIRUNTUR I. DE
-PANE ET VINO AD EUCHARISTIAM CELEBRANDAM
+Sanctorum venerando partem aliquam et societatem cum iis sperat se habituram. Itaque Domini, beatae
+Mariae Virginis et Sanctorum imagines, iuxta antiquissimam Ecclesiae traditionem, in aedibus sacris
+fidelium venerationi exhibeantur et ibi ita disponantur ut fideles manuducant ad mysteria fidei quae
+ibi celebrantur. Ideoque caveatur ne eorum numerus indiscrete augeatur, hinc ut earum dispositio
+debito ordine fiat, ne fidelium attentionem ab ipsa celebratione avocent. Unius autem eiusdemque
+Sancti plus quam una imago de more ne habeatur. Generatim in ornamento et dispositione ecclesiae ad
+imagines quod attinet, pietati totius communitatis prospiciatur atque pulchritudini et dignitati
+imaginum. [^132] [^133] [^134]
 
 
 ## Chapter VI: The Requisites for the Celebration of Mass
@@ -2692,7 +2648,7 @@ frangi possit.
 Si post consecrationem aut cum Communionem sumit, sacerdos animadvertat vinum non fuisse infusum,
 sed aquam, deposita aqua in aliquo vase, vinum cum aqua infundat in calicem, illud consecret, partem
 narrationis dicens quae ad consecrationem calicis pertinet, quin tamen teneatur iterum panem
-consecrare. II. DE SACRA SUPELLECTILE IN GENERE
+consecrare.
 
 ### II. Sacred Furnishings in General
 
@@ -2701,15 +2657,14 @@ consecrare. II. DE SACRA SUPELLECTILE IN GENERE
 Sicut pro ecclesiis aedificandis, ita et pro sacra supellectile universa, Ecclesia genus artis
 cuiusque regionis admittit, et eas aptationes recipit, quae cum singularum gentium ingenio et
 traditionibus congruant, dummodo omnia usui ad quem ipsa sacra supellex destinatur apte respondeant.
-[135] Etiam in hac parte sedulo curetur nobilis illa simplicitas, quae cum arte vera optime
-copulatur.
+Etiam in hac parte sedulo curetur nobilis illa simplicitas, quae cum arte vera optime copulatur. [^135]
 
 ### §326
 
 In seligendis materiis pro sacra supellectile, praeter eas quae usu traditae sunt, eae quoque
 admitti possunt quae, iuxta mentem nostrae aetatis, nobiles aestimantur, durabiles sunt et usui
 sacro bene accommodantur. Qua de re iudex erit Conferentia Episcoporum pro singulis regionibus ( cf.
-n. 390 ). III. DE SACRIS VASIS
+n. 390 ).
 
 ### III. Sacred Vessels
 
@@ -2750,12 +2705,12 @@ apta, et clare distinguantur ab iis quae usui cotidiano destinantur.
 
 ### §333
 
-Quoad vasorum sacrorum benedictionem, serventur ritus in libris liturgicis praescripti. [136]
+Quoad vasorum sacrorum benedictionem, serventur ritus in libris liturgicis praescripti. [^136]
 
 ### §334
 
 Mos servetur exstruendi in sacristia sacrarium, in quod aqua ablutionis sacrorum vasorum et
-linteaminum fundatur ( cf. n. 280 ). IV. DE SACRIS VESTIBUS
+linteaminum fundatur ( cf. n. 280 ).
 
 ### IV. Sacred Vestments
 
@@ -2766,7 +2721,7 @@ munerum in Eucharistiae celebratione exterius manifestatur diversitate sacrarum 
 proinde signum exstare debent muneris cuique ministro proprii. Eaedem tamen sacrae vestes ad decorem
 quoque ipsius actionis sacrae conferant oportet. Vestes quibus sacerdotes et diaconi, necnon
 ministri laici induuntur opportune benedicuntur antequam usui liturgico destinentur, iuxta ritum in
-Rituali Romano descriptum. [137]
+Rituali Romano descriptum. [^137]
 
 ### §336
 
@@ -2804,13 +2759,13 @@ iuxta rubricas proprias singulorum rituum.
 ### §342
 
 Ad formam sacrarum vestium quod attinet, Conferentiae Episcoporum possunt definire et proponere
-Apostolicae Sedi aptationes, quae necessitatibus et moribus singularum regionum respondeant. [138]
+Apostolicae Sedi aptationes, quae necessitatibus et moribus singularum regionum respondeant. [^138]
 
 ### §343
 
 Ad sacras vestes conficiendas, praeter traditas materias, fibrae naturales cuiusque loci propriae
 adhiberi possunt, necnon aliquae fibrae artificiales, quae respondeant dignitati actionis sacrae et
-personae. De qua re iudicabit Episcoporum Conferentia. [139]
+personae. De qua re iudicabit Episcoporum Conferentia. [^139]
 
 ### §344
 
@@ -2847,16 +2802,15 @@ respondeant.
 Missae rituales dicuntur cum colore proprio vel albo vel festivo; Missae autem pro variis
 necessitatibus cum colore proprio diei vel temporis aut cum colore violaceo, si indolem
 paenitentialem manifestant, v. gr. nn. 31, 33, 38; Missae votivae cum colore convenienti Missae quae
-celebratur aut etiam cum colore proprio diei vel temporis. V. DE ALIIS REBUS AD USUM ECCLESIAE
-DESTINATIS
+celebratur aut etiam cum colore proprio diei vel temporis.
 
 ### V. Other Things Intended for Church Use
 
 ### §348
 
 Praeter vasa sacra aut vestes sacras, pro quibus aliqua peculiaris materia statuitur, alia supellex,
-quae aut ipsi usui liturgico destinatur [140] aut quolibet alio modo in ecclesiam admittitur, digna
-sit atque respondens fini cui unaquaeque res destinatur.
+quae aut ipsi usui liturgico destinatur aut quolibet alio modo in ecclesiam admittitur, digna sit
+atque respondens fini cui unaquaeque res destinatur. [^140]
 
 ### §349
 
@@ -2872,7 +2826,7 @@ conectuntur, uti sunt, ex. gr., crux altaris et crux quae in processione defertu
 ### §351
 
 Sedulo contendatur ut etiam in rebus minoris momenti artis postulata opportune serventur, et nobilis
-semper simplicitas cum munditie societur. Caput VII DE MISSA EIUSQUE PARTIBUS ELIGENDIS
+semper simplicitas cum munditie societur.
 
 
 ## Chapter VII: The Choice of the Mass and Its Parts
@@ -2891,7 +2845,7 @@ iis quae ad ipsos magis directo spectant. Cum vero multiplex afferatur facultas 
 Missae partes, necesse est ut ante celebrationem diaconus, lectores, psalmista, cantor, commentator,
 schola, unusquisque pro sua parte, probe sciant quinam textus ad se spectans adhibeatur, nihilque ex
 tempore quodammodo eveniat. Harmonica enim ordinatio et exsecutio rituum multum confert ad
-componendos fidelium animos ad Eucharistiam participandam. I. DE MISSA ELIGENDA
+componendos fidelium animos ad Eucharistiam participandam.
 
 ### I. The Choice of Mass
 
@@ -2920,19 +2874,19 @@ Missa de feria, aut Missa de memoria ad libitum forte occurrente, aut Missa de a
 in Martyrologio inscripto, aut Missa pro variis necessitatibus vel votiva. Si celebrat cum populo,
 sacerdos curabit ne frequentius et sine sufficienti causa lectiones omittat singulis diebus in
 lectionario pro feriis assignatas: Ecclesia enim cupit ut ditior mensa verbi Dei paretur fidelibus.
-[141] Ob eandem causam moderate sumet Missas defunctorum: quaelibet enim Missa tam pro vivis quam
-pro defunctis offertur, et in Prece eucharistica memoria defunctorum habetur. Ubi autem fidelibus
-cordi sunt memoriae ad libitum beatae Mariae Virginis vel Sanctorum, satisfiat legitimae eorum
-pietati. Cum vero facultas datur eligendi inter memoriam calendario generali inscriptam et memoriam
+Ob eandem causam moderate sumet Missas defunctorum: quaelibet enim Missa tam pro vivis quam pro
+defunctis offertur, et in Prece eucharistica memoria defunctorum habetur. Ubi autem fidelibus cordi
+sunt memoriae ad libitum beatae Mariae Virginis vel Sanctorum, satisfiat legitimae eorum pietati.
+Cum vero facultas datur eligendi inter memoriam calendario generali inscriptam et memoriam
 calendario dioecesano aut religioso insertam, praeoptetur, ceteris paribus et iuxta traditionem,
-memoria particularis. II. DE MISSAE PARTIBUS ELIGENDIS
+memoria particularis. [^141]
 
 ### II. The Choice of Texts for the Mass
 
 ### §356
 
 In seligendis textibus diversarum partium Missae tum de Tempore tum de Sanctis, serventur normae
-quae sequuntur. De lectionibus
+quae sequuntur.
 
 #### The Readings
 
@@ -2974,7 +2928,7 @@ prae oculis habitis tum congrua ratione pastorali tum eligendi facultate in hac 
 Datur quandoque forma longior et forma brevior eiusdem textus. In eligendo inter has duas formas
 criterium pastorale prae oculis habeatur. Tunc attendatur oportet ad facultatem fidelium auscultandi
 cum fructu lectionem magis vel minus longam; ad eorum facultatem audiendi textum magis completum,
-per homiliam explicandum. [142]
+per homiliam explicandum. [^142]
 
 ### §361
 
@@ -2982,16 +2936,16 @@ Quando autem facultas tribuitur seligendi inter unum vel alterum textum iam defi
 libitum propositum, attendendum erit ad utilitatem participantium, prout nempe agitur de adhibendo
 textu, qui facilior est vel magis conveniens coetui congregato, vel de textu iterando vel reponendo,
 qui alicui celebrationi tamquam proprius assignatur, alteri vero tamquam ad libitum adhibendus,
-quoties utilitas pastoralis id suadeat. [143] Quod evenire potest aut quando idem textus diebus
+quoties utilitas pastoralis id suadeat. Quod evenire potest aut quando idem textus diebus
 proximioribus iterum legi debeat ex. gr. die dominica et in feria subsequenti aut quando timeatur ne
 textus aliquis quasdam gignat difficultates in aliquo christifidelium coetu. Caveatur tamen ne, in
-seligendis textibus Scripturae Sacrae, partes eius permanenter excludantur.
+seligendis textibus Scripturae Sacrae, partes eius permanenter excludantur. [^143]
 
 ### §362
 
 Praeter facultates eligendi quosdam textus aptiores, de quibus supra, facultas fit Conferentiis
 Episcoporum, in peculiaribus adiunctis, aliquas aptationes indicandi ad lectiones quod attinet, ea
-tamen lege, ut textus seligantur e lectionario rite approbato. De orationibus
+tamen lege, ut textus seligantur e lectionario rite approbato.
 
 #### The Orations
 
@@ -3005,7 +2959,7 @@ orationes alius dominicae «per annum», vel una ex orationibus pro variis neces
 Missali recensentur. Semper tamen licebit ex iisdem Missis etiam solam collectam adhibere. Hoc modo
 ditior copia praebetur textuum, quibus precatio fidelium abundantius nutritur. In potioribus tamen
 anni temporibus, haec accommodatio iam fit per orationes iisdem temporibus proprias, in Missali, pro
-singulis feriis, exstantes. De Prece eucharistica
+singulis feriis, exstantes.
 
 ### §364
 
@@ -3030,8 +2984,7 @@ Prex in Missis defunctorum adhibeatur, usurpari potest peculiaris formula pro de
 inserenda, nempe post verba: Omnes fílios tuos ubíque dispérsos, tibi, clemens Pater, miserátus
 coniúnge . d) Prex eucharistica quarta praefationem immutabilem habet et summarium plenius historiae
 salutis praebet. Adhiberi potest quando Missa praefatione propria caret, et in dominicis «per
-annum». In hanc Precem, ratione structurae, inseri nequit peculiaris formula pro defuncto. De
-cantibus
+annum». In hanc Precem, ratione structurae, inseri nequit peculiaris formula pro defuncto.
 
 #### The Chants
 
@@ -3043,8 +2996,7 @@ Cantibus in Ordine Missae positis, v. gr. ad Agnus Dei , non licet substituere a
 
 In eligendis cantibus inter lectiones occurrentibus, necnon cantibus ad introitum, ad offertorium et
 ad Communionem, normae serventur, quae suis locis statuuntur ( cf. nn. 40-41, 47-48, 61-64, 74,
-86-88 ). Caput VIII DE MISSIS ET ORATIONIBUS AD DIVERSA ET DE MISSIS DEFUNCTORUM I. DE MISSIS ET
-ORATIONIBUS AD DIVERSA
+86-88 ).
 
 
 ## Chapter VIII: Masses and Prayers for Various Needs and Occasions and Masses for the Dead
@@ -3056,10 +3008,10 @@ ORATIONIBUS AD DIVERSA
 ### §368
 
 Quoniam liturgia Sacramentorum et Sacramentalium id efficit ut fidelibus bene dispositis omnis fere
-eventus vitae sanctificetur gratia divina manante ex mysterio paschali, [144] et quoniam Eucharistia
-est sacramentum sacramentorum, Missale suppeditat exempla Missarum et orationum, quae in diversis
+eventus vitae sanctificetur gratia divina manante ex mysterio paschali, et quoniam Eucharistia est
+sacramentum sacramentorum, Missale suppeditat exempla Missarum et orationum, quae in diversis
 occasionibus vitae christianae adhiberi possunt pro necessitatibus totius mundi aut Ecclesiae
-universae vel localis.
+universae vel localis. [^144]
 
 ### §369
 
@@ -3121,7 +3073,7 @@ ritualibus.
 ### §378
 
 Peculiari modo, memoria sanctae Maria in sabbato commendatur, quia Redemptoris Matri in Liturgia
-Ecclesiae imprimis et prae omnibus Sanctis veneratio tribuitur. [145] II. DE MISSIS DEFUNCTORUM
+Ecclesiae imprimis et prae omnibus Sanctis veneratio tribuitur. [^145]
 
 ### II. Masses for the Dead
 
@@ -3135,7 +3087,7 @@ solacium.
 
 Inter Missas defunctorum primum locum tenet Missa exsequialis, quae celebrari potest omnibus diebus,
 exceptis sollemnitatibus de praecepto, feria V Hebdomadae sanctae, Triduo paschali et dominicis
-Adventus, Quadragesimae et Paschae, servatis insuper omnibus servandis ad normam iuris. [146]
+Adventus, Quadragesimae et Paschae, servatis insuper omnibus servandis ad normam iuris. [^146]
 
 ### §381
 
@@ -3169,7 +3121,7 @@ par est, rationes pastorales, quoad defunctum, eius familiam, et astantes. Speci
 rationem habeant pastores de iis qui, per occasionem exsequiarum, liturgicis celebrationibus adsunt
 vel Evangelium audiunt, sive sunt acatholici sive catholici qui Eucharistiam numquam vel vix umquam
 participant, vel fidem etiam amisisse videntur: sunt enim sacerdotes ministri Evangelii Christi pro
-omnibus. Caput IX DE APTATIONIBUS QUAE EPISCOPIS EORUMQUE CONFERENTIIS COMPETUNT
+omnibus.
 
 
 ## Chapter IX: Adaptations within the Competence of Bishops and Bishops’ Conferences
@@ -3181,20 +3133,20 @@ omnibus. Caput IX DE APTATIONIBUS QUAE EPISCOPIS EORUMQUE CONFERENTIIS COMPETUNT
 Missalis Romani instauratio, ad normam decretorum Concilii Oecumenici Vaticani II aetate nostra
 effecta, assidue curavit ut fideles universi, in celebratione eucharistica, plenam illam, consciam
 atque actuosam participationem praestare possint, quae ab ipsius Liturgiae natura postulatur, et ad
-quam ipsi fideles, vi suae condicionis, ius habent et officium. [147] Quo autem celebratio normis et
+quam ipsi fideles, vi suae condicionis, ius habent et officium. Quo autem celebratio normis et
 spiritui sacrae Liturgiae plenius respondeat, in hac Institutione et in Ordine Missae ulteriores
 quaedam aliquae aptationes proponuntur, quae iudicio vel Episcopi dioecesani vel Conferentiarum
-Episcoporum committuntur.
+Episcoporum committuntur. [^147]
 
 ### §387
 
 Episcopus dioecesanus, qui ut sacerdos magnus sui gregis habendus est, a quo vita suorum fidelium in
-Christo quodammodo derivatur et pendet, [148] vitam liturgicam fovere, moderari eique invigilare
-debet in sua dioecesi. Ipsi, in hac Institutione, committitur concelebrationis disciplinam moderari
-( cf. nn. 202, 374 ), normas statuere circa munus inserviendi sacerdoti ad altare ( cf. n. 107 ),
-circa sacram Communionem sub utraque specie distribuendam ( cf. 283 ), circa domos ecclesiae
-exstruendas et ordinandas ( cf. n. 291 ). Sed ad ipsum primarie spectat spiritum sacrae Liturgiae in
-presbyteris, diaconis et fidelibus alere.
+Christo quodammodo derivatur et pendet, vitam liturgicam fovere, moderari eique invigilare debet in
+sua dioecesi. Ipsi, in hac Institutione, committitur concelebrationis disciplinam moderari ( cf. nn.
+202, 374 ), normas statuere circa munus inserviendi sacerdoti ad altare ( cf. n. 107 ), circa sacram
+Communionem sub utraque specie distribuendam ( cf. 283 ), circa domos ecclesiae exstruendas et
+ordinandas ( cf. n. 291 ). Sed ad ipsum primarie spectat spiritum sacrae Liturgiae in presbyteris,
+diaconis et fidelibus alere. [^148]
 
 ### §388
 
@@ -3205,8 +3157,8 @@ normam iuris, sunt determinandae.
 
 Ad Conferentias Episcoporum competit imprimis huius Missalis Romani editionem in probatis linguis
 vernaculis apparare atque approbare, ut, actis ab Apostolica Sede recognitis, in regionibus ad quas
-pertinet adhibeatur. [149] Missale Romanum sive in textu latino sive in versionibus vernaculis
-legitime approbatis integre edendum est.
+pertinet adhibeatur. Missale Romanum sive in textu latino sive in versionibus vernaculis legitime
+approbatis integre edendum est. [^149]
 
 ### §390
 
@@ -3227,9 +3179,9 @@ opportuno, induci poterunt.
 Iisdem Conferentiis spectat versionibus textuum biblicorum qui in Missae celebratione adhibentur,
 peculiari cura attendere. Ex sacra Scriptura enim lectiones leguntur et in homilia explicantur,
 psalmi canuntur, atque ex eius afflatu instinctuque preces, orationes et carmina liturgica effusa
-sunt, ut ex ea significationem suam actiones et signa accipiunt. [150] Sermo adhibeatur qui captui
+sunt, ut ex ea significationem suam actiones et signa accipiunt. Sermo adhibeatur qui captui
 fidelium respondeat et publicae proclamationi aptus sit, notis tamen servatis quae propriae sunt
-diversis modis loquendi in libris biblicis adhibitis.
+diversis modis loquendi in libris biblicis adhibitis. [^150]
 
 ### §392
 
@@ -3242,29 +3194,29 @@ proclamationem vel cantum in actu celebrationis. Sermo adhibeatur fidelibus regi
 attamen nobilis ac litteraria qualitate praeditus, firma semper manente necessitate alicuius
 catechesis de sensu biblico et christiano nonnullorum verborum et sententiarum. Praestat vero, in
 regionibus eandem linguam habentibus, pro textibus liturgicis, praesertim vero pro textibus biblicis
-et pro Ordine Missae eandem versionem, quantum fieri potest, haberi. [151]
+et pro Ordine Missae eandem versionem, quantum fieri potest, haberi. [^151]
 
 ### §393
 
 Attento loco eminenti, quem in celebratione cantus obtinet, utpote liturgiae pars necessaria vel
-integralis, [152] Conferentiarum Episcoporum est melodias aptas approbare, praesertim pro textibus
+integralis, Conferentiarum Episcoporum est melodias aptas approbare, praesertim pro textibus
 Ordinarii Missae, pro populi responsionibus et acclamationibus, et pro peculiaribus ritibus per
 annum liturgicum occurrentibus. Item iudicare quasnam formas musicales, melodias, instrumenta musica
-in cultum divinum admittere liceat, quatenus usui sacro vere apta sint vel aptari possint.
+in cultum divinum admittere liceat, quatenus usui sacro vere apta sint vel aptari possint. [^152]
 
 ### §394
 
 Oportet ut quaevis dioecesis suum Calendarium et Proprium Missarum habeat. Conferentia vero
 Episcoporum, pro sua parte, conficiat calendarium proprium nationis, vel, una cum aliis
-Conferentiis, calendarium amplioris dicionis, ab Apostolica Sede approbandum. [153] In hoc opere
+Conferentiis, calendarium amplioris dicionis, ab Apostolica Sede approbandum. In hoc opere
 perficiendo, maxime servanda et tuenda est dies dominica, ut primordialis dies festus, exinde aliae
-celebrationes, nisi revera sint maximi momenti, ipsi ne praeponantur. [154] Item curetur ne annus
+celebrationes, nisi revera sint maximi momenti, ipsi ne praeponantur. Item curetur ne annus
 liturgicus ex decreto Concilii Vaticani II recognitus elementis secundariis obscuretur. In
 calendario nationis conficiendo, dies indicentur ( cf. n. 373 ) Rogationum et Quattuor anni
-Temporum, et formae et textus ad illas celebrandas, [155] aliaeque peculiares determinationes prae
-oculis habeantur. Convenit ut, in edendo Missali, celebrationes quae toti nationi vel dicioni sunt
-propriae suo loco inter celebrationes calendarii generalis inserantur, quae vero regioni vel
-dioecesi in Appendice particulari locum habeant.
+Temporum, et formae et textus ad illas celebrandas, aliaeque peculiares determinationes prae oculis
+habeantur. Convenit ut, in edendo Missali, celebrationes quae toti nationi vel dicioni sunt propriae
+suo loco inter celebrationes calendarii generalis inserantur, quae vero regioni vel dioecesi in
+Appendice particulari locum habeant. [^153] [^154] [^155]
 
 ### §395
 
@@ -3272,13 +3224,13 @@ Demum, si fidelium participatio et eorum spirituale bonum varietates et profundi
 requirant, ut sacra celebratio ingenio et traditionibus diversarum gentium respondeat, Conferentiae
 Episcoporum illas Sedi Apostolicae, ad normam art. 40 Constitutionis de sacra Liturgia proponere
 poterunt, de ipsius consensu introducendas, praesertim pro gentibus quibus Evangelium recentius
-nuntiatum est. [156] Attente serventur peculiares normae quae per Instructionem «De Liturgia romana
-et inculturatione» traditae sunt. [157] Ad modum autem in hac re procedendi, haec serventur:
-Imprimis praevia propositio Sedi Apostolicae particulatim exponatur, ut, debita facultate concessa,
-ad singulas aptationes elaborandas procedatur. His propositis ab Apostolica Sede rite approbatis,
-experimenta pro temporibus et locis statutis peragentur. Si casus fert, experimenti tempore expleto,
-Conferentia Episcoporum aptationum prosecutionem determinabit et rei maturam formulationem
-Apostolicae Sedis iudicio proponet. [158]
+nuntiatum est. Attente serventur peculiares normae quae per Instructionem «De Liturgia romana et
+inculturatione» traditae sunt. Ad modum autem in hac re procedendi, haec serventur: Imprimis praevia
+propositio Sedi Apostolicae particulatim exponatur, ut, debita facultate concessa, ad singulas
+aptationes elaborandas procedatur. His propositis ab Apostolica Sede rite approbatis, experimenta
+pro temporibus et locis statutis peragentur. Si casus fert, experimenti tempore expleto, Conferentia
+Episcoporum aptationum prosecutionem determinabit et rei maturam formulationem Apostolicae Sedis
+iudicio proponet. [^156] [^157] [^158]
 
 ### §396
 
@@ -3292,252 +3244,365 @@ Principium quoque servetur, iuxta quod unaquaeque Ecclesia particularis concorda
 universali Ecclesia non solum quoad fidei doctrinam et signa sacramentalia, sed etiam quoad usus
 universaliter acceptos ab apostolica et continua traditione, qui servandi sunt non solum ut errores
 vitentur, verum etiam ad fidei integritatem tradendam, quia Ecclesiae lex orandi eius legi credendi
-respondet. [159] Ritus romanus partem notabilem et pretiosam liturgici thesauri et patrimonii
-Ecclesiae catholicae constituit, cuius divitiae ad bonum universae Ecclesiae iuvant, ita ut earum
-amissio ei graviter noceret. Ritus ille saeculorum decursu non solum usus liturgicos ex urbe Roma
-ortos servavit sed etiam profundo, organico et harmonico modo alios quosdam in se integravit, qui e
+respondet. Ritus romanus partem notabilem et pretiosam liturgici thesauri et patrimonii Ecclesiae
+catholicae constituit, cuius divitiae ad bonum universae Ecclesiae iuvant, ita ut earum amissio ei
+graviter noceret. Ritus ille saeculorum decursu non solum usus liturgicos ex urbe Roma ortos
+servavit sed etiam profundo, organico et harmonico modo alios quosdam in se integravit, qui e
 consuetudinibus et ingenio diversorum populorum variarumque Ecclesiarum particularium sive
 Occidentis sive Orientis derivabantur, indolem quandam supraregionalem sic acquirens. Nostris vero
 temporibus identitas et expressio unitaria huius Ritus invenitur in editionibus typicis librorum
 liturgicorum ex auctoritate Summi Pontificis promulgatis et in libris liturgicis illis
 respondentibus, a Conferentiis Episcoporum pro suis dicionibus probatis atque a Sede Apostolica
-recognitis. [160]
+recognitis. [^159] [^160]
 
 ### §398
 
 Norma a Concilio Vaticano II statuta, ut innovationes in instauratione liturgica ne fiant nisi vera
 et certa utilitas Ecclesiae id exigat, et adhibita cautela ut novae formae ex formis iam exstantibus
-organice quodammodo crescant, [161] ad ipsius quoque Ritus romani inculturationem operandam
-applicari debet. [162] Inculturatio insuper necessariam temporis copiam requirit ne festinatim et
-incaute authentica traditio liturgica contaminetur. Inculturationis denique inquisitio minime
-contendit ad novas familias rituales creandas, sed culturae datae exigentiis consulere eo tamen
-modo, ut aptationes inductae sive in Missali sive in aliis libris liturgicis compositae indoli
-propriae Ritus romani non sint noxiae. [163]
+organice quodammodo crescant, ad ipsius quoque Ritus romani inculturationem operandam applicari
+debet. Inculturatio insuper necessariam temporis copiam requirit ne festinatim et incaute authentica
+traditio liturgica contaminetur. Inculturationis denique inquisitio minime contendit ad novas
+familias rituales creandas, sed culturae datae exigentiis consulere eo tamen modo, ut aptationes
+inductae sive in Missali sive in aliis libris liturgicis compositae indoli propriae Ritus romani non
+sint noxiae. [^161] [^162] [^163]
 
 ### §399
 
-Itaque Missale Romanum, quamvis in linguarum diversitate atque in quadam consuetudinum varietate,
-[164] in posterum servari debet veluti instrumentum et praeclarum signum integritatis et unitatis
-Ritus romani. [165] (1) Conc. Oecum. Trid., Sessio XXII, 17 septembris 1562: Denz-Schönm. 1738-1759.
-(2) Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 47; cf. Const. dogm.
-de Ecclesia, Lumen gentium , nn. 3, 28; Decr. de Presbyterorum ministerio et vita, Presbyterorum
-ordinis , nn. 2, 4, 5. (3) Missa vespertina in Cena Domini, oratio super oblata. Cf. Sacramentarium
-Veronense , ed. L.C. Mohlberg, n. 93. (4) Cf. Prex eucharistica III. (5) Cf. Prex eucharistica IV.
-(6) Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , nn. 7, 47; Decr. de
-Presbyterorum ministerio et vita, Presbyterorum ordinis , nn. 5, 18. (7) Cf. Pius XII, Litt. Enc.
-Humani generis , diei 12 augusti 1950: A.A.S. 42 (1950) pp. 570-571; Paulus VI, Litt. Enc. Mysterium
-Fidei , diei 3 septembris 1965: A.A.S. 57 (1965) pp. 762-769; Sollemnis Professio Fidei , diei 30
-iunii 1968, nn. 24-26: A.A.S. 60 (1968) pp. 442-443; S. Congr. Rituum, Instr. Eucharisticum
-mysterium , diei 25 maii 1967, nn. 3f, 9: A.A.S. 59 (1967) pp. 543, 547. (8) Cf. Conc. Oecum. Trid.,
-Sessio XIII, 11 octobris 1551: Denz-Schönm. 1635-1661. (9) Cf. Conc. Oecum. Vat. II, Decr. de
-Presbyterorum ministerio et vita, Presbyterorum ordinis , n. 2. (10) Cf. Conc. Oecum. Vat. II,
-Const. de sacra Liturgia, Sacrosanctum Concilium , n. 11. (11) Ibidem, n. 50. (12) Conc. Oecum.
-Trid., Sessio XXII, Doctr. de ss. Missae Sacrificio, cap. 8: Denz-Schönm. 1749. (13) Ibidem , can.
-9: Denz-Schönm. 1759. (14) Ibidem , cap. 8: Denz-Schönm. 1749. (15) Cf. Conc. Oecum. Vat. II, Const.
-de sacra Liturgia, Sacrosanctum Concilium , n. 33. (16) Ibidem , n. 36. (17) Ibidem , n. 52. (18)
-Ibidem , n. 35, 3. (19) Ibidem , n. 55. (20) Conc. Oecum. Trid., Sessio XXII, Doctr. de ss. Missae
-Sacrificio, cap. 6: Denz-Schönm. 1747. (21) Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia,
-Sacrosanctum Concilium , n. 55. (22) Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia,
-Sacrosanctum Concilium , n. 41; Const. dogm. de Ecclesia, Lumen gentium , n. 11; Decr. de
-Presbyterorum ministerio et vita, Presbyterorum ordinis , nn. 2, 5, 6; Decr. de pastorali
-Episcoporum munere, Christus Dominus , n. 30; Decr. de Oecumenismo, Unitatis redintegratio , n. 15;
-S. Congr. Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, nn. 3 e, 6: A.A.S. 59 (1967)
-pp. 542, 544-545. (23) Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium ,
-n. 10. (24) Cf. ibidem , n. 102. (25) Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia,
-Sacrosanctum Concilium , n. 10; Decr. de Presbyterorum ministerio et vita, Presbyterorum ordinis ,
-n. 5. (26) Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , nn. 14, 19,
-26, 28, 30. (27) Cf. ibidem , n. 47. (28) Cf. ibidem , n. 14. (29) Cf. ibidem , n. 41. (30) Cf.
-Conc. Oecum. Vat. II, Decr. de Presbyterorum ministerio et vita, Presbyterorum ordinis , n. 13;
-Codex Iuris Canonici , can. 904. (31) Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia,
-Sacrosanctum Concilium , n. 59. (32) Quoad peculiares Missae celebrationes servetur quod statutum
-est: cf. pro Missis in coetibus particularibus: S. Congr. pro Cultu Divino, Instr. Actio pastoralis
-, diei 15 maii 1969: A.A.S. 61 (1969) pp. 806-811; pro Missis cum pueris: Directorium de Missis cum
-pueris , die 1 novembris 1973: A.A.S. 66 (1974) pp. 30-46; de modo uniendi Horas Officii cum Missa:
-Institutio generalis de Liturgia Horarum , nn. 93-98; de modo uniendi quasdam benedictiones et
-coronationem imaginis beatae Mariae Virginis cum Missa: Rituale Romanum, De Benedictionibus , editio
-typica 1984, Praenotanda n. 28; Ordo coronandi imaginem beatae Mariae Virginis, editio typica
-1981, nn. 10 et 14. (33) Cf. Conc. Oecum. Vat. II, Decr. de pastorali Episcoporum munere, Christus
-Dominus , n. 15; cf. etiam Const. de sacra Liturgia, Sacrosanctum Concilium , n. 41. (34) Cf. Conc.
-Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 22. (35) Cf. etiam Conc.
-Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , nn. 58, 40; Paulus VI, Const. Ap.
-Missale Romanum, supra . (36) Congr. de Cultu Divino et Disciplina Sacramentorum, Instr. Varietates
-legitimae , diei 25 ianuarii 1994: A.A.S. 87 (1995) pp. 288-314. (37) Cf. Conc. Oecum. Vat. II,
-Decr. de Presbyterorum ministerio et vita, Presbyterorum ordinis , n. 5; Const. de sacra Liturgia,
-Sacrosanctum Concilium , n. 33. (38) Cf. Conc. Oecum. Trid., Sessio XXII, Doctr. de ss. Missae
-Sacrificio, cap. 1: Denz-Schönm. 1740; cf. Paulus VI, Sollemnis professio fidei , diei 30 iunii
-1968, n. 24: A.A.S. 60 (1968) p. 442. (39) Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia,
-Sacrosanctum Concilium , n. 7; Paulus VI, Litt. Enc. Mysterium Fidei , diei 3 septembris 1965:
-A.A.S. 57 (1965) p. 764; S. Congr. Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, n. 3:
-A.A.S. 59 (1967) p. 547. (40) Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum
-Concilium , n. 56; S. Congr. Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, n. 3:
-A.A.S. 59 (1967) p. 542 (41) Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum
-Concilium , nn. 48, 51; Const. dogm. de divina Revelatione, Dei Verbum , n. 21; Decr. de
-Presbyterorum ministerio et vita, Presbyterorum ordinis , n. 4. (42) Cf. Conc. Oecum. Vat. II,
-Const. de sacra Liturgia, Sacrosanctum Concilium , nn. 7, 33, 52. (43) Cf. ibidem, n. 33. (44) Cf.
-S. Congr. Rituum, Instr. Musicam sacram , diei 5 martii 1967, n. 14: A.A.S. 59 (1967) p. 304. (45)
-Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , nn. 26-27; S. Congr.
-Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, n. 3d: A.A.S. 59 (1967) p. 542. (46) Cf.
-Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 30. (47) Cf. S. Congr.
-Rituum, Instr. Musicam sacram , diei 5 martii 1967, n. 16a: A.A.S. 59 (1967) p. 305. (48) S.
-Augustinus Hipponensis, Sermo 336 , 1: PL 38, 1472. (49) Cf. S. Congr. Rituum, Instr. Musicam sacram
-, diei 5 martii 1967, nn. 7, 16: A.A.S. 59 (1967) pp. 302, 305. (50) Cf. Conc. Oecum. Vat. II,
-Const. de sacra Liturgia, Sacrosanctum Concilium , n. 116; etiam ibidem , n. 30. (51) Cf. Conc.
-Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 54; cf. S. Congr. Rituum,
-Instr. Inter Oecumenici , diei 26 septembris 1964, n. 59: A.A.S. 56 (1964) p. 891; Instr. Musicam
-sacram , diei 5 martii 1967, n. 47: A.A.S. 59 (1967) p. 314. (52) Cf. Conc. Oecum. Vat. II, Const.
-de sacra Liturgia, Sacrosanctum Concilium , nn. 30, 34; cf. ibidem etiam n. 21. (53) Cf. ibidem , n.
-40; cf. Congr. de Cultu Divino et Disciplina Sacramentorum, Instr. Varietates legitimae , diei 25
-ianuarii 1994, n. 41: A.A.S. 87 (1995) p. 304. (54) Cf. Conc. Oecum. Vat. II, Const. de sacra
-Liturgia, Sacrosanctum Concilium , n. 30; cf. S. Congr. Rituum, Instr. Musicam sacram , diei 5
-martii 1967, n. 17: A.A.S. 59 (1967) p. 305. (55) Cf. Ioannes Paulus II, Litt. Ap. Dies Domini ,
-diei 31 maii 1998, n. 50: A.A.S. 90 (1998) p. 745. (56) Cf. infra, pp. 1249-1252. (57) Cf.
-Tertullianus, Adversus Marcionem , IV, 9: CCSL 1, p.560; Origenes, Disputatio cum Heracleida , n. 4,
-24: SCh 67, p. 62; Statuta Concilii Hipponensis Breviata, 21: CCSL 149, p. 39. (58) Cf. Conc. Oecum.
-Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 33. (59) Cf. ibidem , n. 7. (60) Cf.
-Missale Romanum, Ordo lectionum Missae , editio typica altera 1981, n.28. (61) Cf. ibidem, n. 51.
-(62) Cf. Ioannes Paulus II, Litt. Ap. Vicesimus quintus annus , diei 4 decembris 1988, n. 13: A.A.S.
-81 (1989) p. 910. (63) Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium ,
-n. 52; cf. Codex Iuris canonici , can. 767 § 1. (64) Cf. S. Congr. Rituum, Instr. Inter Oecumenici ,
-diei 26 septembris 1964, n. 54: A.A.S. 56 (1964) p. 890. (65) Cf. Codex Iuris canonici , can. 767 §
-1; Pont. Comm. Codicis Iuris Canonici authentice interpretando, respons. ad dubium circa can. 767 §
-1 : A.A.S. 79 (1987), p. 1249; Instructio interdicasterialis de quibusdam quaestionibus circa
-fidelium laicorum cooperationem sacerdotum ministerium spectantem, Ecclesiae de mysterio , diei 15
-augusti 1997, art. 3: A.A.S. 89 (1997), p. 864. (66) Cf. S. Congr. Rituum, Instr. Inter Oecumenici ,
-diei 26 septembris 1964, n. 53: A.A.S. 56 (1964) p. 890. (67) Cf. Conc. Oecum. Vat. II, Const. de
-sacra Liturgia, Sacrosanctum Concilium , n. 53. (68) Cf. S. Congr. Rituum, Instr. Inter Oecumenici ,
-diei 26 septembris 1964, n. 56: A.A.S. 56 (1964) p. 890. (69) Cf. Conc. Oecum. Vat. II, Const. de
-sacra Liturgia, Sacrosanctum Concilium , n. 47; S. Congr. Rituum, Instr. Eucharisticum mysterium ,
-diei 25 maii 1967, nn. 3a, b: A.A.S. 59 (1967) pp. 540-541. (70) Cf. S. Congr. Rituum, Instr. Inter
-Oecumenici , diei 26 septembris 1964, n. 91: A.A.S. 56 (1964) p. 898;  Instr. Eucharisticum
-mysterium , diei 25 maii 1967, n. 24: A.A.S. 59 (1967) p. 554. (71) Conc. Oecum. Vat. II, Const. de
-sacra Liturgia, Sacrosanctum Concilium , n. 48; S. Congr. Rituum, Instr. Eucharisticum mysterium ,
-diei 25 maii 1967, n. 12: A.A.S. 59 (1967) pp. 548-549. (72) Cf. Conc. Oecum. Vat. II, Const. de
-sacra Liturgia, Sacrosanctum Concilium , n. 48; Decr. de Presbyterorum ministerio et vita,
-Presbyterorum ordinis , n. 5; cf. S. Congr. Rituum, Instr. Eucharisticum mysterium , diei 25 maii
-1967, n. 12: A.A.S. 59 (1967) pp. 548-549. (73) Cf. S. Congr. Rituum, Instr. Eucharisticum mysterium
-, diei 25 maii 1967, nn. 31, 32: A.A.S. 59 (1967) pp. 558-559; S. Congr. de Disciplina
-Sacramentorum, Instr. Immensae caritatis , diei 29 ianuarii 1973, n. 2: A.A.S. 65 (1973) pp.
-267-268. (74) Cf. S. Congr. pro Sacramentis et Cultu Divino, Instr. Inaestimabile donum , diei 3
-aprilis 1980, n. 17: A.A.S. 72 (1980) p. 338. (75) Cf. Conc. Oecum. Vat. II, Const. de sacra
-Liturgia, Sacrosanctum Concilium , n. 26. (76) Cf. ibidem , n. 14. (77) Cf. ibidem , n. 28. (78) Cf.
-Conc. Oecum. Vat. II, Const. dogm. de Ecclesia, Lumen gentium , nn. 26, 28; Const. de sacra
-Liturgia, Sacrosanctum Concilium , n. 42. (79) Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia,
-Sacrosanctum Concilium , n. 26. (80) Cf. Caeremoniale Episcoporum , nn. 175-186. (81) Cf. Conc.
-Oecum. Vat. II, Const. dogm. de Ecclesia, Lumen gentium , n. 28; Decretum de Presbyterorum
-ministerio et vita, Presbyterorum ordinis , n. 2. (82) Cf. Paulus VI, Litt. Ap. Sacrum diaconatus
-Ordinem , diei 18 iunii 1967: A.A.S. 59 (1967) 697-704; Pontificale Romanum, De Ordinatione
-Episcopi, presbyterorum et diaconorum , editio typica altera, 1989, n. 173. (83) Conc. Oecum. Vat.
-II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 48; S. Congr. Rituum, Instr. Eucharisticum
-mysterium , diei 25 maii 1967, n. 12: A.A.S. 59 (1967) pp. 548-549. (84) Cf. Codex Iuris Canonici ,
-can. 910 § 2; Instructio interdicasterialis de quibusdam quaestionibus circa fidelium laicorum
-cooperationem sacerdotum ministerium spectantem, Ecclesiae de mysterio , diei 15 augustii 1997, art.
-8: A.A.S. 89 (1997), p. 871. (85) Cf. S. Congr. de Disciplina Sacramentorum, Instr. Immensae
-caritatis , diei 29 ianuarii 1973, n. 1: A.A.S. 65 (1973) pp. 265-266; Codex Iuris Canonici , can.
-230 §3. (86) Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 24. (87)
-Cf. S. Congr. Rituum, Instr. Musicam sacram , diei 5 martii 1967, n. 19: A.A.S. 59 (1967) p. 306.
-(88) Cf. ibidem , n. 21: A.A.S. 59 (1967) pp. 306-307. (89) Cf. Pont. Cons. de Legum textibus
-interpretandis, responsio ad propositum dubium circa can. 230 §2: A.A.S. 86 (1994) p.541. (90) Cf.
-Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 22. (91) Cf. Conc.
-Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 41. (92) Cf. Caeremoniale
-Episcoporum , nn. 119-186. (93) Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum
-Concilium , n. 42; Const. dogm. de Ecclesia, Lumen gentium , n. 28; Decr. de Presbyterorum
-ministerio et vita, Presbyterorum ordinis , n. 5; S. Congr. Rituum, Instr. Eucharisticum mysterium ,
-diei 25 maii 1967, n. 26: A.A.S. 59 (1967) p. 555. (94) Cf. S. Congr. Rituum, Instr. Eucharisticum
-mysterium , diei 25 maii 1967, n. 47: A.A.S. 59 (1967) p. 565. (95) ibidem , n. 26: A.A.S. 59 (1967)
-p. 555; Instr. Musicam sacram , diei 5 martii 1967, nn. 16, 27: A.A.S. 59 (1967) pp. 305, 308. (96)
-Cf. Instructio interdicasterialis de quibusdam quaestionibus circa fidelium laicorum cooperationem
-sacerdotum ministerium spectantem, Ecclesiae de mysterio , diei 15 augustii 1997, art. 6: A.A.S. 89
-(1997), p. 869. (97) Cf. S. Congr. pro Sacramentis et Cultu Divino, Instr. Inaestimabile donum ,
-diei 3 aprilis 1980, n. 10: A.A.S. 72 (1980) p. 336; Instructio interdicasterialis de quibusdam
-quaestionibus circa fidelium laicorum cooperationem sacerdotum ministerium spectantem, Ecclesiae de
-mysterio , diei 15 augustii 1997, art. 8: A.A.S. 89 (1997), p. 871. (98) Cf. infra , Appendix, Ritus
-ad deputandum ministrum sacrae Communionis ad actum distribuendae, p. 1253. (99) Cf. Caeremoniale
-Episcoporum , nn. 1118 – 1121. (100) Cf. Paulus VI, Litt. Apost. Ministeria quaedam , diei 15 aug.
-1972: A.A.S. 64 (1972) p. 532. (101) Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia,
-Sacrosanctum Concilium , n. 57; Codex Iuris Canonici , can. 902. (102) Cf. S. Congr. Rituum, Instr.
-Eucharisticum mysterium , diei 25 maii 1967, n. 47: A.A.S. 59 (1967) p. 566. (103) ibidem, p. 565.
-(104) Cf. Benedictus XV, Const. Ap. Incruentum altaris sacrificium , diei 10 augusti 1915: A.A.S. 7
-(1915) pp. 401-404. (105) Cf. S. Congr. Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967,
-n. 32: A.A.S. 59 (1967) p. 558. (106) Cf. Conc. Oecum. Trid., Sessio XXI, 16 iulii 1562, Decr. de
-Communione eucharistica, capp. 1-3: Denz-Schönm. 1725-1729. (107) Cf. ibidem , cap. 2: Denz-Schönm.
-1728. (108) Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , nn.
-122-124; Decr. de Presbyterorum ministerio et vita, Presbyterorum ordinis , n. 5; S. Congr. Rituum,
-Instr. Inter Oecumenici , diei 26 septembris 1964, n. 90: A.A.S. 56 (1964) p. 897; Instr.
-Eucharisticum mysterium , diei 25 maii 1967, n. 24: A.A S. 59 (1967) p. 554; Codex Iuris Canonici ,
-can. 932 § 1. (109) Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n.
-123. (110) Cf. S. Congr. Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, n. 24: A.A S.
-59 (1967) p. 554. (111) Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium ,
-nn. 123, 129; S. Congr. Rituum, Instr. Inter Oecumenici , diei 26 septembris 1964, n. 13c: A.A.S. 56
-(1964) p. 880. (112) Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n.
-123. (113) ibidem , n. 126; S. Congr. Rituum, Instr. Inter Oecumenici , diei 26 septembris 1964, n.
-91: A.A.S. 56 (1964) p. 898. (114) Cf. S. Congr. Rituum, Instr. Inter Oecumenici , diei 26
-septembris 1964, nn. 97-98: A.A.S. 56 (1964) p. 899. (115) Cf. ibidem , n. 91: A.A.S. 56 (1964) p.
-898. (116) Cf. ibidem . (117) Cf. S. Congr. Rituum, Instr. Inter Oecumenici , diei 26 septembris
-1964, n. 96: A.A.S. 56 (1964) p. 899. (118) Cf. Rituale Romanum, De Benedictionibus, editio typica
-1984 , Ordo benedictionis occasione data auspicandi novum ambonem , nn. 900-918. (119) Cf. S. Congr.
-Rituum, Instr. Inter Oecumenici , diei 26 septembris 1964, n. 92: A.A.S. 56 (1964) p. 898. (120) Cf.
-Rituale Romanum, De Benedictionibus, editio typica 1984 , Ordo benedictionis occasione data
-auspicandi novam cathedram seu sedem praesidentiae , nn. 880-899. (121) Cf. S. Congr. Rituum, Instr.
-Inter Oecumenici , diei 26 septembris 1964, n. 92: A.A.S. 56 (1964) p. 898. (122) Cf. Conc. Oecum.
-Vat. II, Const. de sacra Liturgia Sacrosanctum Concilium , n. 32. (123) Cf. S. Congr. Rituum, Instr.
-Musicam sacram , diei 5 martii 1967, n. 23: A.A.S. 59 (1967) p. 307. (124) Cf. Rituale Romanum, De
-benedictionibus, editio typica 1984, Ordo benedictionis organi, nn. 1052-1067. (125) Cf. S. Congr.
-Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, n. 54: A.A.S. 59 (1967) p. 568; Instr.
-Inter Oecumenici , diei 26 septembris 1964, n. 95: A.A.S. 56 (1964) p. 898. (126) Cf. S. Congr.
-Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, n. 52: A.A.S. 59 (1967) p. 568; Instr.
-Inter Oecumenici , diei 26 septembris 1964, n. 95: A.A.S. 56 (1964) p. 898; S. Congr. de
-Sacramentis, Instr. Nullo umquam tempore , diei 28 maii 1938, n. 4: A.A.S. 30 (1938) pp. 199-200;
-Rituale Romanum, De sacra Communione et de cultu mysterii eucharistici extra Missam , editio typica
-1973, nn. 10-11; Codex Iuris Canonici , can. 938 § 3. (127) Cf. Rituale Romanum, De Benedictionibus,
-editio typica 1984 , Ordo benedictionis occasione data auspicandi novum tabernaculum eucharisticum ,
-nn. 919-929. (128) Cf. S. Congr. Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, n. 55:
-A.A.S. 59 (1967) p. 569. (129) Ibidem , n. 53: A.A.S. 59 (1967) p. 568; Rituale Romanum, De sacra
-Communione et de cultu mysterii eucharistici extra Missam , editio typica 1973, n. 9; Codex Iuris
-Canonici , can. 938 § 2; Ioannes Paulus II, Epist . Dominicae Cenae , diei 24 februarii 1980, n. 3:
-A.A.S. 72 (1980) pp. 117-119. (130) Cf. Codex Iuris Canonici , can. 940; S. Congr. Rituum, Instr.
-Eucharisticum mysterium , diei 25 maii 1967, n. 57: A.A.S. 59 (1967) p. 569; cf. Rituale Romanum, De
-sacra Communione et de cultu mysterii eucharistici extra Missam , editio typica 1973, n. 11. (131)
-Cf. praesertim S. Congr. de Sacramentis, Instr. Nullo umquam tempore , diei 28 maii 1938: A.A.S. 30
-(1938) pp. 198-207; Codex Iuris Canonici , can. 934-944. (132) Cf. Conc. Oecum. Vat. II, Const. de
-sacra Liturgia Sacrosanctum Concilium , n. 8. (133) Cf. Pontificale Romanum, Ordo Dedicationis
-ecclesiae et altaris, editio typica 1977, cap. IV, n. 10; Rituale Romanum, De Benedictionibus,
-editio typica 1984 , Ordo ad benedicendas imagines quae fidelium venerationi publicae exhibentur, n.
-984 – 1031. (134) Cf. Conc. Oecum. Vat. II, Const. de sacra Lturgia, Sacrosanctum Concilium , n.
-125. (135) Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 128.
-(136) Cf. Pontificale Romanum, Ordo Dedicationis ecclesiae et altaris, editio typica 1977, Ordo
-benedictionis calicis et patenae; Rituale Romanum, De Benedictionibus, editio typica 1984 , Ordo
-benedictionis rerum quae in liturgicis celebrationibus usurpantur, nn. 1068 – 1084. (137) Cf.
-Rituale Romanum, De Benedictionibus, editio typica 1984 , Ordo benedictionis rerum quae in
-liturgicis celebrationibus usurpantur , n. 1070. (138) Cf. Conc. Oecum. Vat. II, Const. de sacra
-Liturgia, Sacrosanctum Concilium , n. 128. (139) Cf. ibidem . (140) Quoad benedictionem rerum quae
-in domibus ecclesiae ad usum liturgicum destinantur, cf. Rituale Romanum, De Benedictionibus, editio
-typica 1984, pars III. (141) Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum
-Concilium , n. 51. (142) Missale Romanum, Ordo lectionum Missae , editio typica altera 1981,
-Praenotanda, n.80. (143) Ibidem , n.81. (144) Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia,
-Sacrosanctum Concilium , n. 61. (145) Cf. Conc. Oecum. Vat. II, Const. dogm. de Ecclesia, Lumen
-gentium , n. 54; Paulus VI, Adhort. Ap., Marialis cultus , diei 2 februarii 1974, n. 9: A.A.S. 66
-(1974) pp. 122-123. (146) Cf. praesertim Codex Iuris Canonici , can. 1176-1185; et Rituale Romanum,
-Ordo Exsequiarum , editio typica 1969. (147) Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia,
-Sacrosanctum Concilium , n. 14. (148) Cf. ibidem , n. 41. (149) Codex Iuris Canonici , can. 838 § 3.
-(150) Cf. ibidem , n. 24. (151) Cf. ibidem , n. 36 § 3. (152) Cf. ibidem , n. 112. (153) Normae
-Universales de Anno liturgico et de Calendario , nn. 48-51, infra , p.99; cf. S. Congr. pro Cultu
-Divino, Instr. Calendaria particularia , diei 24 iunii 1970, nn. 4, 8: A.A.S. 62 (1970) pp. 652-653.
-(154) Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 106. (155) Cf.
-Normae Universales de Anno liturgico et de Calendario , n. 46 , infra , p.98; cf. S. Congr. pro
-Cultu Divino, Instr. Calendaria particularia , diei 24 iunii 1970 n. 38: A.A.S. 62 (1970) p. 660.
-(156) Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , nn. 37-40. (157)
-Congr. de Cultu Divino et Disciplina Sacramentorum, Instr. Varietates legitimae , diei 25 ianuarii
-1994, nn. 54, 62-69: A.A.S. 87 (1995) pp. 308-309, 311-313. (158) Ibidem , nn. 66-68: A.A.S. 87
-(1995) 313. (159) Ibidem , nn. 26-27: A.A.S. 87 (1995) pp. 298-299. (160) Cf. Ioannes Paulus II,
-Litt. Ap. Vicesimus quintus annus , diei 4 decembris 1988, n. 16: A.A.S. 81 (1989) p. 912; Congr. de
-Cultu Divino et Disciplina Sacramentorum, Instr. Varietates legitimae , diei 25 ianuarii 1994, nn.
-2, 36: A.A.S. 87 (1995) pp. 288, 302. (161) Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia,
-Sacrosanctum Concilium , n. 23. (162) Congr. de Cultu Divino et Disciplina Sacramentorum, Instr.
-Varietates legitimae , diei 25 ianuarii 1994, n. 46: A.A.S. 87 (1995) p. 306. (163) Cf. ibidem , n.
-36: A.A.S. 87 (1995) p. 302. (164) Cf. ibidem , n. 54: A.A.S. 87 (1995) pp. 308-309. (165) Conc.
-Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 38; Paulus VI, Const. Ap.
-Missale Romanum, supra, p.14. Comparte esto: Compartir en X (Se abre en una ventana nueva) X
-Comparte en Facebook (Se abre en una ventana nueva) Facebook Enviar un enlace a un amigo por correo
-electrónico (Se abre en una ventana nueva) Correo electrónico Imprimir (Se abre en una ventana
-nueva) Imprimir Me gusta Cargando... Relacionado Categorías Documentos
+Itaque Missale Romanum, quamvis in linguarum diversitate atque in quadam consuetudinum varietate, in
+posterum servari debet veluti instrumentum et praeclarum signum integritatis et unitatis Ritus
+romani. [^164] [^165]
 
+
+---
+
+## Footnotes
+
+[^1]: Conc. Oecum. Trid., Sessio XXII, 17 septembris 1562: Denz-Schönm. 1738-1759.
+
+[^2]: Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 47; cf. Const. dogm. de Ecclesia, Lumen gentium , nn. 3, 28; Decr. de Presbyterorum ministerio et vita, Presbyterorum ordinis , nn. 2, 4, 5.
+
+[^3]: Missa vespertina in Cena Domini, oratio super oblata. Cf. Sacramentarium Veronense , ed. L.C. Mohlberg, n. 93.
+
+[^4]: Cf. Prex eucharistica III.
+
+[^5]: Cf. Prex eucharistica IV.
+
+[^6]: Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , nn. 7, 47; Decr. de Presbyterorum ministerio et vita, Presbyterorum ordinis , nn. 5, 18.
+
+[^7]: Cf. Pius XII, Litt. Enc. Humani generis , diei 12 augusti 1950: A.A.S. 42 (1950) pp. 570-571; Paulus VI, Litt. Enc. Mysterium Fidei , diei 3 septembris 1965: A.A.S. 57 (1965) pp. 762-769; Sollemnis Professio Fidei , diei 30 iunii 1968, nn. 24-26: A.A.S. 60 (1968) pp. 442-443; S. Congr. Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, nn. 3f, 9: A.A.S. 59 (1967) pp. 543, 547.
+
+[^8]: Cf. Conc. Oecum. Trid., Sessio XIII, 11 octobris 1551: Denz-Schönm. 1635-1661.
+
+[^9]: Cf. Conc. Oecum. Vat. II, Decr. de Presbyterorum ministerio et vita, Presbyterorum ordinis , n. 2.
+
+[^10]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 11.
+
+[^11]: Ibidem, n. 50.
+
+[^12]: Conc. Oecum. Trid., Sessio XXII, Doctr. de ss. Missae Sacrificio, cap. 8: Denz-Schönm. 1749.
+
+[^13]: Ibidem , can. 9: Denz-Schönm. 1759.
+
+[^14]: Ibidem , cap. 8: Denz-Schönm. 1749.
+
+[^15]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 33.
+
+[^16]: Ibidem , n. 36.
+
+[^17]: Ibidem , n. 52.
+
+[^18]: Ibidem , n. 35, 3.
+
+[^19]: Ibidem , n. 55.
+
+[^20]: Conc. Oecum. Trid., Sessio XXII, Doctr. de ss. Missae Sacrificio, cap. 6: Denz-Schönm. 1747.
+
+[^21]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 55.
+
+[^22]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 41; Const. dogm. de Ecclesia, Lumen gentium , n. 11; Decr. de Presbyterorum ministerio et vita, Presbyterorum ordinis , nn. 2, 5, 6; Decr. de pastorali Episcoporum munere, Christus Dominus , n. 30; Decr. de Oecumenismo, Unitatis redintegratio , n. 15; S. Congr. Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, nn. 3 e, 6: A.A.S. 59 (1967) pp. 542, 544-545.
+
+[^23]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 10.
+
+[^24]: Cf. ibidem , n. 102.
+
+[^25]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 10; Decr. de Presbyterorum ministerio et vita, Presbyterorum ordinis , n. 5.
+
+[^26]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , nn. 14, 19, 26, 28, 30.
+
+[^27]: Cf. ibidem , n. 47.
+
+[^28]: Cf. ibidem , n. 14.
+
+[^29]: Cf. ibidem , n. 41.
+
+[^30]: Cf. Conc. Oecum. Vat. II, Decr. de Presbyterorum ministerio et vita, Presbyterorum ordinis , n. 13; Codex Iuris Canonici , can. 904.
+
+[^31]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 59.
+
+[^32]: Quoad peculiares Missae celebrationes servetur quod statutum est: cf. pro Missis in coetibus particularibus: S. Congr. pro Cultu Divino, Instr. Actio pastoralis , diei 15 maii 1969: A.A.S. 61 (1969) pp. 806-811; pro Missis cum pueris: Directorium de Missis cum pueris , die 1 novembris 1973: A.A.S. 66 (1974) pp. 30-46; de modo uniendi Horas Officii cum Missa: Institutio generalis de Liturgia Horarum , nn. 93-98; de modo uniendi quasdam benedictiones et coronationem imaginis beatae Mariae Virginis cum Missa: Rituale Romanum, De Benedictionibus , editio typica 1984, Praenotanda n. 28; Ordo coronandi imaginem beatae Mariae Virginis, editio typica 1981, nn. 10 et 14.
+
+[^33]: Cf. Conc. Oecum. Vat. II, Decr. de pastorali Episcoporum munere, Christus Dominus , n. 15; cf. etiam Const. de sacra Liturgia, Sacrosanctum Concilium , n. 41.
+
+[^34]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 22.
+
+[^35]: Cf. etiam Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , nn. 58, 40; Paulus VI, Const. Ap. Missale Romanum, supra .
+
+[^36]: Congr. de Cultu Divino et Disciplina Sacramentorum, Instr. Varietates legitimae , diei 25 ianuarii 1994: A.A.S. 87 (1995) pp. 288-314.
+
+[^37]: Cf. Conc. Oecum. Vat. II, Decr. de Presbyterorum ministerio et vita, Presbyterorum ordinis , n. 5; Const. de sacra Liturgia, Sacrosanctum Concilium , n. 33.
+
+[^38]: Cf. Conc. Oecum. Trid., Sessio XXII, Doctr. de ss. Missae Sacrificio, cap. 1: Denz-Schönm. 1740; cf. Paulus VI, Sollemnis professio fidei , diei 30 iunii 1968, n. 24: A.A.S. 60 (1968) p. 442.
+
+[^39]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 7; Paulus VI, Litt. Enc. Mysterium Fidei , diei 3 septembris 1965: A.A.S. 57 (1965) p. 764; S. Congr. Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, n. 3: A.A.S. 59 (1967) p. 547.
+
+[^40]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 56; S. Congr. Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, n. 3: A.A.S. 59 (1967) p. 542
+
+[^41]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , nn. 48, 51; Const. dogm. de divina Revelatione, Dei Verbum , n. 21; Decr. de Presbyterorum ministerio et vita, Presbyterorum ordinis , n. 4.
+
+[^42]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , nn. 7, 33, 52.
+
+[^43]: Cf. ibidem, n. 33.
+
+[^44]: Cf. S. Congr. Rituum, Instr. Musicam sacram , diei 5 martii 1967, n. 14: A.A.S. 59 (1967) p. 304.
+
+[^45]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , nn. 26-27; S. Congr. Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, n. 3d: A.A.S. 59 (1967) p. 542.
+
+[^46]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 30.
+
+[^47]: Cf. S. Congr. Rituum, Instr. Musicam sacram , diei 5 martii 1967, n. 16a: A.A.S. 59 (1967) p. 305.
+
+[^48]: S. Augustinus Hipponensis, Sermo 336 , 1: PL 38, 1472.
+
+[^49]: Cf. S. Congr. Rituum, Instr. Musicam sacram , diei 5 martii 1967, nn. 7, 16: A.A.S. 59 (1967) pp. 302, 305.
+
+[^50]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 116; etiam ibidem , n. 30.
+
+[^51]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 54; cf. S. Congr. Rituum, Instr. Inter Oecumenici , diei 26 septembris 1964, n. 59: A.A.S. 56 (1964) p. 891; Instr. Musicam sacram , diei 5 martii 1967, n. 47: A.A.S. 59 (1967) p. 314.
+
+[^52]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , nn. 30, 34; cf. ibidem etiam n. 21.
+
+[^53]: Cf. ibidem , n. 40; cf. Congr. de Cultu Divino et Disciplina Sacramentorum, Instr. Varietates legitimae , diei 25 ianuarii 1994, n. 41: A.A.S. 87 (1995) p. 304.
+
+[^54]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 30; cf. S. Congr. Rituum, Instr. Musicam sacram , diei 5 martii 1967, n. 17: A.A.S. 59 (1967) p. 305.
+
+[^55]: Cf. Ioannes Paulus II, Litt. Ap. Dies Domini , diei 31 maii 1998, n. 50: A.A.S. 90 (1998) p. 745.
+
+[^56]: Cf. infra, pp. 1249-1252.
+
+[^57]: Cf. Tertullianus, Adversus Marcionem , IV, 9: CCSL 1, p.560; Origenes, Disputatio cum Heracleida , n. 4, 24: SCh 67, p. 62; Statuta Concilii Hipponensis Breviata, 21: CCSL 149, p. 39.
+
+[^58]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 33.
+
+[^59]: Cf. ibidem , n. 7.
+
+[^60]: Cf. Missale Romanum, Ordo lectionum Missae , editio typica altera 1981, n.28.
+
+[^61]: Cf. ibidem, n. 51.
+
+[^62]: Cf. Ioannes Paulus II, Litt. Ap. Vicesimus quintus annus , diei 4 decembris 1988, n. 13: A.A.S. 81 (1989) p. 910.
+
+[^63]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 52; cf. Codex Iuris canonici , can. 767 § 1.
+
+[^64]: Cf. S. Congr. Rituum, Instr. Inter Oecumenici , diei 26 septembris 1964, n. 54: A.A.S. 56 (1964) p. 890.
+
+[^65]: Cf. Codex Iuris canonici , can. 767 § 1; Pont. Comm. Codicis Iuris Canonici authentice interpretando, respons. ad dubium circa can. 767 § 1 : A.A.S. 79 (1987), p. 1249; Instructio interdicasterialis de quibusdam quaestionibus circa fidelium laicorum cooperationem sacerdotum ministerium spectantem, Ecclesiae de mysterio , diei 15 augusti 1997, art. 3: A.A.S. 89 (1997), p. 864.
+
+[^66]: Cf. S. Congr. Rituum, Instr. Inter Oecumenici , diei 26 septembris 1964, n. 53: A.A.S. 56 (1964) p. 890.
+
+[^67]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 53.
+
+[^68]: Cf. S. Congr. Rituum, Instr. Inter Oecumenici , diei 26 septembris 1964, n. 56: A.A.S. 56 (1964) p. 890.
+
+[^69]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 47; S. Congr. Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, nn. 3a, b: A.A.S. 59 (1967) pp. 540-541.
+
+[^70]: Cf. S. Congr. Rituum, Instr. Inter Oecumenici , diei 26 septembris 1964, n. 91: A.A.S. 56 (1964) p. 898; Instr. Eucharisticum mysterium , diei 25 maii 1967, n. 24: A.A.S. 59 (1967) p. 554.
+
+[^71]: Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 48; S. Congr. Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, n. 12: A.A.S. 59 (1967) pp. 548-549.
+
+[^72]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 48; Decr. de Presbyterorum ministerio et vita, Presbyterorum ordinis , n. 5; cf. S. Congr. Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, n. 12: A.A.S. 59 (1967) pp. 548-549.
+
+[^73]: Cf. S. Congr. Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, nn. 31, 32: A.A.S. 59 (1967) pp. 558-559; S. Congr. de Disciplina Sacramentorum, Instr. Immensae caritatis , diei 29 ianuarii 1973, n. 2: A.A.S. 65 (1973) pp. 267-268.
+
+[^74]: Cf. S. Congr. pro Sacramentis et Cultu Divino, Instr. Inaestimabile donum , diei 3 aprilis 1980, n. 17: A.A.S. 72 (1980) p. 338.
+
+[^75]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 26.
+
+[^76]: Cf. ibidem , n. 14.
+
+[^77]: Cf. ibidem , n. 28.
+
+[^78]: Cf. Conc. Oecum. Vat. II, Const. dogm. de Ecclesia, Lumen gentium , nn. 26, 28; Const. de sacra Liturgia, Sacrosanctum Concilium , n. 42.
+
+[^79]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 26.
+
+[^80]: Cf. Caeremoniale Episcoporum , nn. 175-186.
+
+[^81]: Cf. Conc. Oecum. Vat. II, Const. dogm. de Ecclesia, Lumen gentium , n. 28; Decretum de Presbyterorum ministerio et vita, Presbyterorum ordinis , n. 2.
+
+[^82]: Cf. Paulus VI, Litt. Ap. Sacrum diaconatus Ordinem , diei 18 iunii 1967: A.A.S. 59 (1967) 697-704; Pontificale Romanum, De Ordinatione Episcopi, presbyterorum et diaconorum , editio typica altera, 1989, n. 173.
+
+[^83]: Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 48; S. Congr. Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, n. 12: A.A.S. 59 (1967) pp. 548-549.
+
+[^84]: Cf. Codex Iuris Canonici , can. 910 § 2; Instructio interdicasterialis de quibusdam quaestionibus circa fidelium laicorum cooperationem sacerdotum ministerium spectantem, Ecclesiae de mysterio , diei 15 augustii 1997, art. 8: A.A.S. 89 (1997), p. 871.
+
+[^85]: Cf. S. Congr. de Disciplina Sacramentorum, Instr. Immensae caritatis , diei 29 ianuarii 1973, n. 1: A.A.S. 65 (1973) pp. 265-266; Codex Iuris Canonici , can. 230 §3.
+
+[^86]: Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 24.
+
+[^87]: Cf. S. Congr. Rituum, Instr. Musicam sacram , diei 5 martii 1967, n. 19: A.A.S. 59 (1967) p. 306.
+
+[^88]: Cf. ibidem , n. 21: A.A.S. 59 (1967) pp. 306-307.
+
+[^89]: Cf. Pont. Cons. de Legum textibus interpretandis, responsio ad propositum dubium circa can. 230 §2: A.A.S. 86 (1994) p.541.
+
+[^90]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 22.
+
+[^91]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 41.
+
+[^92]: Cf. Caeremoniale Episcoporum , nn. 119-186.
+
+[^93]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 42; Const. dogm. de Ecclesia, Lumen gentium , n. 28; Decr. de Presbyterorum ministerio et vita, Presbyterorum ordinis , n. 5; S. Congr. Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, n. 26: A.A.S. 59 (1967) p. 555.
+
+[^94]: Cf. S. Congr. Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, n. 47: A.A.S. 59 (1967) p. 565.
+
+[^95]: ibidem , n. 26: A.A.S. 59 (1967) p. 555; Instr. Musicam sacram , diei 5 martii 1967, nn. 16, 27: A.A.S. 59 (1967) pp. 305, 308.
+
+[^96]: Cf. Instructio interdicasterialis de quibusdam quaestionibus circa fidelium laicorum cooperationem sacerdotum ministerium spectantem, Ecclesiae de mysterio , diei 15 augustii 1997, art. 6: A.A.S. 89 (1997), p. 869.
+
+[^97]: Cf. S. Congr. pro Sacramentis et Cultu Divino, Instr. Inaestimabile donum , diei 3 aprilis 1980, n. 10: A.A.S. 72 (1980) p. 336; Instructio interdicasterialis de quibusdam quaestionibus circa fidelium laicorum cooperationem sacerdotum ministerium spectantem, Ecclesiae de mysterio , diei 15 augustii 1997, art. 8: A.A.S. 89 (1997), p. 871.
+
+[^98]: Cf. infra , Appendix, Ritus ad deputandum ministrum sacrae Communionis ad actum distribuendae, p. 1253.
+
+[^99]: Cf. Caeremoniale Episcoporum , nn. 1118 – 1121.
+
+[^100]: Cf. Paulus VI, Litt. Apost. Ministeria quaedam , diei 15 aug. 1972: A.A.S. 64 (1972) p. 532.
+
+[^101]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 57; Codex Iuris Canonici , can. 902.
+
+[^102]: Cf. S. Congr. Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, n. 47: A.A.S. 59 (1967) p. 566.
+
+[^103]: ibidem, p. 565.
+
+[^104]: Cf. Benedictus XV, Const. Ap. Incruentum altaris sacrificium , diei 10 augusti 1915: A.A.S. 7 (1915) pp. 401-404.
+
+[^105]: Cf. S. Congr. Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, n. 32: A.A.S. 59 (1967) p. 558.
+
+[^106]: Cf. Conc. Oecum. Trid., Sessio XXI, 16 iulii 1562, Decr. de Communione eucharistica, capp. 1-3: Denz-Schönm. 1725-1729.
+
+[^107]: Cf. ibidem , cap. 2: Denz-Schönm. 1728.
+
+[^108]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , nn. 122-124; Decr. de Presbyterorum ministerio et vita, Presbyterorum ordinis , n. 5; S. Congr. Rituum, Instr. Inter Oecumenici , diei 26 septembris 1964, n. 90: A.A.S. 56 (1964) p. 897; Instr. Eucharisticum mysterium , diei 25 maii 1967, n. 24: A.A S. 59 (1967) p. 554; Codex Iuris Canonici , can. 932 § 1.
+
+[^109]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 123.
+
+[^110]: Cf. S. Congr. Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, n. 24: A.A S. 59 (1967) p. 554.
+
+[^111]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , nn. 123, 129; S. Congr. Rituum, Instr. Inter Oecumenici , diei 26 septembris 1964, n. 13c: A.A.S. 56 (1964) p. 880.
+
+[^112]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 123.
+
+[^113]: ibidem , n. 126; S. Congr. Rituum, Instr. Inter Oecumenici , diei 26 septembris 1964, n. 91: A.A.S. 56 (1964) p. 898.
+
+[^114]: Cf. S. Congr. Rituum, Instr. Inter Oecumenici , diei 26 septembris 1964, nn. 97-98: A.A.S. 56 (1964) p. 899.
+
+[^115]: Cf. ibidem , n. 91: A.A.S. 56 (1964) p. 898.
+
+[^116]: Cf. ibidem .
+
+[^117]: Cf. S. Congr. Rituum, Instr. Inter Oecumenici , diei 26 septembris 1964, n. 96: A.A.S. 56 (1964) p. 899.
+
+[^118]: Cf. Rituale Romanum, De Benedictionibus, editio typica 1984 , Ordo benedictionis occasione data auspicandi novum ambonem , nn. 900-918.
+
+[^119]: Cf. S. Congr. Rituum, Instr. Inter Oecumenici , diei 26 septembris 1964, n. 92: A.A.S. 56 (1964) p. 898.
+
+[^120]: Cf. Rituale Romanum, De Benedictionibus, editio typica 1984 , Ordo benedictionis occasione data auspicandi novam cathedram seu sedem praesidentiae , nn. 880-899.
+
+[^121]: Cf. S. Congr. Rituum, Instr. Inter Oecumenici , diei 26 septembris 1964, n. 92: A.A.S. 56 (1964) p. 898.
+
+[^122]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia Sacrosanctum Concilium , n. 32.
+
+[^123]: Cf. S. Congr. Rituum, Instr. Musicam sacram , diei 5 martii 1967, n. 23: A.A.S. 59 (1967) p. 307.
+
+[^124]: Cf. Rituale Romanum, De benedictionibus, editio typica 1984, Ordo benedictionis organi, nn. 1052-1067.
+
+[^125]: Cf. S. Congr. Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, n. 54: A.A.S. 59 (1967) p. 568; Instr. Inter Oecumenici , diei 26 septembris 1964, n. 95: A.A.S. 56 (1964) p. 898.
+
+[^126]: Cf. S. Congr. Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, n. 52: A.A.S. 59 (1967) p. 568; Instr. Inter Oecumenici , diei 26 septembris 1964, n. 95: A.A.S. 56 (1964) p. 898; S. Congr. de Sacramentis, Instr. Nullo umquam tempore , diei 28 maii 1938, n. 4: A.A.S. 30 (1938) pp. 199-200; Rituale Romanum, De sacra Communione et de cultu mysterii eucharistici extra Missam , editio typica 1973, nn. 10-11; Codex Iuris Canonici , can. 938 § 3.
+
+[^127]: Cf. Rituale Romanum, De Benedictionibus, editio typica 1984 , Ordo benedictionis occasione data auspicandi novum tabernaculum eucharisticum , nn. 919-929.
+
+[^128]: Cf. S. Congr. Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, n. 55: A.A.S. 59 (1967) p. 569.
+
+[^129]: Ibidem , n. 53: A.A.S. 59 (1967) p. 568; Rituale Romanum, De sacra Communione et de cultu mysterii eucharistici extra Missam , editio typica 1973, n. 9; Codex Iuris Canonici , can. 938 § 2; Ioannes Paulus II, Epist . Dominicae Cenae , diei 24 februarii 1980, n. 3: A.A.S. 72 (1980) pp. 117-119.
+
+[^130]: Cf. Codex Iuris Canonici , can. 940; S. Congr. Rituum, Instr. Eucharisticum mysterium , diei 25 maii 1967, n. 57: A.A.S. 59 (1967) p. 569; cf. Rituale Romanum, De sacra Communione et de cultu mysterii eucharistici extra Missam , editio typica 1973, n. 11.
+
+[^131]: Cf. praesertim S. Congr. de Sacramentis, Instr. Nullo umquam tempore , diei 28 maii 1938: A.A.S. 30 (1938) pp. 198-207; Codex Iuris Canonici , can. 934-944.
+
+[^132]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia Sacrosanctum Concilium , n. 8.
+
+[^133]: Cf. Pontificale Romanum, Ordo Dedicationis ecclesiae et altaris, editio typica 1977, cap. IV, n. 10; Rituale Romanum, De Benedictionibus, editio typica 1984 , Ordo ad benedicendas imagines quae fidelium venerationi publicae exhibentur, n. 984 – 1031.
+
+[^134]: Cf. Conc. Oecum. Vat. II, Const. de sacra Lturgia, Sacrosanctum Concilium , n. 125.
+
+[^135]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 128.
+
+[^136]: Cf. Pontificale Romanum, Ordo Dedicationis ecclesiae et altaris, editio typica 1977, Ordo benedictionis calicis et patenae; Rituale Romanum, De Benedictionibus, editio typica 1984 , Ordo benedictionis rerum quae in liturgicis celebrationibus usurpantur, nn. 1068 – 1084.
+
+[^137]: Cf. Rituale Romanum, De Benedictionibus, editio typica 1984 , Ordo benedictionis rerum quae in liturgicis celebrationibus usurpantur , n. 1070.
+
+[^138]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 128.
+
+[^139]: Cf. ibidem .
+
+[^140]: Quoad benedictionem rerum quae in domibus ecclesiae ad usum liturgicum destinantur, cf. Rituale Romanum, De Benedictionibus, editio typica 1984, pars III.
+
+[^141]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 51.
+
+[^142]: Missale Romanum, Ordo lectionum Missae , editio typica altera 1981, Praenotanda, n.80.
+
+[^143]: Ibidem , n.81.
+
+[^144]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 61.
+
+[^145]: Cf. Conc. Oecum. Vat. II, Const. dogm. de Ecclesia, Lumen gentium , n. 54; Paulus VI, Adhort. Ap., Marialis cultus , diei 2 februarii 1974, n. 9: A.A.S. 66 (1974) pp. 122-123.
+
+[^146]: Cf. praesertim Codex Iuris Canonici , can. 1176-1185; et Rituale Romanum, Ordo Exsequiarum , editio typica 1969.
+
+[^147]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 14.
+
+[^148]: Cf. ibidem , n. 41.
+
+[^149]: Codex Iuris Canonici , can. 838 § 3.
+
+[^150]: Cf. ibidem , n. 24.
+
+[^151]: Cf. ibidem , n. 36 § 3.
+
+[^152]: Cf. ibidem , n. 112.
+
+[^153]: Normae Universales de Anno liturgico et de Calendario , nn. 48-51, infra , p.99; cf. S. Congr. pro Cultu Divino, Instr. Calendaria particularia , diei 24 iunii 1970, nn. 4, 8: A.A.S. 62 (1970) pp. 652-653.
+
+[^154]: Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 106.
+
+[^155]: Cf. Normae Universales de Anno liturgico et de Calendario , n. 46 , infra , p.98; cf. S. Congr. pro Cultu Divino, Instr. Calendaria particularia , diei 24 iunii 1970 n. 38: A.A.S. 62 (1970) p. 660.
+
+[^156]: Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , nn. 37-40.
+
+[^157]: Congr. de Cultu Divino et Disciplina Sacramentorum, Instr. Varietates legitimae , diei 25 ianuarii 1994, nn. 54, 62-69: A.A.S. 87 (1995) pp. 308-309, 311-313.
+
+[^158]: Ibidem , nn. 66-68: A.A.S. 87 (1995) 313.
+
+[^159]: Ibidem , nn. 26-27: A.A.S. 87 (1995) pp. 298-299.
+
+[^160]: Cf. Ioannes Paulus II, Litt. Ap. Vicesimus quintus annus , diei 4 decembris 1988, n. 16: A.A.S. 81 (1989) p. 912; Congr. de Cultu Divino et Disciplina Sacramentorum, Instr. Varietates legitimae , diei 25 ianuarii 1994, nn. 2, 36: A.A.S. 87 (1995) pp. 288, 302.
+
+[^161]: Cf. Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 23.
+
+[^162]: Congr. de Cultu Divino et Disciplina Sacramentorum, Instr. Varietates legitimae , diei 25 ianuarii 1994, n. 46: A.A.S. 87 (1995) p. 306.
+
+[^163]: Cf. ibidem , n. 36: A.A.S. 87 (1995) p. 302.
+
+[^164]: Cf. ibidem , n. 54: A.A.S. 87 (1995) pp. 308-309.
+
+[^165]: Conc. Oecum. Vat. II, Const. de sacra Liturgia, Sacrosanctum Concilium , n. 38; Paulus VI, Const. Ap. Missale Romanum, supra, p.14.

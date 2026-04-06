@@ -188,7 +188,7 @@ which is celebrated.
 ### §13
 
 In this regard, although the use of the vernacular in the Sacred Liturgy is a means, admittedly of
-great importance, for expressing more clearly cate-chesis on the mystery, a catechesis inherent in
+great importance, for expressing more clearly catechesis on the mystery, a catechesis inherent in
 the celebration itself, the Second Vatican Council ordered additionally that certain prescriptions
 of the Council of Trent that had not been followed everywhere be brought to fruition, such as the
 Homily to be given on Sundays and feast days[^17] and the faculty to interject certain explanations
@@ -2171,8 +2171,8 @@ concelebrants, together with the people, pronounce the concluding acclamation Fo
 
 ### §239
 
-After the Deacon or, in the absence of a Deacon, one of the concele-brants, has given the
-instruction Let us offer each other the sign of peace, all give one another the Sign of Peace. Those
+After the Deacon or, in the absence of a Deacon, one of the concelebrants, has given the instruction
+Let us offer each other the sign of peace, all give one another the Sign of Peace. Those
 concelebrants nearer the principal celebrant receive the Sign of Peace from him before the Deacon
 does.
 
@@ -2194,7 +2194,7 @@ little. Then one after another the concelebrants come to the middle of the altar
 reverently take the Body of Christ from the altar. Then holding it in their right hand, with the
 left hand placed underneath, they return to their places. However, the concelebrants may remain in
 their places and take the Body of Christ from the paten held for them by the principal celebrant or
-held by one or more of the concele-brants passing in front of them, or they may do so by handing the
+held by one or more of the concelebrants passing in front of them, or they may do so by handing the
 paten one to another, and so to the last of them.
 
 ### §243
@@ -2248,7 +2248,7 @@ take place as described above.
 
 ### §249
 
-If the concelebrants’ Communion is by intinction, the principal cele-brant partakes of the Body and
+If the concelebrants’ Communion is by intinction, the principal celebrants partakes of the Body and
 Blood of the Lord in the usual way, but making sure that enough of the precious Blood remains in the
 chalice for the Communion of the concelebrants. Then the Deacon, or one of the concelebrants,
 arranges the chalice together with the paten containing particles of the host, if appropriate,
@@ -2258,7 +2258,7 @@ purificator under their mouth, consume the intincted particle. They then return 
 at the beginning of Mass. The Deacon also receives Communion by intinction and to the concelebrant’s
 words, Corpus et Sanguis Christi (The Body and Blood of Christ) replies, Amen. Moreover, the Deacon
 consumes at the altar all that remains of the Precious Blood, assisted, if the case requires, by
-some of the concele-brants. He carries the chalice to the credence table and there he or a duly
+some of the concelebrants. He carries the chalice to the credence table and there he or a duly
 instituted acolyte purifies it, wipes it, and arranges it as usual.
 
 ### §250
@@ -2417,7 +2417,7 @@ is reserved for the Most Blessed Sacrament, as well as for the Holy Cross from t
 during the liturgical celebration on Good Friday until the beginning of the Easter Vigil. During
 Mass, three genuflections are made by the Priest Celebrant: namely, after the elevation of the host,
 after the elevation of the chalice, and before Communion. Certain specific features to be observed
-in a concele-brated Mass are noted in their proper place (cf. nos. 210-251). If, however, the
+in a concelebrated Mass are noted in their proper place (cf. nos. 210-251). If, however, the
 tabernacle with the Most Blessed Sacrament is situated in the sanctuary, the Priest, the Deacon, and
 the other ministers genuflect when they approach the altar and when they depart from it, but not
 during the celebration of Mass itself. Otherwise, all who pass before the Most Blessed Sacrament
@@ -3035,7 +3035,7 @@ of Christian life’s passage through the course of the liturgical year.
 ### §346
 
 As regards the color of sacred vestments, traditional usage should be observed, namely:
-- a) The color white is used in the Offices and Masses during Easter Time and Christmas Time; on the Solemnity of the Most Holy Trinity; and furthermore on celebrations of the Lord other than of his Passion, celebrations of the Blessed Virgin Mary, of the Holy Angels, and of Saints who were not Martyrs; on the Solemnities of All Saints (November 1) and of the Nativity of St. John the Baptist (June24 ); and on the Feasts of St. John the Evangelist (December 27), of the Chair of St. Peter (February 22), and of the Conversion of St. Paul (January 25).
+- a) The color white is used in the Offices and Masses during Easter Time and Christmas Time; on the Solemnity of the Most Holy Trinity; and furthermore on celebrations of the Lord other than of his Passion, celebrations of the Blessed Virgin Mary, of the Holy Angels, and of Saints who were not Martyrs; on the Solemnities of All Saints (November 1) and of the Nativity of St. John the Baptist (June 24 ); and on the Feasts of St. John the Evangelist (December 27), of the Chair of St. Peter (February 22), and of the Conversion of St. Paul (January 25).
 - b) The color red is used on Palm Sunday of the Lord’s Passion and on Friday of Holy Week (Good Friday), on Pentecost Sunday, on celebrations of the Lord’s Passion, on the “birthday” feast days of Apostles and Evangelists, and on celebrations of Martyr Saints.
 - c) The color green is used in the Offices and Masses of Ordinary Time.
 - d) The color violet or purple is used in Advent and Lent. It may also be worn in Offices and Masses for the Dead.
@@ -3288,7 +3288,7 @@ the legal guarantee of the right to life and of penance for violations to the di
 person committed through acts of abortion. The liturgical celebrations for this day may be the Mass
 “For Giving Thanks to God for the Gift of Human Life” (no. 48/1 of the Masses and Prayers for
 Various Needs and Occasions), celebrated with white vestments, or the Mass “For the Preservation of
-Peace and Justice” (no. 30 of the Masses and Prayers for Various Needs and Occasions), cele-brated
+Peace and Justice” (no. 30 of the Masses and Prayers for Various Needs and Occasions), celebrated
 with violet vestments.
 
 ### §374

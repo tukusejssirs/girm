@@ -133,13 +133,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **US:** hungry . . .
 
 
-### §13
-
-#### Wording (UK vs US)
-- **UK:** catechesis
-- **US:** cate-chesis
-
-
 ### §14
 
 #### Wording (UK vs US)
@@ -1582,13 +1575,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 #### Formatting (italics)
 - Italic in UK only: *(Deliver us)*
 
-### §239
-
-#### Wording (UK vs US)
-- **UK:** concelebrants,
-- **US:** concele-brants,
-
-
 ### §240
 
 #### Formatting (italics)
@@ -1598,13 +1584,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 #### Formatting (italics)
 - Italic in UK only: *Lord Jesus Christ, Son of the living God)*, *May the receiving of your Body and Blood).*
-
-### §242
-
-#### Wording (UK vs US)
-- **UK:** concelebrants
-- **US:** concele-brants
-
 
 ### §243
 
@@ -1638,13 +1617,10 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 #### Wording (UK vs US)
 - **UK:** celebrant
-- **US:** cele-brant
+- **US:** celebrants
 
-- **UK:** Different Forms of Celebrating Mass The
+- **UK:** The Different Forms of Celebrating Mass
 - **US:** —
-
-- **UK:** concelebrants.
-- **US:** concele-brants.
 
 
 #### Formatting (italics)
@@ -1745,9 +1721,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 ### §274
 
 #### Wording (UK vs US)
-- **UK:** concelebrated
-- **US:** concele-brated
-
 - **UK:** 210–251).
 - **US:** 210-251).
 
@@ -2261,7 +2234,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **US:** (November 1)
 
 - **UK:** (24 June);
-- **US:** (June24 );
+- **US:** (June 24 );
 
 - **UK:** (27 December),
 - **US:** (December 27),
@@ -2524,7 +2497,7 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **US:** Mass “For the Preservation
 
 - **UK:** Bishops.
-- **US:** Peace and Justice” (no. 30 of the Masses and Prayers for Various Needs and Occasions), cele-brated with violet vestments.
+- **US:** Peace and Justice” (no. 30 of the Masses and Prayers for Various Needs and Occasions), celebrated with violet vestments.
 
 
 #### US-specific adaptation
@@ -2732,4 +2705,4 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 ---
 
-*Total paragraphs with noted differences: 232 of 399.*
+*Total paragraphs with noted differences: 229 of 399.*

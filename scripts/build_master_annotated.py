@@ -53,6 +53,49 @@ UK_PHRASE = re.compile(
     r"[Ii]n the [Dd]ioceses? of England and Wales|[Ii]n England and Wales"
 )
 
+
+def _word_diff(a_text, b_text):
+    import difflib
+    a_w, b_w = a_text.split(), b_text.split()
+    matcher = difflib.SequenceMatcher(None, a_w, b_w, autojunk=False)
+    b_only, a_only = [], []
+    for op, i1, i2, j1, j2 in matcher.get_opcodes():
+        if op == "insert":  b_only.append(" ".join(b_w[j1:j2]))
+        elif op == "replace": a_only.append(" ".join(a_w[i1:i2])); b_only.append(" ".join(b_w[j1:j2]))
+    return " ".join(b_only).strip(), " ".join(a_only).strip()
+
+def get_us_extra(n):
+    """Return (kind, us_text, uk_text) where kind is 'addition'|'extension'|'replacement'|None."""
+    uk_t = uk_map.get(n, {}).get("text", "")
+    us_t = us_map.get(n, {}).get("text", "")
+    if not us_t or us_t == uk_t:
+        return None, None, None
+    uk_norm = uk_t.replace("colour", "color").replace("‘", "'").replace("’", "'")
+    # Case 1: US = UK + appended sentences
+    if us_t.startswith(uk_norm) or us_t.startswith(uk_norm.rstrip(".")):
+        extra = us_t[len(uk_norm):].strip().lstrip(".")
+        if extra and len(extra) > 15:
+            return "addition", extra.strip(), None
+    # Case 2: US extends UK (all UK sentences present + more)
+    uk_sents = [s.strip() for s in uk_norm.split(".") if len(s.strip()) > 10]
+    us_sents = [s.strip() for s in us_t.split(".") if len(s.strip()) > 10]
+    uk_in_us = sum(1 for s in uk_sents if any(s[:30] in u for u in us_sents))
+    if uk_in_us >= len(uk_sents) - 1 and len(us_sents) > len(uk_sents):
+        return "extension", us_t, None
+    # Case 3: pure spelling diff only
+    us_extra, _ = _word_diff(uk_norm, us_t)
+    if len(us_extra) < 15:
+        return None, None, None
+    return "replacement", us_t, uk_t
+
+def get_uk_extra(n):
+    """Return E&W-specific text for paragraph n."""
+    uk_t = uk_map.get(n, {}).get("text", "")
+    m = UK_PHRASE.search(uk_t)
+    if m:
+        return uk_t[m.start():].strip()
+    return None
+
 def get_universal_text(n):
     """Return the universal text for a paragraph.
     Primary source: Latin (la_map — IGMR editio typica tertia emendata 2008).
@@ -66,31 +109,7 @@ def get_universal_text(n):
         m = UK_PHRASE.search(uk_t)
         if m:
             return uk_t[:m.start()].strip()
-    return uk_t[:m.start()].strip()
     return uk_t
-
-def get_us_extra(n):
-    """Return the text added by the US edition for paragraph n."""
-    uk_t = uk_map.get(n, {}).get("text", "")
-    us_t = us_map.get(n, {}).get("text", "")
-    if not us_t or us_t == uk_t:
-        return None, None
-    min_l = min(len(uk_t), len(us_t))
-    cp = 0
-    for i in range(min_l):
-        if uk_t[i] == us_t[i]: cp = i + 1
-        else: break
-    uk_tail = uk_t[cp:].strip()
-    us_tail = us_t[cp:].strip()
-    return us_tail or None, uk_tail or None
-
-def get_uk_extra(n):
-    """Return E&W-specific text for paragraph n."""
-    uk_t = uk_map.get(n, {}).get("text", "")
-    m = UK_PHRASE.search(uk_t)
-    if m:
-        return uk_t[m.start():].strip()
-    return None
 
 # Section headings (from existing generate.py logic)
 SECTION_HEADINGS = {
@@ -197,17 +216,11 @@ for p in uk_data["paragraphs"]:
 
     # US adaptation
     if has_us:
-        us_extra, uk_only = get_us_extra(n)
-        if us_extra:
-            # Determine type: [+] if only in US, [~] if replacing UK text
-            marker_type = "[~]" if uk_only else "[+]"
-            us_fn_refs = ""
-            for k, v in us_map.get(n, {}).get("footnotes", {}).items():
-                if k not in uk_map.get(n, {}).get("footnotes", {}):
-                    us_fn_refs += f"[^us-{k}]"
-                    used_fns[f"us-{k}"] = v
-            L(f"> 🇺🇸 {marker_type} **US adaptation (embedded in §{n} — USCCB, in force 2011-11-27):**")
-            for line in wrap(us_extra, 94).split("\n"):
+        kind, us_text, uk_text = get_us_extra(n)
+        if kind:
+            marker = {"addition": "[+]", "extension": "[+]", "replacement": "[~]"}.get(kind, "[~]")
+            L(f"> 🇺🇸 {marker} **US adaptation (embedded in §{n} — USCCB, in force 2011-11-27):**")
+            for line in wrap(us_text, 94).split("\n"):
                 L(f"> {line}")
             blank()
 
