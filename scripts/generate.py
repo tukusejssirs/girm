@@ -105,12 +105,21 @@ def build_source(para_map, fn_global, title, edition, notes):
             if not p: continue
 
             # Section headings before this paragraph
+            # 1. Hardcoded chapter/section map (UK/US sources)
             for level, htext in SECTION_HEADINGS.get(num, []):
                 if htext in SKIP_HEADS: continue
                 key = (level, htext)
                 if key not in seen_headings:
                     md = {1:3,2:3,3:4,4:4}.get(level,4)
                     lines.append("#" * md + " " + htext)
+                    lines.append("")
+                    seen_headings.add(key)
+            # 2. Headings extracted from source HTML (LA source and any future sources)
+            for htext in p.get("headings_before", []):
+                if htext in SKIP_HEADS: continue
+                key = (4, htext)
+                if key not in seen_headings:
+                    lines.append("#### " + htext)
                     lines.append("")
                     seen_headings.add(key)
 

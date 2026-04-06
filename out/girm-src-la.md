@@ -11,6 +11,10 @@
 
 ### Introduction
 
+#### INSTITUTIO GENERALIS MISSALIS ROMANI
+
+#### PROEMIUM
+
 ### §1
 
 Cenam paschalem cum discipulis celebraturus, in qua sacrificium sui Corporis et Sanguinis instituit,
@@ -23,6 +27,8 @@ huius sollicitudinis Ecclesiae, eius fidei immutatique amoris erga summum myster
 atque continuam contextamque eius traditionem, quamquam res novae quaedam inductae sunt, testantur.
 
 #### Testimony of an Unaltered Faith
+
+#### Testimonium fidei immutatae
 
 ### §2
 
@@ -82,6 +88,8 @@ sanctitate continenter crescit. [^9] [^10]
 
 #### Uninterrupted Tradition
 
+#### Traditio non intermissa declaratur
+
 ### §6
 
 Cum praecepta enuntiaret, quibus Ordo Missae recognosceretur, Concilium Vaticanum II praeter alia
@@ -126,6 +134,8 @@ autem hic prospectus cernere nos sinit, quemadmodum Spiritus Sanctus praestet po
 fidelitatem in conservando immutabili fidei deposito, licet permagna sit precum rituumque varietas.
 
 #### Accommodation to New Conditions
+
+#### Ad novas rerum condiciones accommodatio
 
 ### §10
 
@@ -213,6 +223,8 @@ aetate, maxime studio rei liturgicae a S. Pio X eiusque Successoribus promoto.
 ## Chapter I: The Importance and Dignity of the Celebration of the Eucharist
 
 ### Chapter I: The Importance and Dignity of the Celebration of the Eucharist
+
+#### Caput I DE CELEBRATIONIS EUCHARISTICAE MOMENTO ET DIGNITATE
 
 ### §16
 
@@ -304,6 +316,10 @@ inculturatione» et infra ( nn. 395-399 ) exponuntur. [^36]
 
 ### I. The General Structure of the Mass
 
+#### Caput II DE STRUCTURA MISSAE EIUSQUE ELEMENTIS ET PARTIBUS
+
+#### I. DE GENERALI STRUCTURA MISSAE
+
 ### §27
 
 In Missa seu Cena dominica populus Dei in unum convocatur, sacerdote praeside personamque Christi
@@ -325,6 +341,10 @@ celebrationem aperiunt et concludunt. [^40] [^41]
 
 #### Reading and Explaining the Word of God
 
+#### II. DE DIVERSIS ELEMENTIS MISSAE
+
+#### De lectione verbi Dei eiusque explanatione
+
 ### §29
 
 Cum sacrae Scripturae in Ecclesia leguntur, Deus ipse ad populum suum loquitur et Christus, praesens
@@ -335,6 +355,8 @@ eius tamen plenior intellegentia et efficacitas expositione viva, id est homilia
 actionis liturgicae, fovetur. [^42]
 
 #### The Prayers and Other Parts Pertaining to the Priest
+
+#### De orationibus aliisque partibus ad sacerdotem pertinentibus
 
 ### §30
 
@@ -370,6 +392,8 @@ post sacerdotis Communionem proponuntur, secreto dicuntur.
 
 #### Other Formulas Occurring during the Celebration
 
+#### De aliis formulis in celebratione occurrentibus
+
 ### §34
 
 Cum Missae celebratio natura sua indolem «communitariam» habeat, dialogis inter sacerdotem et
@@ -397,6 +421,8 @@ Communionem, constituunt; b) nonnullae vero, uti cantus ad introitum, ad offerto
 
 #### The Manner of Pronouncing the Different Texts
 
+#### De modis proferendi varios textus
+
 ### §38
 
 In textibus clara et elata voce proferendis sive a sacerdote vel diacono sive a lectore sive ab
@@ -407,6 +433,8 @@ diversarum linguarum et ingenii populorum. In rubricis ergo et in normis quae se
 supra propositis.
 
 #### The Importance of Singing
+
+#### De momento cantus
 
 ### §39
 
@@ -435,6 +463,8 @@ Ordinarii Missae, praesertim vero symbolum fidei et orationem dominicam, modulis
 facilioribus, lingua latina simul cantare sciant. [^50] [^51]
 
 #### Gestures and Bodily Posture
+
+#### De gestibus et corporis habitibus
 
 ### §42
 
@@ -474,6 +504,8 @@ processiones decore peragantur, dum cantus ipsis proprii fiunt, iuxta normas pro
 
 #### Silence
 
+#### De silentio
+
 ### §45
 
 Sacrum quoque silentium, tamquam pars celebrationis, suo tempore est servandum. Eius autem natura a
@@ -487,6 +519,10 @@ locis ipsis propinquioribus, ut omnes se ad sacra peragenda devote et rite dispo
 
 #### A) The Introductory Rites
 
+#### III. DE SINGULIS MISSAE PARTIBUS
+
+#### A) Ritus initiales
+
 ### §46
 
 Ritus qui liturgiam verbi praecedunt, scilicet introitus, salutatio, actus paenitentialis, Kýrie ,
@@ -496,6 +532,8 @@ Eucharistiam celebrandam sese disponant. In quibusdam celebrationibus, quae cum 
 librorum liturgicorum conectuntur, ritus initiales omittuntur aut modo peculiari peraguntur.
 
 #### The Entrance
+
+#### Introitus
 
 ### §47
 
@@ -515,6 +553,8 @@ aliter ab ipso sacerdote, qui potest etiam in modum monitionis initialis ( cf. n
 
 #### Reverence to the Altar and Greeting of the Assembled People
 
+#### Salutatio altaris et populi congregati
+
 ### §49
 
 Cum ad presbyterium pervenerint, sacerdos, diaconi, et ministri altare salutant profunda
@@ -530,6 +570,8 @@ vel diaconus, vel minister laicus potest brevissimis verbis introducere fideles 
 
 #### The Penitential Act
 
+#### Actus paenitentialis
+
 ### §51
 
 Postea sacerdos invitat ad actum paenitentialem, qui, post brevem pausam silentii, a tota
@@ -539,6 +581,8 @@ consueti actus paenitentialis, quandoque fieri potest benedictio et aspersio aqu
 baptismi. [^56]
 
 #### The Kyrie, Eleison
+
+#### Kyrie, eleison
 
 ### §52
 
@@ -551,6 +595,8 @@ paenitentialis, singulis acclamationibus «tropus» praeponitur.
 
 #### The Gloria in Excelsis
 
+#### Gloria in excelsis
+
 ### §53
 
 Glória est antiquissimus et venerabilis hymnus, quo Ecclesia, in Spiritu Sancto congregata, Deum
@@ -562,6 +608,8 @@ dominicis extra tempus Adventus et Quadragesimae, necnon in sollemnitatibus et f
 peculiaribus celebrationibus sollemnioribus.
 
 #### The Collect [*] [* Revised translation of the Collect conclusions approved by the USCCB on January 29, 2021, confirmed by the Holy See on February 3, 2021, and implemented in the Dioceses of the United States of America on February 17, 2021 ]
+
+#### Collecta
 
 ### §54
 
@@ -579,6 +627,8 @@ si dirigitur ad Filium: Qui vivis et regnas cum Deo Patre in unitáte Spíritus 
 
 #### B) The Liturgy of the Word
 
+#### B) Liturgia verbi
+
 ### §55
 
 Partem praecipuam liturgiae verbi constituunt lectiones e sacra Scriptura desumptae cum cantibus
@@ -589,6 +639,8 @@ ipse Christus per verbum suum in medio fidelium praesens adest. Hoc verbum divin
 facit silentio et cantibus, atque ipsi adhaeret professione fidei; eo autem nutritus, oratione
 universali pro necessitatibus totius Ecclesiae et pro totius mundi salute preces fundit. [^58] [^59]
 
+#### Silentium
+
 ### §56
 
 Liturgia verbi ita celebranda est ut faveat meditationi, ideo plane vitanda est omnis forma
@@ -598,6 +650,8 @@ per orationem praeparetur. Quae momenta silentii opportune servari possunt, e.g.
 ipsa liturgia verbi, post primam et secundam lectionem, peracta denique homilia. [^60]
 
 #### The Biblical Readings
+
+#### Lectiones biblicae
 
 ### §57
 
@@ -629,6 +683,8 @@ lectionem ipsam stantes auscultant; sive ex ipsis signis venerationis Evangeliar
 
 #### The Responsorial Psalm
 
+#### Psalmus responsorius
+
 ### §61
 
 Post primam lectionem sequitur psalmus responsorius, qui est pars integralis liturgiae verbi et
@@ -645,6 +701,8 @@ lectionario assignati cani potest etiam vel responsorium graduale e Graduali Rom
 responsorius aut alleluiaticus e Graduali simplici, sicut in his libris describuntur.
 
 #### The Acclamation before the Gospel
+
+#### Acclamatio ante lectionem Evangelii
 
 ### §62
 
@@ -670,6 +728,8 @@ Sequentia, quae praeter quam diebus Paschae et Pentecostes, est ad libitum, cant
 
 #### The Homily
 
+#### Homilia
+
 ### §65
 
 Homilia est pars Liturgiae et valde commendatur: est enim ad nutrimentum vitae christianae
@@ -690,6 +750,8 @@ homiliam breve spatium silentii servatur. [^65] [^66]
 
 #### The Profession of Faith
 
+#### Professio fidei
+
 ### §67
 
 Symbolum seu professio fidei eo tendit ut universus populus congregatus verbo Dei in lectionibus e
@@ -706,6 +768,8 @@ a populo alternatim cum schola. Si non cantatur, recitandum est ab omnibus simul
 sibi invicem respondentibus.
 
 #### The Universal Prayer
+
+#### Oratio universalis
 
 ### §69
 
@@ -733,6 +797,8 @@ intentiones prolatas, sive orando sub silentio. [^68]
 
 #### C) The Liturgy of the Eucharist
 
+#### C) Liturgia eucharistica
+
 ### §72
 
 In Cena novissima, Christus sacrificium et convivium paschale instituit, quo sacrificium crucis in
@@ -748,6 +814,8 @@ fractionem panis et per Communionem fideles, quamvis multi, ex uno pane accipiun
 calice Sanguinem Domini eodem modo ac Apostoli de manibus ipsius Christi. [^69]
 
 #### The Preparation of the Gifts
+
+#### Praeparatio donorum
 
 ### §73
 
@@ -783,6 +851,8 @@ exprimitur.
 
 #### The Prayer over the Offerings
 
+#### Oratio super oblata
+
 ### §77
 
 Depositione oblatorum facta et ritibus qui eam comitantur perfectis, per invitationem ad orandum una
@@ -792,6 +862,8 @@ idest: Per Christum Dóminum nostrum ; si vero in fine ipsius fit mentio Filii: 
 in sáecula saeculórum . Populus precationi se coniungens, acclamatione Amen orationem facit suam.
 
 #### The Eucharistic Prayer
+
+#### Prex eucharistica
 
 ### §78
 
@@ -829,6 +901,8 @@ exprimitur, quaeque acclamatione: Amen populi, confirmatur et concluditur. [^71]
 
 #### The Communion Rite
 
+#### Ritus Communionis
+
 ### §80
 
 Cum celebratio eucharistica convivium paschale sit, expedit ut, iuxta mandatum Domini, Corpus et
@@ -836,6 +910,8 @@ Sanguis eius a fidelibus rite dispositis ut cibus spiritualis accipiantur. Ad ho
 aliique ritus praeparatorii, quibus fideles ad Communionem immediate adducuntur.
 
 #### The Lord’s Prayer
+
+#### Oratio dominica
 
 ### §81
 
@@ -849,6 +925,8 @@ voce proferuntur.
 
 #### The Rite of Peace
 
+#### Ritus pacis
+
 ### §82
 
 Sequitur ritus pacis, quo Ecclesia pacem et unitatem pro se ipsa et universa hominum familia
@@ -858,6 +936,8 @@ secundum ingenium et mores populorum, statuatur. Convenit tamen ut unusquisque s
 propinquioribus sobrie pacem significet.
 
 #### The Fraction of the Bread
+
+#### Fractio panis
 
 ### §83
 
@@ -874,6 +954,8 @@ panis comitatur, quare repeti potest quoties necesse est adusque ritum peractum.
 concluditur verbis dona nobis pacem .
 
 #### Communion
+
+#### Communio
 
 ### §84
 
@@ -922,6 +1004,8 @@ sáecula saeculórum . Populus acclamatione Amen orationem facit suam.
 
 #### D) The Concluding Rites
 
+#### D) Ritus conclusionis
+
 ### §90
 
 Ad ritus conclusionis pertinent: a) breves notitiae, si necessariae sint; b) salutatio et benedictio
@@ -936,6 +1020,8 @@ ministrorum.
 
 ### Chapter III: Duties and Ministries in the Mass
 
+#### Caput III DE OFFICIIS ET MINISTERIIS IN MISSA
+
 ### §91
 
 Celebratio eucharistica est actio Christi et Ecclesiae, scilicet plebis sanctae sub Episcopo
@@ -947,6 +1033,8 @@ sive ministri ordinati sive christifideles laici, munere vel officio suo fungent
 id agant, quod ad ipsos pertinet. [^75] [^76] [^77]
 
 ### I. The Duties of Those in Holy Orders
+
+#### I. DE OFFICIIS ORDINIS SACRI
 
 ### §92
 
@@ -979,6 +1067,8 @@ innuendis. [^82]
 
 ### II. The Functions of the People of God
 
+#### II. DE MUNERIBUS POPULI DEI
+
 ### §95
 
 In celebratione Missae fideles efficiunt plebem sanctam, populum acquisitionis et sacerdotium
@@ -1003,6 +1093,10 @@ ministerium vel munus in celebratione praestent.
 
 #### The Ministry of the Instituted Acolyte and Lector
 
+#### III. DE MINISTERIIS PECULIARIBUS
+
+#### De ministerio acolythi et lectoris institutorum
+
 ### §98
 
 Acolythus instituitur ad servitium altaris et in adiutorium sacerdotis et diaconi. Ipsius praecipue
@@ -1018,6 +1112,8 @@ proferre. In celebratione eucharistica lector proprium munus habet ( cf. nn. 194
 per se exercere debet.
 
 #### Other Functions
+
+#### De ceteris muneribus
 
 ### §100
 
@@ -1075,6 +1171,8 @@ normae ab Episcopo datae pro sua dioecesi. [^89]
 
 ### IV. The Distribution of Functions and the Preparation of the Celebration
 
+#### IV. DE DISTRIBUTIONE MUNERUM ET DE PRAEPARATIONE CELEBRATIONIS
+
 ### §108
 
 Unus idemque sacerdos munus praesidentiale semper in omnibus eius partibus exercere debet, iis
@@ -1105,6 +1203,8 @@ competunt. [^90]
 ## Chapter IV: The Different Forms of Celebrating Mass
 
 ### Chapter IV: The Different Forms of Celebrating Mass
+
+#### CAPUT IV DE DIVERSIS FORMIS MISSAM CELEBRANDI
 
 ### §112
 
@@ -1137,6 +1237,8 @@ proprium aut superpelliceum super vestem talarem gestant. [^94]
 
 ### I. Mass with the People
 
+#### I. DE MISSA CUM POPULO
+
 ### §115
 
 Missa cum populo ea intellegitur quae cum fidelium participatione celebratur. Convenit autem ut,
@@ -1151,6 +1253,8 @@ sacerdoti celebranti de more adsint acolythus, lector et cantor. Ritus vero qui 
 facultatem praevidet amplioris etiam numeri ministrorum.
 
 #### Things to Be Prepared
+
+#### Praeparanda
 
 ### §117
 
@@ -1186,6 +1290,10 @@ candelabra cum cereis accensis. [^96]
 #### A) Mass without a Deacon
 
 #### The Introductory Rites
+
+#### A) De Missa sine diacono
+
+#### Ritus initiales
 
 ### §120
 
@@ -1235,6 +1343,8 @@ sacerdote ad breve tempus silentes orant. Tunc sacerdos, manibus extensis, dicit
 expleta, populus acclamat: Amen .
 
 #### The Liturgy of the Word
+
+#### Liturgia verbi
 
 ### §128
 
@@ -1303,6 +1413,8 @@ intentiones versus populum proponit, populo pro sua parte suppliciter respondent
 sacerdos, manibus extensis, precationem oratione concludit.
 
 #### The Liturgy of the Eucharist
+
+#### Liturgia eucharistica
 
 ### §139
 
@@ -1499,6 +1611,8 @@ silentii, nisi iam praecesserit statim post Communionem. In fine orationis popul
 
 #### The Concluding Rites
 
+#### Ritus conclusionis
+
 ### §166
 
 Expleta oratione post Communionem, fiant, si habendae sunt, breves annuntiationes ad populum.
@@ -1529,6 +1643,8 @@ Si vero Missam sequitur aliqua actio liturgica, ritus conclusionis, idest saluta
 dimissio, omittuntur.
 
 #### B) Mass with a Deacon
+
+#### B) De Missa cum diacono
 
 ### §171
 
@@ -1643,6 +1759,8 @@ processerat, recedit.
 
 #### C) The Functions of the Acolyte
 
+#### C) De muneribus acolythi
+
 ### §187
 
 Munera quae acolythus exercere potest varii sunt generis; plura autem ex iis simul occurrere
@@ -1692,6 +1810,8 @@ revertuntur processionaliter eodem modo et ordine quo venerunt.
 
 #### Introductory Rites
 
+#### D) De muneribus lectoris
+
 ### §194
 
 In accessu ad altare, absente diacono, lector, veste probata indutus, Evangeliarium parum elevatum
@@ -1719,6 +1839,8 @@ Si ad introitum vel ad Communionem non habetur cantus, et antiphonae in Missali 
 fidelibus non recitantur, tempore conveniente eas proferre potest ( cf. nn. 48, 87 ).
 
 ### II. Concelebrated Mass
+
+#### II. DE MISSA CONCELEBRATA
 
 ### §199
 
@@ -1840,6 +1962,8 @@ concelebrantes, qui circa celebrantem principalem consistunt.
 
 #### The Manner of Pronouncing the Eucharistic Prayer
 
+#### De modo proferendi Precem eucharisticam
+
 ### §216
 
 Praefatio cantatur vel dicitur a solo sacerdote celebrante principali; Sanctus vero ab omnibus
@@ -1859,6 +1983,8 @@ percipiuntur. Partes ab omnibus concelebrantibus simul dicendae, quae notis in m
 laudabiliter cantu proferuntur.
 
 #### Eucharistic Prayer I, or the Roman Canon
+
+#### Prex eucharistica I, seu Canon Romanus
 
 ### §219
 
@@ -1899,6 +2025,8 @@ Per quem haec ómnia a solo celebrante principali dicitur.
 
 #### Eucharistic Prayer II
 
+#### Prex eucharistica II
+
 ### §226
 
 In Prece eucharistica II Vere Sanctus a solo celebrante principali, extensis manibus, profertur.
@@ -1919,6 +2047,8 @@ profert.
 
 #### Eucharistic Prayer III
 
+#### Prex eucharistica III
+
 ### §229
 
 In Prece eucharistica III Vere Sanctus a solo celebrante principali, extensis manibus, profertur.
@@ -1937,6 +2067,8 @@ Intercessiones: Ipse nos, Haec hostia nostrae reconciliatiónis, et Fratres nost
 concelebrantibus committi convenit, qui solus eas, manibus extensis et elata voce, profert.
 
 #### Eucharistic Prayer IV
+
+#### Prex eucharistica IV
 
 ### §232
 
@@ -2075,6 +2207,8 @@ principalis cum diacono altare de more osculo veneratur.
 
 ### III. Mass at Which only One Minister Participates
 
+#### III. DE MISSA, CUIUS UNUS TANTUM MINISTER PARTICIPAT
+
 ### §252
 
 In Missa quae celebratur a sacerdote cui unus tantum minister assistit et respondet, servatur ritus
@@ -2187,6 +2321,10 @@ more osculo veneratur et, facta profunda inclinatione cum ministro, recedit.
 
 #### Veneration of the Altar and the Book of the Gospels
 
+#### IV. QUAEDAM NORMAE GENERALIORES PRO OMNIBUS FORMIS MISSAE
+
+#### De veneratione altaris et Evangeliarii
+
 ### §273
 
 Iuxta morem traditum, veneratio altaris et Evangeliarii osculo perficitur. Attamen, ubi huiusmodi
@@ -2194,6 +2332,8 @@ signum non congruit cum traditionibus aut ingenio alicuius regionis, ibi est Con
 Episcoporum aliud signum statuere loco illius adhibendum, consentiente Sede Apostolica.
 
 #### Genuflections and Bows
+
+#### De genuflexione et inclinatione
 
 ### §274
 
@@ -2221,6 +2361,8 @@ consecratione, verba Domini profert.
 
 #### Incensation
 
+#### De incensatione
+
 ### §276
 
 Thurificatio seu incensatio reverentiam exprimit et orationem, ut in Sacra Scriptura significatur
@@ -2247,6 +2389,8 @@ signum crucis super oblata thuribulo producens.
 
 #### The Purification
 
+#### De purificatione
+
 ### §278
 
 Quoties aliquod fragmentum hostiae digitis adhaeserit, praecipue post fractionem vel fidelium
@@ -2267,6 +2411,8 @@ Si hostia vel aliqua particula dilabatur, reverenter accipiatur; si quid vero Sa
 locus ubi ceciderit aqua lavetur, et haec aqua postea in sacrarium in sacristia collocatum mittatur.
 
 #### Communion under Both Kinds
+
+#### De Communione sub utraque specie
 
 ### §281
 
@@ -2343,6 +2489,10 @@ recedit.
 
 ### I. General Principles
 
+#### Caput V DE ECCLESIARUM DISPOSITIONE ET ORNATU AD EUCHARISTIAM CELEBRANDAM
+
+#### I. PRINCIPIA GENERALIA
+
 ### §288
 
 Ad Eucharistiam celebrandam, populus Dei plerumque in ecclesiam congregatur vel, ea deficiente aut
@@ -2402,6 +2552,8 @@ foveant et sanctitatem mysteriorum quae celebrantur ostendant. [^114]
 
 ### II. Arrangement of the Sanctuary for the Sacred Synaxis
 
+#### II. DE PRESBYTERII ORDINATIONE AD SACRAM SYNAXIM
+
 ### §295
 
 Presbyterium locus est ubi altare exstat, verbum Dei proclamatur, et sacerdos, diaconus et alii
@@ -2410,6 +2562,8 @@ aut per peculiarem structuram et ornatum. Talis autem amplitudinis sit, ut Eucha
 commode peragi et conspici possit. [^115]
 
 #### The Altar and Its Ornamentation
+
+#### De altari eiusque ornatu
 
 ### §296
 
@@ -2501,6 +2655,8 @@ fidelium revocandam, etiam extra celebrationes liturgicas prope altare permaneat
 
 #### The Ambo
 
+#### De ambone
+
 ### §309
 
 Dignitas verbi Dei requirit ut in ecclesia locus congruus exsistat e quo annuntietur et ad quem,
@@ -2513,6 +2669,8 @@ minister verbi ascendat. Convenit ut novus ambo benedicatur, antequam usui litur
 iuxta ritum in Rituali Romano descriptum. [^117] [^118]
 
 #### The Chair for the Priest Celebrant and Other Seats
+
+#### De sede pro sacerdote celebrante aliisque sedibus
 
 ### §310
 
@@ -2531,6 +2689,10 @@ concreditum facile implere possint. [^119] [^120] [^121]
 
 #### The Places for the Faithful
 
+#### III. DE ECCLESIAE ORDINATIONE
+
+#### De locis fidelium
+
 ### §311
 
 Loca fidelium congrua cura disponantur, ut ipsi oculis et animo sacras celebrationes debite
@@ -2542,6 +2704,8 @@ valeant. Caveatur ut fideles sive sacerdotem sive diaconum et lectores non tantu
 hodiernis instrumentis technicis adhibitis, commode audire valeant. [^122]
 
 #### The Place for the Schola Cantorum and the Musical Instruments
+
+#### De loco scholæ cantorum et instrumentorum musicorum
 
 ### §312
 
@@ -2561,6 +2725,8 @@ in Quadragesima sonus organi aliorumque instrumentorum permittitur tantum ad can
 Excipiuntur tamen dominica Laetáre (IV in Quadragesima), sollemnitates et festa. [^124]
 
 #### The Place for the Reservation of the Most Holy Eucharist
+
+#### De loco asservationis sanctissimæ eucharistiæ
 
 ### §314
 
@@ -2592,6 +2758,8 @@ praescribuntur. [^131]
 
 #### Sacred Images
 
+#### De imaginibus sacris
+
 ### §318
 
 Ecclesia in terrena Liturgia caelestem illam praegustando participat, quae in sancta civitate
@@ -2611,6 +2779,10 @@ imaginum. [^132] [^133] [^134]
 ### Chapter VI: The Requisites for the Celebration of Mass
 
 ### I. The Bread and Wine for Celebrating the Eucharist
+
+#### Caput VI DE IIS QUAE AD MISSAE CELEBRATIONEM REQUIRUNTUR
+
+#### I. DE PANE ET VINO AD EUCHARISTIAM CELEBRANDAM
 
 ### §319
 
@@ -2652,6 +2824,8 @@ consecrare.
 
 ### II. Sacred Furnishings in General
 
+#### II. DE SACRA SUPELLECTILE IN GENERE
+
 ### §325
 
 Sicut pro ecclesiis aedificandis, ita et pro sacra supellectile universa, Ecclesia genus artis
@@ -2667,6 +2841,8 @@ sacro bene accommodantur. Qua de re iudex erit Conferentia Episcoporum pro singu
 n. 390 ).
 
 ### III. Sacred Vessels
+
+#### III. DE SACRIS VASIS
 
 ### §327
 
@@ -2713,6 +2889,8 @@ Mos servetur exstruendi in sacristia sacrarium, in quod aqua ablutionis sacrorum
 linteaminum fundatur ( cf. n. 280 ).
 
 ### IV. Sacred Vestments
+
+#### IV. DE SACRIS VESTIBUS
 
 ### §335
 
@@ -2806,6 +2984,8 @@ celebratur aut etiam cum colore proprio diei vel temporis.
 
 ### V. Other Things Intended for Church Use
 
+#### V. DE ALIIS REBUS AD USUM ECCLESIAE DESTINATIS
+
 ### §348
 
 Praeter vasa sacra aut vestes sacras, pro quibus aliqua peculiaris materia statuitur, alia supellex,
@@ -2833,6 +3013,8 @@ semper simplicitas cum munditie societur.
 
 ### Chapter VII: The Choice of the Mass and Its Parts
 
+#### Caput VII DE MISSA EIUSQUE PARTIBUS ELIGENDIS
+
 ### §352
 
 Efficacitas pastoralis celebrationis profecto augebitur, si textus lectionum, orationum et cantuum
@@ -2848,6 +3030,8 @@ tempore quodammodo eveniat. Harmonica enim ordinatio et exsecutio rituum multum 
 componendos fidelium animos ad Eucharistiam participandam.
 
 ### I. The Choice of Mass
+
+#### I. DE MISSA ELIGENDA
 
 ### §353
 
@@ -2883,12 +3067,16 @@ memoria particularis. [^141]
 
 ### II. The Choice of Texts for the Mass
 
+#### II. DE MISSAE PARTIBUS ELIGENDIS
+
 ### §356
 
 In seligendis textibus diversarum partium Missae tum de Tempore tum de Sanctis, serventur normae
 quae sequuntur.
 
 #### The Readings
+
+#### De lectionibus
 
 ### §357
 
@@ -2949,6 +3137,8 @@ tamen lege, ut textus seligantur e lectionario rite approbato.
 
 #### The Orations
 
+#### De orationibus
+
 ### §363
 
 In qualibet Missa, nisi aliter notetur, dicuntur orationes ipsi Missae propriae. In memoriis
@@ -2960,6 +3150,8 @@ Missali recensentur. Semper tamen licebit ex iisdem Missis etiam solam collectam
 ditior copia praebetur textuum, quibus precatio fidelium abundantius nutritur. In potioribus tamen
 anni temporibus, haec accommodatio iam fit per orationes iisdem temporibus proprias, in Missali, pro
 singulis feriis, exstantes.
+
+#### De Prece eucharistica
 
 ### §364
 
@@ -2988,6 +3180,8 @@ annum». In hanc Precem, ratione structurae, inseri nequit peculiaris formula pr
 
 #### The Chants
 
+#### De cantibus
+
 ### §366
 
 Cantibus in Ordine Missae positis, v. gr. ad Agnus Dei , non licet substituere alios cantus.
@@ -3004,6 +3198,10 @@ ad Communionem, normae serventur, quae suis locis statuuntur ( cf. nn. 40-41, 47
 ### Chapter VIII: Masses and Prayers for Various Needs and Occasions and Masses for the Dead
 
 ### I. Masses and Prayers for Various Needs and Occasions
+
+#### Caput VIII DE MISSIS ET ORATIONIBUS AD DIVERSA ET DE MISSIS DEFUNCTORUM
+
+#### I. DE MISSIS ET ORATIONIBUS AD DIVERSA
 
 ### §368
 
@@ -3077,6 +3275,8 @@ Ecclesiae imprimis et prae omnibus Sanctis veneratio tribuitur. [^145]
 
 ### II. Masses for the Dead
 
+#### II. DE MISSIS DEFUNCTORUM
+
 ### §379
 
 Sacrificium eucharisticum Paschatis Christi pro defunctis offert Ecclesia ut, inter se
@@ -3127,6 +3327,8 @@ omnibus.
 ## Chapter IX: Adaptations within the Competence of Bishops and Bishops’ Conferences
 
 ### Chapter IX: Adaptations within the Competence of Bishops and Bishops' Conferences
+
+#### Caput IX DE APTATIONIBUS QUAE EPISCOPIS EORUMQUE CONFERENTIIS COMPETUNT
 
 ### §386
 

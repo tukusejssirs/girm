@@ -170,8 +170,9 @@ for p in uk_data["paragraphs"]:
             L(f"## {ch_label}")
         blank()
 
-    # Headings from headings_before
-    for h in p.get("headings_before", []):
+    # Headings from LA headings_before (the Latin source has the authoritative structure)
+    la_p = la_map.get(n, {})
+    for h in la_p.get("headings_before", []):
         if h.strip():
             L(f"### {h.strip()}")
             blank()
