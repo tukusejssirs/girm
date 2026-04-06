@@ -489,6 +489,59 @@ The function of serving the Priest at the altar is specifically subject to norms
 
 ## 14. Vestments for Servers — Quick Reference
 
+### 14.1 Attire
+
+| Vestment | Who wears it | Notes |
+|----------|-------------|-------|
+| **Alb** with cincture | All lay ministers and servers | Universal norm *(§336, §339)* |
+| **Alb** without cincture | Where alb is shaped to fit without | *(§336)* |
+| **Approved attire** (e.g. cassock and surplice) | Lay ministers and servers | Only where legitimately approved by the Bishops' Conference *(§339)*; not the universal default |
+
+*(§336)* The alb is to be tied at the waist with a cincture unless it is made in such a way
+as to fit without one. A stole or dalmatic is **never** worn by a non-ordained minister.
+
+> **🇺🇸 US (§339):** Acolytes, altar servers, readers, and other lay ministers may wear the alb
+> *or other appropriate and dignified clothing* — the US norm is broader than the universal norm.
+
+### 14.2 Liturgical Colours — Reference for Servers
+
+Servers do not wear the liturgical colour themselves (their alb or cassock/surplice is fixed),
+but knowing the colour of the day is essential for preparing the correct vestments for the Priest
+and Deacon and for understanding the character of the celebration.
+
+All rules below are from *(§346)* unless otherwise noted.
+
+| Colour | When used |
+|--------|-----------|
+| **White** | Easter Time; Christmas Time; Solemnity of the Most Holy Trinity; feasts of the Lord (other than his Passion); BVM; Holy Angels; Saints who were not Martyrs; All Saints (1 Nov); Nativity of St John the Baptist (24 Jun); Feasts of St John the Evangelist (27 Dec), Chair of St Peter (22 Feb), Conversion of St Paul (25 Jan) |
+| **Red** | Palm Sunday; Good Friday; Pentecost; feasts of the Lord's Passion; feast days ('birthdays') of Apostles and Evangelists; feasts of Martyr Saints |
+| **Green** | Ordinary Time |
+| **Violet / Purple** | Advent; Lent; may also be used for Masses for the Dead |
+| **Black** | Where it is the custom: Masses for the Dead *(§346e)* |
+| **Rose** | Where it is the practice: Gaudete Sunday (3rd Sunday of Advent); Laetare Sunday (4th Sunday of Lent) *(§346f)* |
+| **More precious / festive vestments** | May be used on more solemn days even if not the colour of the day *(§346g)* |
+
+> **🇬🇧 England and Wales (§346):** White may also be used at Masses for the Dead (by exception).
+
+> **🇺🇸 US (§346):** Besides violet, white or black may be used at funeral Masses. Gold or silver
+> vestments may be worn on more solemn occasions.
+
+#### Colour changes within the Triduum
+
+| Day | Colour |
+|-----|--------|
+| Holy Thursday — Mass of the Lord's Supper | **White** |
+| Good Friday — Celebration of the Lord's Passion | **Red** |
+| Easter Vigil & Easter Sunday | **White** |
+
+*(§346b)* Red is used on Palm Sunday and on the Friday of Holy Week — the only two days within
+Lent when the principal Masses are celebrated in red rather than violet.
+
+> **🇸🇰 Slovakia:** No particular adaptations to liturgical colours have been identified in KBS documents;
+> universal norms apply.
+
+
+
 | Vestment | Who wears it | Notes |
 |----------|-------------|-------|
 | **Alb** with cincture | All lay ministers and servers | Universal norm *(§336, §339)* |
@@ -499,7 +552,30 @@ The function of serving the Priest at the altar is specifically subject to norms
 fit without one. A stole or dalmatic is **never** worn by a non-ordained minister.
 
 
-## 15. Bibliography and Sources Referenced
+## 15. US GIRM Adaptations Embedded Directly in the Text
+
+Unlike the KBS, which published its posture norms as a separate pastoral letter, the USCCB
+embedded its adaptations **directly into the GIRM translation text itself** at paragraph level.
+Each US-specific addition is signalled by "In the Dioceses of the United States of America…"
+The following adaptations are directly relevant to servers and ministers:
+
+| § | US addition |
+|---|-------------|
+| §43 | Kneel after *Sanctus* through the entire Eucharistic Prayer Amen; kneel after *Agnus Dei* unless the diocesan bishop determines otherwise |
+| §160 | Holy Communion received **standing** is the US norm; kneeling permitted for individual faithful |
+| §339 | Acolytes, altar servers, readers, and other lay ministers may wear the alb **or other appropriate and dignified clothing** (broader than universal norm of alb or Bishops' Conference-approved attire) |
+| §346 e | Besides violet, **white or black** may also be used at funeral Masses |
+| §346 h | **Gold or silver** vestments may be worn on more solemn occasions |
+| §154 | On special occasions (funeral, wedding, civic leaders present), the Priest may for good reason offer the Sign of Peace to nearby ministers |
+
+> **Note:** These are adaptations for the US only. They do not apply in Slovakia or England
+> and Wales. The UK GIRM similarly embeds a small number of England and Wales adaptations
+> (e.g. §43 sitting/standing, §48 entrance chant options, §87 Communion chant options,
+> §301 wooden altars, §346e white at Masses for the Dead).
+
+---
+
+## 16. Bibliography and Sources Referenced
 
 ### Primary Liturgical Sources
 
@@ -522,7 +598,7 @@ fit without one. A stole or dalmatic is **never** worn by a non-ordained ministe
 - **Caeremoniale Episcoporum**, editio typica, 1984. [Governing ceremonies for Pontifical Masses and the role of ministers.]
 - **Second Ecumenical Council of the Vatican** (Vatican II): Constitution on the Sacred Liturgy *Sacrosanctum Concilium*, 1963; Dogmatic Constitution on the Church *Lumen gentium*, 1964; Decree on the Ministry and Life of Priests *Presbyterorum ordinis*, 1965.
 
-## 16. Applicable Norms in Slovakia
+## 17. Applicable Norms in Slovakia
 
 > **Note on sources:** Norms marked **[GIRM]** derive from the universal
 > *General Instruction of the Roman Missal* (3rd typical edition, 2002/2011) and
@@ -531,7 +607,7 @@ fit without one. A stole or dalmatic is **never** worn by a non-ordained ministe
 > from the Holy See; they bind all Slovak dioceses. Norms marked **[BB]** are
 > particular to the Diocese of Banská Bystrica.
 
-### 16.1 Slovak Bishops' Conference (KBS) — Postures and Gestures at Mass
+### 17.1 Slovak Bishops' Conference (KBS) — Postures and Gestures at Mass
 
 **Source:** KBS Pastoral Letter and Directives on Gestures and Postures at Holy Mass
 (51st KBS Plenary Session, 7–8 June 2005, Donovaly; in force from Sunday 7 August 2005).
@@ -602,13 +678,13 @@ moving in the Communion procession**.
   the cantor or schola (first sung syllable of "Alleluia", not from any organ introduction)
   — *Slovakia only*
 
-### 16.2 Slovak Bishops' Conference (KBS) — Roman Missal
+### 17.2 Slovak Bishops' Conference (KBS) — Roman Missal
 
 **[KBS]** The KBS promulgated the new Slovak edition of the *Rímsky misál* (Roman Missal, 3rd typical edition) in October 2021, replacing the previous Slovak translation.
 The Slovak VSRM (*Všeobecné smernice Rímskeho misála*) is contained within it.
 URL: https://www.kbs.sk/obsah/sekcia/c/usmernenie-k-uvedeniu-tretieho-slovenskeho-vydania-rimskeho-misala
 
-### 16.3 Diocese of Banská Bystrica — Server-Specific Norms
+### 17.3 Diocese of Banská Bystrica — Server-Specific Norms
 
 **[GIRM §107]** The function of serving the Priest at the altar is governed by the norms of the Diocesan Bishop (Mons. Marián Chovanec, bishop since 15 December 2012).
 
@@ -621,7 +697,7 @@ In the absence of particular diocesan norms, the following apply in descending o
 - **[CIC]** Code of Canon Law, esp. can. 230 §2–3 (deputation of lay ministers)
 - **[local]** Parish pastor's directives under CIC can. 230 §2 and GIRM §107
 
-### 16.4 Terminology
+### 17.4 Terminology
 
 | Slovak | Latin / English |
 |--------|----------------|
