@@ -1,0 +1,46 @@
+{
+  "id": "girm-uk-2011",
+  "label": "UK",
+  "short_name": "GIRM — England & Wales 2011 (ICEL)",
+  "full_name": "General Instruction of the Roman Missal, with the Adaptations for England and Wales",
+  "edition": "Third Typical Edition, 2011 ICEL translation with CBCEW adaptations",
+  "language": "en",
+  "language_name": "English",
+  "region": "England and Wales",
+  "country_code": "GB-EAW",
+  "episcopal_conference": "Catholic Bishops' Conference of England and Wales (CBCEW)",
+  "promulgation_body": "CBCEW, with recognitio of the Holy See",
+  "latin_base": "Institutio Generalis Missalis Romani, editio typica tertia, 2002",
+  "latin_base_promulgated": "2002-04-20",
+  "translation_approved": "2010",
+  "publish_date": "2011",
+  "in_force_from": "2011-11-27",
+  "paragraphs": 399,
+  "source_url": "https://www.liturgyoffice.org.uk/Resources/GIRM/",
+  "source_file": "src/girm-uk/girm-uk-2011.pdf",
+  "source_file_clean_text": "src/girm-uk/girm-uk-2011-clean.txt",
+  "extracted_file": "extracted/uk.json",
+  "pdf_metadata": {
+    "creator": "Adobe InDesign CS3 (5.0.4)",
+    "creation_date": "2012-05-18",
+    "pages": 75,
+    "page_size": "A4 (595.276 × 841.89 pt)"
+  },
+  "footnotes_count": 165,
+  "adaptations_method": "Embedded inline in paragraph text, signalled by 'the dioceses of England and Wales' or 'In England and Wales'",
+  "adaptation_paragraphs": [43, 48, 87, 160, 301, 346],
+  "notes": [
+    "Base text for this project; used as the primary source for girm-master.md.",
+    "Footnotes extracted spatially from two-column PDF layout; 165 footnotes recovered.",
+    "§346: white may be used at Masses for the Dead (E&W exception).",
+    "§160: Communion is received standing (E&W norm).",
+    "§43: same standing/sitting/kneeling as universal GIRM; kneeling at Consecration."
+  ],
+  "bibliographic": {
+    "publisher": "Catholic Bishops' Conference of England and Wales",
+    "publisher_location": "London",
+    "isbn": null,
+    "copyright": "© 2003, 2010 International Commission on English in the Liturgy Corporation; © 2011 Catholic Bishops' Conference of England and Wales",
+    "liturgy_office_url": "https://www.liturgyoffice.org.uk"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "girm-us-2010",
+  "label": "US",
+  "short_name": "GIRM — USCCB 2010",
+  "full_name": "General Instruction of the Roman Missal, with the Adaptations for the Dioceses of the United States of America",
+  "edition": "Third Typical Edition, 2010 ICEL/USCCB translation with USCCB adaptations",
+  "language": "en",
+  "language_name": "English",
+  "region": "United States of America",
+  "country_code": "US",
+  "episcopal_conference": "United States Conference of Catholic Bishops (USCCB)",
+  "promulgation_body": "USCCB, with recognitio of the Holy See",
+  "latin_base": "Institutio Generalis Missalis Romani, editio typica tertia, 2002",
+  "latin_base_promulgated": "2002-04-20",
+  "translation_approved": "2010",
+  "publish_date": "2011",
+  "in_force_from": "2011-11-27",
+  "paragraphs": 399,
+  "source_url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal",
+  "source_files": [
+    "src/girm-us/girm-chapter-1.html",
+    "src/girm-us/girm-chapter-2.html",
+    "src/girm-us/girm-chapter-3.html",
+    "src/girm-us/girm-chapter-4.html",
+    "src/girm-us/girm-chapter-5.html",
+    "src/girm-us/girm-chapter-6.html",
+    "src/girm-us/girm-chapter-7.html",
+    "src/girm-us/girm-chapter-8.html",
+    "src/girm-us/girm-chapter-9.html",
+    "src/girm-us/girm-intro.html",
+    "src/girm-us/girm-preamble.html"
+  ],
+  "extracted_file": "extracted/us.json",
+  "adaptations_method": "Embedded directly in the paragraph text, signalled by 'In the Dioceses of the United States of America…'",
+  "adaptation_paragraphs": [43, 48, 61, 87, 154, 160, 283, 301, 304, 326, 329, 339, 346, 362, 373, 393],
+  "notes": [
+    "USCCB adaptations are embedded inline in the GIRM text rather than published as a separate document.",
+    "The US version uses 'color' (American spelling) vs 'colour' (UK).",
+    "Kneeling norms (§43): US mandates kneeling from Sanctus through EP Amen, and after Agnus Dei.",
+    "Communion posture (§160): standing is the US norm.",
+    "Servers' attire (§339): 'or other appropriate and dignified clothing' — broader than universal norm.",
+    "Vestments (§346): white or black at funerals; gold or silver on solemn occasions.",
+    "In force from the First Sunday of Advent, 27 November 2011."
+  ],
+  "bibliographic": {
+    "publisher": "United States Conference of Catholic Bishops",
+    "publisher_location": "Washington, D.C.",
+    "isbn": null,
+    "copyright": "© 2003, 2010 International Commission on English in the Liturgy Corporation; © 2011 United States Conference of Catholic Bishops"
+  }
+}

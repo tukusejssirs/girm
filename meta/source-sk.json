@@ -1,0 +1,75 @@
+{
+  "id": "girm-sk-2021",
+  "label": "SK",
+  "short_name": "VSRM — KBS 2021 (Slovak)",
+  "full_name": "Všeobecné smernice Rímskeho misála (VSRM)",
+  "edition": "Tretie typické vydanie (editio typica tertia), slovenský preklad 2021",
+  "language": "sk",
+  "language_name": "Slovak",
+  "region": "Slovakia",
+  "country_code": "SK",
+  "episcopal_conference": "Konferencia biskupov Slovenska (KBS)",
+  "promulgation_body": "KBS, with recognitio of the Congregation for Divine Worship and the Discipline of the Sacraments",
+  "latin_base": "Institutio Generalis Missalis Romani, editio typica tertia, 2002",
+  "latin_base_promulgated": "2002-04-20",
+  "previous_slovak_edition": "Rímsky misál 1980 (based on editio typica altera 1975); dotlač 2001",
+  "translation_approved": "2020-08",
+  "promulgation_decree": {
+    "reference": "prot. č. 127/2021",
+    "date": "2021-04-01",
+    "signatories": ["Stanislav Zvolenský", "Stanislav Stolárik", "Marián Chovanec"]
+  },
+  "publish_date": "2021",
+  "in_force_from": "2022-01-01",
+  "paragraphs": 399,
+  "source_url": "https://liturgia.kbs.sk/sekcia/misal/usmernenie-k-uvedeniu-noveho-misala",
+  "source_file": "src/girm_sk.pdf",
+  "extracted_file": "out/girm-src-sk.md",
+  "pdf_metadata": {
+    "creator": "Adobe InDesign 16.2 (Windows)",
+    "producer": "Acrobat Distiller 21.0 (Windows)",
+    "creation_date": "2025-03-05",
+    "pages": 54,
+    "page_size": "524.409 × 779.528 pt"
+  },
+  "extraction_notes": [
+    "§287 missing from pdftotext due to two-column page layout; recovered spatially via pdfminer.",
+    "Paragraph numbering matches Latin editio typica tertia throughout (§§1–399)."
+  ],
+  "related_documents": [
+    {
+      "id": "kbs-postures-2005",
+      "type": "separate_pastoral_directive",
+      "title": "Gestá a postoje pri svätej omši — smernice k Pastierskemu listu KBS",
+      "date": "2005-06-07",
+      "in_force_from": "2005-08-07",
+      "promulgation_body": "KBS, 51st Plenary Session, Donovaly",
+      "url": "https://www.kbs.sk/obsah/sekcia/c/gesta-a-postoje-pri-svatej-omsi-smernice-k-pastierskemu-listu-kbs",
+      "summary": "Adopts full VSRM §43 verbatim. Separately retains Slovak custom of kneeling before Ecce Agnus Dei for all Slovakia ('Na Slovensku zachováme'). Kneeling from Sanctus through entire EP only where local parish custom exists ('kde je zvyk'). Pastoral guidance: stand from first sung note of cantor at Alleluia; turn toward ambo during Gospel; sign of peace soberly to nearest neighbours only.",
+      "adaptations_method": "Separate document; NOT embedded in VSRM text"
+    },
+    {
+      "id": "kbs-missal-2021",
+      "type": "promulgation_decree",
+      "title": "Usmernenie k uvedeniu tretieho slovenského vydania Rímskeho misála",
+      "date": "2021-10-22",
+      "in_force_from": "2022-01-01",
+      "promulgation_body": "Liturgická komisia KBS",
+      "url": "https://liturgia.kbs.sk/sekcia/misal/usmernenie-k-uvedeniu-noveho-misala",
+      "summary": "Guidance on introducing the new Slovak Roman Missal. Covers text changes only (new consecration formula, doxology, conclusion of prayers). Does not address posture changes.",
+      "adaptations_method": "Separate document"
+    }
+  ],
+  "notes": [
+    "The VSRM is published as a standalone document as well as embedded in the Rímsky misál.",
+    "Slovak abbreviation: VSRM (Všeobecné smernice Rímskeho misála).",
+    "National adaptations for Slovakia are NOT embedded inline in the VSRM text (unlike the US GIRM), but are published as separate KBS pastoral letters and directives.",
+    "PDF source appears to be from the standalone VSRM booklet (54 pages, March 2025 print)."
+  ],
+  "bibliographic": {
+    "publisher": "Konferencia biskupov Slovenska / Spolok svätého Vojtecha",
+    "publisher_location": "Bratislava / Trnava",
+    "isbn": null,
+    "copyright": "© KBS"
+  }
+}

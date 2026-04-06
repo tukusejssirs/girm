@@ -1,0 +1,34 @@
+{
+  "id": "girm-la-2002",
+  "label": "LA",
+  "short_name": "IGMR — editio typica tertia (Latin)",
+  "full_name": "Institutio Generalis Missalis Romani",
+  "edition": "Editio typica tertia, 2002 (reprinted with corrections 2008)",
+  "language": "la",
+  "language_name": "Latin",
+  "region": null,
+  "country_code": null,
+  "episcopal_conference": null,
+  "promulgation_body": "Congregation for Divine Worship and the Discipline of the Sacraments",
+  "promulgated_by": "Pope John Paul II",
+  "promulgation_date": "2002-04-20",
+  "publish_date": "2002",
+  "in_force_from": "2002",
+  "paragraphs": 399,
+  "source_url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20030317_ordinamento-messale_en.html",
+  "source_file": null,
+  "notes": [
+    "The definitive authoritative text of the GIRM; all translations derive from this.",
+    "Published as part of the Missale Romanum, editio typica tertia (2002).",
+    "A corrected reprint was issued in 2008 by Pope Benedict XVI.",
+    "Not extracted/processed in this repository (no Latin source file available).",
+    "Paragraph numbering: §§1–399; same numbering used across all translations."
+  ],
+  "bibliographic": {
+    "publisher": "Libreria Editrice Vaticana",
+    "publisher_location": "Vatican City",
+    "series": "Missale Romanum ex decreto Sacrosancti Oecumenici Concilii Vaticani II instauratum auctoritate Pauli PP. VI promulgatum Ioannis Pauli PP. II cura recognitum, editio typica tertia",
+    "isbn": null,
+    "copyright": "© 2002 Libreria Editrice Vaticana"
+  }
+}
