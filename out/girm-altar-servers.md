@@ -528,7 +528,7 @@ The following are the resulting norms for Slovak parishes, with source labelled:
 - **[GIRM §43]** Stand during the Profession of Faith and Universal Prayer
 - **[GIRM §43]** Stand from *Orate, fratres* until end of Mass (except for kneeling as below)
 - **[GIRM §43]** **Kneel at the Consecration** (unless health, space, or other reasonable cause prevents it)
-- **[GIRM §43 / KBS]** Kneeling from end of *Sanctus* through the Eucharistic Prayer and before *Ecce Agnus Dei*: the KBS confirmed the existing Slovak custom is retained, consistent with GIRM §43's explicit approbation of such customs
+- **[GIRM §43 / KBS 2005]** Kneeling from end of *Sanctus* through the Eucharistic Prayer and before *Ecce Agnus Dei*: the 2005 KBS directive confirmed the existing Slovak custom is retained, consistent with GIRM §43's explicit approbation of such customs. — ⚠ **PENDING:** Current practice in many Slovak parishes appears to have shifted to kneeling only at the Consecration and after the *Agnus Dei* until Communion begins. No updated published KBS posture directive has been found as of April 2026; the 2021/22 Missal guidance covers text changes only. Contact the KBS Liturgical Commission (liturgia.kbs.sk) to verify the current norm.
 - **[KBS pastoral guidance]** Stand for the *Alleluia* from the **first sung note** of the cantor or schola — i.e. from the first sung syllable of the acclamation, not from any organ introduction
 - **[GIRM §43]** During the Gospel, the faithful (standing) turn toward the ambo as a sign of personal reverence toward Christ's Gospel *(VSRM 133)*
 - **[GIRM §82]** The sign of peace is given soberly only to immediately neighbouring persons
