@@ -16,17 +16,15 @@ Legend:
 import json, re, textwrap
 from pathlib import Path
 
-ROOT = Path(__file__).parent
+ROOT = Path(__file__).parent.parent
 OUT  = ROOT / "out"
 
 uk_data = json.loads((ROOT/"extracted/uk.json").read_text())
 us_data = json.loads((ROOT/"extracted/us.json").read_text())
-va_data = json.loads((ROOT/"extracted/va.json").read_text())
-adaptations = json.loads((ROOT/"meta/adaptations.json").read_text())
+adaptations = json.loads((ROOT/"src/girm-adaptations.json").read_text())
 
 uk_map = {p["num"]: p for p in uk_data["paragraphs"]}
 us_map = {p["num"]: p for p in us_data["paragraphs"]}
-va_map = {p["num"]: p for p in va_data["paragraphs"]}
 uk_gfn = uk_data["footnotes"]
 us_gfn = us_data["footnotes"]
 
@@ -224,12 +222,9 @@ for p in uk_data["paragraphs"]:
         label = {"+" : "[+]", "~": "[~]", "-": "[-]", "*": "[*]"}.get(marker_type, "[+]")
         src = sk.get("source", "KBS")
         url = sk.get("url", "")
-        L(f"> 🇸🇰 {label} **Slovak note (separate directive — {src};**")
-        L(f"> **NOT embedded in VSRM text):**")
+        L(f"> 🇸🇰 {label} **Slovak adaptation — separate directive, NOT embedded in VSRM text**")
+        L(f"> *Source:* {src}")
         L(f">")
-        if "text_sk" in sk:
-            L(f"> *{sk['text_sk']}*")
-            L(f">")
         for line in wrap(sk.get("text_en",""), 94).split("\n"):
             L(f"> {line}")
         if "pastoral_guidance" in sk:

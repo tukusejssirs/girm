@@ -5,7 +5,7 @@ import json, re, sys
 from pathlib import Path
 from bs4 import BeautifulSoup, NavigableString, Tag
 
-ROOT = Path(__file__).parent
+ROOT = Path(__file__).parent.parent
 OUT  = ROOT / "extracted"
 OUT.mkdir(exist_ok=True)
 
@@ -497,10 +497,10 @@ if __name__ == "__main__":
     uk = extract_uk()
     (OUT/"uk.json").write_text(json.dumps(uk, indent=2, ensure_ascii=False), encoding="utf-8")
 
-    va = extract_va()
-    (OUT/"va.json").write_text(json.dumps(va, indent=2, ensure_ascii=False), encoding="utf-8")
+    # VA source removed (outdated 2003 ICEL HTML, not the authoritative Latin text)
+    # va = extract_va()
 
     print("\nCoverage:", file=sys.stderr)
-    for name, data in [("UK",uk),("VA",va),("US",us)]:
+    for name, data in [("UK",uk),("US",us)]:
         nums = [p["num"] for p in data["paragraphs"]]
         print(f"  {name}: {len(nums)} paras {min(nums)}\u2013{max(nums)}", file=sys.stderr)

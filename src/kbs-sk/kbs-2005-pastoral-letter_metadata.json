@@ -1,0 +1,18 @@
+{
+  "id": "kbs-2005-pastoral-letter-gestures",
+  "label": "KBS-SK-2005-PASTORAL-LETTER",
+  "short_name": "KBS Pastiersky list 2005 — Gestá",
+  "full_name": "Pastiersky list Konferencie biskupov Slovenska o gestách a držaní tela počas slávenia svätej omše",
+  "type": "pastoral_letter",
+  "language": "sk",
+  "country_code": "SK",
+  "issuing_body": "Konferencia biskupov Slovenska (KBS)",
+  "publish_date": "2005-07-31",
+  "read_at_mass": "Sunday, 7 August 2005 (First Sunday of the month; in force from this date)",
+  "in_force_from": "2005-08-07",
+  "source_url": "https://www.kbs.sk/obsah/sekcia/c/pastiersky-list-konferencie-biskupov-slovenska-o-gestach-a-drzani-tela-pocas-slavenia-svatej-omse",
+  "source_file": null,
+  "source_file_note": "Not downloaded — kbs.sk not accessible from current network. The companion 'Smernice' document (kbs-2005-directives_gestures) contains the binding norms.",
+  "relation": "Companion document to kbs-2005-gestures-directives. The pastoral letter explains the theology of liturgical posture (standing, sitting, kneeling); the Smernice contain the binding norms.",
+  "summary_en": "Explains the theological meaning of the three main liturgical postures (standing, sitting, kneeling) and introduces the norms contained in the companion Smernice directive. Standing signifies respect and readiness; sitting indicates listening; kneeling expresses humility and adoration. The letter emphasises that liturgical postures are communal acts of the Church, not private devotions."
+}

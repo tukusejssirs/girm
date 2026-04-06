@@ -1,0 +1,28 @@
+{
+  "id": "kbs-2005-gestures-directives",
+  "label": "KBS-SK-2005-GESTURES",
+  "short_name": "KBS Smernice 2005 — Gestá a postoje",
+  "full_name": "Gestá a postoje pri svätej omši — smernice ku Pastierskemu listu KBS o gestách a držaní tela počas slávenia svätej omše",
+  "type": "bishops_conference_directive",
+  "language": "sk",
+  "country_code": "SK",
+  "issuing_body": "Konferencia biskupov Slovenska (KBS), Liturgical Commission",
+  "promulgation_event": "51st KBS Plenary Session, Donovaly, 7–8 June 2005",
+  "in_force_from": "2005-08-07",
+  "publish_date": "2005",
+  "source_url": "https://www.kbs.sk/obsah/sekcia/c/gesta-a-postoje-pri-svatej-omsi-smernice-k-pastierskemu-listu-kbs",
+  "source_file": "src/kbs-sk/kbs-2005-directives_gestures.txt",
+  "source_file_note": "Text reconstructed from web search results. Original HTML at kbs.sk not accessible from current network environment.",
+  "related_document": "kbs-2005-pastoral-letter_gestures",
+  "adaptations_method": "Separate document — NOT embedded in VSRM text. Referenced as footnote/note in master GIRM document.",
+  "binding": "Binding for all Slovak dioceses (all Bishops' Conferences)",
+  "girm_paragraphs_affected": [43, 62, 82, 133],
+  "summary_en": {
+    "universal_norm_confirmed": "Adopts full VSRM §43 text verbatim for Slovakia.",
+    "kde_je_zvyk_clause": "Kneeling from Sanctus through end of Eucharistic Prayer applies only where that local parish custom already exists ('kde je zvyk'). NOT universally mandated in Slovakia.",
+    "na_slovensku_zachovame": "Slovakia retains the custom of kneeling before Communion when the Priest says Ecce Agnus Dei (Hla, Baranok Bozi). This kneeling counts as the reverential act before receiving; no separate kneeling is needed in the Communion procession. This IS universal for Slovakia.",
+    "alleluia": "Pastoral guidance: the faithful stand from the first sung note of the cantor or schola — the first sung syllable of the acclamation, not from any organ introduction.",
+    "gospel_ambo": "During the Gospel, those standing turn toward the ambo as a sign of personal reverence for Christ's Gospel (VSRM §133).",
+    "sign_of_peace": "The sign of peace is given soberly only to immediately neighbouring persons (VSRM §82)."
+  }
+}

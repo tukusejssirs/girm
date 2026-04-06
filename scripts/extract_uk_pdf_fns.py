@@ -12,7 +12,7 @@ from pathlib import Path
 from pdfminer.high_level import extract_pages
 from pdfminer.layout import LTTextBox, LTTextLine, LTChar, LTAnno
 
-PDF = Path(__file__).parent / "src/girm-uk/girm-uk-2011.pdf"
+PDF = Path(__file__).parent.parent / "src/girm-uk/girm-uk-2011.pdf"
 
 # Patterns that reliably start a new footnote entry within a combined text block
 CITE_START_RE = re.compile(

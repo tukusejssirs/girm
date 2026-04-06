@@ -30,27 +30,34 @@
       "source": "KBS Pastoral Letter + Smernice, 51st Plenary, Donovaly, 7–8 June 2005; in force 7 August 2005",
       "url": "https://www.kbs.sk/obsah/sekcia/c/gesta-a-postoje-pri-svatej-omsi-smernice-k-pastierskemu-listu-kbs",
       "type": "+",
-      "text_sk": "Na Slovensku zachováme aj naďalej zvyk, „že ľud zostáva kľačať…, pred prijímaním, keď kňaz hovorí «Hľa, Baránok Boží…».\" Toto pokľaknutie treba považovať aj za pokľaknutie pred prijatím Oltárnej Sviatosti, a teda už netreba kľakať v pohybujúcom sa rade k svätému prijímaniu.",
       "text_en": "In Slovakia the custom is retained that the faithful remain kneeling before Communion when the Priest says *Ecce Agnus Dei* (*Hľa, Baránok Boží*). This kneeling also counts as the reverential act before receiving Communion; no separate kneeling is needed while moving in the Communion procession. — The \"kde je zvyk\" clause (kneeling from *Sanctus* through end of EP) applies only in Slovak parishes where that local custom already exists; it is not universally required in Slovakia.",
-      "pastoral_guidance": "*[KBS pastoral guidance for priests, not a binding adaptation]:* The faithful stand for the *Alleluia* from the first sung note of the cantor or schola (not from an organ introduction). During the Gospel, those standing turn toward the ambo (VSRM §133). The sign of peace is given soberly to immediately neighbouring persons only (VSRM §82)."
+      "pastoral_guidance": "*[KBS pastoral guidance for priests, not a binding adaptation]:* The faithful stand for the *Alleluia* from the first sung note of the cantor or schola (not from an organ introduction). During the Gospel, those standing turn toward the ambo (VSRM §133). The sign of peace is given soberly to immediately neighbouring persons only (VSRM §82).",
+      "source_file": "src/kbs-sk/kbs-2005-directives_gestures.txt",
+      "metadata_file": "src/kbs-sk/kbs-2005-directives_gestures_metadata.json"
     },
     "62": {
       "source": "KBS Pastoral Letter + Smernice, 7–8 June 2005",
       "url": "https://www.kbs.sk/obsah/sekcia/c/gesta-a-postoje-pri-svatej-omsi-smernice-k-pastierskemu-listu-kbs",
       "type": "*",
-      "text_en": "*[KBS pastoral guidance]:* The faithful stand for the *Alleluia* from the first sung note of the cantor or schola — from the first sung syllable of the acclamation, not from any organ or instrumental introduction."
+      "text_en": "*[KBS pastoral guidance]:* The faithful stand for the *Alleluia* from the first sung note of the cantor or schola — from the first sung syllable of the acclamation, not from any organ or instrumental introduction.",
+      "source_file": "src/kbs-sk/kbs-2005-directives_gestures.txt",
+      "metadata_file": "src/kbs-sk/kbs-2005-directives_gestures_metadata.json"
     },
     "82": {
       "source": "KBS Smernice 2005",
       "url": "https://www.kbs.sk/obsah/sekcia/c/gesta-a-postoje-pri-svatej-omsi-smernice-k-pastierskemu-listu-kbs",
       "type": "*",
-      "text_en": "*[KBS guidance]:* The sign of peace is given soberly only to immediately neighbouring persons."
+      "text_en": "*[KBS guidance]:* The sign of peace is given soberly only to immediately neighbouring persons.",
+      "source_file": "src/kbs-sk/kbs-2005-directives_gestures.txt",
+      "metadata_file": "src/kbs-sk/kbs-2005-directives_gestures_metadata.json"
     },
     "133": {
       "source": "KBS Smernice 2005",
       "url": "https://www.kbs.sk/obsah/sekcia/c/gesta-a-postoje-pri-svatej-omsi-smernice-k-pastierskemu-listu-kbs",
       "type": "+",
-      "text_en": "During the reading of the Gospel, the faithful who are standing turn toward the ambo as an expression of personal reverence for Christ's Gospel."
+      "text_en": "During the reading of the Gospel, the faithful who are standing turn toward the ambo as an expression of personal reverence for Christ's Gospel.",
+      "source_file": "src/kbs-sk/kbs-2005-directives_gestures.txt",
+      "metadata_file": "src/kbs-sk/kbs-2005-directives_gestures_metadata.json"
     }
   }
 }

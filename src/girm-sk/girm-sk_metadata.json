@@ -17,7 +17,11 @@
   "promulgation_decree": {
     "reference": "prot. č. 127/2021",
     "date": "2021-04-01",
-    "signatories": ["Stanislav Zvolenský", "Stanislav Stolárik", "Marián Chovanec"]
+    "signatories": [
+      "Stanislav Zvolenský",
+      "Stanislav Stolárik",
+      "Marián Chovanec"
+    ]
   },
   "publish_date": "2021",
   "in_force_from": "2022-01-01",
@@ -38,26 +42,31 @@
   ],
   "related_documents": [
     {
-      "id": "kbs-postures-2005",
-      "type": "separate_pastoral_directive",
-      "title": "Gestá a postoje pri svätej omši — smernice k Pastierskemu listu KBS",
-      "date": "2005-06-07",
-      "in_force_from": "2005-08-07",
-      "promulgation_body": "KBS, 51st Plenary Session, Donovaly",
-      "url": "https://www.kbs.sk/obsah/sekcia/c/gesta-a-postoje-pri-svatej-omsi-smernice-k-pastierskemu-listu-kbs",
-      "summary": "Adopts full VSRM §43 verbatim. Separately retains Slovak custom of kneeling before Ecce Agnus Dei for all Slovakia ('Na Slovensku zachováme'). Kneeling from Sanctus through entire EP only where local parish custom exists ('kde je zvyk'). Pastoral guidance: stand from first sung note of cantor at Alleluia; turn toward ambo during Gospel; sign of peace soberly to nearest neighbours only.",
-      "adaptations_method": "Separate document; NOT embedded in VSRM text"
+      "id": "kbs-2005-gestures-directives",
+      "metadata_file": "src/kbs-sk/kbs-2005-directives_gestures_metadata.json",
+      "source_file": "src/kbs-sk/kbs-2005-directives_gestures.txt",
+      "description": "Binding norms on postures and gestures at Mass (KBS 2005 Smernice)",
+      "adaptations_method": "separate_document",
+      "girm_paragraphs_affected": [
+        43,
+        62,
+        82,
+        133
+      ]
     },
     {
-      "id": "kbs-missal-2021",
-      "type": "promulgation_decree",
-      "title": "Usmernenie k uvedeniu tretieho slovenského vydania Rímskeho misála",
-      "date": "2021-10-22",
-      "in_force_from": "2022-01-01",
-      "promulgation_body": "Liturgická komisia KBS",
-      "url": "https://liturgia.kbs.sk/sekcia/misal/usmernenie-k-uvedeniu-noveho-misala",
-      "summary": "Guidance on introducing the new Slovak Roman Missal. Covers text changes only (new consecration formula, doxology, conclusion of prayers). Does not address posture changes.",
-      "adaptations_method": "Separate document"
+      "id": "kbs-2005-pastoral-letter-gestures",
+      "metadata_file": "src/kbs-sk/kbs-2005-pastoral-letter_metadata.json",
+      "source_file": null,
+      "description": "Pastoral letter accompanying the 2005 gestures directive",
+      "adaptations_method": "separate_document"
+    },
+    {
+      "id": "kbs-2021-missal-guidance",
+      "metadata_file": "src/kbs-sk/kbs-2021-missal-guidance_metadata.json",
+      "source_file": null,
+      "description": "Guidance on introducing the new Slovak Roman Missal (text changes only)",
+      "adaptations_method": "separate_document"
     }
   ],
   "notes": [

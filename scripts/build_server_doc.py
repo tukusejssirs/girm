@@ -4,15 +4,13 @@
 import json, re, textwrap
 from pathlib import Path
 
-ROOT = Path(__file__).parent
+ROOT = Path(__file__).parent.parent
 OUT  = ROOT / "out"
 
 uk_data = json.loads((ROOT/"extracted/uk.json").read_text(encoding="utf-8"))
 us_data = json.loads((ROOT/"extracted/us.json").read_text(encoding="utf-8"))
-va_data = json.loads((ROOT/"extracted/va.json").read_text(encoding="utf-8"))
 uk_map  = {p["num"]: p for p in uk_data["paragraphs"]}
 us_map  = {p["num"]: p for p in us_data["paragraphs"]}
-va_map  = {p["num"]: p for p in va_data["paragraphs"]}
 uk_gfn  = uk_data["footnotes"]
 
 used_fns = {}

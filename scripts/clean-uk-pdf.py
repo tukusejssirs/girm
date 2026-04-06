@@ -7,8 +7,8 @@ import re
 import sys
 from pathlib import Path
 
-SRC = Path(__file__).parent / "src/girm-uk/girm-uk-2011-simple.txt"
-DST = Path(__file__).parent / "src/girm-uk/girm-uk-2011-clean.txt"
+SRC = Path(__file__).parent.parent / "src/girm-uk/girm-uk-2011-simple.txt"
+DST = Path(__file__).parent.parent / "src/girm-uk/girm-uk-2011-clean.txt"
 
 text = SRC.read_text(encoding="utf-8")
 

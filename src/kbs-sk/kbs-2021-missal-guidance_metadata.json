@@ -1,0 +1,28 @@
+{
+  "id": "kbs-2021-missal-guidance",
+  "label": "KBS-SK-2021-MISSAL",
+  "short_name": "KBS Usmernenie k novému misálu 2021",
+  "full_name": "Usmernenie Liturgickej komisie KBS k uvedeniu tretieho slovenského vydania Rímskeho misála",
+  "type": "liturgical_guidance",
+  "language": "sk",
+  "country_code": "SK",
+  "issuing_body": "Liturgická komisia Konferencie biskupov Slovenska",
+  "publish_date": "2021-10-22",
+  "in_force_from": "2022-01-01",
+  "source_url": "https://liturgia.kbs.sk/sekcia/misal/usmernenie-k-uvedeniu-noveho-misala",
+  "source_file": null,
+  "source_file_note": "Not downloaded — liturgia.kbs.sk not accessible from current network.",
+  "girm_paragraphs_affected": [],
+  "summary_en": {
+    "scope": "Text changes only. Does NOT address posture or gesture changes.",
+    "mandatory_from": "1 January 2022. Previous Slovak Missal editions forbidden from this date.",
+    "key_changes": [
+      "New Slovak Roman Missal per editio typica tertia (KBS decree prot. no. 127/2021, 1 April 2021)",
+      "New Eucharistic Prayer doxology: 'v jednote Ducha Sväteho' (in the unity of the Holy Spirit)",
+      "New conclusion formula for prayers: same change",
+      "New consecration words wording (closer to Latin original: 'za mnohych' = 'pro multis' = 'for many')",
+      "New response at Offertory preparation: 'Požehnaný Boh naveky' (Blessed be God for ever)",
+      "Additional feast formularies added to Slovak liturgical calendar"
+    ]
+  }
+}

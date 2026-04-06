@@ -16,7 +16,7 @@
   "in_force_from": "2002",
   "paragraphs": 399,
   "source_url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20030317_ordinamento-messale_en.html",
-  "source_file": null,
+  "source_file": "src/girm-la/girm-la-2008.html",
   "notes": [
     "The definitive authoritative text of the GIRM; all translations derive from this.",
     "Published as part of the Missale Romanum, editio typica tertia (2002).",
@@ -30,5 +30,21 @@
     "series": "Missale Romanum ex decreto Sacrosancti Oecumenici Concilii Vaticani II instauratum auctoritate Pauli PP. VI promulgatum Ioannis Pauli PP. II cura recognitum, editio typica tertia",
     "isbn": null,
     "copyright": "© 2002 Libreria Editrice Vaticana"
-  }
+  },
+  "source_file_status": "not_available_for_download",
+  "source_file_note": "Place the manually downloaded HTML from https://iglesiaactualidad.wordpress.com/2016/05/19/institutio-generalis-missalis-romani/ here as girm-la-2008.html",
+  "alternative_sources": [
+    {
+      "url": "https://iglesiaactualidad.wordpress.com/2016/05/19/institutio-generalis-missalis-romani/",
+      "description": "Full Latin IGMR text (editio typica tertia emendata 2008) on Spanish liturgy blog — not accessible from current network (wordpress.com blocked by egress proxy)"
+    },
+    {
+      "url": "https://iglesiaactualidad.wordpress.com/liturgia/missale-romanum/",
+      "description": "Full Missale Romanum 2008 with IGMR on same blog"
+    },
+    {
+      "url": "https://www.ewtn.com/catholicism/library/institutio-generalis-missalis-romani-3rd-edition-2190",
+      "description": "EWTN Latin IGMR (3rd edition) — not accessible from current network"
+    }
+  ]
 }

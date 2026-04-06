@@ -4,7 +4,6 @@ generate.py — 5 output Markdown files from extracted JSON
 
 Outputs:
   out/girm-src-uk.md     UK 2011 verbatim
-  out/girm-src-va.md     Vatican 2003 verbatim
   out/girm-src-us.md     USCCB 2010 verbatim
   out/girm-master.md     Master doc (UK base, full headings, all footnotes)
   out/girm-diff.md       Systematic differences
@@ -14,20 +13,18 @@ import json, re, textwrap
 from pathlib import Path
 from difflib import SequenceMatcher
 
-ROOT = Path(__file__).parent
+ROOT = Path(__file__).parent.parent
 EXT  = ROOT / "extracted"
 OUT  = ROOT / "out"
 OUT.mkdir(exist_ok=True)
 
 uk_data = json.loads((EXT/"uk.json").read_text(encoding="utf-8"))
-va_data = json.loads((EXT/"va.json").read_text(encoding="utf-8"))
+# VA source removed (outdated 2003 ICEL HTML, not the authoritative Latin text)
 us_data = json.loads((EXT/"us.json").read_text(encoding="utf-8"))
 
 uk_map = {p["num"]: p for p in uk_data["paragraphs"]}
-va_map = {p["num"]: p for p in va_data["paragraphs"]}
 us_map = {p["num"]: p for p in us_data["paragraphs"]}
 uk_fn_global = uk_data.get("footnotes", {})
-va_fn_global = va_data.get("footnotes", {})
 us_fn_global = us_data.get("footnotes", {})
 
 CHAPTERS = [
@@ -327,7 +324,7 @@ def build_diff():
         "|-------|---------|",
         "| **UK** | England & Wales 2011 (ICEL) |",
         "| **US** | USCCB 2010 (ICEL) |",
-        "| **VA** | Vatican 2003 (earlier ICEL, provisional) |",
+        "",
         "",
         "Diff types: **Wording** \u00b7 **Spelling (UK/US)** \u00b7 "
         "**Translation** \u00b7 **Formatting** \u00b7 **Structural** \u00b7 "
@@ -344,12 +341,10 @@ def build_diff():
 
         for num in para_range:
             uk_p = uk_map.get(num)
-            va_p = va_map.get(num)
             us_p = us_map.get(num)
-            if not (uk_p or va_p or us_p): continue
+            if not (uk_p or us_p): continue
 
             uk_text = (uk_p or {}).get("text","")
-            va_text = (va_p or {}).get("text","")
             us_text = (us_p or {}).get("text","")
 
             para_diffs = []
@@ -377,29 +372,19 @@ def build_diff():
                             block += [f"- **UK:** {a}", f"- **US:** {b}", ""]
                         para_diffs.append("\n".join(block))
 
-            # ── VA vs UK (translation generation) ────────────────────────────
-            diffs_va_uk = diff_tokens(va_text, uk_text)
-            if diffs_va_uk:
-                real = [(a,b) for a,b in diffs_va_uk if not is_quote_only_diff(a,b)]
-                if real:
-                    block = ["#### Translation (VA 2003 vs UK/US 2010)"]
-                    for va_tok, uk_tok in real:
-                        block += [f"- **VA 2003:** {va_tok}", f"- **UK 2010:** {uk_tok}", ""]
-                    para_diffs.append("\n".join(block))
-
             # ── Formatting (italic spans) ─────────────────────────────────────
             uk_it = set(re.findall(r"\*([^*]+)\*", uk_text))
-            va_it = set(re.findall(r"\*([^*]+)\*", va_text))
-            only_uk = uk_it - va_it
-            only_va = va_it - uk_it
-            if only_uk or only_va:
+            us_it = set(re.findall(r"\*([^*]+)\*", us_text)) if us_text else set()
+            only_uk_it = uk_it - us_it
+            only_us_it = us_it - uk_it
+            if only_uk_it or only_us_it:
                 block = ["#### Formatting (italics)"]
-                if only_uk:
+                if only_uk_it:
                     block.append("- Italic in UK only: " +
-                                 ", ".join(f"*{t}*" for t in sorted(only_uk)))
-                if only_va:
-                    block.append("- Italic in VA only: " +
-                                 ", ".join(f"*{t}*" for t in sorted(only_va)))
+                                 ", ".join(f"*{t}*" for t in sorted(only_uk_it)))
+                if only_us_it:
+                    block.append("- Italic in US only: " +
+                                 ", ".join(f"*{t}*" for t in sorted(only_us_it)))
                 para_diffs.append("\n".join(block))
 
             # ── Regional adaptations ──────────────────────────────────────────
@@ -449,7 +434,7 @@ def visual_compare():
     for num in CHECK_PARAS:
         print(f"\n{'─'*60}", file=__import__("sys").stderr)
         print(f"§{num}", file=__import__("sys").stderr)
-        for label, mp in [("UK",uk_map),("VA",va_map),("US",us_map)]:
+        for label, mp in [("UK", uk_map), ("US", us_map)]:
             p = mp.get(num)
             txt = p["text"][:160] if p else "MISSING"
             fn_count = len(p.get("footnotes",{})) if p else 0
@@ -472,13 +457,6 @@ if __name__ == "__main__":
                      "Italic: Latin terms and document titles"),
         encoding="utf-8")
 
-    print("Writing girm-src-va.md…")
-    (OUT/"girm-src-va.md").write_text(
-        build_source(va_map, va_fn_global,
-                     "General Instruction of the Roman Missal",
-                     "Vatican 2003 (earlier ICEL, confirmed for US use)",
-                     "Italic: document titles as marked in source HTML"),
-        encoding="utf-8")
 
     print("Writing girm-src-us.md…")
     (OUT/"girm-src-us.md").write_text(
