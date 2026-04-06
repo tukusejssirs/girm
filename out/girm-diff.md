@@ -8038,11 +8038,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 ### §165
 
-#### Wording (UK vs US)
-- **UK:** Cf. Sacred Congregation for the Sacraments and Divine Worship, Instruction, Inaestimabile donum, 3 April 1980, no. 10: Acta Apostolicae Sedis 72 (1980), p. 336; Interdicasterial Instruction on certain questions regarding the collaboration of the non-ordained faithful in the sacred ministry of Priests, Ecclesiae de mysterio, 15 August 1997, art. 8: Acta Apostolicae Sedis 89 (1997), p. 871. Cf. Roman Missal, Appendix III, Rite of Deputing a Minister to Distribute Holy Communion on a Single Occasion. The Different Forms of Celebrating Mass
-- **US:** —
-
-
 #### Translation (VA 2003 vs UK/US 2010)
 - **VA 2003:** altar
 - **UK 2010:** altar,
@@ -8062,9 +8057,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** prayer
 - **UK 2010:** Prayer
 
-- **VA 2003:** —
-- **UK 2010:** Cf. Sacred Congregation for the Sacraments and Divine Worship, Instruction, Inaestimabile donum, 3 April 1980, no. 10: Acta Apostolicae Sedis 72 (1980), p. 336; Interdicasterial Instruction on certain questions regarding the collaboration of the non-ordained faithful in the sacred ministry of Priests, Ecclesiae de mysterio, 15 August 1997, art. 8: Acta Apostolicae Sedis 89 (1997), p. 871. Cf. Roman Missal, Appendix III, Rite of Deputing a Minister to Distribute Holy Communion on a Single Occasion. The Different Forms of Celebrating Mass
-
 - **VA 2003:** say the acclamation,
 - **UK 2010:** acclaim,
 
@@ -8073,7 +8065,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 
 #### Formatting (italics)
-- Italic in UK only: *Acta Apostolicae Sedis*, *Ecclesiae de mysterio*, *Inaestimabile donum*, *The Different Forms of Celebrating Mass*
 - Italic in VA only: *Oremus (Let us pray);*, *The Concluding Rites*
 
 ### §166
@@ -8870,11 +8861,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 ### §186
 
-#### Wording (UK vs US)
-- **UK:** C. The Functions of the Acolyte
-- **US:** —
-
-
 #### Translation (VA 2003 vs UK/US 2010)
 - **VA 2003:** priest,
 - **UK 2010:** Priest,
@@ -8885,11 +8871,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** departs
 - **UK 2010:** withdraws
 
-- **VA 2003:** procession beforehand.
+- **VA 2003:** procession beforehand. C. The Duties of the Acolyte
 - **UK 2010:** Entrance Procession.
-
-- **VA 2003:** Duties
-- **UK 2010:** Functions
 
 
 #### Formatting (italics)
@@ -9036,11 +9019,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 ### §193
 
-#### Wording (UK vs US)
-- **UK:** D. The Functions of the Reader
-- **US:** —
-
-
 #### Translation (VA 2003 vs UK/US 2010)
 - **VA 2003:** together with the deacon and the priest
 - **UK 2010:** together with the Deacon and the Priest
@@ -9048,14 +9026,8 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **VA 2003:** way
 - **UK 2010:** manner
 
-- **VA 2003:** —
+- **VA 2003:** D. The Duties of the Lector *Introductory Rites*
 - **UK 2010:** in the same
-
-- **VA 2003:** Duties
-- **UK 2010:** Functions
-
-- **VA 2003:** Lector *Introductory Rites*
-- **UK 2010:** Reader
 
 
 #### Formatting (italics)

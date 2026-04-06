@@ -1824,15 +1824,9 @@ or a Psalm or other canticle of praise or a hymn may be sung (cf. no. 88).
 ### §165
 
 Then, standing at the chair or at the altar, and facing the people with hands joined, the Priest
-says, Let us pray; then, with hands extended, he recites the Prayer after Cf. Sacred Congregation
-for the Sacraments and Divine Worship, Instruction, *Inaestimabile donum*, 3 April 1980, no. 10:
-*Acta Apostolicae Sedis* 72 (1980), p. 336; Interdicasterial Instruction on certain questions
-regarding the collaboration of the non-ordained faithful in the sacred ministry of Priests,
-*Ecclesiae de mysterio*, 15 August 1997, art. 8: *Acta Apostolicae Sedis* 89 (1997), p. 871. Cf.
-Roman Missal, Appendix III, Rite of Deputing a Minister to Distribute Holy Communion on a Single
-Occasion. *The Different Forms of Celebrating Mass* Communion. A brief period of silence may precede
-the prayer, unless this has been already observed immediately after Communion. At the end of the
-prayer the people acclaim, Amen.
+says, Let us pray; then, with hands extended, he recites the Prayer after Communion. A brief period
+of silence may precede the prayer, unless this has been already observed immediately after
+Communion. At the end of the prayer the people acclaim, Amen.
 
 #### The Concluding Rites
 
@@ -1993,7 +1987,7 @@ dismisses the people, saying, Ite, missa est (*Go forth, the Mass is ended)*.
 ### §186
 
 Then, together with the Priest, the Deacon venerates the altar with a kiss, makes a profound bow,
-and withdraws in a manner similar to the Entrance Procession. C. The Functions of the Acolyte
+and withdraws in a manner similar to the Entrance Procession.
 
 #### C) The Functions of the Acolyte
 
@@ -2045,7 +2039,7 @@ them and arranges them as usual.
 
 After the celebration of Mass, the acolyte and other ministers return together with the Deacon and
 the Priest in procession to the sacristy, in the same manner and in the same order in which they
-entered. D. The Functions of the Reader
+entered.
 
 #### D) The Functions of the Reader
 
