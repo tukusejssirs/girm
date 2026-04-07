@@ -228,9 +228,10 @@ def render(langs: list):
         "Paragraph-by-paragraph comparison of the Latin *Institutio Generalis Missalis",
         "Romani*, *editio typica tertia emendata* 2008, against each available translation.",
         "",
-        "**Method:** Each paragraph was evaluated by Claude (claude-sonnet-4-5) for",
-        "genuine *meaning* differences only — omissions, additions, scope changes, and",
-        "theological divergences. Natural translation choices (synonyms, restructured",
+        "**Method:** Each paragraph was compared against the Latin original by scholarly",
+        "analysis (using Claude as the analytical engine when run via `compare_translations.py`),",
+        "checking for genuine *meaning* differences only — omissions, additions, scope changes,",
+        "and theological divergences. Natural translation choices (synonyms, restructured",
         "sentences carrying the same meaning, language-required particles) are excluded.",
         "Known national adaptations are noted; other meaning gaps within them are still reported.",
         "",
@@ -252,7 +253,12 @@ def render(langs: list):
         lines += [f"### {lang.upper()} — {label}", ""]
         rf = CACHE / f"la-rules-{lang}.json"
         if rf.exists():
-            for l in json.loads(rf.read_text())["rules"].split("\n"):
+            rules_text = json.loads(rf.read_text())["rules"]
+            # Strip any leading "## Translation Approach..." line (render adds its own heading)
+            rules_lines = rules_text.split("\n")
+            if rules_lines and rules_lines[0].startswith("## "):
+                rules_lines = rules_lines[1:]
+            for l in rules_lines:
                 lines.append(l)
         else:
             lines.append("*Not yet analysed — run `--phase 2`.*")
