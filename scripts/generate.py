@@ -27,6 +27,8 @@ us_map = {p["num"]: p for p in us_data["paragraphs"]}
 uk_fn_global = uk_data.get("footnotes", {})
 la_data = json.loads((EXT/"la.json").read_text(encoding="utf-8"))
 la_map  = {p["num"]: p for p in la_data["paragraphs"]}
+sk_data = json.loads((EXT/"sk.json").read_text(encoding="utf-8"))
+sk_map  = {p["num"]: p for p in sk_data["paragraphs"]}
 us_fn_global = us_data.get("footnotes", {})
 
 CHAPTERS = [
@@ -42,10 +44,12 @@ CHAPTERS = [
     (9, "ch9",           "Chapter IX: Adaptations within the Competence of Bishops and Bishops\u2019 Conferences", range(386,400)),
 ]
 
-SECTION_HEADINGS = {}  # para_num → [(level, text)]
-for p in us_data["paragraphs"]:
-    if "headings_before" in p:
-        SECTION_HEADINGS[p["num"]] = p["headings_before"]
+# Section headings from LA source (authoritative structure)
+SECTION_HEADINGS = {}  # para_num → [str, ...]
+for p in la_data["paragraphs"]:
+    hdgs = p.get("headings_before", [])
+    if hdgs:
+        SECTION_HEADINGS[p["num"]] = hdgs
 
 SKIP_HEADS = {"Breadcrumb","Footnotes","Dive into God\u2019s Word","Dive into God's Word",
               "About USCCB","Topics","Prayer & Worship","Get Involved to Act Now","Quick Links"}
@@ -73,10 +77,10 @@ def emit_headings(num, skip_set, level_offset=1):
     """Return Markdown heading lines for headings before paragraph num."""
     lines = []
     seen = set()
-    for level, htext in SECTION_HEADINGS.get(num, []):
+    for htext in SECTION_HEADINGS.get(num, []):
         if htext in skip_set or htext in SKIP_HEADS:
             continue
-        key = (level, htext)
+        key = htext
         if key not in seen:
             md_level = {1:2,2:2,3:3,4:4}.get(level,4) + level_offset - 1
             md_level = max(2, min(md_level, 5))
@@ -106,22 +110,22 @@ def build_source(para_map, fn_global, title, edition, notes):
 
             # Section headings before this paragraph
             # 1. Hardcoded chapter/section map (UK/US sources)
-            for level, htext in SECTION_HEADINGS.get(num, []):
+            for htext in SECTION_HEADINGS.get(num, []):
                 if htext in SKIP_HEADS: continue
-                key = (level, htext)
-                if key not in seen_headings:
-                    md = {1:3,2:3,3:4,4:4}.get(level,4)
-                    lines.append("#" * md + " " + htext)
-                    lines.append("")
-                    seen_headings.add(key)
-            # 2. Headings extracted from source HTML (LA source and any future sources)
-            for htext in p.get("headings_before", []):
-                if htext in SKIP_HEADS: continue
-                key = (4, htext)
+                key = htext
                 if key not in seen_headings:
                     lines.append("#### " + htext)
                     lines.append("")
                     seen_headings.add(key)
+            # 2. Per-paragraph headings_before (for sources not covered by SECTION_HEADINGS)
+            for entry in p.get("headings_before", []):
+                # Handle both [level, text] tuples and plain strings
+                htext = entry[1] if isinstance(entry, (list, tuple)) else entry
+                if htext in SKIP_HEADS: continue
+                if htext not in seen_headings:
+                    lines.append("#### " + htext)
+                    lines.append("")
+                    seen_headings.add(htext)
 
             # Paragraph
             lines.append(f"### §{num}")
@@ -183,17 +187,12 @@ def build_master():
             if not uk_p and not us_p: continue
 
             # Section headings
-            for level, htext in SECTION_HEADINGS.get(num, []):
+            for htext in SECTION_HEADINGS.get(num, []):
                 if htext in SKIP_HEADS: continue
-                # Skip chapter-level duplicates
-                if any(htext in ch for _,_,ch,_ in CHAPTERS): 
-                    if level == 1: continue
-                key = (level, htext)
-                if key not in seen_headings:
-                    md = {1:3,2:3,3:4,4:5}.get(level,4)
-                    lines.append("#"*md + " " + htext)
+                if htext not in seen_headings:
+                    lines.append("#### " + htext)
                     lines.append("")
-                    seen_headings.add(key)
+                    seen_headings.add(htext)
 
             body = (uk_p or us_p)["text"]
             lines.append(f"### §{num}")
@@ -334,19 +333,18 @@ def classify_diff(diffs):
 
 def build_diff():
     lines = [
-        "# General Instruction of the Roman Missal \u2014 Differences",
+        "# General Instruction of the Roman Missal — Differences",
         "",
-        "Comparison of three editions:",
+        "Comparison of editions against the Latin original and each other.",
         "",
         "| Label | Edition |",
         "|-------|---------|",
+        "| **LA** | Latin *Institutio Generalis Missalis Romani*, *editio typica tertia emendata* 2008 |",
         "| **UK** | England & Wales 2011 (ICEL) |",
         "| **US** | USCCB 2010 (ICEL) |",
+        "| **SK** | Slovak VSRM — KBS 2021 |",
         "",
-        "",
-        "Diff types: **Wording** \u00b7 **Spelling (UK/US)** \u00b7 "
-        "**Translation** \u00b7 **Formatting** \u00b7 **Structural** \u00b7 "
-        "**US-specific** \u00b7 **UK-specific**",
+        "Diff types: **Wording** · **Spelling** · **Formatting** · **UK-specific** · **US-specific**",
         "",
         "---",
         "",
@@ -358,39 +356,52 @@ def build_diff():
         chapter_lines = []
 
         for num in para_range:
+            la_p = la_map.get(num)
             uk_p = uk_map.get(num)
             us_p = us_map.get(num)
-            if not (uk_p or us_p): continue
+            sk_p = sk_map.get(num)
+            if not (la_p or uk_p or us_p): continue
 
-            uk_text = (uk_p or {}).get("text","")
-            us_text = (us_p or {}).get("text","")
+            la_text = (la_p or {}).get("text", "")
+            uk_text = (uk_p or {}).get("text", "")
+            us_text = (us_p or {}).get("text", "")
+            sk_text = (sk_p or {}).get("text", "")
 
             para_diffs = []
 
-            # ── UK vs US ─────────────────────────────────────────────────────
+            # ── UK vs US (English translation differences) ────────────────
             diffs_uk_us = diff_tokens(uk_text, us_text)
             if diffs_uk_us:
-                # Filter out quote-style-only diffs
-                real_diffs = [(a,b) for a,b in diffs_uk_us if not is_quote_only_diff(a,b)]
-                if real_diffs:
-                    spelling = [(a,b) for a,b in real_diffs
+                real = [(a,b) for a,b in diffs_uk_us if not is_quote_only_diff(a,b)]
+                if real:
+                    spelling = [(a,b) for a,b in real
                                 if a.lower().rstrip(".,;") in UK_SPELLINGS or
                                    b.lower().rstrip(".,;") in UK_SPELLINGS]
-                    wording  = [(a,b) for a,b in real_diffs if (a,b) not in spelling]
-
+                    wording  = [(a,b) for a,b in real if (a,b) not in spelling]
                     if spelling:
                         block = ["#### Spelling (UK vs US)"]
                         for a,b in spelling:
                             block += [f"- **UK:** {a}", f"- **US:** {b}", ""]
                         para_diffs.append("\n".join(block))
-
                     if wording:
                         block = ["#### Wording (UK vs US)"]
                         for a,b in wording:
                             block += [f"- **UK:** {a}", f"- **US:** {b}", ""]
                         para_diffs.append("\n".join(block))
 
-            # ── Formatting (italic spans) ─────────────────────────────────────
+            # ── UK-specific / US-specific ─────────────────────────────────
+            if us_text and "United States" in us_text and (
+                    not uk_text or "United States" not in uk_text):
+                para_diffs.append(
+                    "#### US-specific adaptation\n"
+                    "- US text contains content specific to the Dioceses of the United States")
+            if uk_text and ("England" in uk_text or "Wales" in uk_text) and (
+                    not us_text or ("England" not in us_text and "Wales" not in us_text)):
+                para_diffs.append(
+                    "#### UK-specific adaptation\n"
+                    "- UK text contains content specific to England and Wales")
+
+            # ── Formatting (italic spans) ─────────────────────────────────
             uk_it = set(re.findall(r"\*([^*]+)\*", uk_text))
             us_it = set(re.findall(r"\*([^*]+)\*", us_text)) if us_text else set()
             only_uk_it = uk_it - us_it
@@ -405,20 +416,6 @@ def build_diff():
                                  ", ".join(f"*{t}*" for t in sorted(only_us_it)))
                 para_diffs.append("\n".join(block))
 
-            # ── Regional adaptations ──────────────────────────────────────────
-            if us_text and "United States" in us_text and (
-                    not uk_text or "United States" not in uk_text):
-                para_diffs.append(
-                    "#### US-specific adaptation\n"
-                    "- US text contains content specific to the Dioceses of the United States"
-                )
-            if uk_text and ("England" in uk_text or "Wales" in uk_text) and (
-                    not us_text or ("England" not in us_text and "Wales" not in us_text)):
-                para_diffs.append(
-                    "#### UK-specific adaptation\n"
-                    "- UK text contains content specific to England and Wales"
-                )
-
             if para_diffs:
                 total_diffs += 1
                 chapter_lines.append(f"### §{num}")
@@ -430,17 +427,16 @@ def build_diff():
         if chapter_lines:
             lines.append(f"## {ch_title}")
             lines.append("")
+            # Section headings
+            for num in para_range:
+                for htext in SECTION_HEADINGS.get(num, []):
+                    if any(f"### §{num}" in cl for cl in chapter_lines):
+                        break
             lines.extend(chapter_lines)
-            lines.append("---")
-            lines.append("")
 
-    lines.append(f"*Total paragraphs with noted differences: {total_diffs} of 399.*")
+    lines.append("")
+    lines.append(f"*Total paragraphs with differences: {total_diffs}*")
     return "\n".join(lines)
-
-
-# ─────────────────────────────────────────────────────────────────────────────
-# Visual pre-check (print to stderr before writing files)
-# ─────────────────────────────────────────────────────────────────────────────
 
 def visual_compare():
     CHECK_PARAS = [1, 43, 54, 69, 70, 91, 120, 150, 288, 399]
@@ -462,6 +458,116 @@ def visual_compare():
 
 
 # ─────────────────────────────────────────────────────────────────────────────
+def build_la_diff():
+    """Compare UK and US translations word-for-word against the Latin original."""
+    import difflib
+
+    lines = [
+        "# GIRM — Latin Original vs English Translations",
+        "",
+        "Word-level comparison of the Latin *editio typica tertia emendata* (2008)",
+        "against the England & Wales (UK 2011) and USCCB (US 2010) translations.",
+        "Only paragraphs with notable structural differences are shown.",
+        "Spelling-only differences (colour/color, *Alleluia* italics etc.) are omitted.",
+        "",
+        "| Label | Source |",
+        "|-------|--------|",
+        "| **LA** | Latin IGMR 2008 |",
+        "| **UK** | England & Wales 2011 ICEL |",
+        "| **US** | USCCB 2010 ICEL |",
+        "",
+        "---",
+        "",
+    ]
+
+    def word_diff(a, b):
+        a_w, b_w = a.split(), b.split()
+        matcher = difflib.SequenceMatcher(None, a_w, b_w, autojunk=False)
+        changes = []
+        for op, i1, i2, j1, j2 in matcher.get_opcodes():
+            if op in ("replace", "insert", "delete"):
+                a_part = " ".join(a_w[i1:i2])
+                b_part = " ".join(b_w[j1:j2])
+                changes.append((op, a_part, b_part))
+        return changes
+
+    TRIVIAL = re.compile(
+        r"^(colour|color|Alleluia|Allelúia|formulae|formulas|judgment|judgement|"
+        r"honor|honour|favor|favour|dialog|dialogue|dialog|center|centre|recognize|"
+        r"recognise|practice|practise|realize|realise|programm?\w*)$", re.I)
+
+    total = 0
+    for ch_num, slug, ch_title, para_range in CHAPTERS:
+        chapter_lines = []
+
+        for num in para_range:
+            la_p = la_map.get(num)
+            uk_p = uk_map.get(num)
+            us_p = us_map.get(num)
+            if not la_p or not (uk_p or us_p): continue
+
+            la_text = la_p["text"]
+            uk_text = (uk_p or {}).get("text", "")
+            us_text = (us_p or {}).get("text", "")
+
+            para_lines = []
+
+            # LA word count vs UK/US — large count differences suggest structural change
+            la_wc = len(la_text.split())
+            uk_wc = len(uk_text.split()) if uk_text else 0
+            us_wc = len(us_text.split()) if us_text else 0
+
+            # UK vs LA
+            if uk_text:
+                changes = [(op,a,b) for op,a,b in word_diff(la_text, uk_text)
+                           if not (TRIVIAL.match(a or "") or TRIVIAL.match(b or ""))
+                           and max(len((a or "").split()), len((b or "").split())) > 2]
+                if len(changes) > 2:  # only substantial structural differences
+                    para_lines.append("#### UK translation diverges from Latin")
+                    para_lines.append(f"*LA: {la_wc} words · UK: {uk_wc} words*")
+                    for op, a, b in changes[:6]:  # cap at 6 examples
+                        if op == "replace":
+                            para_lines.append(f"- **LA:** {a}  →  **UK:** {b}")
+                        elif op == "insert":
+                            para_lines.append(f"- **UK adds:** {b}")
+                        elif op == "delete":
+                            para_lines.append(f"- **LA has (UK omits):** {a}")
+                    para_lines.append("")
+
+            # US vs LA
+            if us_text:
+                changes = [(op,a,b) for op,a,b in word_diff(la_text, us_text)
+                           if not (TRIVIAL.match(a or "") or TRIVIAL.match(b or ""))
+                           and max(len((a or "").split()), len((b or "").split())) > 2]
+                if len(changes) > 2:
+                    para_lines.append("#### US translation diverges from Latin")
+                    para_lines.append(f"*LA: {la_wc} words · US: {us_wc} words*")
+                    for op, a, b in changes[:6]:
+                        if op == "replace":
+                            para_lines.append(f"- **LA:** {a}  →  **US:** {b}")
+                        elif op == "insert":
+                            para_lines.append(f"- **US adds:** {b}")
+                        elif op == "delete":
+                            para_lines.append(f"- **LA has (US omits):** {a}")
+                    para_lines.append("")
+
+            if para_lines:
+                total += 1
+                chapter_lines.append(f"### §{num}")
+                chapter_lines.append("")
+                chapter_lines.extend(para_lines)
+
+        if chapter_lines:
+            lines.append(f"## {ch_title}")
+            lines.append("")
+            lines.extend(chapter_lines)
+
+    lines.append("")
+    lines.append(f"*Paragraphs with structural divergence from Latin: {total}*")
+    return "\n".join(lines)
+
+
+
 if __name__ == "__main__":
     import sys
 
@@ -484,6 +590,14 @@ if __name__ == "__main__":
         encoding="utf-8")
 
 
+    print("Writing girm-src-sk.md…")
+    (OUT/"girm-src-sk.md").write_text(
+        build_source(sk_map, {},
+                     "Všeobecné smernice Rímskeho misála",
+                     "Slovak VSRM — KBS 2021 (editio typica tertia)",
+                     "Slovak translation; no inline national adaptations"),
+        encoding="utf-8")
+
     print("Writing girm-src-us.md…")
     (OUT/"girm-src-us.md").write_text(
         build_source(us_map, us_fn_global,
@@ -498,7 +612,14 @@ if __name__ == "__main__":
     print("Writing girm-diff.md…")
     (OUT/"girm-diff.md").write_text(build_diff(), encoding="utf-8")
 
+    print("Writing girm-diff-la.md…")
+    (OUT/"girm-diff-la.md").write_text(build_la_diff(), encoding="utf-8")
+
     print("\nFile sizes:")
     for f in sorted((OUT).glob("*.md")):
         lines = f.read_text(encoding="utf-8").count("\n")
         print(f"  {f.name}: {lines:,} lines")
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Latin vs translations comparison
+# ─────────────────────────────────────────────────────────────────────────────

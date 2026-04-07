@@ -1,14 +1,15 @@
 # General Instruction of the Roman Missal — Differences
 
-Comparison of three editions:
+Comparison of editions against the Latin original and each other.
 
 | Label | Edition |
 |-------|---------|
+| **LA** | Latin *Institutio Generalis Missalis Romani*, *editio typica tertia emendata* 2008 |
 | **UK** | England & Wales 2011 (ICEL) |
 | **US** | USCCB 2010 (ICEL) |
+| **SK** | Slovak VSRM — KBS 2021 |
 
-
-Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatting** · **Structural** · **US-specific** · **UK-specific**
+Diff types: **Wording** · **Spelling** · **Formatting** · **UK-specific** · **US-specific**
 
 ---
 
@@ -164,8 +165,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 #### Formatting (italics)
 - Italic in UK only: *Sacrosanctum Concilium*, *The Importance and Dignity of the Celebration of the Eucharist*
 
----
-
 ## Chapter I: The Importance and Dignity of the Celebration of the Eucharist
 
 ### §16
@@ -238,8 +237,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 #### Formatting (italics)
 - Italic in UK only: *, editio typica*, *Acta Apostolicae Sedis*, *Actio pastoralis*, *Christus Dominus*, *Directory for Masses with Children*, *General Instruction*, *Instruction on the Roman Liturgy and Inculturation*, *Missale Romanum,*, *Praenotanda*, *Rituale Romanum, *, *Sacrosanctum Concilium*, *The Structure of the Mass, Its Elements and Its Parts*, *Varietates legitimae,*
-
----
 
 ## Chapter II: The Structure of the Mass, Its Elements and Its Parts
 
@@ -351,11 +348,11 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **US:** Diocesan Bishop determines otherwise.
 
 
-#### Formatting (italics)
-- Italic in UK only: *(*, *(Holy, Holy, Holy)*, *)*, *Alleluia*
-
 #### US-specific adaptation
 - US text contains content specific to the Dioceses of the United States
+
+#### Formatting (italics)
+- Italic in UK only: *(*, *(Holy, Holy, Holy)*, *)*, *Alleluia*
 
 ### §44
 
@@ -416,14 +413,14 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **US:** or the Diocesan Bishop.
 
 
-#### Formatting (italics)
-- Italic in UK only: *Graduale Romanum*, *Graduale Simplex*
-
 #### US-specific adaptation
 - US text contains content specific to the Dioceses of the United States
 
 #### UK-specific adaptation
 - UK text contains content specific to England and Wales
+
+#### Formatting (italics)
+- Italic in UK only: *Graduale Romanum*, *Graduale Simplex*
 
 ### §51
 
@@ -524,11 +521,11 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **US:** books, or an antiphon and Psalm from another collection of Psalms and antiphons, including Psalms arranged in metrical form, providing that they have been approved by the Conference of Bishops or the Diocesan Bishop. Songs or hymns may not be used in place of the Responsorial Psalm.
 
 
-#### Formatting (italics)
-- Italic in UK only: *Acta Apostolicae Sedis*, *Alleluia*, *Graduale Romanum*, *Graduale Simplex*, *Missale Romanum,*, *Ordo lectionum Missae*, *Sacrosanctum Concilium*, *The Structure of the Mass, Its Elements and Its Parts*, *Vicesimus quintus annus,*
-
 #### US-specific adaptation
 - US text contains content specific to the Dioceses of the United States
+
+#### Formatting (italics)
+- Italic in UK only: *Acta Apostolicae Sedis*, *Alleluia*, *Graduale Romanum*, *Graduale Simplex*, *Missale Romanum,*, *Ordo lectionum Missae*, *Sacrosanctum Concilium*, *The Structure of the Mass, Its Elements and Its Parts*, *Vicesimus quintus annus,*
 
 ### §62
 
@@ -770,14 +767,14 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **US:** Bishops or the Diocesan Bishop.
 
 
-#### Formatting (italics)
-- Italic in UK only: *Graduale Romanum*, *Graduale Simplex*
-
 #### US-specific adaptation
 - US text contains content specific to the Dioceses of the United States
 
 #### UK-specific adaptation
 - UK text contains content specific to England and Wales
+
+#### Formatting (italics)
+- Italic in UK only: *Graduale Romanum*, *Graduale Simplex*
 
 ### §89
 
@@ -816,8 +813,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 #### Formatting (italics)
 - Italic in UK only: *Duties and Ministries in the Mass*
-
----
 
 ## Chapter III: Duties and Ministries in the Mass
 
@@ -934,8 +929,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 #### Formatting (italics)
 - Italic in UK only: *Sacrosanctum Concilium*, *The Different Forms of Celebrating Mass*
-
----
 
 ## Chapter IV: The Different Forms of Celebrating Mass
 
@@ -1846,11 +1839,11 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **US:** America are to be followed (particularly nos. 27-54).
 
 
-#### Formatting (italics)
-- Italic in UK only: *recognitio*
-
 #### US-specific adaptation
 - US text contains content specific to the Dioceses of the United States
+
+#### Formatting (italics)
+- Italic in UK only: *recognitio*
 
 ### §284
 
@@ -1891,8 +1884,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 #### Formatting (italics)
 - Italic in UK only: *The Arrangement and Ornamentation of Churches for the Celebration of the Eucharist*
-
----
 
 ## Chapter V: The Arrangement and Ornamentation of Churches for the Celebration of the Eucharist
 
@@ -2102,8 +2093,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 #### Formatting (italics)
 - Italic in UK only: *, editio typica*, *Acta Apostolicae Sedis*, *Code of Canon Law*, *De sacra Communione et de cultu mysterii eucharistici extra Missam*, *Eucharisticum mysterium*, *Nullo umquam tempore,*, *Ordo Dedicationis ecclesiae et altaris*, *Rituale Romanum, *, *Sacrosanctum Concilium*, *The Requisites for the Celebration of Mass*
 
----
-
 ## Chapter VI: The Requisites for the Celebration of Mass
 
 ### §322
@@ -2129,11 +2118,11 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **US:** purpose for which they are employed.
 
 
-#### Formatting (italics)
-- Italic in UK only: *Sacrosanctum Concilium*
-
 #### US-specific adaptation
 - US text contains content specific to the Dioceses of the United States
+
+#### Formatting (italics)
+- Italic in UK only: *Sacrosanctum Concilium*
 
 ### §327
 
@@ -2158,11 +2147,11 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **US:** America,
 
 
-#### Formatting (italics)
-- Italic in UK only: *recognitio*
-
 #### US-specific adaptation
 - US text contains content specific to the Dioceses of the United States
+
+#### Formatting (italics)
+- Italic in UK only: *recognitio*
 
 ### §334
 
@@ -2285,14 +2274,14 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **US:** America.
 
 
-#### Formatting (italics)
-- Italic in UK only: *Sacrosanctum Concilium*, *ibidem.*
-
 #### US-specific adaptation
 - US text contains content specific to the Dioceses of the United States
 
 #### UK-specific adaptation
 - UK text contains content specific to England and Wales
+
+#### Formatting (italics)
+- Italic in UK only: *Sacrosanctum Concilium*, *ibidem.*
 
 ### §347
 
@@ -2335,8 +2324,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 #### Formatting (italics)
 - Italic in UK only: *, editio typica*, *Rituale Romanum, *, *The Choice of the Mass and its Parts*
-
----
 
 ## Chapter VII: The Choice of the Mass and Its Parts
 
@@ -2461,8 +2448,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 - **US:** —
 
 
----
-
 ## Chapter VIII: Masses and Prayers for Various Needs and Occasions and Masses for the Dead
 
 ### §371
@@ -2566,8 +2551,6 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 
 #### Formatting (italics)
 - Italic in UK only: *Acta Apostolicae Sedis*, *Adaptations within the Competence of Bishops and Bishops’ Conferences*, *Code of Canon Law*, *Lumen gentium*, *Marialis cultus*, *Ordo Exsequiarum*
-
----
 
 ## Chapter IX: Adaptations within the Competence of Bishops and Bishops’ Conferences
 
@@ -2703,6 +2686,5 @@ Diff types: **Wording** · **Spelling (UK/US)** · **Translation** · **Formatti
 #### Formatting (italics)
 - Italic in UK only: *Acta Apostolicae Sedis*, *Missale Romanum,*, *Sacrosanctum Concilium*, *Varietates legitimae,*, *Vicesimus quintus annus,*, *ibidem,*
 
----
 
-*Total paragraphs with noted differences: 229 of 399.*
+*Total paragraphs with differences: 229*

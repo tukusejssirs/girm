@@ -7,9 +7,13 @@
 
 ## Introduction
 
-### Foreword to this Edition
+#### INSTITUTIO GENERALIS MISSALIS ROMANI
 
-### Introduction
+#### PROEMIUM
+
+#### Foreword to this Edition
+
+#### Introduction
 
 ### §1
 
@@ -23,6 +27,8 @@ Church of the Roman Rite will henceforth celebrate the Mass, are again a demonst
 solicitude of the Church, of her faith and her unaltered love for the supreme mystery of the
 Eucharist, and also attest to her continuous and consistent tradition, even though certain new
 elements have been introduced.
+
+#### Testimonium fidei immutatae
 
 #### Testimony of an Unaltered Faith
 
@@ -90,6 +96,8 @@ unity by Communion in the Body and Blood of Christ. This people, though holy in 
 nevertheless grows constantly in holiness by conscious, active, and fruitful participation in the
 mystery of the Eucharist.[^10]
 
+#### Traditio non intermissa declaratur
+
 #### Uninterrupted Tradition
 
 ### §6
@@ -138,6 +146,8 @@ human and social culture so greatly differing among themselves, indeed, as those
 Semitic, Greek, and Latin regions. Moreover, this broader view allows us to see how the Holy Spirit
 endows the People of God with a marvelous fidelity in preserving the unalterable deposit of faith,
 even though there is a very great variety of prayers and rites.
+
+#### Ad novas rerum condiciones accommodatio
 
 #### Accommodation to New Conditions
 
@@ -236,7 +246,9 @@ recent times, and above all the attention to the Liturgy promoted by St. Pius X 
 
 ## Chapter I: The Importance and Dignity of the Celebration of the Eucharist
 
-### Chapter I: The Importance and Dignity of the Celebration of the Eucharist
+#### Caput I DE CELEBRATIONIS EUCHARISTICAE MOMENTO ET DIGNITATE
+
+#### Chapter I: The Importance and Dignity of the Celebration of the Eucharist
 
 ### §16
 
@@ -336,9 +348,13 @@ observed.
 
 ## Chapter II: The Structure of the Mass, Its Elements and Its Parts
 
-### Chapter II:  The Structure of the Mass, Its Elements, and Its Parts
+#### Caput II DE STRUCTURA MISSAE EIUSQUE ELEMENTIS ET PARTIBUS
 
-### I. The General Structure of the Mass
+#### I. DE GENERALI STRUCTURA MISSAE
+
+#### Chapter II:  The Structure of the Mass, Its Elements, and Its Parts
+
+#### I. The General Structure of the Mass
 
 ### §27
 
@@ -358,7 +374,11 @@ For in the Mass is spread the table both of God’s Word and of the Body of Chri
 faithful are to be instructed and refreshed.[^41] There are also certain rites that open and
 conclude the celebration.
 
-### II. The Different Elements of the Mass
+#### II. DE DIVERSIS ELEMENTIS MISSAE
+
+#### De lectione verbi Dei eiusque explanatione
+
+#### II. The Different Elements of the Mass
 
 #### Reading and Explaining the Word of God
 
@@ -371,6 +391,8 @@ Liturgy. Although in the readings from Sacred Scripture the Word of God is addre
 of whatever era and is understandable to them, a fuller understanding and a greater efficaciousness
 of the word is nevertheless fostered by a living commentary on the word, that is, by the Homily, as
 part of the liturgical action.[^42]
+
+#### De orationibus aliisque partibus ad sacerdotem pertinentibus
 
 #### The Prayers and Other Parts Pertaining to the Priest
 
@@ -412,6 +434,8 @@ ministry with greater attention and devotion. Prayers of this kind, which occur 
 of the Gospel, at the Preparation of the Gifts, and also before and after the Communion of the
 Priest, are said quietly.
 
+#### De aliis formulis in celebratione occurrentibus
+
 #### Other Formulas Occurring during the Celebration
 
 ### §34
@@ -439,6 +463,8 @@ Finally, among other formulas:
 - a) Some constitute an independent rite or act, such as the Gloria in excelsis (Glory to God in the highest), the Responsorial Psalm, the Alleluia and Verse before the Gospel, the Sanctus (Holy, Holy, Holy), the Memorial Acclamation, and the chant after Communion;
 - b) Others, on the other hand, accompany some other rite, such as the chants at the Entrance, at the Offertory, at the fraction (Agnus Dei, Lamb of God) and at Communion.
 
+#### De modis proferendi varios textus
+
 #### The Manner of Pronouncing the Different Texts
 
 ### §38
@@ -451,6 +477,8 @@ gathering. Consideration should also be given to the characteristics of differen
 the culture of different peoples. Therefore, in the rubrics and in the norms that follow, words such
 as “say” and “proclaim” are to be understood either of singing or of reciting, with due regard for
 the principles stated here above.
+
+#### De momento cantus
 
 #### The Importance of Singing
 
@@ -481,6 +509,8 @@ participation of all the faithful.[^50] Since the faithful from different countr
 ever more frequently, it is desirable that they know how to sing together at least some parts of the
 Ordinary of the Mass in Latin, especially the Profession of Faith and the Lord’s Prayer, according
 to the simpler settings.[^51]
+
+#### De gestibus et corporis habitibus
 
 #### Gestures and Bodily Posture
 
@@ -523,6 +553,8 @@ before the proclamation of the Gospel; the faithful bring up the gifts and come 
 Communion. It is appropriate that actions and processions of this sort be carried out with decorum
 while the chants proper to them are sung, in accordance with the norms laid down for each.
 
+#### De silentio
+
 #### Silence
 
 ### §45
@@ -536,7 +568,11 @@ itself, it is a praiseworthy practice for silence to be observed in the church, 
 the vesting room, and in adjacent areas, so that all may dispose themselves to carry out the sacred
 celebration in a devout and fitting manner.
 
-### III. The Individual Parts of the Mass
+#### III. DE SINGULIS MISSAE PARTIBUS
+
+#### A) Ritus initiales
+
+#### III. The Individual Parts of the Mass
 
 #### A) The Introductory Rites
 
@@ -549,6 +585,8 @@ who come together as one, establish communion and dispose themselves properly to
 of God and to celebrate the Eucharist worthily. In certain celebrations that are combined with Mass
 according to the norms of the liturgical books, the Introductory Rites are omitted or take place in
 a particular way.
+
+#### Introitus
 
 #### The Entrance
 
@@ -573,6 +611,8 @@ Diocesan Bishop. If there is no singing at the Entrance, the antiphon given in t
 either by the faithful, or by some of them, or by a reader; otherwise, it is recited by the Priest
 himself, who may even adapt it as an introductory explanation (cf. no. 31).
 
+#### Salutatio altaris et populi congregati
+
 #### Reverence to the Altar and Greeting of the Assembled People
 
 ### §49
@@ -590,6 +630,8 @@ mystery of the Church gathered together is made manifest. After the greeting of 
 Priest, or the Deacon, or a lay minister may very briefly introduce the faithful to the Mass of the
 day.
 
+#### Actus paenitentialis
+
 #### The Penitential Act
 
 ### §51
@@ -599,6 +641,8 @@ after a brief pause for silence, it does by means of a formula of general confes
 concludes with the Priest’s absolution, which, however, lacks the efficacy of the Sacrament of
 Penance. From time to time on Sundays, especially in Easter Time, instead of the customary
 Penitential Act, the blessing and sprinkling of water may take place as a reminder of Baptism.[^55]
+
+#### Kyrie, eleison
 
 #### The Kyrie, Eleison
 
@@ -612,6 +656,8 @@ be excluded that it be repeated several times, by reason of the character of the
 as well as of the artistry of the music or of other circumstances. When the Kyrie is sung as a part
 of the Penitential Act, a “trope” precedes each acclamation.
 
+#### Gloria in excelsis
+
 #### The Gloria in Excelsis
 
 ### §53
@@ -624,6 +670,8 @@ alternately with the choir, or by the choir alone. If not sung, it is to be reci
 everybody together or by two choirs responding one to the other. It is sung or said on Sundays
 outside Advent and Lent, and also on Solemnities and Feasts, and at particular celebrations of a
 more solemn character.
+
+#### Collecta
 
 #### The Collect [*] [* Revised translation of the Collect conclusions approved by the USCCB on January 29, 2021, confirmed by the Holy See on February 3, 2021, and implemented in the Dioceses of the United States of America on February 17, 2021 ]
 
@@ -639,6 +687,8 @@ concluded with a Trinitarian ending, or longer ending, in the following manner:
 - • If it is directed to the Father, but the Son is mentioned at the end: Who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever;
 - • If it is directed to the Son: Who live and reign with God the Father in the unity of the Holy Spirit, God, for ever and ever. The people, joining in this petition, make the prayer their own by means of the acclamation Amen. At Mass only a single Collect is ever said.
 
+#### B) Liturgia verbi
+
 #### B) The Liturgy of the Word
 
 ### §55
@@ -653,6 +703,8 @@ their adherence to it by means of the Profession of Faith; finally, having been 
 divine word, the people pour out their petitions by means of the Universal Prayer for the needs of
 the whole Church and for the salvation of the whole world.
 
+#### Silentium
+
 ### §56
 
 The Liturgy of the Word is to be celebrated in such a way as to favor meditation, and so any kind of
@@ -662,6 +714,8 @@ the action of the Holy Spirit, the Word of God may be grasped by the heart and a
 prayer may be prepared. It may be appropriate to observe such periods of silence, for example,
 before the Liturgy of the Word itself begins, after the First and Second Reading, and lastly at the
 conclusion of the Homily.[^59]
+
+#### Lectiones biblicae
 
 #### The Biblical Readings
 
@@ -697,6 +751,8 @@ acclamations the faithful acknowledge and confess that Christ is present and is 
 stand as they listen to the reading; and by the mere fact of the marks of reverence that are given
 to the Book of the Gospels.
 
+#### Psalmus responsorius
+
 #### The Responsorial Psalm
 
 ### §61
@@ -719,6 +775,8 @@ from the Graduale Simplex, as described in these books, or an antiphon and Psalm
 collection of Psalms and antiphons, including Psalms arranged in metrical form, providing that they
 have been approved by the Conference of Bishops or the Diocesan Bishop. Songs or hymns may not be
 used in place of the Responsorial Psalm.
+
+#### Acclamatio ante lectionem Evangelii
 
 #### The Acclamation before the Gospel
 
@@ -745,6 +803,8 @@ When there is only one reading before the Gospel:
 The Sequence which, except on Easter Sunday and on Pentecost Day, is optional, is sung before the
 Alleluia.
 
+#### Homilia
+
 #### The Homily
 
 ### §65
@@ -767,6 +827,8 @@ weekdays of Advent, Lent, and Easter Time, as well as on other festive days and 
 people come to church in greater numbers.[^65] It is appropriate for a brief period of silence to be
 observed after the Homily.
 
+#### Professio fidei
+
 #### The Profession of Faith
 
 ### §67
@@ -784,6 +846,8 @@ It may be said also at particular celebrations of a more solemn character. If it
 intoned by the Priest or, if appropriate, by a cantor or by the choir. It is then sung either by
 everybody together or by the people alternating with the choir. If it is not sung, it is to be
 recited by everybody together or by two choirs responding one to the other.
+
+#### Oratio universalis
 
 #### The Universal Prayer
 
@@ -814,6 +878,8 @@ the ambo or from another suitable place, by the Deacon or by a cantor, a reader,
 faithful.[^67] The people, for their part, stand and give expression to their prayer either by an
 invocation said in common after each intention or by praying in silence.
 
+#### C) Liturgia eucharistica
+
 #### C) The Liturgy of the Eucharist
 
 ### §72
@@ -828,6 +894,8 @@ Eucharist in parts corresponding to precisely these words and actions of Christ,
 - a) At the Preparation of the Gifts, bread and wine with water are brought to the altar, the same elements, that is to say, which Christ took into his hands.
 - b) In the Eucharistic Prayer, thanks is given to God for the whole work of salvation, and the offerings become the Body and Blood of Christ.
 - c) Through the fraction and through Communion, the faithful, though many, receive from the one bread the Lord’s Body and from the one chalice the Lord’s Blood in the same way that the Apostles received them from the hands of Christ himself.
+
+#### Praeparatio donorum
 
 #### The Preparation of the Gifts
 
@@ -865,6 +933,8 @@ dignity, may be incensed by the Deacon or by another minister.
 Then the Priest washes his hands at the side of the altar, a rite in which the desire for interior
 purification finds expression.
 
+#### Oratio super oblata
+
 #### The Prayer over the Offerings
 
 ### §77
@@ -876,6 +946,8 @@ single Prayer over the Offerings is said, and it ends with the shorter conclusio
 Christ our Lord. If, however, the Son is mentioned at the end of this prayer, the conclusion is: Who
 lives and reigns for ever and ever. The people, joining in this petition, make the prayer their own
 by means of the acclamation Amen.
+
+#### Prex eucharistica
 
 #### The Eucharistic Prayer
 
@@ -903,6 +975,8 @@ this way:
 - g) The intercessions, by which expression is given to the fact that the Eucharist is celebrated in communion with the whole Church, of both heaven and of earth, and that the oblation is made for her and for all her members, living and dead, who are called to participate in the redemption and salvation purchased by the Body and Blood of Christ.
 - h) The concluding doxology, by which the glorification of God is expressed and which is affirmed and concluded by the people’s acclamation Amen.
 
+#### Ritus Communionis
+
 #### The Communion Rite
 
 ### §80
@@ -911,6 +985,8 @@ Since the celebration of the Eucharist is the Paschal Banquet, it is desirable t
 with the Lord’s command his Body and Blood should be received as spiritual food by those of the
 faithful who are properly disposed. This is the sense of the fraction and the other preparatory
 rites by which the faithful are led more immediately to Communion.
+
+#### Oratio dominica
 
 #### The Lord’s Prayer
 
@@ -925,6 +1001,8 @@ deliverance from the power of evil for the whole community of the faithful. The 
 Prayer itself, the embolism, and the doxology by which the people conclude these things are sung or
 are said aloud.
 
+#### Ritus pacis
+
 #### The Rite of Peace
 
 ### §82
@@ -935,6 +1013,8 @@ charity before communicating in the Sacrament. As for the actual sign of peace t
 manner is to be established by the Conferences of Bishops in accordance with the culture and customs
 of the peoples. However, it is appropriate that each person, in a sober manner, offer the sign of
 peace only to those who are nearest.
+
+#### Fractio panis
 
 #### The Fraction of the Bread
 
@@ -953,6 +1033,8 @@ glorious. The supplication Agnus Dei (Lamb of God) is usually sung by the choir 
 congregation replying; or at least recited aloud. This invocation accompanies the fraction of the
 bread and, for this reason, may be repeated as many times as necessary until the rite has been
 completed. The final time it concludes with the words grant us peace.
+
+#### Communio
 
 #### Communion
 
@@ -1010,6 +1092,8 @@ shorter conclusion; that is:
 - • if it is directed to the Father, but the Son is mentioned at the end: Who lives and reigns for ever and ever;
 - • if it is directed to the Son: Who live and reign for ever and ever. The people make the prayer their own by means of the acclamation Amen.
 
+#### D) Ritus conclusionis
+
 #### D) The Concluding Rites
 
 ### §90
@@ -1023,7 +1107,9 @@ To the Concluding Rites belong the following:
 
 ## Chapter III: Duties and Ministries in the Mass
 
-### Chapter III: Duties and Ministries in the Mass
+#### Caput III DE OFFICIIS ET MINISTERIIS IN MISSA
+
+#### Chapter III: Duties and Ministries in the Mass
 
 ### §91
 
@@ -1036,7 +1122,9 @@ nation, a people for his own possession,” expresses its cohesion and its hiera
 All, therefore, whether ordained ministers or lay Christian faithful, in fulfilling their function
 or their duty, should carry out solely but totally that which pertains to them.[^76]
 
-### I. The Duties of Those in Holy Orders
+#### I. DE OFFICIIS ORDINIS SACRI
+
+#### I. The Duties of Those in Holy Orders
 
 ### §92
 
@@ -1072,7 +1160,9 @@ altar and in serving the celebration of the Sacrifice, in distributing the Eucha
 faithful, especially under the species of wine, and from time to time in giving instructions
 regarding the people’s gestures and posture.
 
-### II. The Functions of the People of God
+#### II. DE MUNERIBUS POPULI DEI
+
+#### II. The Functions of the People of God
 
 ### §95
 
@@ -1097,7 +1187,11 @@ bodily postures observed together by the faithful.
 The faithful, moreover, should not refuse to serve the People of God in gladness whenever they are
 asked to perform some particular service or function in the celebration.
 
-### III. Particular Ministries
+#### III. DE MINISTERIIS PECULIARIBUS
+
+#### De ministerio acolythi et lectoris institutorum
+
+#### III. Particular Ministries
 
 #### The Ministry of the Instituted Acolyte and Lector
 
@@ -1114,6 +1208,8 @@ The lector is instituted to proclaim the readings from Sacred Scripture, with th
 Gospel. He may also announce the intentions for the Universal Prayer and, in the absence of a
 psalmist, recite the Psalm between the readings. In the celebration of the Eucharist, the lector has
 his own proper function (cf. nos. 194-198), which he himself must carry out.
+
+#### De ceteris muneribus
 
 #### Other Functions
 
@@ -1173,7 +1269,9 @@ suitable lay persons chosen by the pastor or the rector of the church.[^88] As t
 serving the Priest at the altar, the norms established by the Bishop for his diocese should be
 observed.
 
-### IV. The Distribution of Functions and the Preparation of the Celebration
+#### IV. DE DISTRIBUTIONE MUNERUM ET DE PRAEPARATIONE CELEBRATIONIS
+
+#### IV. The Distribution of Functions and the Preparation of the Celebration
 
 ### §108
 
@@ -1207,7 +1305,9 @@ those things that pertain to him.[^89]
 
 ## Chapter IV: The Different Forms of Celebrating Mass
 
-### Chapter IV: The Different Forms of Celebrating Mass
+#### CAPUT IV DE DIVERSIS FORMIS MISSAM CELEBRANDI
+
+#### Chapter IV: The Different Forms of Celebrating Mass
 
 ### §112
 
@@ -1241,7 +1341,9 @@ a just reason, should usually exercise the function proper to their Order and he
 concelebrants, wearing sacred vestments. Otherwise, they wear their proper choir dress or a surplice
 over a cassock.
 
-### I. Mass with the People
+#### I. DE MISSA CUM POPULO
+
+#### I. Mass with the People
 
 ### §115
 
@@ -1255,6 +1357,8 @@ however, take place even without singing and with only one minister.
 If at any celebration of Mass a Deacon is present, he should exercise his function. Furthermore, it
 is desirable that an acolyte, a reader, and a cantor should usually be there to assist the Priest
 Celebrant. Indeed, the rite described below foresees an even greater number of ministers.
+
+#### Praeparanda
 
 #### Things to Be Prepared
 
@@ -1283,6 +1387,10 @@ vestments (cf. nos. 337-341) for the Priest, the Deacon, and other ministers:
 - a) for the Priest: the alb, the stole, and the chasuble;
 - b) for the Deacon: the alb, the stole, and the dalmatic; the latter may be omitted, however, either out of necessity or on account of a lesser degree of solemnity;
 - c) for the other ministers: albs or other lawfully approved attire.[^95] All who wear an alb should use a cincture and an amice unless, due to the form of the alb, they are not needed. When the Entrance takes place with a procession, the following are also to be prepared: a Book of the Gospels; on Sundays and festive days, a thurible and incense boat, if incense is being used; the cross to be carried in procession; and candlesticks with lighted candles.
+
+#### A) De Missa sine diacono
+
+#### Ritus initiales
 
 #### A) Mass without a Deacon
 
@@ -1339,6 +1447,8 @@ either sung or said (cf. no. 53).
 The Priest then calls upon the people to pray, saying, with hands joined, Let us pray. All pray
 silently with the Priest for a brief time. Then the Priest, with hands extended, says the Collect,
 at the end of which the people acclaim, Amen.
+
+#### Liturgia verbi
 
 #### The Liturgy of the Word
 
@@ -1415,6 +1525,8 @@ Then the cantor, the reader, or another person announces the intentions from the
 other suitable place while facing the people. The latter take their part by replying in
 supplication. At the very end, the Priest, with hands extended, concludes the petitions with a
 prayer.
+
+#### Liturgia eucharistica
 
 #### The Liturgy of the Eucharist
 
@@ -1641,6 +1753,8 @@ says, Let us pray; then, with hands extended, he recites the Prayer after Commun
 of silence may precede the prayer, unless this has been already observed immediately after
 Communion. At the end of the prayer the people acclaim, Amen.
 
+#### Ritus conclusionis
+
 #### The Concluding Rites
 
 ### §166
@@ -1672,6 +1786,8 @@ lay ministers, he withdraws with them.
 
 If, however, another liturgical action follows the Mass, the Concluding Rites, that is, the
 Greeting, the Blessing, and the Dismissal, are omitted.
+
+#### B) De Missa cum diacono
 
 #### B) Mass with a Deacon
 
@@ -1802,6 +1918,8 @@ dismisses the people, saying, Ite, missa est (Go forth, the Mass is ended).
 Then, together with the Priest, the Deacon venerates the altar with a kiss, makes a profound bow,
 and withdraws in a manner similar to the Entrance Procession.
 
+#### C) De muneribus acolythi
+
 #### C) The Functions of the Acolyte
 
 ### §187
@@ -1854,6 +1972,8 @@ After the celebration of Mass, the acolyte and other ministers return together w
 the Priest in procession to the sacristy, in the same manner and in the same order in which they
 entered.
 
+#### D) De muneribus lectoris
+
 #### D) The Functions of the Reader
 
 #### Introductory Rites
@@ -1885,7 +2005,9 @@ intentions of the Universal Prayer from the ambo.
 If there is no singing at the Entrance or at Communion and the antiphons given in the Missal are not
 recited by the faithful, the reader may read them at an appropriate time (cf. nos. 48, 87).
 
-### II. Concelebrated Mass
+#### II. DE MISSA CONCELEBRATA
+
+#### II. Concelebrated Mass
 
 ### §199
 
@@ -2007,6 +2129,8 @@ his ministry. The Deacon exercises his ministry near the altar, assisting whenev
 the chalice and the Missal. However, in so far as possible, he stands back slightly, behind the
 concelebrating Priests standing around the principal celebrant.
 
+#### De modo proferendi Precem eucharisticam
+
 #### The Manner of Pronouncing the Eucharistic Prayer
 
 ### §216
@@ -2028,6 +2152,8 @@ in a low voice and that the principal celebrant’s voice is heard clearly. In t
 be more easily understood by the people. It is a praiseworthy practice for the parts that are to be
 said by all the concelebrants together and for which musical notation is provided in the Missal to
 be sung.
+
+#### Prex eucharistica I, seu Canon Romanus
 
 #### Eucharistic Prayer I, or the Roman Canon
 
@@ -2074,6 +2200,8 @@ the concelebrants strike their breast.
 
 The Per quem haec omnia (Through whom you continue) is said by the principal celebrant alone.
 
+#### Prex eucharistica II
+
 #### Eucharistic Prayer II
 
 ### §226
@@ -2099,6 +2227,8 @@ It is appropriate that the intercessions for the living, Remember, Lord, your Ch
 dead, Remember also our brothers and sisters, be assigned to one or other of the concelebrants, who
 pronounces them alone, with hands extended, and in a loud voice.
 
+#### Prex eucharistica III
+
 #### Eucharistic Prayer III
 
 ### §229
@@ -2121,6 +2251,8 @@ hands joined;
 It is appropriate that the intercessions May he make of us an eternal offering to you, and May this
 Sacrifice of our reconciliation, and To our departed brothers and sisters be assigned to one or
 other of the concelebrants, who pronounces them alone, with hands extended, and in a loud voice.
+
+#### Prex eucharistica IV
 
 #### Eucharistic Prayer IV
 
@@ -2271,7 +2403,9 @@ Everything else until the end of Mass is done by the principal celebrant in the 
 Before leaving the altar, the concelebrants make a profound bow to the altar. For his part the
 principal celebrant, along with the Deacon, venerates the altar as usual with a kiss.
 
-### III. Mass at Which only One Minister Participates
+#### III. DE MISSA, CUIUS UNUS TANTUM MINISTER PARTICIPAT
+
+#### III. Mass at Which only One Minister Participates
 
 ### §252
 
@@ -2397,7 +2531,11 @@ The Concluding Rites are carried out as at a Mass with the people, but the Ite, 
 the Mass is ended) is omitted. The Priest venerates the altar as usual with a kiss and, after making
 a profound bow with the minister, withdraws.
 
-### IV. Some General Norms for All Forms of Mass
+#### IV. QUAEDAM NORMAE GENERALIORES PRO OMNIBUS FORMIS MISSAE
+
+#### De veneratione altaris et Evangeliarii
+
+#### IV. Some General Norms for All Forms of Mass
 
 #### Veneration of the Altar and the Book of the Gospels
 
@@ -2407,6 +2545,8 @@ According to traditional practice, the veneration of the altar and of the Book o
 done by means of a kiss. However, where a sign of this kind is not in harmony with the traditions or
 the culture of some region, it is for the Conference of Bishops to establish some other sign in its
 place, with the consent of the Apostolic See.
+
+#### De genuflexione et inclinatione
 
 #### Genuflections and Bows
 
@@ -2430,6 +2570,8 @@ A bow signifies reverence and honor shown to the persons themselves or to the si
 them. There are two kinds of bow: a bow of the head and a bow of the body.
 - a) A bow of the head is made when the three Divine Persons are named together and at the names of Jesus, of the Blessed Virgin Mary, and of the Saint in whose honor Mass is being celebrated.
 - b) A bow of the body, that is to say, a profound bow, is made to the altar; during the prayers Munda cor meum (Cleanse my heart) and In spiritu humilitatis (With humble spirit); in the Creed at the words et incarnatus est (and by the Holy Spirit . . . and became man); in the Roman Canon at the Supplices te rogamus (In humble prayer we ask you, almighty God). The same kind of bow is made by the Deacon when he asks for a blessing before the proclamation of the Gospel. In addition, the Priest bows slightly as he pronounces the words of the Lord at the Consecration.
+
+#### De incensatione
 
 #### Incensation
 
@@ -2458,6 +2600,8 @@ altar. The altar is incensed with single swings of the thurible in this way:
 - a) if the altar is freestanding with respect to the wall, the Priest incenses walking around it;
 - b) if the altar is not freestanding, the Priest incenses it while walking first to the right hand side, then to the left. The cross, if situated on the altar or near it, is incensed by the Priest before he incenses the altar; otherwise, he incenses it when he passes in front of it. The Priest incenses the offerings with three swings of the thurible or by making the Sign of the Cross over the offerings with the thurible before going on to incense the cross and the altar.
 
+#### De purificatione
+
 #### The Purification
 
 ### §278
@@ -2480,6 +2624,8 @@ the altar.
 If a host or any particle should fall, it is to be picked up reverently; and if any of the Precious
 Blood is spilled, the area where the spill occurred should be washed with water, and this water
 should then be poured into the sacrarium in the sacristy.
+
+#### De Communione sub utraque specie
 
 #### Communion under Both Kinds
 
@@ -2548,9 +2694,13 @@ receives the Sacrament in the mouth from the Priest, and then withdraws.
 
 ## Chapter V: The Arrangement and Ornamentation of Churches for the Celebration of the Eucharist
 
-### Chapter V: The Arrangement and Ornamentation of Churches for the Celebration of the Eucharist
+#### Caput V DE ECCLESIARUM DISPOSITIONE ET ORNATU AD EUCHARISTIAM CELEBRANDAM
 
-### I. General Principles
+#### I. PRINCIPIA GENERALIA
+
+#### Chapter V: The Arrangement and Ornamentation of Churches for the Celebration of the Eucharist
+
+#### I. General Principles
 
 ### §288
 
@@ -2616,7 +2766,9 @@ should nevertheless bring about a close and coherent unity that is clearly expre
 of the entire holy people. Indeed, the nature and beauty of the place and all its furnishings should
 foster devotion and express visually the holiness of the mysteries celebrated there.
 
-### II. Arrangement of the Sanctuary for the Sacred Synaxis
+#### II. DE PRESBYTERII ORDINATIONE AD SACRAM SYNAXIM
+
+#### II. Arrangement of the Sanctuary for the Sacred Synaxis
 
 ### §295
 
@@ -2625,6 +2777,8 @@ the Deacon, and the other ministers exercise their functions. It should be appro
 from the body of the church either by its being somewhat elevated or by a particular structure and
 ornamentation. It should, moreover, be large enough to allow the Eucharist to be easily celebrated
 and seen.[^114]
+
+#### De altari eiusque ornatu
 
 #### The Altar and Its Ornamentation
 
@@ -2729,6 +2883,8 @@ crucified upon it, a cross clearly visible to the assembled people. It is desira
 cross should remain near the altar even outside of liturgical celebrations, so as to call to mind
 for the faithful the saving Passion of the Lord.
 
+#### De ambone
+
 #### The Ambo
 
 ### §309
@@ -2743,6 +2899,8 @@ proclaimed; likewise it may be used for giving the Homily and for announcing the
 Universal Prayer. The dignity of the ambo requires that only a minister of the word should stand at
 it. It is appropriate that before being put into liturgical use a new ambo be blessed according to
 the rite described in the Roman Ritual.[^117]
+
+#### De sede pro sacerdote celebrante aliisque sedibus
 
 #### The Chair for the Priest Celebrant and Other Seats
 
@@ -2761,7 +2919,11 @@ the Deacon should be placed near that of the celebrant. For the other ministers 
 arranged so that they are clearly distinguishable from seats for the clergy and so that the
 ministers are easily able to carry out the function entrusted to them.[^120]
 
-### III. The Arrangement of the Church
+#### III. DE ECCLESIAE ORDINATIONE
+
+#### De locis fidelium
+
+#### III. The Arrangement of the Church
 
 #### The Places for the Faithful
 
@@ -2776,6 +2938,8 @@ bodily postures required for the different parts of the celebration and can have
 reception of Holy Communion. Care should be taken to ensure that the faithful be able not only to
 see the Priest, the Deacon, and the readers but also, with the aid of modern technical means, to
 hear them without difficulty.
+
+#### De loco scholæ cantorum et instrumentorum musicorum
 
 #### The Place for the Schola Cantorum and the Musical Instruments
 
@@ -2797,6 +2961,8 @@ organ and other musical instruments should be marked by a moderation suited to t
 time of year, without expressing in anticipation the full joy of the Nativity of the Lord. In Lent
 the playing of the organ and musical instruments is allowed only in order to support the singing.
 Exceptions, however, are Laetare Sunday (Fourth Sunday of Lent), Solemnities, and Feasts.
+
+#### De loco asservationis sanctissimæ eucharistiæ
 
 #### The Place for the Reservation of the Most Holy Eucharist
 
@@ -2828,6 +2994,8 @@ should shine permanently to indicate the presence of Christ and honor it.[^129]
 In no way should any of the other things be forgotten which are prescribed by law concerning the
 reservation of the Most Holy Eucharist.[^130]
 
+#### De imaginibus sacris
+
 #### Sacred Images
 
 ### §318
@@ -2848,9 +3016,13 @@ devotion of the entire community as well as for the beauty and dignity of the im
 
 ## Chapter VI: The Requisites for the Celebration of Mass
 
-### Chapter VI: The Requisites for the Celebration of Mass
+#### Caput VI DE IIS QUAE AD MISSAE CELEBRATIONEM REQUIRUNTUR
 
-### I. The Bread and Wine for Celebrating the Eucharist
+#### I. DE PANE ET VINO AD EUCHARISTIAM CELEBRANDAM
+
+#### Chapter VI: The Requisites for the Celebration of Mass
+
+#### I. The Bread and Wine for Celebrating the Eucharist
 
 ### §319
 
@@ -2893,7 +3065,9 @@ water was poured into the chalice, he pours the water into some container, pours
 into the chalice and consecrates it, saying the part of narrative relating to the Consecration of
 the chalice, without being obliged to consecrate the bread again.
 
-### II. Sacred Furnishings in General
+#### II. DE SACRA SUPELLECTILE IN GENERE
+
+#### II. Sacred Furnishings in General
 
 ### §325
 
@@ -2911,7 +3085,9 @@ durable, and well suited for sacred use. In the Dioceses of the United States of
 materials may include wood, stone, or metal which are solid and appropriate to the purpose for which
 they are employed.
 
-### III. Sacred Vessels
+#### III. DE SACRIS VASIS
+
+#### III. Sacred Vessels
 
 ### §327
 
@@ -2961,7 +3137,9 @@ followed.[^135]
 The practice should be kept of building in the sacristy a sacrarium into which is poured the water
 from the washing of sacred vessels and linens (cf. no. 280).
 
-### IV. Sacred Vestments
+#### IV. DE SACRIS VESTIBUS
+
+#### IV. Sacred Vestments
 
 ### §335
 
@@ -3052,7 +3230,9 @@ or in violet if they have a penitential character, for example, nos. 31, 33, or 
 are celebrated in the color suited to the Mass itself or even in the color proper to the day or the
 time of the year.
 
-### V. Other Things Intended for Church Use
+#### V. DE ALIIS REBUS AD USUM ECCLESIAE DESTINATIS
+
+#### V. Other Things Intended for Church Use
 
 ### §348
 
@@ -3082,7 +3262,9 @@ and to ensure that a noble simplicity is combined with elegance.
 
 ## Chapter VII: The Choice of the Mass and Its Parts
 
-### Chapter VII: The Choice of the Mass and Its Parts
+#### Caput VII DE MISSA EIUSQUE PARTIBUS ELIGENDIS
+
+#### Chapter VII: The Choice of the Mass and Its Parts
 
 ### §352
 
@@ -3100,7 +3282,9 @@ that are to be used, and it is necessary that nothing be in any sense improvised
 ordering and carrying out of the rites will greatly help in disposing the faithful for participation
 in the Eucharist.
 
-### I. The Choice of Mass
+#### I. DE MISSA ELIGENDA
+
+#### I. The Choice of Mass
 
 ### §353
 
@@ -3122,12 +3306,16 @@ On Optional Memorials,
 - b) On weekdays of Advent before December 17, on weekdays of Christmas Time from January 2, and on weekdays of Easter Time, one of the following may be chosen: either the Mass of the weekday, or the Mass of the Saint or of one of the Saints whose Memorial is observed, or the Mass of any Saint inscribed in the Martyrology for that day.
 - c) On weekdays in Ordinary Time, there may be chosen either the Mass of the weekday, or the Mass of an Optional Memorial which happens to occur on that day, or the Mass of any Saint inscribed in the Martyrology for that day, or a Mass for Various Needs, or a Votive Mass. If he celebrates with the people, the Priest will take care not to omit too frequently and without sufficient reason the readings assigned each day in the Lectionary to the weekdays, for the Church desires that a richer portion at the table of God’s Word should be spread before the people.[^140] For the same reason he should choose Masses for the Dead in moderation, for every Mass is offered for both the living and the dead, and there is a commemoration of the dead in the Eucharistic Prayer. Where, however, the Optional Memorials of the Blessed Virgin Mary or of the Saints are dear to the faithful, the legitimate devotion of the latter should be satisfied. Moreover, as regards the option of choosing between a Memorial inscribed in the General Calendar and one inserted in a diocesan or religious Calendar, preference should be given, all else being equal and in keeping with tradition, to the Memorial in the particular Calendar.
 
-### II. The Choice of Texts for the Mass
+#### II. DE MISSAE PARTIBUS ELIGENDIS
+
+#### II. The Choice of Texts for the Mass
 
 ### §356
 
 In choosing texts for the different parts of the Mass, whether for the time of the year or for
 Saints, the norms that follow should be observed.
+
+#### De lectionibus
 
 #### The Readings
 
@@ -3193,6 +3381,8 @@ scriptural passages, parts of Sacred Scripture are not permanently excluded.
 The adaptations to the Ordo Lectionum Missae as contained in the Lectionary for Mass for use in the
 Dioceses of the United States of America should be carefully observed.
 
+#### De orationibus
+
 #### The Orations
 
 ### §363
@@ -3209,6 +3399,8 @@ nourished. However, during the more important times of the year, provision has a
 this by means of the orations proper to these times of the year that exist for each weekday in the
 Missal.
 
+#### De Prece eucharistica
+
 ### §364
 
 The numerous Prefaces with which the Roman Missal is endowed have as their purpose to bring out more
@@ -3223,6 +3415,8 @@ following norms:
 - b) Eucharistic Prayer II, on account of its particular features, is more appropriately used on weekdays or in special circumstances. Although it is provided with its own Preface, it may also be used with other Prefaces, especially those that sum up the mystery of salvation, for example, the Common Prefaces. When Mass is celebrated for a particular deceased person, the special formula given may be used at the proper point, namely, before the part Remember also our brothers and sisters.
 - c) Eucharistic Prayer III may be said with any Preface. Its use should be preferred on Sundays and festive days. If, however, this Eucharistic Prayer is used in Masses for the Dead, the special formula for a deceased person may be used, to be included at the proper place, namely after the words: in your compassion, O merciful Father, gather to yourself all your children scattered throughout the world.
 - d) Eucharistic Prayer IV has an invariable Preface and gives a fuller summary of salvation history. It may be used when a Mass has no Preface of its own and on Sundays in Ordinary Time. On account of its structure, no special formula for a deceased person may be inserted into this prayer.
+
+#### De cantibus
 
 #### The Chants
 
@@ -3240,9 +3434,13 @@ Offertory, and at Communion, the norms laid down in their proper places are to b
 
 ## Chapter VIII: Masses and Prayers for Various Needs and Occasions and Masses for the Dead
 
-### Chapter VIII: Masses and Prayers for Various Needs and Occasions and Masses for the Dead
+#### Caput VIII DE MISSIS ET ORATIONIBUS AD DIVERSA ET DE MISSIS DEFUNCTORUM
 
-### I. Masses and Prayers for Various Needs and Occasions
+#### I. DE MISSIS ET ORATIONIBUS AD DIVERSA
+
+#### Chapter VIII: Masses and Prayers for Various Needs and Occasions and Masses for the Dead
+
+#### I. Masses and Prayers for Various Needs and Occasions
 
 ### §368
 
@@ -3328,7 +3526,9 @@ Particularly recommended is the Saturday commemoration of the Blessed Virgin Mar
 the Mother of the Redeemer that in the Liturgy of the Church firstly and before all the Saints
 veneration is given.[^144]
 
-### II. Masses for the Dead
+#### II. DE MISSIS DEFUNCTORUM
+
+#### II. Masses for the Dead
 
 ### §379
 
@@ -3381,7 +3581,9 @@ Christ’s Gospel for all.
 
 ## Chapter IX: Adaptations within the Competence of Bishops and Bishops’ Conferences
 
-### Chapter IX: Adaptations within the Competence of Bishops and Bishops' Conferences
+#### Caput IX DE APTATIONIBUS QUAE EPISCOPIS EORUMQUE CONFERENTIIS COMPETUNT
+
+#### Chapter IX: Adaptations within the Competence of Bishops and Bishops' Conferences
 
 ### §386
 

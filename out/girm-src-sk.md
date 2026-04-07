@@ -1,12 +1,18 @@
-# Všeobecné smernice Rímskeho misála (VSRM)
+# Všeobecné smernice Rímskeho misála
 
-> **Vydanie:** Slovenský preklad. Konferencia biskupov Slovenska.
-> Tretie typické vydanie (*editio typica tertia*, Vatikán 2002).
-> Odkazové čísla paragrafov sú totožné s anglickými vydaniami (GIRM).
+> **Edition:** Slovak VSRM — KBS 2021 (editio typica tertia)  
+> Slovak translation; no inline national adaptations
 
 ---
 
-## Úvod
+## Introduction
+
+#### INSTITUTIO GENERALIS MISSALIS ROMANI
+
+#### PROEMIUM
+
+#### Všeobecné smernice 
+Rímskeho misála
 
 ### §1
 
@@ -19,6 +25,8 @@ rímskeho obradu pri slávení svätej omše, to sú nové dôkazy starostlivost
 lásky voči vznešenému eucharistickému tajomstvu a súčasne dosvedčujú aj jej nepretržitú a súvislú
 tradíciu, hoci sa zaviedli aj niektoré nové prvky. Svedectvo nezmenenej viery
 
+#### Testimonium fidei immutatae
+
 ### §2
 
 Obetnú povahu svätej omše, ktorú v súhlase so všeobecnou cirkevnou tradíciou slávnostne vyhlásil
@@ -29,20 +37,16 @@ milovanej
 
 ### §3
 
-Druhý vatikánsky koncil6 a iné rozhodnutia učiteľského úradu Cirkvi7 potvrdili obdivuhodné tajomstvo
+Druhý vatikánsky koncil a iné rozhodnutia učiteľského úradu Cirkvi potvrdili obdivuhodné tajomstvo
 skutočnej Pánovej prítomnosti pod eucharistickými spôsobmi v tom istom zmysle a význame, ako to
-kázal TRIDENTSKÝ KONCIL, Sesia XXII, 17. septembra 1562: DS 1738 – 1759. DRUHÝ VATIKÁNSKY KONCIL,
-konštitúcia o posvätnej liturgii Sacrosanctum concilium, č. 47; porov. dogmatická konštitúcia o
-Cirkvi Lumen gentium, č. 3, 28; dekrét o účinkovaní a živote kňazov Presbyterorum ordinis, č. 2, 4,
-5. Večerná omša na pamiatku Pánovej večere, modlitba nad obetnými darmi. Porov. Sacramentarium
-Veronense, ed. L. C. Mohlberg, č. 93. Porov. Tretia eucharistická modlitba. Porov. Štvrtá
-eucharistická modlitba. Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii
-Sacrosanctum concilium, č. 7, 47; dekrét o účinkovaní a živote kňazov Presbyterorum ordinis, č. 5,
-18. Porov. PIUS XII., encyklika Humani generis, 12. augusta 1950: AAS 42 (1950) s. 570 – 571; PAVOL
-VI., encyklika Mysterium ﬁdei, 3. septembra 1965: AAS 57 (1965) s. 762 – 769; Slávnostné vyznanie
-viery, 30. júna 1968, č. 24 – 26: AAS 60 (1968) s. 442 – 443; POSVÄTNÁ KONGREGÁCIA OBRADOV,
-inštrukcia Eucharisticum mysterium, 25. mája 1967, č. f, 9: AAS 59 (1967) s. 543, 547. VŠEOBECNÉ
-SMERNICE RÍMSKEHO MISÁLA
+kázal veriť Tridentský koncil. 8 Toto tajomstvo sa zdôrazňuje pri slávení svätej omše nielen
+samotnými slovami premenenia, ktorými sa Kristus stáva prítomný prepodstatnením (per
+transubstantiationem), ale aj výrazmi a prejavmi zvrchovanej úcty a poklony, ako sa to koná v
+liturgii Eucharistie. Preto sa kresťanský ľud nabáda, aby vo Štvrtok Pánovej večere a na slávnosť
+Najsvätejšieho Kristovho Tela a Krvi osobitným spôsobom vzdával úctu a poklonu tejto obdivuhodnej
+sviatosti. jeho obetu. Konečne prijímaním Kristovho Tela a Krvi sa stmeľuje v jedno. Tento ľud, hoci
+je svätý už svojím pôvodom, predsa ďalej neprestajne rastie vo svätosti vedomou, činnou a plodnou
+účasťou na eucharistickom tajomstve. 10 Dôkazy nepretržitej tradície
 
 ### §4
 
@@ -62,10 +66,9 @@ Cirkvi. V tomto úkone každý koná iba to a všetko to, čo mu prináleží vz
 postavenia v Božom ľude. Tak sa stáva, že sa pri slávení venuje väčšia pozornosť určitým úkonom,
 ktorým sa v minulosti preukazovala menšia pozornosť. Tento ľud je totiž ľudom Božím, ktorý Kristus
 získal svojou krvou. Pán ho zhromažďuje a živí svojím slovom. Je povolaný, aby Bohu predkladal
-prosby celej ľudskej rodiny. Za tajomstvo spásy vzdáva vďaky Kristovi, keď prináša jeho obetu.
-Konečne prijímaním Kristovho Tela a Krvi sa stmeľuje v jedno. Tento ľud, hoci je svätý už svojím
-pôvodom, predsa ďalej neprestajne rastie vo svätosti vedomou, činnou a plodnou účasťou na
-eucharistickom tajomstve. 10 Dôkazy nepretržitej tradície
+prosby celej ľudskej rodiny. Za tajomstvo spásy vzdáva vďaky Kristovi, keď prináša
+
+#### Traditio non intermissa declaratur
 
 ### §6
 
@@ -108,6 +111,8 @@ jestvovali v krajinách semitských, gréckych a latinských. Tento širší poh
 ako Duch Svätý pomáha Božiemu ľudu zachovať obdivuhodnú vernosť nezmeniteľnému pokladu viery aj
 popri veľkej rozmanitosti modlitieb a obradov. Prispôsobenie novým pomerom
 
+#### Ad novas rerum condiciones accommodatio
+
 ### §10
 
 Nový misál nielen svedčí o lex orandi – pravidle modlitby rímskej Cirkvi a stráži poklad viery
@@ -132,7 +137,7 @@ nariadil, aby duchovní pastieri namiesto toho konali vhodnú katechézu: „Aby
 hlad… posvätná synoda prikazuje pastierom a jednotlivým duchovným v pastorácii, aby pri slávení
 omše, či už sami alebo prostredníctvom iných, často vysvetľovali niečo z toho, čo sa číta v omši, a
 aby objasnili medzi iným aj niektoré tajomstvo tejto presvätej obety, a to najmä v nedele a
-sviatky.“14
+sviatky.“1
 
 ### §12
 
@@ -140,22 +145,22 @@ Druhý vatikánsky koncil, ktorý sa zišiel preto, aby – podobne ako Tridents
 Cirkev potrebám jej apoštolského poslania v dnešných časoch, dôkladne si uvedomil poučný a
 pastoračný charakter posvätnej liturgie.15 A keďže nikto z katolíkov nepopieral oprávnenosť a
 účinnosť posvätného obradu v latinskom jazyku, koncil mohol bez ťažkostí pripustiť, že „nezriedka
-môže byť pre ľud veľmi užitočné používať materinskú reč“ a dovolil TRIDENTSKÝ KONCIL, Sesia XXII,
-Náuka o obete svätej omše, kap. 8: DS 1749. Tamže, kap. 9: DS 1759. Tamže, kap. 8: DS 1749. Porov.
-DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum concilium, č. 33. VŠEOBECNÉ
-SMERNICE RÍMSKEHO MISÁLA
+môže byť pre ľud veľmi užitočné používať materinskú reč“ a dovolil používať reč ľudu.16 Oduševnenie,
+s akým všade prijali toto rozhodnutie, spôsobilo, že pod vedením biskupov a Apoštolskej stolice sa
+mohla zaviesť ľudová reč pri všetkých liturgických sláveniach, na ktorých sa zúčastňuje ľud, aby
+veriaci plnšie chápali slávené tajomstvo.
 
 ### §13
 
 Hoci používanie ľudovej reči v posvätnej liturgii je len prostriedkom – i keď veľmi významným – na
 jasnejšie katechetické vysvetlenie sláveného tajomstva, predsa Druhý vatikánsky koncil pripomenul,
 že treba zachovávať niektoré nariadenia Tridentského koncilu, ktoré sa niekde nedodržiavali, ako
-napríklad povinnosť konať homíliu v nedeľu a vo sviatok17 a možnosť vsunúť nejaké ponaučenie do
+napríklad povinnosť konať homíliu v nedeľu a vo sviatok a možnosť vsunúť nejaké ponaučenie do
 posvätných obradov.18 Predovšetkým však Druhý vatikánsky koncil odporúčal „tú dokonalejšiu účasť na
 omši, ktorou po kňazovom prijímaní aj veriaci prijímajú Kristovo Telo z tej istej obety“,19 čím
 pomohol uskutočniť aj iné želanie tridentských otcov, a to aby pre plnšiu účasť na svätej
 Eucharistii „veriaci, prítomní na svätej omši, prijímali Eucharistiu nielen duchovne, ale aj
-sviatostne“.20
+sviatostne“.2
 
 ### §14
 
@@ -163,7 +168,7 @@ Z tých istých pohnútok a z toho istého pastoračného úsilia Druhý vatiká
 hľadiska zvážiť ustanovenia Tridentského koncilu o prijímaní pod obidvoma spôsobmi. Pretože sa dnes
 neuvádza do pochybnosti náuka o účinnosti prijímania Eucharistie len pod spôsobom chleba, dovolil v
 niektorých prípadoch prijímať pod obidvoma spôsobmi, a to preto, že jasnejšia forma sviatostného
-znaku poskytuje osobitnú možnosť hlbšie vniknúť do tajomstva, na ktorom sa veriaci zúčastňujú.21
+znaku poskytuje osobitnú možnosť hlbšie vniknúť do tajomstva, na ktorom sa veriaci zúčastňujú.2
 
 ### §15
 
@@ -186,7 +191,14 @@ zdokonalili liturgické predpisy Tridentského koncilu. Vatikánsky koncil tak z
 veriacich bližšie k posvätnej liturgii. Toto úsilie trvalo už štyristo rokov a v poslednom čase k
 nemu prispelo najmä štúdium liturgie podporované svätým Piom X. a jeho nástupcami.
 
-## Kapitola I: Dôležitosť a dôstojnosť slávenia Eucharistie
+
+## Chapter I: The Importance and Dignity of the Celebration of the Eucharist
+
+#### Caput I DE CELEBRATIONIS EUCHARISTICAE MOMENTO ET DIGNITATE
+
+#### Kapitola I. 
+DÔLEŽITOSŤ A DÔSTOJNOSŤ 
+SLÁVENIA EUCHARISTIE
 
 ### §16
 
@@ -196,18 +208,20 @@ veriaceho.22 V nej totiž vyvrchoľuje úkon, ktorým Boh posväcuje svet v Kris
 vrchol kult, ktorý ľudia preukazujú Otcovi, keď sa mu klaňajú skrze Krista, Božieho Syna, v Duchu
 Svätom.23 Okrem toho v omši sa pripomínajú celý rok tajomstvá vykúpenia tak, že sa určitým spôsobom
 sprítomňujú.24 Ostatné posvätné úkony a všetky skutky kresťanského života s omšou súvisia, z nej
-vyplývajú a k nej smerujú.25
+vyplývajú a k nej smerujú.2
 
 ### §17
 
 Preto veľmi záleží na tom, aby sa slávenie omše, Pánovej večere, usporiadalo tak, žeby sa posvätní
 služobníci i veriaci zúčastnili na nej primerane svojmu postaveniu a plnšie získali ovocie,26 pre
 ktoré Kristus Pán ustanovil eucharistickú obetu svojho Tela a Krvi, a zveril ju ako pamiatku svojho
-umučenia a zmŕtvychvstania svojej milovanej neveste, Cirkvi.27
+umučenia a zmŕtvychvstania svojej milovanej neveste, Cirkvi.2
 
 ### §18
 
-To sa vhodne uskutoční vtedy, keď sa bude prihliadať na povahu a okolnosti kaž-
+To sa vhodne uskutoční vtedy, keď sa bude prihliadať na povahu a okolnosti kažpravidlá, podľa
+ktorých majú prebiehať jednotlivé formy celebrovania.32 že má byť služobníkom posvätnej liturgie a
+nesmie nič z vlastnej vôle pri slávení omše pridať, vynechať alebo pozmeniť.3
 
 ### §19
 
@@ -215,7 +229,7 @@ I keď sa niekedy nedá dosiahnuť prítomnosť a aktívna účasť veriacich, k
 ekleziálnu povahu liturgického slávenia,29 eucharistické slávenie si predsa vždy zachováva svoju
 účinnosť a dôstojnosť, pretože je úkonom Krista a Cirkvi; kňaz v tomto úkone plní svoju
 najdôležitejšiu úlohu a vždy koná pre spásu ľudu. Preto sa mu teda odporúča, aby podľa možnosti aj
-každodenne slávil eucharistickú obetu.30
+každodenne slávil eucharistickú obetu.3
 
 ### §20
 
@@ -227,19 +241,7 @@ aktívnu a plnú účasť veriacich a lepšie zodpovedajú ich duchovnému dobru
 ### §21
 
 Preto cieľom týchto smerníc je podať všeobecné zásady, ktorými sa má riadiť správne slávenie
-Eucharistie, a vysvetliť Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii
-Sacrosanctum concilium, č. 41; dogmatická konštitúcia o Cirkvi Lumen gentium, č. 11; dekrét o
-účinkovaní a živote kňazov Presbyterorum ordinis, č. 2, 5, 6; dekrét o pastierskom úrade biskupov v
-Cirkvi Christus Dominus, č. 30; dekrét o ekumenizme Unitatis redintegratio, č. 15; POSVÄTNÁ
-KONGREGÁCIA OBRADOV, inštrukcia Eucharisticum mysterium, 25. mája 1967, č. 3e, 6: AAS 59 (1967) s.
-542, 544 – 545. Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum
-concilium, č. 10. Porov. tamže, č. 102. Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej
-liturgii Sacrosanctum concilium, č. 10; dekrét o účinkovaní a živote kňazov Presbyterorum ordinis,
-č. 5. Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum concilium, č.
-14, 19, 26, 28. Porov. tamže, č. 47. Porov. tamže, č. 14. Porov. tamže, č. 41. Porov. DRUHÝ
-VATIKÁNSKY KONCIL, dekrét o účinkovaní a živote kňazov Presbyterorum ordinis, č. 13; Kódex
-kánonického práva, kán. 904. Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii
-Sacrosanctum concilium, č. 59. VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
+Eucharistie, a vysvetliť
 
 ### §22
 
@@ -253,6 +255,10 @@ textov, a tak boli vedení k činnej a plodnej účasti na slávení Eucharistie
 dbá, aby sa zvyšovala dôstojnosť slávení, k čomu vo veľkej miere prispieva krása posvätného
 priestoru, hudby a umenia.
 
+#### Kapitola II. 
+STAVBA OMŠE, 
+JEJ PRVKY A ČASTI
+
 ### §23
 
 V týchto Všeobecných smerniciach a v Omšovom poriadku sa uvádzajú niektoré prispôsobenia a adaptácie
@@ -263,60 +269,65 @@ aj jej pastoračná účinnosť.
 
 Tieto prispôsobenia pozostávajú zväčša z výberu obradov alebo textov, t. j. spevov, čítaní,
 modlitieb, výziev a gest, ktoré viac zodpovedajú potrebám, vzdelaniu a schopnostiam účastníkov a
-ponechávajú sa na celebrujúceho kňaza. Nech však kňaz pamätá,
+ponechávajú sa na celebrujúceho kňaza. Nech však kňaz pamätá, tam som ja medzi nimi“ (Mt 18, 20).
+Veď pri slávení omše, v ktorej sa bez prestania sprítomňuje obeta kríža,38 Kristus je skutočne
+prítomný v zhromaždení zídenom v jeho mene, v osobe kňaza, vo svojom slove a najmä podstatne a
+trvalo pod eucharistickými spôsobmi.39 modlitba, ktorá je vrcholom celého slávenia. Ďalej sú to
+modlitby: kolekta, modlitba nad obetnými darmi a modlitba po prijímaní. Kňaz, ktorý v zastúpení
+Kristovej osoby predsedá zhromaždeniu, prednáša tieto modlitby Bohu v mene všetkého svätého ľudu a v
+mene všetkých prítomných.43 Preto sa právom nazývajú „predsedníckymi modlitbami“ (orationes
+præsidentiales).
 
 ### §25
 
 Okrem toho niektoré prispôsobenia odporúčané na svojom mieste v misáli patria podľa konštitúcie o
-posvätnej liturgii do kompetencie diecézneho biskupa alebo konferencie biskupov35 (porov. č. 387,
-388 – 393).
+posvätnej liturgii do kompetencie diecézneho biskupa alebo konferencie biskupov (porov. č. 387, 388
+– 393).
 
 ### §26
 
 Pri väčších zmenách a adaptáciách, ktoré by mali zohľadňovať tradície a svojráz národov a krajín,
 aby to slúžilo pre dobro alebo potrebu v zmysle čl. 40 konštitúcie o posvätnej liturgii, nech sa
 postupuje podľa inštrukcie De Liturgia Romana et inculturatione (Rímska liturgia a inkulturácia)36 a
-ako je to vysvetlené v týchto smerniciach (č. 395 – 399). Kapitola II. STAVBA OMŠE, JEJ PRVKY A
-ČASTI I. VŠEOBECNÁ STAVBA OMŠE
+ako je to vysvetlené v týchto smerniciach (č. 395 – 399).
 
-## Kapitola II: Stavba svätej omše, jej prvky a časti
+
+## Chapter II: The Structure of the Mass, Its Elements and Its Parts
+
+#### Caput II DE STRUCTURA MISSAE EIUSQUE ELEMENTIS ET PARTIBUS
+
+#### I. DE GENERALI STRUCTURA MISSAE
+
+#### I. VŠEOBECNÁ STAVBA OMŠE
 
 ### §27
 
 Pri svätej omši, čiže pri Pánovej večeri, sa pod predsedníctvom kňaza, ktorý zastupuje osobu Krista,
 zhromažďuje Boží ľud na slávenie pamiatky Pána, čiže eucharistickej obety.37 Preto o takomto
 miestnom zhromaždení svätej Cirkvi v plnej miere platí Kristovo prisľúbenie: „Kde sú dvaja alebo
-traja zhromaždení v mojom mene, Omše pre zvláštne príležitosti sa riadia týmito ustanoveniami:
-porov. Omše v zvláštnych spoločenstvách: POSVÄTNÁ KONGREGÁCIA OBRADOV, inštrukcia Actio pastoralis,
-15. mája l969: AAS 61 (1969) s. 806 – 811; omše za účasti detí: Directorium de Missis cum pueris, 1.
-novembra 1973: AAS 66 (1974) s. 30 – 46; spojenie častí liturgie hodín s omšou: Všeobecné smernice
-liturgie hodín, č. 93 – 98; spojenie niektorých požehnaní a korunovácie obrazov preblahoslavenej
-Panny Márie s omšou: RÍMSKY RITUÁL, Benedikcionál, typické vydanie 1984, Všeobecný úvod, č. 28; Ordo
-coronandi imaginem beatæ Mariæ Virginis, č. 10 a 14. Porov. DRUHÝ VATIKÁNSKY KONCIL, dekrét o
-pastierskom úrade biskupov v Cirkvi Christus Dominus, č. 15; porov. tiež konštitúcia o posvätnej
-liturgii Sacrosanctum concilium, č. 41. Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej
-liturgii Sacrosanctum concilium, č. 22. Porov. tiež DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej
-liturgii Sacrosanctum concilium, č. 38, 40; PAVOL VI., apoštolská konštitúcia Missale Romanum,
-vyššie. Porov. KONGREGÁCIA PRE BOŽÍ KULT A DISCIPLÍNU SVIATOSTÍ, inštrukcia Varietates legitimæ, 25.
-januára 1994: AAS 87 (1995), s. 288 – 314. Porov. DRUHÝ VATIKÁNSKY KONCIL, dekrét o účinkovaní a
-živote kňazov Presbyterorum ordinis, č. 5; konštitúcia o posvätnej liturgii Sacrosanctum concilium,
-č. 33. VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA tam som ja medzi nimi“ (Mt 18, 20). Veď pri slávení omše,
-v ktorej sa bez prestania sprítomňuje obeta kríža,38 Kristus je skutočne prítomný v zhromaždení
-zídenom v jeho mene, v osobe kňaza, vo svojom slove a najmä podstatne a trvalo pod eucharistickými
-spôsobmi.39
+traja zhromaždení v mojom mene,
 
 ### §28
 
 Omša sa skladá z dvoch častí: z liturgie slova a z liturgie Eucharistie, ktoré tak úzko súvisia, že
 tvoria jeden kultový úkon.40 V omši sa pripravuje stôl jednak Božieho slova, jednak Kristovho Tela.
-Veriaci sa tu poučujú a živia.41 Niektoré obrady bohoslužbu otvárajú, iné ju zakončujú. II. ROZLIČNÉ
-PRVKY OMŠE Čítanie Božieho slova a jeho výklad
+Veriaci sa tu poučujú a živia.41 Niektoré obrady bohoslužbu otvárajú, iné ju zakončujú.
+
+#### II. DE DIVERSIS ELEMENTIS MISSAE
+
+#### De lectione verbi Dei eiusque explanatione
+
+#### II. ROZLIČNÉ PRVKY OMŠE
 
 ### §29
 
-januára 1973, č. 2: AAS 65 (1973) s. 267, 268. Porov. POSVÄTNÁ KONGREGÁCIA PRE SVIATOSTI A BOŽÍ
-KULT, inštrukcia Inæstimabile donum, 3. apríla 1980, č. 17: AAS 72 (1980) s. 338. VŠEOBECNÉ SMERNICE
-RÍMSKEHO MISÁLA Kapitola III. POVINNOSTI A SLUŽBY PRI OMŠI
+Keď sa v Cirkvi číta Sväté písmo, sám Boh hovorí k svojmu ľudu, a Kristus, prítomný vo svojom slove,
+ohlasuje evanjelium. Čítanie Božieho slova je dôležitým prvkom liturgie, a preto ho majú všetci
+počúvať s úctou. Hoci v čítaniach zo Svätého písma sa Božie slovo obracia na všetkých ľudí všetkých
+čias a hoci je im zrozumiteľné, jeho väčšia zrozumiteľnosť a účinnosť sa ešte podporuje živým
+výkladom, teda homíliou, ktorá je časťou liturgického slávenia.4
+
+#### De orationibus aliisque partibus ad sacerdotem pertinentibus
 
 ### §30
 
@@ -337,26 +348,18 @@ napokon aj niekoľkými slovami pred prepustením veriacich môže uzavrieť cel
 
 Povaha „predsedníckych“ častí si vyžaduje, aby ich kňaz predniesol jasne a nahlas a aby ich všetci
 pozorne počúvali.44 Preto kým ich kňaz vyslovuje, nech sa nekonajú iné modlitby alebo spevy, nech
-umĺkne aj organ a iné hudobné nástroje. Porov. TRIDENTSKÝ KONCIL, Sesia XXII, Náuka o obete svätej
-omše, kap. 1: DS 1740; porov. PAVOL VI., Slávnostné vyznanie viery, 30. júna 1968, č. 24: AAS 60
-(1968) s. 442. Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum
-concilium, č. 7.; PAVOL VI., encyklika Mysterium ﬁdei, 3. septembra 1965: AAS 57 (1965) s. 764;
-POSVÄTNÁ KONGREGÁCIA OBRADOV, inštrukcia Eucharisticum mysterium, 25. mája 1967, č. 9: AAS 59 (1967)
-s. 547. Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum concilium, č.
-56; POSVÄTNÁ KONGREGÁCIA OBRADOV, inštrukcia Eucharisticum mysterium, 25. mája 1967, č. 3: AAS 59
-(1967) s. 542. Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum
-concilium, č. 48, 51; dogmatická konštitúcia o Božom zjavení Dei verbum, č. 21; dekrét o účinkovaní
-a živote kňazov Presbyterorum ordinis, č. 4. Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej
-liturgii Sacrosanctum concilium, č. 7, 33, 52. Porov. tamže, č. 7, 33. Porov. POSVÄTNÁ KONGREGÁCIA
-OBRADOV, inštrukcia Musicam sacram, 5. marca l967, č. 14: AAS 59 (1967) s. 304. VŠEOBECNÉ SMERNICE
-RÍMSKEHO MISÁLA
+umĺkne aj organ a iné hudobné nástroje. Modlitby a iné časti omše, ktoré prináležia kňazovi
 
 ### §33
 
 Kňaz prednáša modlitby ako predsedajúci v mene celej Cirkvi a celého zhromaždeného spoločenstva,
 niekedy však iba vo svojom mene, aby svoju službu vykonal s väčšou pozornosťou a nábožnosťou. Tieto
 modlitby, ktoré sú pred čítaním evanjelia, pri príprave obetných darov, ako aj tie, ktoré sa
-uvádzajú pred kňazovým prijímaním a po ňom, hovorí potichu. Iné texty vyskytujúce sa pri celebrovaní
+uvádzajú pred kňazovým prijímaním a po ňom, hovorí potichu. b) iné sprevádzajú nejaký obrad, ako
+vstupný spev, spev pri príprave obetných darov, pri lámaní chleba (Baránok Boží) a spev na
+prijímanie. Spôsob prednesu rozličných textov
+
+#### De aliis formulis in celebratione occurrentibus
 
 ### §34
 
@@ -368,7 +371,7 @@ spoločného slávenia, ale podporujú a vytvárajú spojenie medzi kňazom a ľ
 
 Zvolania a odpovede veriacich na kňazove pozdravy a modlitby predstavujú taký stupeň činnej účasti,
 že ich zhromaždení veriaci majú vykonať v každom druhu omše, aby sa tak jasne vyjadrila a pestovala
-súčinnosť celého spoločenstva.47
+súčinnosť celého spoločenstva.47 Dôležitosť spevu
 
 ### §36
 
@@ -377,11 +380,9 @@ zvolanému zhromaždeniu, najmä úkon kajúcnosti, vyznanie viery, modlitba ver
 
 ### §37
 
-Napokon z iných textov: a) niektoré sú obradom alebo úkonom samým osebe, ako hymnus Sláva Bohu na
-výsostiach (Glória), responzóriový žalm, Aleluja a verš pred evanjeliom, oslava Trojsvätého
-(Sanktus), anamnetické zvolanie (po premenení), spev po prijímaní; b) iné sprevádzajú nejaký obrad,
-ako vstupný spev, spev pri príprave obetných darov, pri lámaní chleba (Baránok Boží) a spev na
-prijímanie. Spôsob prednesu rozličných textov
+Napokon z iných textov:
+
+#### De modis proferendi varios textus
 
 ### §38
 
@@ -390,7 +391,9 @@ prednes má zodpovedať ich povahe: podľa toho, či ide o čítanie, o modlitbu
 alebo o spev. Má zodpovedať aj forme slávenia a slávnostnému rázu zhromaždenia. Okrem toho treba mať
 na zreteli aj charakter jednotlivých jazykov a národov. Preto v nasledujúcich rubrikách a
 smerniciach výrazy „povedať“ alebo „predniesť“ treba rozumieť tak o speve, ako aj o recitácii podľa
-spomenutých zásad. Dôležitosť spevu
+spomenutých zásad. Iné texty vyskytujúce sa pri celebrovaní
+
+#### De momento cantus
 
 ### §39
 
@@ -404,7 +407,12 @@ a už za starodávna sa stalo príslovím: „Dva razy sa modlí, kto dobre spie
 Nech sa teda vysoko hodnotí spev pri slávení omše s prihliadaním na svojráz národov a na schopnosti
 jednotlivých liturgických zhromaždení. Hoci nie je záväzné, napríklad vo feriálnych omšiach, spievať
 vždy všetky texty, určené na spev, treba dbať na to, aby sa nevynechával spev služobníkov a ľudu v
-sláveniach, ktoré sa konajú v nedele a v prikázané sviatky. VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
+sláveniach, ktoré sa konajú v nedele a v prikázané sviatky. a) niektoré sú obradom alebo úkonom
+samým osebe, ako hymnus Sláva Bohu na výsostiach (Glória), responzóriový žalm, Aleluja a verš pred
+evanjeliom, oslava Trojsvätého (Sanktus), anamnetické zvolanie (po premenení), spev po prijímaní;
+Pri výbere textov, ktoré sa majú skutočne spievať, treba dať prednosť tým, ktoré sú dôležitejšie, a
+najmä tým, ktoré má spievať kňaz alebo diakon, či lektor a na ktoré odpovedá ľud, alebo ktoré má
+predniesť kňaz spolu s ľudom.4
 
 ### §41
 
@@ -414,6 +422,8 @@ pokiaľ zodpovedajú duchu liturgického úkonu a napomáhajú účasť všetký
 určité dni častejšie stretajú veriaci z rozličných národov, je vhodné, aby títo veriaci v ľahších
 nápevoch vedeli po latinsky spievať spoločne aspoň niektoré časti omšového poriadku, najmä vyznanie
 viery a Modlitbu Pána.51 Gestá a držanie tela
+
+#### De gestibus et corporis habitibus
 
 ### §42
 
@@ -446,15 +456,11 @@ podľa toho, ako je to určené v misáli.
 ### §44
 
 Ku gestám sa rátajú aj úkony a sprievody, keď kňaz s diakonom a posluhujúcimi prichádza k oltáru;
-keď diakon pred Porov. POSVÄTNÁ KONGREGÁCIA OBRADOV, inštrukcia Musicam sacram, 5. marca 1967, č. 7,
-16: AAS 59 (1967) s. 302, 305. Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii
-Sacrosanctum concilium, č. 116; tiež tamže, č. 30. Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o
-posvätnej liturgii Sacrosanctum concilium, č. 54; POSVÄTNÁ KONGREGÁCIA OBRADOV, inštrukcia Inter
-œcumenici, 26. septembra 1964, č. 59: AAS 56 (1964) s. 891; inštrukcia Musicam sacram, 5. marca 1967
-č. 47: AAS 59 (1967) s. 314. Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii,
-Sacrosanctum concilium, č. 30, 34; porov. tamže tiež č. 21. Porov. tamže, č. 40; KONGREGÁCIA PRE
-BOŽÍ KULT A DISCIPLÍNU SVIATOSTÍ, inštrukcia Varietates legitimæ, 25. januára 1994, č. 41: AAS 87
-(1995), s. 304. VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
+keď diakon pred ohlasovaním evanjelia prináša k ambóne evanjeliár alebo knihu evanjelií; keď veriaci
+prinášajú obetné dary a pristupujú k svätému prijímaniu. Sluší sa, aby tieto úkony a sprievody boli
+dôstojné, možno ich sprevádzať patričnými spevmi podľa smerníc pre jednotlivé úkony. Vstupný spev
+
+#### De silentio
 
 ### §45
 
@@ -463,8 +469,14 @@ v ktorom bode liturgického slávenia sa zachováva. Pri úkone kajúcnosti a po
 chvíľa ticha sústredene sa vnoriť do seba; po čítaniach alebo po homílii pomáha veriacim rozjímať o
 tom, čo počuli; po prijímaní umožňuje vnútornú modlitbu chvály a vďakyvzdania. Už pred vlastným
 slávením omše je chvályhodné zachovať posvätné ticho v kostole, sakristii a priľahlých priestoroch,
-aby sa všetci nábožne a náležite pripravili na slávenie posvätného úkonu. III. JEDNOTLIVÉ ČASTI
-SVÄTEJ OMŠE A) ÚVODNÉ OBRADY
+aby sa všetci nábožne a náležite pripravili na slávenie posvätného úkonu.
+
+#### III. DE SINGULIS MISSAE PARTIBUS
+
+#### A) Ritus initiales
+
+#### III. JEDNOTLIVÉ ČASTI 
+SVÄTEJ OMŠE
 
 ### §46
 
@@ -473,13 +485,16 @@ hymnus Sláva Bohu na výsostiach (Glória) a kolekta majú povahu začiatku, ú
 úlohou je utvoriť spoločenstvo zo zhromaždených veriacich a správne ich pripraviť na počúvanie
 Božieho slova a na dôstojné slávenie Eucharistie. V niektorých sláveniach, ktoré sa spájajú s omšou
 podľa smerníc liturgických kníh, sa vynechávajú úvodné obrady alebo sa vykonávajú osobitným
-spôsobom. Vstupný spev
+spôsobom.
+
+#### Introitus
 
 ### §47
 
 Keď sa ľud zišiel a prichádza kňaz s diakonom a posluhujúcimi, začína sa spievať vstupný spev. Tento
 spev otvára slávenie bohoslužby, utužuje jednotu zhromaždených, ich myseľ uvádza do tajomstva
-liturgického obdobia alebo slávnosti a sprevádza prichádzajúceho kňaza a jeho asistenciu.
+liturgického obdobia alebo slávnosti a sprevádza prichádzajúceho kňaza a jeho asistenciu. Posvätné
+ticho
 
 ### §48
 
@@ -490,7 +505,9 @@ Text tohto spevu nech je schválený konferenciou biskupov. Ak sa vstupný spev 
 antifónu uvedenú v misáli alebo veriaci, alebo niektorí z nich, alebo lektor, alebo ak to nie je
 možné, recituje ju sám kňaz, ktorý ju môže upraviť aj na spôsob úvodného povzbudenia (porov. č. 31).
 Na Slovensku sa môžu spievať piesne z Jednotného katolíckeho spevníka, ako ich vybrala Konferencia
-biskupov Slovenska. Pozdravenie oltára a zhromaždeného ľudu
+biskupov Slovenska.
+
+#### Salutatio altaris et populi congregati
 
 ### §49
 
@@ -501,14 +518,21 @@ Keď kňaz, diakoni a posluhujúci prídu do presbytéria, pozdravia oltár hlbo
 
 Po vstupnom speve kňaz, stojac pri sedadle, sa žehná znakom kríža spolu s celým zhromaždením; potom
 kňaz pozdravom oznamuje zhromaždenému spoločenstvu Pánovu prítomnosť. Týmto pozdravom a odpoveďou
-ľudu sa vyjadruje tajomstvo zhromaždenej Cirkvi. VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
+ľudu sa vyjadruje tajomstvo zhromaždenej Cirkvi. Po pozdravení ľudu môže kňaz, alebo diakon, alebo
+posluhujúci laik krátko uviesť veriacich do omše dňa. recitovať všetci spolu alebo si dva chóry
+navzájom odpovedajú. Spieva sa alebo recituje v nedele okrem adventných a pôstnych, na slávnosti a
+sviatky, ako aj pri osobitných slávnostnejších bohoslužbách. Úkon kajúcnosti
+
+#### Actus paenitentialis
 
 ### §51
 
 Potom kňaz vyzve všetkých na úkon kajúcnosti. Po krátkej chvíli ticha ho celé spoločenstvo vykoná
 formulou všeobecného vyznania hriechov a kňaz ho zakončí rozhrešením, ktoré však nemá účinok
 sviatosti pokánia. V nedeľu, najmä vo Veľkonočnom období, namiesto obvyklého úkonu kajúcnosti sa
-môže konať požehnanie vody a pokropenie vodou na pamiatku krstu.56 Pane, zmiluj sa – Kýrie eléison
+môže konať požehnanie vody a pokropenie vodou na pamiatku krstu.56 Kolekta
+
+#### Kyrie, eleison
 
 ### §52
 
@@ -517,10 +541,15 @@ kajúcnosti. Keďže je to spev, ktorým veriaci volajú k Pánovi a prosia ho o
 ho spievajú všetci, čiže má na ňom účasť ľud i zbor alebo kantor. Každé zvolanie sa opakuje
 spravidla dvakrát, nevylučuje sa však väčší počet podľa požiadavky rozličných jazykov, ako aj
 hudobného umenia alebo iných okolností. Keď sa vzývanie Pána spieva ako súčasť úkonu kajúcnosti,
-vsúva sa pred jednotlivé zvolania „tropus“. Hymnus Sláva Bohu na výsostiach (Glória) recitovať
-všetci spolu alebo si dva chóry navzájom odpovedajú. Spieva sa alebo recituje v nedele okrem
-adventných a pôstnych, na slávnosti a sviatky, ako aj pri osobitných slávnostnejších bohoslužbách.
-Kolekta
+vsúva sa pred jednotlivé zvolania „tropus“. – ak sa obracia na Otca: Skrze nášho Pána Ježiša Krista,
+tvojho Syna, ktorý je Boh a s tebou žije a kraľuje v jednote Ducha Svätého po všetky veky vekov; –
+ak sa obracia na Otca, ale na konci sa v nej spomína Syn: Lebo on je Boh a s tebou žije a kraľuje v
+jednote Ducha Svätého po všetky veky vekov; – ak sa obracia na Syna: Lebo ty si Boh a žiješ a
+kraľuješ s Bohom Otcom v jednote Ducha Svätého po všetky veky vekov. Ľud sa pripája k modlitbe a
+zvolaním Amen si ju osvojuje. V omši sa prednáša vždy len jediná kolekta. Hymnus Sláva Bohu na
+výsostiach (Glória) B) LITURGIA SLOVA
+
+#### Gloria in excelsis
 
 ### §53
 
@@ -529,31 +558,31 @@ Svätom, oslavuje a vzýva Boha Otca a Baránka. Text tohto hymnu sa nemôže za
 kňaz, alebo ak je to vhodné kantor, alebo zbor. Spieva ho celé zhromaždenie súčasne alebo ľud
 striedavo so zborom, alebo sám zbor. Ak sa nespieva, majú ho
 
+#### Collecta
+
 ### §54
 
 Potom kňaz vyzve ľud na modlitbu. Všetci spolu s ním chvíľku mlčia, aby si uvedomili, že stoja pred
 Bohom, a aby si v mysli mohli zhrnúť svoje prosby. Potom kňaz prednesie modlitbu, ktorá sa zvyčajne
 volá „kolekta“; ňou sa vyjadruje povaha bohoslužby. Podľa pradávnej tradície Cirkvi sa táto modlitba
-spravidla obracia k Bohu Otcovi skrze Krista v Duchu Svätom57 a končí sa trojičným, to znamená
-dlhším záverom, týmto spôsobom: – ak sa obracia na Otca: Skrze nášho Pána Ježiša Krista, tvojho
-Syna, ktorý je Boh a s tebou žije a kraľuje v jednote Ducha Svätého po všetky veky vekov; – ak sa
-obracia na Otca, ale na konci sa v nej spomína Syn: Lebo on je Boh a s tebou žije a kraľuje v
-jednote Ducha Svätého po všetky veky vekov; – ak sa obracia na Syna: Lebo ty si Boh a žiješ a
-kraľuješ s Bohom Otcom v jednote Ducha Svätého po všetky veky vekov. Ľud sa pripája k modlitbe a
-zvolaním Amen si ju osvojuje. V omši sa prednáša vždy len jediná kolekta. B) LITURGIA SLOVA
+spravidla obracia k Bohu Otcovi skrze Krista v Duchu Svätom a končí sa trojičným, to znamená dlhším
+záverom, týmto spôsobom: Pane, zmiluj sa – Kýrie eléison
+
+#### B) Liturgia verbi
 
 ### §55
 
 Hlavnú časť liturgie slova tvoria čítania zo Svätého písma s medzispevmi. Homília, vyznanie viery a
 spoločná modlitba, čiže modlitba veriacich, ju rozvíjajú a zakončujú. V čítaniach, ktoré potom
 vysvetľuje homília, Boh hovorí k svojmu ľudu,58 zjavuje tajomstvo vykúpenia a spásy a poskytuje
-duchovný pokrm. Ba vo svojom Porov. nižšie, Dodatok II, Obrad požehnania vody a pokropenia ľudu, s.
-1611 – 1615. Porov. TERTULIÁN, Adversus Marcionem, IV, 9: CCSL 1, s. 560; ORIGENES, Disputatio cum
-Heracleida, č. 4, 24: SCh 67, s. 62; Statuta Concilii Hipponensis Breviata, 21: CCSL 149, s. 39.
-Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum concilium, č. 33.
-VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA iný schopný lektor, celebrujúci kňaz prednáša aj ostatné čítania.
-Po jednotlivých čítaniach ten, ktorý číta, prednesie aklamáciu, na ktorú zhromaždený ľud odpoveďou
+duchovný pokrm. Ba vo svojom slove je sám Kristus prítomný uprostred veriacich.59 Toto Božie slovo
+si ľud osvojuje posvätným tichom a spevmi a vnútorný súhlas s ním vyjadruje aj vyznaním viery.
+Napokon ľud, posilnený Božím slovom, v modlitbe veriacich prednáša svoje prosby za potreby celej
+Cirkvi a za spásu sveta. iný schopný lektor, celebrujúci kňaz prednáša aj ostatné čítania. Po
+jednotlivých čítaniach ten, ktorý číta, prednesie aklamáciu, na ktorú zhromaždený ľud odpoveďou
 preukáže úctu Božiemu slovu, ktoré prijal s vierou a vnútornou vďačnosťou. Posvätné ticho
+
+#### Silentium
 
 ### §56
 
@@ -562,14 +591,16 @@ forme náhlenia, ktoré prekáža sústredeniu. Na to sú vhodné aj krátke chv
 prispôsobené zhromaždenému spoločenstvu. V tichu sa pôsobením Ducha Svätého Božie slovo srdcom
 prijíma a odpoveď sa pripravuje modlitbou. Tieto chvíle posvätného ticha sa vhodne môžu zachovať,
 napríklad pred samým začatím liturgie slova, po prvom a druhom čítaní a napokon po skončení
-homílie.60 Biblické čítania
+homílie.60 Responzóriový žalm
+
+#### Lectiones biblicae
 
 ### §57
 
 V čítaniach sa veriacim pripravuje stôl Božieho slova a otvárajú sa im biblické poklady.61 Je preto
 lepšie zachovať usporiadanie biblických čítaní, aby osvetlilo jednotu oboch Zákonov a dejín spásy;
 nie je dovolené čítania a responzóriový žalm, ktoré obsahujú Božie slovo, zamieňať inými
-nebiblickými textami.62
+nebiblickými textami.6
 
 ### §58
 
@@ -579,8 +610,10 @@ V slávení omše s účasťou ľudu sa majú čítania prednášať vždy z amb
 
 Podľa tradície úloha prednášať čítania nie je predsednícka, ale služobná. Čítania preto prednáša
 lektor, evanjelium však ohlasuje diakon, alebo ak diakon nie je prítomný, tak iný kňaz. Ak však nie
-je prítomný diakon alebo iný kňaz, číta evanjelium sám celebrujúci kňaz; podobne keď chýba
-Responzóriový žalm
+je prítomný diakon alebo iný kňaz, číta evanjelium sám celebrujúci kňaz; podobne keď chýba vhodnejší
+na podporenie meditácie Božieho slova. Namiesto žalmu vyznačeného v lekcionári sa môže spievať aj
+responzórium graduála z Rímskeho graduála alebo responzóriový či alelujový žalm z Jednoduchého
+graduála, ako ich uvádzajú spomenuté knihy.
 
 ### §60
 
@@ -589,6 +622,8 @@ Responzóriový žalm
 jeho ohlasovanie určuje služobníka, ktorý sa na vykonanie služby pripravuje požehnaním alebo
 modlitbou, jednak tým, že veriaci stoja a aklamáciami uznávajú a hlásajú, že Kristus je medzi nimi a
 k nim hovorí, a napokon aj tým, že sa evanjeliáru preukazujú osobitné prejavy úcty.
+
+#### Psalmus responsorius
 
 ### §61
 
@@ -600,11 +635,9 @@ spievať, aspoň responzórium, ktoré prislúcha ľudu. Preto žalmista, čiže
 zúčastňuje spievaním responzória, ak sa žalm neprednáša súvisle, t. j. bez responzória. Aby však ľud
 mohol ľahšie zaspievať odpoveď na žalm, vybrali sa niektoré odpovede a žalmy na rozličné obdobia v
 roku a na rozličné druhy sviatkov; tieto sa môžu použiť namiesto textu zodpovedajúceho čítaniu vždy,
-keď sa žalm spieva. Ak sa žalm nemôže spievať, recituje sa spôsobom, ktorý je VŠEOBECNÉ SMERNICE
-RÍMSKEHO MISÁLA vhodnejší na podporenie meditácie Božieho slova. Namiesto žalmu vyznačeného v
-lekcionári sa môže spievať aj responzórium graduála z Rímskeho graduála alebo responzóriový či
-alelujový žalm z Jednoduchého graduála, ako ich uvádzajú spomenuté knihy. Zvolanie pred čítaním
-evanjelia
+keď sa žalm spieva. Ak sa žalm nemôže spievať, recituje sa spôsobom, ktorý je Biblické čítania
+
+#### Acclamatio ante lectionem Evangelii
 
 ### §62
 
@@ -612,27 +645,25 @@ Po čítaní, ktoré bezprostredne predchádza evanjelium, sa spieva Aleluja ale
 rubrikami, ako si to vyžaduje liturgické obdobie. Toto zvolanie vytvára obrad či vlastný úkon; ním
 zhromaždenie veriacich prijíma Pána, ktorý bude k nemu hovoriť v evanjeliu, aj ho pozdravuje a
 vyznáva svoju vieru spevom. Zbor alebo kantor predspevujú, všetci spievajú postojačky, a ak treba
-opakujú; verš však spieva zbor alebo kantor. a) Aleluja sa spieva v každom období okrem Pôstneho.
-Verše sa berú z lekcionára alebo z graduála. b) V Pôstnom období sa spieva miesto Aleluja verš pred
-evanjeliom vyznačený v lekcionári. Môže sa spievať aj iný žalm alebo traktus, ako sa nachádza v
-graduáli.
+opakujú; verš však spieva zbor alebo kantor.
 
 ### §63
 
-Keď je pred evanjeliom iba jedno čítanie: c) v období, keď sa používa Aleluja, možno vziať alelujový
-žalm alebo žalm a Aleluja so svojím veršom; d) v období, keď sa Aleluja nepoužíva, možno použiť žalm
-a verš pred evanjeliom alebo len žalm. e) Aleluja alebo verš pred evanjeliom, ak sa nespieva, môže
-sa vynechať.
+Keď je pred evanjeliom iba jedno čítanie: Vyznanie viery – Krédo c) v období, keď sa používa
+Aleluja, možno vziať alelujový žalm alebo žalm a Aleluja so svojím veršom;
 
 ### §64
 
 Sekvencia je okrem dní Veľkej noci a Turíc nezáväzná a spieva sa pred Aleluja. Homília
+
+#### Homilia
 
 ### §65
 
 Homília je súčasťou liturgie a veľmi sa odporúča.63 Je totiž nevyhnutná na zveľadenie kresťanského
 života. Má byť výkladom niektorého bodu Svätého písma, ktoré sa číta, alebo iného textu ordinária
 alebo propria omše dňa so zreteľom na slávené tajomstvo alebo na osobitné potreby poslucháčov.64
+Zvolanie pred čítaním evanjelia
 
 ### §66
 
@@ -642,29 +673,33 @@ náležitých dôvodov môže predniesť homíliu aj biskup alebo kňaz, ktorý 
 nemôže koncelebrovať. V nedele a prikázané sviatky má byť homília vo všetkých omšiach, ktoré sa
 slávia za účasti ľudu, a môže sa vynechať iba z vážnej príčiny; odporúča sa aj v iných dňoch, najmä
 vo všedné dni Adventného, Pôstneho a Veľkonočného obdobia, ako aj v iné sviatky a vtedy, keď sa zíde
-v kostole viac ľudí.66 Je vhodné po homílii zachovať krátku chvíľu posvätného ticha. Vyznanie viery
-– Krédo
+v kostole viac ľudí.66 Je vhodné po homílii zachovať krátku chvíľu posvätného ticha. a) Aleluja sa
+spieva v každom období okrem Pôstneho. Verše sa berú z lekcionára alebo z graduála. b) V Pôstnom
+období sa spieva miesto Aleluja verš pred evanjeliom vyznačený v lekcionári. Môže sa spievať aj iný
+žalm alebo traktus, ako sa nachádza v graduáli.
+
+#### Professio fidei
 
 ### §67
 
 Symbol, čiže vyznanie viery, vedie k tomu, aby všetok zhromaždený ľud odpovedal na Božie slovo
 zvestované v čítaniach zo Svätého písma a vysvetlené v homílii a aby prednášaním pravidla viery,
-formulou schválenou na liturgické použitie, spomínal Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o
-posvätnej liturgii Sacrosanctum concilium, č. 52; porov. Kódex kánonického práva, kán. 767 § 1.
-Porov. POSVÄTNÁ KONGREGÁCIA OBRADOV, inštrukcia Inter œcumenici, 26. septembra 1964, č. 54: AAS 56
-(1964) s. 890. Porov. Kódex kánonického práva, kán. 767 § 1; PÁPEŽSKÁ KOMISIA NA AUTENTICKÉ
-VYSVETĽOVANIE KÓDEXU KÁNONICKÉHO PRÁVA, odpoveď na pochybnosť okolo kán. 767 § 1: AAS 79 (1987) s.
-1249; Medzidikasteriálna inštrukcia o niektorých otázkach okolo očakávanej spolupráce veriacich
-laikov v kňazskej službe, Ecclesiæ de mysterio, 15. augusta 1997, čl. 3: AAS 89 (1997), s. 864.
-Porov. POSVÄTNÁ KONGREGÁCIA OBRADOV, inštrukcia Inter œcumenici, 26. septembra 1964, č. 53: AAS 56
-(1964) s. 890. VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
+formulou schválenou na liturgické použitie, spomínal d) v období, keď sa Aleluja nepoužíva, možno
+použiť žalm a verš pred evanjeliom alebo len žalm. e) Aleluja alebo verš pred evanjeliom, ak sa
+nespieva, môže sa vynechať. a vyznával veľké tajomstvá viery, prv ako by sa začalo ich slávenie v
+Eucharistii. né s rozumnou slobodou a krátke, aby vyzdvihli prosby celého spoločenstva. Úmysly
+prednáša z ambóny prípadne iného vhodného miesta diakon, kantor, lektor alebo veriaci laik.68 Ľud
+postojačky vyjadrí svoju prosbu alebo spoločným zvolaním po prednesení jednotlivých úmyslov, alebo
+tichou modlitbou.
 
 ### §68
 
 Vyznanie viery má spievať alebo prednášať kňaz s ľudom v nedele a na slávnosti. Možno ho však
 odriekať aj pri slávnostnejších bohoslužbách. Ak sa spieva, začína ho kňaz, alebo ak je to vhodné,
 kantor alebo zbor, spievajú ho však všetci spolu, alebo ľud striedavo so zborom. Ak sa nespieva,
-recitujú ho všetci spolu alebo dva zbory si navzájom odpovedajú. Modlitba veriacich
+recitujú ho všetci spolu alebo dva zbory si navzájom odpovedajú. C) LITURGIA EUCHARISTIE
+
+#### Oratio universalis
 
 ### §69
 
@@ -672,19 +707,26 @@ Vo všeobecnej modlitbe, čiže v modlitbe veriacich, keď ľud vierou prijal Bo
 spôsobom naň odpovedá a vykonáva úlohu svojho krstného kňazstva, prináša Bohu prosby za spásu
 všetkých. Treba, aby sa táto modlitba spravidla konala pri omšiach za účasti ľudu, a to tak, že sa
 prednášajú prosby za svätú Cirkev, za svetskú vrchnosť, za sužovaných rozličnými ťažkosťami, ako aj
-za všetkých ľudí a za spásu celého sveta.67
+za všetkých ľudí a za spásu celého sveta.67 1) Pri príprave darov sa na oltár prináša chlieb a víno
+s vodou, čiže tie prvky, ktoré Kristus vzal do svojich rúk.
 
 ### §70
 
-Poradie prosieb je spravidla toto: a) za potreby Cirkvi, b) za svetskú vrchnosť a za spásu sveta, c)
-za sužovaných ťažkosťami každého druhu, d) za miestne spoločenstvo. Pri osobitnej slávnosti, ako je
-birmovanie, sobáš, pohreb, možno však v poradí úmyslov uprednostniť tie, ktoré sa vzťahujú na
+Poradie prosieb je spravidla toto: 2) V eucharistickej modlitbe sa vzdáva Bohu vďaka za celé dielo
+spásy a obetované dary sa stávajú Kristovým Telom a Krvou. a) za potreby Cirkvi, b) za svetskú
+vrchnosť a za spásu sveta, c) za sužovaných ťažkosťami každého druhu, d) za miestne spoločenstvo. 3)
+V lámaní chleba a v prijímaní veriacich, hoci mnohí, z jedného chleba prijímajú Telo a Krv Pána z
+jedného kalicha takisto, ako ich kedysi prijímali apoštoli z rúk Krista. Pri osobitnej slávnosti,
+ako je birmovanie, sobáš, pohreb, možno však v poradí úmyslov uprednostniť tie, ktoré sa vzťahujú na
 osobitnú príležitosť.
 
 ### §71
 
 Modlitbu riadi celebrujúci kňaz od sedadla. Sám ju krátkym povzbudením uvedie, a tým vyzve veriacich
-na modlitbu a sám ju modlitbou zakončí. Úmysly, ktoré sa prednášajú, majú byť triezve, vytvore67
+na modlitbu a sám ju modlitbou zakončí. Úmysly, ktoré sa prednášajú, majú byť triezve,
+vytvorePríprava darov
+
+#### C) Liturgia eucharistica
 
 ### §72
 
@@ -693,28 +735,24 @@ sprítomňuje obeta kríža, keď kňaz, zastupujúci Krista Pána, koná to ist
 prikázal učeníkom robiť na svoju pamiatku.69 Kristus totiž vzal chlieb a kalich, vzdal vďaky, lámal
 chlieb, dal ho učeníkom, hovoriac: Vezmite, jedzte, pite: toto je moje Telo, toto je kalich mojej
 Krvi. Toto robte na moju pamiatku. Preto Cirkev usporiadala celé slávenie liturgie Eucharistie tak,
-aby jej jednotlivé časti zodpovedali Kristovým slovám a úkonom, a to takto: 1) Pri príprave darov sa
-na oltár prináša chlieb a víno s vodou, čiže tie prvky, ktoré Kristus vzal do svojich rúk. 2) V
-eucharistickej modlitbe sa vzdáva Bohu vďaka za celé dielo spásy a obetované dary sa stávajú
-Kristovým Telom a Krvou. 3) V lámaní chleba a v prijímaní veriacich, hoci mnohí, z jedného chleba
-prijímajú Telo a Krv Pána z jedného kalicha takisto, ako ich kedysi prijímali apoštoli z rúk Krista.
-Príprava darov
+aby jej jednotlivé časti zodpovedali Kristovým slovám a úkonom, a to takto: Modlitba veriacich
+
+#### Praeparatio donorum
 
 ### §73
 
 Na začiatku liturgie Eucharistie sa k oltáru prinášajú dary, ktoré sa stanú Kristovým Telom a Krvou.
-Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum concilium, č. 53.
-Porov. POSVÄTNÁ KONGREGÁCIA OBRADOV, inštrukcia Inter œcumenici, 26. septembra 1964, č. 56: AAS 56
-(1964) s. 890. Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum
-concilium, č. 47; POSVÄTNÁ KONGREGÁCIA OBRADOV, inštrukcia Eucharisticum mysterium, 25. mája 1967,
-č. 3a, b: AAS 59 (1967) s. 540 – 541. VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA Predovšetkým sa pripraví
-oltár, čiže stôl Pána, ktorý je stredom celej eucharistickej liturgie.70 Položí sa naň korporál,
-purifikatórium, misál a kalich, ak sa nepripravuje pri stolíku (abakuse). Potom sa prinášajú obetné
-dary. Je chvályhodné, keď veriaci sami prinášajú chlieb a víno. Kňaz alebo diakon ich prevezme na
-vhodnom mieste, aby ich priniesol na oltár. Hoci chlieb a víno, určené na bohoslužbu, veriaci už
-neprinášajú zo svojho ako kedysi, jednak obrad prinášania darov si zachováva duchovnú silu a význam.
-Možno prijať aj peniaze alebo iné dary pre chudobných alebo na kostol, ktoré veriaci prinášajú alebo
-ktoré sa vyberajú v kostole. Kladú sa na vhodné miesto mimo eucharistického stola.
+Predovšetkým sa pripraví oltár, čiže stôl Pána, ktorý je stredom celej eucharistickej liturgie.70
+Položí sa naň korporál, purifi katórium, misál a kalich, ak sa nepripravuje pri stolíku (abakuse).
+Potom sa prinášajú obetné dary. Je chvályhodné, keď veriaci sami prinášajú chlieb a víno. Kňaz alebo
+diakon ich prevezme na vhodnom mieste, aby ich priniesol na oltár. Hoci chlieb a víno, určené na
+bohoslužbu, veriaci už neprinášajú zo svojho ako kedysi, jednak obrad prinášania darov si zachováva
+duchovnú silu a význam. Možno prijať aj peniaze alebo iné dary pre chudobných alebo na kostol, ktoré
+veriaci prinášajú alebo ktoré sa vyberajú v kostole. Kladú sa na vhodné miesto mimo eucharistického
+stola. vu obetných darov a začne sa eucharistická modlitba. V omši sa hovorí jediná modlitba nad
+obetnými darmi, ktorá sa zakončuje kratším záverom: Skrze Krista, nášho Pána. Ak sa v jej závere
+spomína Syn, končí sa: Lebo on žije a kraľuje na veky vekov. Ľud sa pripája k modlitbe a zvolaním
+Amen si ju osvojuje. Eucharistická modlitba
 
 ### §74
 
@@ -728,21 +766,32 @@ obetné dary.
 Chlieb a víno kladie kňaz na oltár a úkon sprevádza stanovenými formulami. Keď kňaz položí dary na
 oltár, môže ich incenzovať, potom incenzuje kríž, ako aj oltár, aby sa naznačilo, že obeta Cirkvi a
 jej modlitba vystupujú ako vôňa kadidla pred Božiu tvár. Potom môže diakon alebo iný posluhujúci
-incenzovať kňaza pre jeho posvätný úrad a ľud z dôvodu krstnej hodnosti.
+incenzovať kňaza pre jeho posvätný úrad a ľud z dôvodu krstnej hodnosti. a) Vzdávanie vďaky
+(vyjadruje ho najmä prefácia – pieseň vďaky): ním kňaz v mene všetkého svätého ľudu oslavuje Boha
+Otca a ďakuje mu za celé dielo spásy alebo za nejaký osobitný aspekt diela spásy podľa dňa, sviatku
+alebo obdobia. b) Zvolanie – ktorým sa celé zhromaždenie pripája k nebeským zástupom a spieva Svätý.
+Toto zvolanie je súčasťou eucharistickej modlitby a vyslovuje ho všetok ľud spolu s kňazom.
 
 ### §76
 
-Potom si kňaz umýva ruky na boku oltára; týmto obradom sa naznačuje túžba po vnútornom očistení.
-Modlitba nad obetnými darmi
+Potom si kňaz umýva ruky na boku oltára; týmto obradom sa naznačuje túžba po vnútornom očistení. c)
+Epikléza: ňou Cirkev osobitnými výzvami prosí, aby mocou Ducha Svätého boli posvätené obetné dary
+ľudu, čiže aby sa stali Kristovým Telom a Krvou, a aby nepoškvrnená obeť bola na spásu tým, čo budú
+mať na nej účasť pri svätom prijímaní. Modlitba nad obetnými darmi
+
+#### Oratio super oblata
 
 ### §77
 
 Po položení obetných darov na oltár a po vykonaní sprievodných obradov kňaz vyzve veriacich, aby sa
-s ním modlili. Modlitba nad obetnými darmi uzatvára prípra70 vu obetných darov a začne sa
-eucharistická modlitba. V omši sa hovorí jediná modlitba nad obetnými darmi, ktorá sa zakončuje
-kratším záverom: Skrze Krista, nášho Pána. Ak sa v jej závere spomína Syn, končí sa: Lebo on žije a
-kraľuje na veky vekov. Ľud sa pripája k modlitbe a zvolaním Amen si ju osvojuje. Eucharistická
-modlitba
+s ním modlili. Modlitba nad obetnými darmi uzatvára príprad) Opis ustanovenia Eucharistie a
+konsekrácia: slovami a úkonmi Krista sa koná obeta, ktorú Kristus ustanovil pri Poslednej večeri,
+keď pod spôsobmi chleba a vína obetoval svoje Telo a Krv a dal ich za pokrm a nápoj apoštolom a
+prikázal im nepretržite sláviť toto tajomstvo. e) Anamnéza: ňou Cirkev, plniac príkaz, ktorý
+prostredníctvom apoštolov dostala od Krista Pána, koná pamiatku Krista a pripomína si jeho požehnané
+umučenie, slávne zmŕtvychvstanie a nanebovstúpenie. Modlitba Pána
+
+#### Prex eucharistica
 
 ### §78
 
@@ -755,23 +804,22 @@ si vyžaduje, aby ju všetci počúvali v tichosti a pozorne.
 
 ### §79
 
-Hlavné prvky, z ktorých sa skladá eucharistická modlitba, možno rozdeliť takto: a) Vzdávanie vďaky
-(vyjadruje ho najmä prefácia – pieseň vďaky): ním kňaz v mene všetkého svätého ľudu oslavuje Boha
-Otca a ďakuje mu za celé dielo spásy alebo za nejaký osobitný aspekt diela spásy podľa dňa, sviatku
-alebo obdobia. b) Zvolanie – ktorým sa celé zhromaždenie pripája k nebeským zástupom a spieva Svätý.
-Toto zvolanie je súčasťou eucharistickej modlitby a vyslovuje ho všetok ľud spolu s kňazom. c)
-Epikléza: ňou Cirkev osobitnými výzvami prosí, aby mocou Ducha Svätého boli posvätené obetné dary
-ľudu, čiže aby sa stali Kristovým Telom a Krvou, a aby nepoškvrnená obeť bola na spásu tým, čo budú
-mať na nej účasť pri svätom prijímaní. Porov. POSVÄTNÁ KONGREGÁCIA OBRADOV, inštrukcia Inter
-œcumenici, 26. septembra 1964, č. 91: AAS 56 (1964) s. 898; inštrukcia Eucharisticum mysterium, 25.
-mája 1967, č. 24: AAS 59 (1967) s. 554. VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
+Hlavné prvky, z ktorých sa skladá eucharistická modlitba, možno rozdeliť takto:
+
+#### Ritus Communionis
 
 ### §80
 
 Keďže eucharistická slávnosť je veľkonočnou hostinou, je prospešné, aby podľa Pánovho príkazu
 veriaci dostatočne pripravení prijali jeho Telo a Krv ako duchovný pokrm. Na to poukazuje lámanie
-chleba a iné prípravné obrady, ktorými sa veriaci bezprostredne pripravujú na prijímanie. Modlitba
-Pána
+chleba a iné prípravné obrady, ktorými sa veriaci bezprostredne pripravujú na prijímanie.
+dôležitosť. Tento obrad je vyhradený kňazovi a diakonovi. Kňaz láme chlieb a časť hostie vpustí do
+kalicha na znak jednoty Tela a Krvi Pána v diele spásy, totiž Tela Ježiša Krista živého a
+osláveného. Podľa zvyku zbor alebo kantor spieva, alebo aspoň nahlas recituje prosbu Baránok Boží,
+pričom ľud nato odpovedá. Táto prosba sprevádza lámanie chleba a môže sa opakovať viackrát až do
+skončenia obradu. Posledný raz sa zakončí slovami daruj nám pokoj.
+
+#### Oratio dominica
 
 ### §81
 
@@ -780,14 +828,26 @@ chlieb, a prosíme o očistenie od hriechov, aby sa sväté veci dávali naozaj 
 modlitbu a všetci veriaci sa spolu s kňazom modlia Modlitbu Pána; potom sám kňaz pripája embolizmus,
 ktorý ľud uzaviera doxológiou. Embolizmus rozvíja poslednú prosbu Modlitby Pána; prosí, aby celé
 spoločenstvo veriacich bolo zbavené moci zla. Výzva, vlastná Modlitba Pána, embolizmus a doxológia,
-ktorou ho ľud zakončuje, sa spievajú alebo nahlas recitujú. Obrad pokoja
+ktorou ho ľud zakončuje, sa spievajú alebo nahlas recitujú. f) Obetovanie: ním v spomínanej pamiatke
+Cirkev, a to najmä tá, ktorá je tu teraz zhromaždená, prináša v Duchu Svätom Otcovi nepoškvrnenú
+obetu. Cirkev si však želá, aby veriaci prinášali nielen nepoškvrnenú obetu, ale aby sa učili
+obetovať aj samých seba,71 aby sa prostredníctvom Krista zo dňa na deň zdokonaľovali v spojení s
+Bohom a medzi sebou, a tak aby napokon Boh bol všetko vo všetkých.72 Obrad pokoja
+
+#### Ritus pacis
 
 ### §82
 
 Nasleduje obrad pokoja, ktorým Cirkev vyprosuje pokoj a jednotu pre seba a pre celú ľudskú rodinu a
 veriaci si prejavujú cirkevné spoločenstvo a vzájomnú lásku prv, ako prijmú sviatosť. Spôsob, ako si
 dávať znak pokoja, nech ustália konferencie biskupov podľa povahy a zvykov príslušných národov. Je
-však vhodné, aby každý naznačil znak pokoja triezvo iba najbližšie stojacim. Lámanie chleba
+však vhodné, aby každý naznačil znak pokoja triezvo iba najbližšie stojacim. g) Príhovory: nimi sa
+vyjadruje, že Eucharistia sa slávi v spoločenstve s celou Cirkvou, nebeskou i pozemskou, a že sa
+obeta koná za ňu a za všetkých jej členov, živých i mŕtvych, povolaných na účasť na vykúpení a na
+spásu získanú Telom a Krvou Krista. Lámanie chleba h) Záverečná doxológia: ňou sa vyjadruje oslava
+Boha: ľud ju zvolaním Amen potvrdzuje a zakončuje.
+
+#### Fractio panis
 
 ### §83
 
@@ -796,7 +856,9 @@ chleba, ktorý konal Kristus pri Poslednej večeri, dal v apoštolských časoch
 eucharistickej obete. Naznačuje, že mnohí veriaci sa stávajú jedným telom prijímaním z jedného
 chleba života, ktorým je Kristus. On pre spásu sveta zomrel a vstal z mŕtvych (1 Kor 10, 17).
 Lámanie chleba sa začína po odovzdaní znaku pokoja a nech sa koná s príslušnou dôstojnosťou, nech sa
-však zbytočne nepredlžuje a nevenuje sa mu neprimeraná VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
+však zbytočne nepredlžuje a nevenuje sa mu neprimeraná Obrad prijímania
+
+#### Communio
 
 ### §84
 
@@ -810,7 +872,9 @@ prijať sviatosť.
 
 Veľmi sa žiada, aby veriaci prijímali Pánovo Telo z hostií premenených v tej istej omši, tak ako je
 viazaný konať aj sám kňaz, a aby v určených prípadoch mali účasť na kalichu (porov. č. 283). Tak sa
-aj znakmi lepšie vyjadrí, že prijímanie je účasťou na obete, ktorá sa práve koná.73
+aj znakmi lepšie vyjadrí, že prijímanie je účasťou na obete, ktorá sa práve koná.73 – ak sa obracia
+na Otca: Skrze Krista, nášho Pána; – ak sa obracia na Otca, ale na konci sa v nej spomína Syn: Lebo
+on žije a kraľuje na veky vekov; – ak sa obracia na Syna: Lebo ty žiješ a kraľuješ na veky vekov;
 
 ### §86
 
@@ -818,7 +882,7 @@ Kým kňaz prijíma sviatosť, začína sa spev na prijímanie. Tento spev má j
 duchovnú jednotu prijímajúcich, prejaviť radosť srdca a väčšmi osvetliť „komunitárnu“ povahu
 sprievodu k prijatiu Eucharistie. Spev pokračuje dokiaľ sa vysluhuje veriacim sviatosť.74 Ak sa má
 však po prijímaní spievať hymnus, nech sa spev na prijímanie včas zakončí. Treba dbať na to, aby aj
-speváci mohli pohodlne prijímať.
+speváci mohli pohodlne prijímať. Ľud si modlitbu osvojí zvolaním Amen. D) ZÁVEREČNÉ OBRADY
 
 ### §87
 
@@ -838,19 +902,26 @@ dobré, celé zhromaždenie môže spievať aj žalm, nejaký chválospev alebo 
 
 Na doplnenie prosieb Božieho ľudu, ako aj na zakončenie celého obradu prijímania, kňaz prednesie
 modlitbu po prijímaní, v ktorej prosí o ovocie sláveného tajomstva. V omši sa hovorí jediná modlitba
-po prijímaní, ktorá sa zakončuje krátkym záverom, to je: – ak sa obracia na Otca: Skrze Krista,
-nášho Pána; – ak sa obracia na Otca, ale na konci sa v nej spomína Syn: Lebo on žije a kraľuje na
-veky vekov; – ak sa obracia na Syna: Lebo ty žiješ a kraľuješ na veky vekov; Ľud si modlitbu osvojí
-zvolaním Amen. D) ZÁVEREČNÉ OBRADY
+po prijímaní, ktorá sa zakončuje krátkym záverom, to je:
+
+#### D) Ritus conclusionis
 
 ### §90
 
 Záverečné obrady obsahujú: a) krátke oznamy, ak sú potrebné; b) pozdrav a požehnanie kňaza, ktoré sa
-v niektoré dni a príležitosti obohacuje Porov. POSVÄTNÁ KONGREGÁCIA OBRADOV, inštrukcia
-Eucharisticum mysterium, 25. mája 1967, č. 31, 32: AAS 59 (1967) s. 558 – 559; POSVÄTNÁ KONGREGÁCIA
-PRE DISCIPLÍNU SVIATOSTÍ, inštrukcia Immensæ caritatis,
+v niektoré dni a príležitosti obohacuje a vyjadruje modlitbou nad ľudom alebo inou slávnostnejšou
+formou; slávil Eucharistiu a pri slávení omše si pridružil kňazov ako koncelebrantov. Je to tak
+nielen preto, aby sa zvýšila vonkajšia slávnostnosť obradu, ale aby sa tým v plnšom svetle vyjadrilo
+tajomstvo Cirkvi, „sviatosť jednoty“.79 Ak však biskup neslávi Eucharistiu, ale poveruje tým iného,
+vtedy je vhodné, aby s náprsným krížom, štólou a pluviálom oblečeným na albe sám viedol liturgiu
+slova a na konci omše udelil požehnanie.80 c) prepustenie ľudu diakonom alebo kňazom s povzbudením,
+aby sa každý odobral do svojej práce chváliac a oslavujúc Boha; d) pobozkanie oltára kňazom a
+diakonom; potom kňaz, diakon a ostatní posluhujúci pozdravia oltár hlbokým úklonom.
 
-## Kapitola III: Povinnosti a služby pri svätej omši
+
+## Chapter III: Duties and Ministries in the Mass
+
+#### Caput III DE OFFICIIS ET MINISTERIIS IN MISSA
 
 ### §91
 
@@ -860,12 +931,21 @@ vedením biskupa. Preto prináleží celému telu Cirkvi, robí ho zjavným a vp
 ľud, ktorý je „vyvolený rod, kráľovské kňazstvo, svätý národ, jeho vlastný ľud“, tým vyjadruje svoje
 nepretržité a hierarchické usporiadanie.76 Pri liturgických úkonoch nech každý, tak vysvätení
 služobníci, ako aj veriaci, ktorí zastávajú úrad alebo službu, konajú len to a všetko to, čo im
-prináleží.77 I. O POVINNOSTIACH A SLUŽBÁCH VYSVÄTENÝCH OSÔB
+prináleží.7
+
+#### I. DE OFFICIIS ORDINIS SACRI
+
+#### I. O POVINNOSTIACH A SLUŽBÁCH 
+VYSVÄTENÝCH OSÔB
 
 ### §92
 
 Každé zákonité slávenie Eucharistie riadi biskup osobne alebo prostredníctvom kňazov, svojich
 pomocníkov.78 Keď je biskup prítomný na omši, ktorá sa slávi za účasti ľudu, jemu najviac patrí, aby
+
+#### Kapitola III.
+POVINNOSTI A SLUŽBY 
+PRI OMŠI
 
 ### §93
 
@@ -883,16 +963,12 @@ posluhujú pri eucharistickom slávení. Lebo posvätný stav diakonátu si už 
 čias Cirkev veľmi ctila.82 V omši má diakon svoju vlastnú úlohu: ohlasuje evanjelium a niekedy aj
 káže Božie slovo, ohlasuje úmysly pri spoločných modlitbách veriacich, slúži kňazovi, pripravuje
 oltár a posluhuje pri slávení obety, veriacim rozdáva Eucharistiu, najmä pod spôsobom vína, a
-prípadne dáva ľudu pokyny, aké gestá a postoje má zaujať celé zhromaždenie. Porov. DRUHÝ VATIKÁNSKY
-KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum concilium, č. 26. Porov. tamže, č. 14. Porov.
-tamže, č. 28. Porov. DRUHÝ VATIKÁNSKY KONCIL, dogmatická konštitúcia o Cirkvi Lumen gentium, č. 26,
-28; konštitúcia o posvätnej liturgii Sacrosanctum concilium, č. 42. Porov. DRUHÝ VATIKÁNSKY KONCIL,
-konštitúcia o posvätnej liturgii Sacrosanctum concilium, č. 26. Porov. Cæremoniale episcoporum, č.
-175 – 186. Porov. DRUHÝ VATIKÁNSKY KONCIL, dogmatická konštitúcia o Cirkvi Lumen gentium, č. 28;
-dekrét o účinkovaní a živote kňazov Presbyterorum ordinis, č. 2. Porov. PAVOL VI., apoštolský list
-Sacrum diaconatus Ordinem, 18. júna 1967: AAS 59 (1967) 697 – 704; PONTIFICALE ROMANUM, De
-Ordinatione Episcopi, presbyterorum et diaconorum, editio typica altera 1989, č. 173. VŠEOBECNÉ
-SMERNICE RÍMSKEHO MISÁLA II. POVINNOSTI A SLUŽBY BOŽIEHO ĽUDU
+prípadne dáva ľudu pokyny, aké gestá a postoje má zaujať celé zhromaždenie.
+
+#### II. DE MUNERIBUS POPULI DEI
+
+#### II. POVINNOSTI A SLUŽBY 
+BOŽIEHO ĽUDU
 
 ### §95
 
@@ -912,14 +988,19 @@ krásne vysvitá z gest a postojov tela, keď ich veriaci konajú spoločne.
 ### §97
 
 Nech sa veriaci nezdráhajú s radosťou poslúžiť Božiemu ľudu, kedykoľvek sa od nich žiada, aby
-nejakou zvláštnou službou alebo úlohou pomohli pri bohoslužbe. III. O ZVLÁŠTNYCH SLUŽBÁCH Služba
-ustanoveného akolytu a lektora
+nejakou zvláštnou službou alebo úlohou pomohli pri bohoslužbe.
+
+#### III. DE MINISTERIIS PECULIARIBUS
+
+#### De ministerio acolythi et lectoris institutorum
+
+#### III. O ZVLÁŠTNYCH SLUŽBÁCH
 
 ### §98
 
 Akolyta je ustanovený, aby slúžil pri oltári a pomáhal kňazovi i diakonovi. Má na starosti hlavne
 prípravu oltára a posvätných nádob, a ak je to naozaj potrebné, aj vysluhovanie Eucharistie v
-mimoriadnom prípade.84
+mimoriadnom prípade.8
 
 ### §99
 
@@ -927,17 +1008,19 @@ Lektor je ustanovený na prednes čítaní zo Svätého písma okrem evanjelia. 
 všeobecnej modlitby a – keď niet žalmistu – aj žalm medzi čítaniami. Lektor má určenú úlohu (porov.
 č. 194 – 198) pri slávení Eucharistie a má ju aj plniť. Ostatné služby
 
+#### De ceteris muneribus
+
 ### §100
 
 Ak chýba ustanovený akolyta, môžu byť určení na službu oltára a na pomoc kňazovi a diakonovi laickí
 služobníci, aby nosili kríž, sviece, kadidlo, chlieb, víno, vodu a boli aj ustanovení ako mimoriadni
-vysluhovatelia svätého prijímania.85
+vysluhovatelia svätého prijímania.8
 
 ### §101
 
 Ak chýba ustanovený lektor, treba určiť iných laikov na prednášanie čítaní Svätého písma, dobre
 pripravených plniť túto službu dôstojne, vhodne a horlivo, aby sa u veriacich pri počúvaní
-posvätných čítaní podnietila v srdci láska k Svätému písmu a živý záujem oň.86
+posvätných čítaní podnietila v srdci láska k Svätému písmu a živý záujem oň.8
 
 ### §102
 
@@ -948,21 +1031,15 @@ posvätných čítaní podnietila v srdci láska k Svätému písmu a živý zá
 
 Medzi veriacimi má osobitné liturgické poslanie zbor spevákov (schola cantorum) alebo chór, ktorému
 prináleží starať sa o časti jemu vlastné podľa rozličných druhov spevu a podnecovať veriacich do
-činnej účasti na speve.87 Čo sa hovorí o zbore DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej
-liturgii Sacrosanctum concilium, č. 48; POSVÄTNÁ KONGREGÁCIA OBRADOV, inštrukcia Eucharisticum
-mysterium, 25. mája 1967, č. 12: AAS 59 (1967) s. 548 – 549. Porov. Kódex kánonického práva, kán.
-910 § 2; medzidikasteriálna inštrukcia o niektorých otázkach okolo očakávanej spolupráce veriacich
-laikov v kňazskej službe Ecclesiæ de mysterio, 15. augusta 1997, čl. 8: AAS 89 (1997), s. 871.
-Porov. POSVÄTNÁ KONGREGÁCIA PRE DISCIPLÍNU SVIATOSTÍ, inštrukcia Immensæ caritatis, 29. januára
-1973, č. 1: AAS 65 (1973) s. 265 – 266; Kódex kánonického práva, kán. 230 § 3. Porov. DRUHÝ
-VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum concilium, č. 24. Porov. POSVÄTNÁ
-KONGREGÁCIA OBRADOV, inštrukcia Musicam sacram, 5. marca 1967, č. 19: AAS 59 (1967) s. 306.
-VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA IV. ROZDELENIE ÚLOH A PRÍPRAVA SLÁVENIA
+činnej účasti na speve.87 Čo sa hovorí o zbore
+
+#### IV. ROZDELENIE ÚLOH 
+A PRÍPRAVA SLÁVENIA
 
 ### §104
 
 Je dobré mať kantora alebo dirigenta, ktorý by viedol a sprevádzal spev ľudu. Keď niet speváckeho
-zboru, kantor má úlohu viesť rozličné spevy s patričnou účasťou ľudu.88
+zboru, kantor má úlohu viesť rozličné spevy s patričnou účasťou ľudu.8
 
 ### §105
 
@@ -977,9 +1054,11 @@ dôstojne, presne a nábožne.
 ### §107
 
 Na liturgické služby, ktoré nie sú vlastné kňazovi alebo diakonovi a o ktorých sa hovorilo vyššie
-(č. 100 – 106), môže farár alebo správca kostola vybrať vhodných laikov89 a môže im ich zveriť
+(č. 100 – 106), môže farár alebo správca kostola vybrať vhodných laikov a môže im ich zveriť
 liturgickým požehnaním a dočasným poverením. Čo sa týka úlohy posluhovať kňazovi pri oltári, treba
 zachovať normy, ktoré dal biskup pre svoju diecézu.
+
+#### IV. DE DISTRIBUTIONE MUNERUM ET DE PRAEPARATIONE CELEBRATIONIS
 
 ### §108
 
@@ -997,34 +1076,42 @@ Pašií. a) sakristián (kostolník), ktorý starostlivo pripravuje liturgické 
 je potrebné na slávenie omše. b) Komentátor, ktorý veriacim dáva v prípade potreby krátke
 vysvetlenie a úpravy, aby ich uviedol do bohoslužby, aby ju lepšie porozumeli. Úpravy komentátora
 majú byť dôkladne pripravené, stručné a vecné. Pri plnení svojej úlohy stojí komentátor na vhodnom
-mieste pred veriacimi, ale nie na ambóne. c) Zberatelia: v kostole robia zbierky (na cirkevné
-účely). d) Uvádzači: v niektorých krajoch vítajú veriacich pri bráne kostola a uvádzajú ich na
-príslušné miesta. Okrem toho sa starajú o poriadok pri liturgických sprievodoch.
+mieste pred veriacimi, ale nie na ambóne.
 
 ### §110
 
-Ak pri omši za účasti ľudu je iba jeden posluhujúci, môže sám vykonávať rozličné služby.
+Ak pri omši za účasti ľudu je iba jeden posluhujúci, môže sám vykonávať rozličné služby. c)
+Zberatelia: v kostole robia zbierky (na cirkevné účely). d) Uvádzači: v niektorých krajoch vítajú
+veriacich pri bráne kostola a uvádzajú ich na príslušné miesta. Okrem toho sa starajú o poriadok pri
+liturgických sprievodoch.
 
 ### §111
 
 Na praktickej príprave každého liturgického slávenia sa majú zúčastniť svorne a starostlivo podľa
-misála a iných liturgických kníh90 všetci, ktorých sa to týka, tak po stránke obradnej, ako aj
+misála a iných liturgických kníh všetci, ktorých sa to týka, tak po stránke obradnej, ako aj
 pastoračnej a hudobnej. Túto prípravu riadi správca kostola. Nech však vypočuje aj veriacich vo
 veciach, ktoré sa ich priamo týkajú. Kňaz však, ktorý predsedá sláveniu, má vždy právo usporiadať
-veci, ktoré sú v jeho kompetencii. Kapitola IV. ROZLIČNÉ FORMY SLÁVENIA SVÄTEJ OMŠE
+veci, ktoré sú v jeho kompetencii.
 
-## Kapitola IV: Rozličné formy slávenia svätej omše
+
+## Chapter IV: The Different Forms of Celebrating Mass
+
+#### CAPUT IV DE DIVERSIS FORMIS MISSAM CELEBRANDI
+
+#### Kapitola IV. 
+ROZLIČNÉ FORMY SLÁVENIA 
+SVÄTEJ OMŠE
 
 ### §112
 
 V miestnej cirkvi svojím významom zaiste najväčšiu prednosť má omša, ktorej predsedá biskup
-obklopený svojimi kňazmi, diakonmi a laickými posluhujúcimi91 VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
+obklopený svojimi kňazmi, diakonmi a laickými posluhujúcimi
 
 ### §113
 
 Veľká dôležitosť nech sa prikladá aj omši za účasti niektorého spoločenstva, najmä farského, pretože
 v určitom čase a na určitom mieste sprítomňuje všeobecnú Cirkev. To platí predovšetkým o spoločnej
-nedeľnej bohoslužbe.93
+nedeľnej bohoslužbe.9
 
 ### §114
 
@@ -1039,7 +1126,11 @@ veriacich povinní osobitne sláviť omšu, môžu v ten deň koncelebrovať kon
 omšu.94 Patrí sa, aby kňazi, ktorí sa zúčastňujú na slávení, ak nie sú zo spravodlivej príčiny
 ospravedlnení, vykonávali úlohu vlastnú svojmu rehoľnému rádu, a teda sa zúčastnili ako
 koncelebranti oblečení v posvätných rúchach. Ináč nech majú vlastné chórové rúcho alebo superpelíciu
-na reverende.
+na reverende. Čo treba pripraviť
+
+#### I. DE MISSA CUM POPULO
+
+#### I. SVÄTÁ OMŠA ZA ÚČASTI ĽUDU
 
 ### §115
 
@@ -1051,7 +1142,9 @@ počtom posluhujúcich.95 Možno ju však konať aj bez spevu a s jedným posluh
 
 V ktorejkoľvek forme slávenia omše, ak je prítomný diakon, nech vykonáva svoju službu. Patrí sa
 však, aby kňaz mal pri sebe akolytu, lektora a kantora. Ale obrad, ktorý sa tu opisuje, pripúšťa aj
-väčší počet posluhujúcich. Čo treba pripraviť
+väčší počet posluhujúcich.
+
+#### Praeparanda
 
 ### §117
 
@@ -1066,38 +1159,35 @@ odlišný od knihy s inými čítaniami.
 ### §118
 
 V presbytériu treba pripraviť: a) pri kňazovom sedadle: misál a podľa potreby spevník; b) na ambóne:
-lekcionár; c) na stolíku (abakuse): kalich, korporál, purifikatórium a podľa potreby pallu, Porov.
-Cæremoniale episcoporum, č. 119 – 186. Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej
-liturgii Sacrosanctum concilium, č. 42; dogmatická konštitúcia o Cirkvi Lumen gentium, č. 28; dekrét
-o účinkovaní a živote kňazov Presbyterorum ordinis, č. 5; POSVÄTNÁ KONGREGÁCIA OBRADOV, inštrukcia
-Eucharisticum mysterium, 25. mája 1967, č. 26: AAS 59 (1967) s. 555. Porov. POSVÄTNÁ KONGREGÁCIA
-OBRADOV, inštrukcia Eucharisticum mysterium, 25. mája 1967, č. 47: AAS 59 (1967) s. 565. Porov.
-tamže, č. 26: AAS 59 (1967) s. 555; inštrukcia Musicam sacram, 5. marca 1967, č. 16, 27: AAS 59
-(1967) s. 305, 308. VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
+lekcionár; c) na stolíku (abakuse): kalich, korporál, purifi katórium a podľa potreby pallu, ďalej
+paténu a pyxidy – ak sú potrebné – chlieb na prijímanie predsedajúceho kňaza, pre diakona, pre
+posluhujúcich a ľud, ampulky s vínom a vodou, ak ich neprinášajú sami veriaci na „obetovanie“,
+nádobu s vodou na požehnanie, ak sa má pokropiť ľud (Asperges), paténu potrebnú pri podávaní
+prijímania veriacim a veci potrebné na umývanie rúk. c) akolyti a iní posluhujúci; d) lektor, ktorý
+môže niesť trochu zdvihnutý evanjeliár, ale nie lekcionár; e) kňaz, ktorý bude sláviť omšu. Ak sa
+používa kadidlo, kňaz pred odchodom k oltáru nasype do kadidelnice tymian a požehná ho znakom kríža,
+nič nehovoriac.
 
 ### §119
 
 V sakristii treba pripraviť posvätné rúcha podľa rozličných foriem slávenia bohoslužby (porov. č.
 337 – 341) pre kňaza, diakona a iných posluhujúcich: a) pre kňaza: albu, štólu a ornát (casula alebo
 planeta); b) pre diakona: albu, štólu a dalmatiku, ktorá z vážnych príčin alebo pri menšom stupni
-slávnosti nemusí byť; c) pre ostatných posluhujúcich: alby alebo iné rúcha úradne schválené.96
-Všetci, ktorí si obliekajú albu, pokiaľ to forma samotnej alby nenahrádza, nech si opášu cingulum a
-založia humerál. Keď sa vstup koná formou procesie, nesie sa aj evanjeliár. Ak sa v nedele a vo
-sviatky používa kadidlo, nesie sa kadidelnica a loďka s tymianom. V procesii treba niesť kríž a
-svietniky so zažatými sviecami. A) OMŠA BEZ DIAKONA Úvodné obrady
+slávnosti nemusí byť;
+
+#### A) De Missa sine diacono
+
+#### Ritus initiales
 
 ### §120
 
 Keď je už ľud zhromaždený, kňaz a posluhujúci, oblečení v posvätných rúchach, idú k oltáru v tomto
-poradí: a) turiferár s dymiacou kadidelnicou, ak sa pri omši používa kadidlo; b) posluhujúci, ktorí
-nesú svietniky so zažatými sviecami a medzi nimi akolyta alebo iný posluhujúci, ktorý nesie kríž; c)
-akolyti a iní posluhujúci; d) lektor, ktorý môže niesť trochu zdvihnutý evanjeliár, ale nie
-lekcionár; e) kňaz, ktorý bude sláviť omšu. Ak sa používa kadidlo, kňaz pred odchodom k oltáru
-nasype do kadidelnice tymian a požehná ho znakom kríža, nič nehovoriac.
+poradí:
 
 ### §121
 
-Keď sprievod kráča k oltáru, spieva sa vstupný spev (porov. č. 47 – 48).
+Keď sprievod kráča k oltáru, spieva sa vstupný spev (porov. č. 47 – 48). Kalich sa chvályhodne
+zakryje vélom, ktoré môže byť vo farbe dňa alebo bielej farby.
 
 ### §122
 
@@ -1109,13 +1199,19 @@ Evanjeliár sa s úctou položí na oltár.
 ### §123
 
 Kňaz pristúpi k oltáru a uctí si ho bozkom. Potom môže incenzovať kríž a oltár, ktorý obíde dookola.
+c) pre ostatných posluhujúcich: alby alebo iné rúcha úradne schválené.96 Všetci, ktorí si obliekajú
+albu, pokiaľ to forma samotnej alby nenahrádza, nech si opášu cingulum a založia humerál. Keď sa
+vstup koná formou procesie, nesie sa aj evanjeliár. Ak sa v nedele a vo sviatky používa kadidlo,
+nesie sa kadidelnica a loďka s tymianom. V procesii treba niesť kríž a svietniky so zažatými
+sviecami.
 
 ### §124
 
 Keď to vykonal, ide k sedadlu. Po vstupnom speve všetci stoja a kňaz i veriaci sa prežehnajú znakom
 kríža. Kňaz hovorí: V mene Otca i Syna i Ducha Svätého. Ľud odpovie: Amen. Potom kňaz obrátený k
 ľudu rozopne ruky a pozdraví ľud jednou z uvedených formúl. Sám kňaz alebo iný posluhujúci na to
-súci môže uviesť veriacich do omše dňa. Nech to však urobí veľmi stručne.
+súci môže uviesť veriacich do omše dňa. Nech to však urobí veľmi stručne. A) OMŠA BEZ DIAKONA Úvodné
+obrady
 
 ### §125
 
@@ -1125,12 +1221,19 @@ Nasleduje úkon kajúcnosti. Potom sa spieva alebo hovorí vzývanie Pána (Kýr
 ### §126
 
 Keď je predpísaný hymnus Sláva Bohu na výsostiach (Glória), spieva sa alebo recituje (porov. č. 53).
+a) turiferár s dymiacou kadidelnicou, ak sa pri omši používa kadidlo; b) posluhujúci, ktorí nesú
+svietniky so zažatými sviecami a medzi nimi akolyta alebo iný posluhujúci, ktorý nesie kríž;
 
 ### §127
 
 Potom kňaz vyzve ľud na modlitbu, hovoriac so zopätými rukami: Modlime sa. A všetci sa spolu s
-kňazom v tichosti krátko VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA modlia. Potom kňaz s rozopätými rukami
-prednesie kolektu a ľud na jej konci zvolá Amen. Liturgia slova
+kňazom v tichosti krátko ostatní. Ľud odpovie zvolaním: Sláva tebe, Pane. Ak sa používa kadidlo,
+kňaz incenzuje knihu (porov. č. 276 – 277). Potom prednáša evanjelium a na konci povie aklamáciu:
+Počuli sme slovo Pánovo, načo všetci odpovedia: Chvála tebe, Kriste. Kňaz pobozká knihu a potichu
+hovorí: Slová evanjelia nech zmyjú naše previnenia. modlia. Potom kňaz s rozopätými rukami prednesie
+kolektu a ľud na jej konci zvolá Amen. Liturgia slova
+
+#### Liturgia verbi
 
 ### §128
 
@@ -1138,10 +1241,7 @@ Po kolekte si všetci sadnú. Kňaz môže niekoľkými slovami uviesť veriacic
 zatiaľ ide k ambóne a prednesie prvé čítanie z lekcionára, ktorý tam treba položiť už pred omšou.
 Všetci počúvajú čítanie. Na konci povie lektor aklamáciu Počuli sme Božie slovo a všetci odpovedia
 Bohu vďaka. Po čítaní sa môže vhodne zachovať chvíľka ticha, aby prítomní mohli pouvažovať nad tým,
-čo počuli. ostatní. Ľud odpovie zvolaním: Sláva tebe, Pane. Ak sa používa kadidlo, kňaz incenzuje
-knihu (porov. č. 276 – 277). Potom prednáša evanjelium a na konci povie aklamáciu: Počuli sme slovo
-Pánovo, načo všetci odpovedia: Chvála tebe, Kriste. Kňaz pobozká knihu a potichu hovorí: Slová
-evanjelia nech zmyjú naše previnenia.
+čo počuli.
 
 ### §129
 
@@ -1199,17 +1299,26 @@ Po vyznaní viery stojí kňaz pri sedadle a krátkym príhovorom vyzve veriacic
 Potom diakon, kantor, lektor alebo niekto iný z ambóny alebo z iného vhodného miesta prednáša ľudu
 úmysly a ľud odpovedá prosbou. Nakoniec kňaz uzavrie modlitbu s rozopätými rukami.
 
+#### Liturgia eucharistica
+
 ### §139
 
 Po modlitbe veriacich si všetci sadnú a začne sa spev na prípravu obetných darov (porov. č. 74).
-Akolyta alebo iný laický posluhujúci položí na oltár korporál, purifikatórium, kalich, pallu a
+Akolyta alebo iný laický posluhujúci položí na oltár korporál, purifi katórium, kalich, pallu a
 misál.
 
 ### §140
 
 Patrí sa, aby sa spoluúčasť veriacich prejavila prinášaním chleba a vína na eucharistickú obetu
 alebo aj iných darov na potreby kostola a pre chudobných. Kňaz za pomoci akolytu alebo iného
-posluhujúceho prijíma dary veriacich. Chlieb VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
+posluhujúceho prijíma dary veriacich. Chlieb a víno na eucharistickú obetu sa prinesú celebrantovi,
+ktorý ich položí na oltár. Iné dary sa položia na patričné miesto (porov. č. 73). jednu z tých,
+ktoré sa nachádzajú v Rímskom misáli alebo sú schválené Apoštolskou stolicou. Eucharistická modlitba
+si vyžaduje už zo svojej prirodzenosti, aby ju mocou vysviacky prednášal sám kňaz. Ľud sa zase ticho
+zjednocuje s kňazom vo viere a zapája sa určenými vstupmi do priebehu eucharistickej modlitby. Sú to
+odpovede v dialógu prefácie, Sanktus, aklamácia po premenení a aklamácia Amen po záverečnej
+doxológii, ako aj iné aklamácie schválené konferenciou biskupov a preskúmané Svätou stolicou. Je
+veľmi vhodné, aby kňaz prednášal spevom časti eucharistickej modlitby, ktoré sú znotované.
 
 ### §141
 
@@ -1248,7 +1357,13 @@ s rozopätými rukami hovorí modlitbu nad obetnými darmi. Na konci ľud zvolá
 
 ### §147
 
-Teraz kňaz začne eucharistickú modlitbu. Podľa rubrík (porov. č. 365) vyberie
+Teraz kňaz začne eucharistickú modlitbu. Podľa rubrík (porov. č. 365) vyberie Keď sa dáva znak
+pokoja, môže sa povedať: Pokoj Pánov nech je vždy s tebou. Odpovedá sa: Amen. To neplatí, ak po
+výzve diakona alebo kňaza ľud prednáša odpoveď, ako je uvedená v Omšovom poriadku schválenom pre
+Slovensko, č. 128. V eucharistickej modlitbe možno spomenúť aj koadjútora a pomocných biskupov, ale
+nie iných, azda prítomných biskupov. Ak treba spomenúť viacerých, povie sa všeobecnou formulou: s
+naším biskupom M. a s jeho pomocnými biskupmi. V každej eucharistickej modlitbe treba uvedené
+formuly prispôsobiť gramatickým pravidlám.
 
 ### §148
 
@@ -1268,11 +1383,7 @@ s tvojím služobníkom, naším pápežom M. dodá: a s mojím bratom M., bisku
 tvojím nehodným služobníkom alebo po slovách: na nášho pápeža M. dodá: na môjho brata M., biskupa
 tejto cirkvi, na mňa, tvojho nehodného služobníka. Diecézneho biskupa alebo toho, kto mu je
 postavený na roveň, treba menovať touto formulou: v jednote s tvojím služobníkom, naším pápežom M.,
-s naším biskupom (vikárom, prelátom, prefektom, opátom) M. VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA V
-eucharistickej modlitbe možno spomenúť aj koadjútora a pomocných biskupov, ale nie iných, azda
-prítomných biskupov. Ak treba spomenúť viacerých, povie sa všeobecnou formulou: s naším biskupom M.
-a s jeho pomocnými biskupmi. V každej eucharistickej modlitbe treba uvedené formuly prispôsobiť
-gramatickým pravidlám.
+s naším biskupom (vikárom, prelátom, prefektom, opátom) M.
 
 ### §150
 
@@ -1304,10 +1415,10 @@ rozopne a znova zopne ruky a ohlasuje pritom pokoj slovami: Pokoj Pánov nech je
 odpovie: I s duchom tvojím. Potom podľa okolností kňaz dodá: Dajte si znak pokoja. Kňaz môže dať
 znak pokoja posluhujúcim, ale pritom vždy zostáva v presbytériu, aby sa nenarúšalo slávenie. Nech
 koná podobne, keď z rozumnej príčiny chce dať znak pokoja niekoľkým veriacim. A všetci si podľa
-ustanovení konferencie biskupov prejavia navzájom pokoj, spoločenstvo a lásku. Keď sa dáva znak
-pokoja, môže sa povedať: Pokoj Pánov nech je vždy s tebou. Odpovedá sa: Amen. To neplatí, ak po
-výzve diakona alebo kňaza ľud prednáša odpoveď, ako je uvedená v Omšovom poriadku schválenom pre
-Slovensko, č. 128.
+ustanovení konferencie biskupov prejavia navzájom pokoj, spoločenstvo a lásku. chcú prijímať
+pokľačiačky, nech idú poslední a – bez prerušenia sprievodu – môžu kľačiačky prijať Eucharistiu. na
+oltári alebo na stolíku a očistiť ich hneď po omši po prepustení ľudu. Majú byť však položené na
+korporáli a vhodne prikryté.
 
 ### §155
 
@@ -1343,8 +1454,7 @@ menej aby si ho podávali z ruky do ruky medzi sebou. Veriaci prijímajú pokľa
 podľa toho, ako to ustanovila konferencia biskupov. Ale keď prijímajú postojačky, odporúča sa, aby
 konferencia biskupov stanovila úkon patričnej úcty, ktorý majú vykonať pred prijatím sviatosti. Na
 Slovensku veriaci kľačia na výzvu Hľa, Baránok Boží. Potom idú v zástupe prijať sviatosť. Prijímajú
-postojačky. Všetci, ktorí VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA na oltári alebo na stolíku a očistiť
-ich hneď po omši po prepustení ľudu. Majú byť však položené na korporáli a vhodne prikryté.
+postojačky. Všetci, ktorí
 
 ### §161
 
@@ -1368,9 +1478,9 @@ prijmú nádobu, v ktorej sú spôsoby najsvätejšej Eucharistie na podávanie 
 Po rozdaní prijímania kňaz hneď sám pri oltári prijme všetko premenené víno, ktoré zostalo;
 premenené hostie, ktoré zostali, buď prijme pri oltári, alebo ich odnesie na miesto určené na
 uchovávanie Eucharistie. Kňaz sa vráti k oltáru, pozbiera odrobinky, ak nejaké sú. Stojac pri oltári
-alebo pri bočnom stolíku očistí paténu alebo cibórium nad kalichom. Potom purifikuje kalich a ticho
+alebo pri bočnom stolíku očistí paténu alebo cibórium nad kalichom. Potom purifi kuje kalich a ticho
 hovorí: Pane, čo sme prijali ústami. Ak sa nádoby čistili na oltári, posluhujúci ich odnesie na
-stolík. Je dovolené ponechať nepurifikované nádoby, najmä ak ich je mnoho,
+stolík. Je dovolené ponechať nepurifi kované nádoby, najmä ak ich je mnoho,
 
 ### §164
 
@@ -1382,7 +1492,10 @@ alebo zaspievať žalm, alebo nejaký chválospev, alebo hymnus (porov. č. 88).
 Potom kňaz stojac obrátený k ľudu od sedadla alebo od oltára povie so zloženými rukami: Modlime sa a
 s rozopätými rukami prednáša modlitbu po prijímaní. Pred touto modlitbou možno zachovať krátku
 chvíľku posvätného ticha, ak už nebola hneď po prijímaní. Na konci modlitby ľud zvolá: Amen.
-Záverečné obrady
+
+#### Ritus conclusionis
+
+#### Záverečné obrady
 
 ### §166
 
@@ -1395,7 +1508,7 @@ zloží ruky, ľavú položí na prsia, pravú zdvihne a hovorí: Nech vás žeh
 kríža nad ľudom pokračuje: Otec i Syn i Duch Svätý. Všetci odpovedia: Amen. V niektoré dni a pri
 niektorých príležitostiach na toto požehnanie sa berie podľa rubrík ešte iná, slávnostnejšia formula
 alebo modlitba nad ľudom. Biskup žehná ľud primeranou formulou, pričom robí nad ľudom znak kríža
-trikrát.99
+trikrát.9
 
 ### §168
 
@@ -1403,13 +1516,25 @@ Hneď po požehnaní kňaz so zloženými rukami dodá: Choďte v mene Božom a 
 
 ### §169
 
-Potom kňaz pobozká oltár, s laickými posluhujúcimi urobí hlbokú poklonu a odíde s nimi. VŠEOBECNÉ
-SMERNICE RÍMSKEHO MISÁLA
+Potom kňaz pobozká oltár, s laickými posluhujúcimi urobí hlbokú poklonu a odíde s nimi. polohlasne
+hovorí: Požehnaj ma, otče. Kňaz ho požehnáva slovami: Pán nech je v tvojom srdci. Diakon sa prežehná
+a odpovie: Amen. Potom sa pokloní oltáru, vezme evanjeliár, ktorý je chvályhodne položený na oltári,
+a kráča k ambóne, knihu nesie trochu pozdvihnutú. Pred ním ide turiferár s dymiacou kadidelnicou a
+posluhujúci, ktorí nesú zapálené sviece. Tam pozdraví ľud, hovorí so zloženými rukami: Pán s vami,
+potom pri slovách Čítanie zo svätého evanjelia palcom poznačí knihu a potom seba na čele, na ústach
+a na prsiach, incenzuje knihu a ohlasuje evanjelium. Po skončení povie: Počuli sme slovo Pánovo.
+Všetci odpovedia: Chvála tebe, Kriste. Potom pobozká knihu a ticho hovorí: Slová evanjelia. Potom sa
+vráti ku kňazovi. Ak diakon posluhuje biskupovi, odnesie knihu na pobozkanie jemu alebo ju pobozká
+sám, pričom ticho hovorí: Slová evanjelia… Pri slávnostnejších celebráciách podľa okolností udelí
+biskup ľudu podľa možnosti požehnanie s evanjeliárom. Napokon sa evanjeliár môže odniesť na stolík
+alebo na iné vhodné a dôstojné miesto.
 
 ### §170
 
 Ak po omši nasleduje iný liturgický úkon, vynechávajú sa záverečné obrady, t. j. pozdrav, požehnanie
 a prepustenie. B) OMŠA S DIAKONOM
+
+#### B) De Missa cum diacono
 
 ### §171
 
@@ -1439,18 +1564,7 @@ Liturgia slova
 ### §175
 
 Kým sa spieva Aleluja alebo iný spev, ak je incenzácia, posluhuje kňazovi pri vkladaní tymianu a
-potom hlboko sklonený pred kňazom prosí o požehnanie, pričom polohlasne hovorí: Požehnaj ma, otče.
-Kňaz ho požehnáva slovami: Pán nech je v tvojom srdci. Diakon sa prežehná a odpovie: Amen. Potom sa
-pokloní oltáru, vezme evanjeliár, ktorý je chvályhodne položený na oltári, a kráča k ambóne, knihu
-nesie trochu pozdvihnutú. Pred ním ide turiferár s dymiacou kadidelnicou a posluhujúci, ktorí nesú
-zapálené sviece. Tam pozdraví ľud, hovorí so zloženými rukami: Pán s vami, potom pri slovách Čítanie
-zo svätého evanjelia palcom poznačí knihu a potom seba na čele, na ústach a na prsiach, incenzuje
-knihu a ohlasuje evanjelium. Po skončení povie: Počuli sme slovo Pánovo. Všetci odpovedia: Chvála
-tebe, Kriste. Potom pobozká knihu a ticho hovorí: Slová evanjelia. Potom sa vráti ku kňazovi. Ak
-diakon posluhuje biskupovi, odnesie knihu na pobozkanie jemu alebo ju pobozká sám, pričom ticho
-hovorí: Slová evanjelia… Pri slávnostnejších celebráciách podľa okolností udelí biskup ľudu podľa
-možnosti požehnanie s evanjeliárom. Napokon sa evanjeliár môže odniesť na stolík alebo na iné vhodné
-a dôstojné miesto.
+potom hlboko sklonený pred kňazom prosí o požehnanie, pričom
 
 ### §176
 
@@ -1468,7 +1582,7 @@ nádoby, pripraví za pomoci akolytu oltár. Asistuje kňazovi aj pri preberaní
 kňazovi paténu s chlebom na konsekrovanie, naleje víno a trochu vody do kalicha, pričom ticho
 hovorí: Tajomstvo tejto vody a podá kalich kňazovi. Pripraviť kalich, čiže naliať víno a vodu, môže
 však aj pri stolíku. Ak sa používa kadidlo, posluhuje kňazovi pri incenzovaní obetných darov, kríža
-a oltára a potom sám alebo akolyta incenzuje kňaza i ľud. VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
+a oltára a potom sám alebo akolyta incenzuje kňaza i ľud.
 
 ### §179
 
@@ -1480,14 +1594,14 @@ hostiu i kalich počas pozdvihovania.
 ### §180
 
 Pri záverečnej doxológii eucharistickej modlitby stojí po boku kňaza a drží zdvihnutý kalich, zatiaľ
-čo kňaz drží zdvihnutú paténu s hostiou dovtedy, kým ľud nezvolá Amen.
+čo kňaz drží zdvihnutú paténu s hostiou dovtedy, kým ľud nezvolá Amen. C) SLUŽBA AKOLYTU
 
 ### §181
 
 Keď kňaz predniesol modlitbu pokoja a povedal: Pokoj Pánov nech je vždy s vami a keď ľud odpovedal:
 I s duchom tvojím, diakon so zloženými rukami a obrátený k ľudu podľa vhodnosti vyzve ľud na
 vzájomné prejavenie pokoja slovami: Dajte si znak pokoja. On sám ho prijíma od kňaza a môže ho dať
-iným posluhujúcim, ktorí sú mu nablízku.
+iným posluhujúcim, ktorí sú mu nablízku. Úvodné obrady
 
 ### §182
 
@@ -1501,7 +1615,7 @@ Kristovu Krv, čo zostala; ak je to potrebné, pomáhajú mu iní diakoni a kňa
 Po rozdaní prijímania sa diakon vracia s kňazom k oltáru a pozbiera odrobinky, ak nejaké sú, potom
 odnesie kalich a iné posvätné nádoby na stolík, tam ich očistí a usporiada zvyčajným spôsobom. Kňaz
 sa medzitým vráti k sedadlu. Je dovolené ponechať nádoby na očistenie položené na korporáli, vhodne
-prikryté na stolíku, a očistiť ich hneď po omši, po prepustení ľudu. Záverečné obrady
+prikryté na stolíku, a očistiť ich hneď po omši, po prepustení ľudu. Liturgia Eucharistie
 
 ### §184
 
@@ -1517,14 +1631,16 @@ Choďte v mene Božom.
 ### §186
 
 Potom spolu s kňazom pobozká oltár, urobí hlbokú poklonu a vráti sa do sakristie v tom istom poradí,
-ako prišiel. C) SLUŽBA AKOLYTU
+ako prišiel.
+
+#### C) De muneribus acolythi
 
 ### §187
 
 Úlohy, ktoré môže vykonávať akolyta, sú rozličného druhu a môže sa stať, že mnohé z nich treba
 vykonať v tom istom čase. Preto je vhodné rozdeliť ich medzi viacerých. Ak je prítomný iba jeden
 akolyta, nech sám vykonáva významnejšie úlohy a ostatné nech sa rozdelia medzi viacerých
-posluhujúcich. Úvodné obrady
+posluhujúcich.
 
 ### §188
 
@@ -1536,21 +1652,23 @@ Potom zaujme svoje miesto v presbytériu.
 
 Počas celej bohoslužby má byť akolyta naporúdzi kňazovi alebo diakonovi, aby mu podal knihu a
 pomáhal mu pri ostatných úkonoch. Preto nech sa postaví podľa možnosti tak, aby mohol čo najľahšie
-konať svoju službu, či už pri sedadle, alebo pri oltári. Liturgia Eucharistie
+konať svoju službu, či už pri sedadle, alebo pri oltári.
 
 ### §190
 
 Po skončení modlitby veriacich akolyta – ak nie je prítomný diakon – položí na oltár korporál,
-purifikatórium, kalich, pallu a misál. Kňaz je zatiaľ pri sedadle. Potom, ak treba, pomáha kňazovi
+purifi katórium, kalich, pallu a misál. Kňaz je zatiaľ pri sedadle. Potom, ak treba, pomáha kňazovi
 pri prijímaní darov ľudu a – podľa okolností – prinesie k oltáru chlieb a víno a podá ich kňazovi.
 Ak sa používa kadidlo, podá ho kňazovi a pomáha mu pri incenzácii obetných darov, kríža a oltára.
-Potom incenzuje kňaza a ľud. VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
+Potom incenzuje kňaza a ľud.
 
 ### §191
 
 Riadne ustanovený akolyta, ak je nutné, môže pomáhať kňazovi aj pri rozdávaní prijímania ľudu ako
 mimoriadny vysluhovateľ.100 Ak sa prijímanie dáva pod obidvoma spôsobmi a diakon nie je prítomný, on
 podáva prijímajúcim kalich, alebo ak sa prijímanie dáva namáčaním hostie, drží kalich.
+
+#### II. KONCELEBROVANÁ OMŠA
 
 ### §192
 
@@ -1561,24 +1679,25 @@ očistí zvyčajným spôsobom a usporiada.
 ### §193
 
 Po skončení slávenia omše akolyta a iní posluhujúci spolu s diakonom a kňazom sa vracajú do
-sakristie takým spôsobom a v tom istom poradí, ako prišli. D) SLUŽBA LEKTORA Úvodné obrady
+sakristie takým spôsobom a v tom istom poradí, ako prišli. a) pri večernej omši na pamiatku Pánovej
+večere, b) v omšiach na konciloch, biskupských schôdzkach a synodách, c) v konventuálnej omši, ako i
+v hlavnej D) SLUŽBA LEKTORA omši v kostoloch a oratóriách, d) v omšiach pri príležitosti akýchkoľvek
+zhromaždení kňazov: diecéznych alebo rehoľných.101 Úvodné obrady
+
+#### D) De muneribus lectoris
 
 ### §194
 
 Keď sa ide k oltáru, ak nie je prítomný diakon, lektor, oblečený do schváleného rúcha, môže niesť
 evanjeliár, trochu vyzdvihnutý. Ak nesie knihu, kráča pred kňazom; ináč ide spolu s ostatnými
-posluhujúcimi.
+posluhujúcimi. I keď každý kňaz môže sláviť Eucharistiu samostatne, predsa nie v tom čase, keď sa v
+tom istom kostole alebo oratóriu koná koncelebrácia. Nedovoľuje sa však sláviť svätú obetu
+individuálne vo Štvrtok Pánovej večere a pri omši Veľkonočnej vigílie.
 
 ### §195
 
 Keď príde k oltáru, spolu s inými sa hlboko pokloní. Ak nesie evanjeliár, pristúpi k oltáru a položí
-naň evanjeliár. Potom zaujme svoje miesto v presbytériu spolu s ostatnými posluhujúcimi. II.
-KONCELEBROVANÁ OMŠA a) pri večernej omši na pamiatku Pánovej večere, b) v omšiach na konciloch,
-biskupských schôdzkach a synodách, c) v konventuálnej omši, ako i v hlavnej omši v kostoloch a
-oratóriách, d) v omšiach pri príležitosti akýchkoľvek zhromaždení kňazov: diecéznych alebo
-rehoľných.101 I keď každý kňaz môže sláviť Eucharistiu samostatne, predsa nie v tom čase, keď sa v
-tom istom kostole alebo oratóriu koná koncelebrácia. Nedovoľuje sa však sláviť svätú obetu
-individuálne vo Štvrtok Pánovej večere a pri omši Veľkonočnej vigílie.
+naň evanjeliár. Potom zaujme svoje miesto v presbytériu spolu s ostatnými posluhujúcimi.
 
 ### §196
 
@@ -1595,6 +1714,8 @@ Ak nie je prítomný diakon, lektor môže po výzve kňaza na modlitbu veriacic
 Ak sa vstupný spev a spev na prijímanie nespieva a ani veriaci nerecitujú text príslušných spevov z
 misála, môže ich predniesť vo vhodnom čase sám lektor (porov. č. 48, 87).
 
+#### II. DE MISSA CONCELEBRATA
+
 ### §199
 
 Koncelebráciu, ktorou sa vhodne prejavuje jednota kňazstva a obety, ako aj všetkého Božieho ľudu,
@@ -1609,15 +1730,14 @@ stav. Liturgia slova
 ### §201
 
 Kde je veľký počet kňazov, môže byť koncelebrácia aj viackrát cez deň, keď je to potrebné alebo
-pastoračne užitočné, ale nech je to v odlišnom čase alebo na rozličných posvätných miestach.102
+pastoračne užitočné, ale nech je to v odlišnom čase alebo na rozličných posvätných miestach.1
 
 ### §202
 
-Biskupovi prislúcha právo usmerňovať podľa platných noriem vo svojej diecéze 100 Porov. PAVOL VI.,
-apoštolský list Ministeria quædam, 15. augusta 1972: AAS 64 (1972) s. 532. 101 Porov. DRUHÝ
-VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum concilium, č. 57; Kódex kánonického
-práva, kán. 902. 102 Porov. POSVÄTNÁ KONGREGÁCIA OBRADOV, inštrukcia Eucharisticum mysterium, 25.
-mája 1967, č. 47: AAS 59 (1967) s. 566. VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
+Biskupovi prislúcha právo usmerňovať podľa platných noriem vo svojej diecéze koncelebrovanie omší vo
+všetkých kostoloch a kaplnkách. e) kto koncelebroval na synode, na pastoračnej vizitácii alebo na
+kňazskej schôdzi s biskupom alebo jeho delegátom, môže znova sláviť omšu pre dobro veriacich. To
+isté platí, ak sa zachovajú príslušné podmienky, aj pre zhromaždenie rehoľníkov.
 
 ### §203
 
@@ -1628,21 +1748,12 @@ pamiatku Pánovej večere, pri oslavách svätého zakladateľa miestnej cirkvi 
 výročia biskupa a napokon pri príležitosti synody alebo pastoračnej vizitácie. Preto sa
 koncelebrácia odporúča vždy, keď sa kňazi stretnú so svojím biskupom na duchovných cvičeniach alebo
 na nejakých schôdzach. V takýchto prípadoch sa ešte zreteľnejšie prejavuje znak jednoty kňazstva a
-Cirkvi, ktorý je vlastný každej koncelebrácii.103
+Cirkvi, ktorý je vlastný každej koncelebrácii.1
 
 ### §204
 
 Povolenie viackrát sláviť svätú omšu alebo koncelebrovať v ten istý deň sa dáva z osobitného dôvodu
-so zreteľom na význam obradu alebo slávnosti v týchto prípadoch: a) kto vo štvrtok Svätého týždňa
-slávil alebo koncelebroval omšu so svätením olejov, môže sláviť alebo koncelebrovať aj večernú omšu
-na pamiatku Pánovej večere; b) kto slávil alebo koncelebroval omšu na Veľkonočnú vigíliu, môže
-sláviť alebo koncelebrovať omšu aj v deň Veľkej noci; c) na slávnosť Narodenia Pána môžu všetci
-kňazi sláviť alebo koncelebrovať tri omše, ale iba vtedy, keď omše slávia v určenom čase; d) v deň
-Spomienky na všetkých zosnulých veriacich každý kňaz môže slúžiť tri sväté omše alebo koncelebrovať,
-len keď sa slávenia konajú v rozličných časoch a zachová sa to, čo je stanovené o aplikácii druhej a
-tretej omše;104 e) kto koncelebroval na synode, na pastoračnej vizitácii alebo na kňazskej schôdzi s
-biskupom alebo jeho delegátom, môže znova sláviť omšu pre dobro veriacich. To isté platí, ak sa
-zachovajú príslušné podmienky, aj pre zhromaždenie rehoľníkov.
+so zreteľom na význam obradu alebo slávnosti v týchto prípadoch:
 
 ### §205
 
@@ -1662,21 +1773,27 @@ dostatočnej veľkosti alebo viac kalichov.
 
 Ak v koncelebrovanej omši nie je prítomný diakon, jeho príslušné služby konajú niektorí z
 koncelebrujúcich kňazov. Ak nie sú prítomní ani iní služobníci, im vlastné časti sa môžu zveriť iným
-vhodným veriacim; ináč ich vykonajú niektorí koncelebranti.
+vhodným veriacim; ináč ich vykonajú niektorí koncelebranti. a) kto vo štvrtok Svätého týždňa slávil
+alebo koncelebroval omšu so svätením olejov, môže sláviť alebo koncelebrovať aj večernú omšu na
+pamiatku Pánovej večere;
 
 ### §209
 
 Koncelebrujúci kňazi si v sakristii alebo na inom vhodnom mieste oblečú to isté posvätné rúcho, aké
 si obliekajú, keď slávia omšu jednotlivo. Ale z rozumnej príčiny, napríklad pri hojnejšom počte
 koncelebrujúcich a pri nedostatku rúch, koncelebranti okrem hlavného celebranta nemusia mať ornát
-(casula alebo planeta) a vezmú si iba albu a štólu. Úvodné obrady
+(casula alebo planeta) a vezmú si iba albu a štólu. b) kto slávil alebo koncelebroval omšu na
+Veľkonočnú vigíliu, môže sláviť alebo koncelebrovať omšu aj v deň Veľkej noci; c) na slávnosť
+Narodenia Pána môžu všetci kňazi sláviť alebo koncelebrovať tri omše, ale iba vtedy, keď omše slávia
+v určenom čase; d) v deň Spomienky na všetkých zosnulých veriacich každý kňaz môže slúžiť tri sväté
+omše alebo koncelebrovať, len keď sa slávenia konajú v rozličných časoch a zachová sa to, čo je
+stanovené o aplikácii druhej a tretej omše;104 Úvodné obrady
 
 ### §210
 
-Keď sa všetko riadne pripravilo, sprievod ide ako zvyčajne k oltáru cez kostol. 103 Porov. tamže, s.
-565. 104 Porov. BENEDIKT XV., apoštolská konštitúcia Incruentum altaris sacriﬁcium, 10. augusta
-1915: AAS 7 (1915) s. 401 – 404. Koncelebrujúci kňazi kráčajú pred hlavným celebrantom. však
-koncelebranti spievajú alebo recitujú všetci spolu s ľudom a zborom.
+Keď sa všetko riadne pripravilo, sprievod ide ako zvyčajne k oltáru cez kostol. Koncelebrujúci kňazi
+kráčajú pred hlavným celebrantom. však koncelebranti spievajú alebo recitujú všetci spolu s ľudom a
+zborom.
 
 ### §211
 
@@ -1689,7 +1806,7 @@ Počas liturgie slova sú koncelebranti na svojich miestach; sedia a vstávajú 
 celebrant. Pri Aleluja všetci vstanú okrem biskupa, ktorý bez slova vloží tymian a požehná diakona
 alebo v jeho neprítomnosti koncelebranta, ktorý má predniesť evanjelium. Ale pri koncelebrácii,
 ktorej predsedá kňaz, koncelebrant, ktorý v neprítomnosti diakona prednáša evanjelium, nežiada ani
-neprijíma od hlavného celebranta požehnanie.
+neprijíma od hlavného celebranta požehnanie. Prvá eucharistická modlitba, čiže Rímsky kánon
 
 ### §213
 
@@ -1706,24 +1823,30 @@ Potom keď hlavný celebrant predniesol modlitbu nad obetnými darmi, pristúpia
 a rozostavia sa okolo neho tak, aby si pri obradoch neprekážali, aby aj veriaci dobre videli
 posvätný obrad a aby diakon mohol pristúpiť k oltáru, keď koná svoju službu. Diakon vykonáva svoju
 službu pri oltári, slúžiac pri kalichu a misáli, ale ak je to možné, nech stojí trocha vzadu za
-koncelebrujúcimi kňazmi, ktorí stoja okolo hlavného celebranta. Spôsob prednášania eucharistickej
-modlitby
+koncelebrujúcimi kňazmi, ktorí stoja okolo hlavného celebranta.
+
+#### De modo proferendi Precem eucharisticam
 
 ### §216
 
-Prefáciu spieva alebo prednáša sám kňaz – hlavný celebrant. Svätý (Sanktus)
+Prefáciu spieva alebo prednáša sám kňaz – hlavný celebrant. Svätý (Sanktus) d) Preto, Pane a
+Zhliadni na ne hovoria s rozopätými rukami; Tretia eucharistická modlitba e) Pokorne ťa prosíme
+vyslovujú sklonení a so zopätými rukami až po slová ktorí máme účasť na tejto oltárnej obete, potom
+sa vzpriamia a pri slovách naplnilo hojné nebeské požehnanie a milosť sa prežehnajú.
 
 ### §217
 
 Po oslave Trojsvätého pokračujú koncelebrujúci kňazi v eucharistickej modlitbe ďalej opísaným
-spôsobom. Gestá robí len hlavný celebrant, ak sa nepredpisuje ináč. Liturgia slova
+spôsobom. Gestá robí len hlavný celebrant, ak sa nepredpisuje ináč.
 
 ### §218
 
 Časti, ktoré všetci koncelebranti prednášajú spoločne, a hlavne slová premenenia, koncelebrujúci
 nech pri recitácii hovoria polohlasne, aby hlas hlavného celebranta bolo jasne počuť. Takto ľud
 lepšie vníma prednášané texty. Časti, ktoré majú všetci koncelebranti prednášať spolu a sú v misáli
-znotované, chvályhodne nech sa prednášajú spevom. Prvá eucharistická modlitba, čiže Rímsky kánon
+znotované, chvályhodne nech sa prednášajú spevom. Liturgia slova
+
+#### Prex eucharistica I, seu Canon Romanus
 
 ### §219
 
@@ -1745,21 +1868,27 @@ Od Prosíme ťa, Bože až po Pokorne ťa prosíme gestá koná hlavný celebran
 hovoria všetko spolu takto: a) Prosíme ťa, Bože s rukami vystretými smerom k darom; b) On večer a
 Podobne po večeri so zopätými rukami; c) Pánove slová vyslovujú s pravicou vystretou smerom k chlebu
 a ku kalichu, ak je to vhodné; pri pozdvihovaní pozrú na hostiu a na kalich a potom sa hlboko
-uklonia; d) Preto, Pane a Zhliadni na ne hovoria s rozopätými rukami; VŠEOBECNÉ SMERNICE RÍMSKEHO
-MISÁLA
+uklonia; Spôsob prednášania eucharistickej modlitby
 
 ### §223
 
 Pamätaj, Pane za zomrelých a Aj nás, svojich hriešnych služobníkov je vhodné zveriť jednému alebo
-dvom koncelebrantom. Každý sám prednesie tieto modlitby s rozopätými rukami a so zvýšeným hlasom.
+dvom koncelebrantom. Každý sám prednesie tieto modlitby s rozopätými rukami a so zvýšeným hlasom. a)
+Preto ťa, Pane, pokorne prosíme s rukami vystretými smerom k darom; b) On v tú noc, keď bol zradený
+a Podobne po večeri so zopätými rukami;
 
 ### §224
 
-Pri slovách Aj nás, svojich hriešnych služobníkov všetci koncelebranti sa bijú v prsia.
+Pri slovách Aj nás, svojich hriešnych služobníkov všetci koncelebranti sa bijú v prsia. c) Pánove
+slová vyslovujú s pravicou vystretou smerom k chlebu a ku kalichu, ak je to vhodné; pri pozdvihovaní
+sa pozrú na hostiu a na kalich a potom sa hlboko uklonia;
 
 ### §225
 
-Skrze neho ty, Pane hovorí sám hlavný celebrant. Druhá eucharistická modlitba
+Skrze neho ty, Pane hovorí sám hlavný celebrant. d) Preto, Pane, keď slávime a Zhliadni, prosíDruhá
+eucharistická modlitba me hovoria s rozopätými rukami.
+
+#### Prex eucharistica II
 
 ### §226
 
@@ -1767,17 +1896,16 @@ V Druhej eucharistickej modlitbe Naozaj si svätý hovorí sám hlavný celebran
 
 ### §227
 
-Od Preto ťa prosíme až po Pokorne ťa prosíme koncelebranti hovoria všetko spolu takto: a) Preto ťa
-prosíme s rukami vystretými smerom k darom; b) On, prv než sa dobrovoľne vydal na smrť a Podobne po
-večeri so zopätými rukami; c) Pánove slová vyslovujú s pravicou vystretou smerom k chlebu a ku
-kalichu, ak je to vhodné; pri pozdvihovaní sa pozrú na hostiu a na kalich a potom sa hlboko uklonia;
-d) Keď teda slávime a Pokorne ťa prosíme hovoria s rozopätými rukami.
+Od Preto ťa prosíme až po Pokorne ťa prosíme koncelebranti hovoria všetko spolu takto: Štvrtá
+eucharistická modlitba a) Preto ťa prosíme s rukami vystretými
 
 ### §228
 
 Príhovory za živých Pamätaj, Pane, a za mŕtvych Pamätaj i na našich bratov a sestry je vhodné zveriť
 jednému alebo dvom koncelebrantom. Každý sám prednesie tieto modlitby s rozopätými rukami a zvýšeným
-hlasom.
+hlasom. d) Preto, Pane, keď teraz slávime a Zhliadni, Pane, na obetu hovoria s rozopätými rukami.
+
+#### Prex eucharistica III
 
 ### §229
 
@@ -1786,36 +1914,38 @@ V Tretej eucharistickej modlitbe Naozaj si svätý hovorí len hlavný celebrant
 ### §230
 
 Od Preto ťa, Pane, pokorne prosíme až po Zhliadni, prosíme koncelebranti hovoria všetko spolu takto:
-a) Preto ťa, Pane, pokorne prosíme s rukami vystretými smerom k darom; b) On v tú noc, keď bol
-zradený a Podobne po večeri so zopätými rukami; c) Pánove slová vyslovujú s pravicou vystretou
-smerom k chlebu a ku kalichu, ak je to vhodné; pri pozdvihovaní sa pozrú na hostiu a na kalich a
-potom sa hlboko uklonia; d) Preto, Pane, keď slávime a Zhliadni, prosíme hovoria s rozopätými
-rukami.
 
 ### §231
 
 Príhovory Nech Duch Svätý a Prosíme ťa, Pane, nech táto obeta je vhodné zveriť jednému alebo dvom
-koncelebrantom. Každý sám prednesie tieto modlitby s rozopätými rukami. Štvrtá eucharistická
-modlitba
+koncelebrantom. Každý sám prednesie tieto modlitby s rozopätými rukami.
+
+#### Prex eucharistica IV
 
 ### §232
 
 V Štvrtej eucharistickej modlitbe Velebíme ťa, svätý Otče až po a všetko posväcuje hovorí len hlavný
-celebrant s rozopätými rukami a zvýšeným hlasom.
+celebrant s rozopätými rukami a zvýšeným hlasom. smerom k darom; b) On, prv než sa dobrovoľne vydal
+na smrť a Podobne po večeri so zopätými rukami; c) Pánove slová vyslovujú s pravicou vystretou
+smerom k chlebu a ku kalichu, ak je to vhodné; pri pozdvihovaní sa pozrú na hostiu a na kalich a
+potom sa hlboko uklonia;
 
 ### §233
 
 Od Preto ťa, Pane, prosíme až po Zhliadni, Pane, na obetu koncelebranti hovoria všetko spolu takto:
-a) Preto ťa, Pane, prosíme s rukami vystretými smerom k darom; b) Lebo on, keď nadišla chvíľa a
-Podobne vzal kalich s vínom so zopätými rukami; c) Pánove slová vyslovujú s pravicou vystretou
-smerom k chlebu a ku kalichu, ak je to vhodné; pri pozdvihovaní sa pozrú na hostiu a na kalich a
-potom sa hlboko uklonia; d) Preto, Pane, keď teraz slávime a Zhliadni, Pane, na obetu hovoria s
-rozopätými rukami. VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
+d) Keď teda slávime a Pokorne ťa prosíme hoa) Preto ťa, Pane, prosíme s rukami vystrevoria s
+rozopätými rukami. tými smerom k darom; b) Lebo on, keď nadišla chvíľa a Podobne vzal kalich s vínom
+so zopätými rukami; c) Pánove slová vyslovujú s pravicou vystretou smerom k chlebu a ku kalichu, ak
+je to vhodné; pri pozdvihovaní sa pozrú na hostiu a na kalich a potom sa hlboko uklonia;
 
 ### §234
 
 Príhovor Pamätaj, Pane, na všetkých a Pamätaj i na tých je vhodné zveriť jednému alebo dvom
-koncelebrantom. Každý sám prednesie tieto modlitby s rozopätými rukami.
+koncelebrantom. Každý sám prednesie tieto modlitby s rozopätými rukami. do stredu oltára, pokľaknú a
+úctivo vezmú Kristovo Telo z oltára, držia ho v pravici a ľavou rukou ho chránia zospodu a odídu na
+svoje miesta. Koncelebranti však môžu ostať aj na svojich miestach a Kristovo Telo vziať z patény,
+ktorú drží hlavný celebrant alebo jeden či viacerí z koncelebrantov a prechádzajú popred nich, alebo
+tiež podávajú paténu susedovi až po posledného.
 
 ### §235
 
@@ -1825,7 +1955,7 @@ predpisy.
 ### §236
 
 Záverečnú doxológiu eucharistickej modlitby prednáša iba hlavný celebrant, prípadne spolu s
-ostatnými koncelebrantmi, ale nie s veriacimi. Obrad prijímania
+ostatnými koncelebrantmi, ale nie s veriacimi.
 
 ### §237
 
@@ -1841,7 +1971,15 @@ spolu s ľudom vyslovujú záverečnú aklamáciu Lebo tvoje je kráľovstvo.
 
 Po výzve diakona, alebo keď diakon chýba, jedného z koncelebrantov Dajte si znak pokoja všetci si
 navzájom dajú znak pokoja. Tí, čo stoja bližšie k hlavnému celebrantovi, dostávajú znak pokoja od
-neho prv ako diakon.
+neho prv ako diakon. a) Hlavný celebrant stojí uprostred oltára, vezme kalich a ticho povie: Krv
+Kristova nech ma zachová pre večný život, prijme trochu Krvi a kalich odovzdá diakonovi alebo
+koncelebrantovi. Potom rozdáva veriacim prijímanie (porov. č. 160 – 162). Koncelebranti za sebou
+alebo po dvoch, ak sú dva kalichy, pristupujú k oltáru, pokľaknú, prijímajú Krv, utrú okraj kalicha
+a idú k svojim sedadlám. b) Hlavný celebrant prijíma Pánovu Krv spravidla uprostred oltára.
+Koncelebranti však môžu prijímať Pánovu Krv na svojich miestach, a to tak, že pijú z kalicha, ktorý
+im podá diakon alebo jeden z koncelebrantov, alebo i tak, že si podávajú kalich rad-radom. Kalich
+vždy utiera buď ten, ktorý prijíma, alebo ten, ktorý kalich podáva. Po prijímaní sa každý vráti k
+svojmu sedadlu.
 
 ### §240
 
@@ -1856,16 +1994,13 @@ Kriste, Syn Boha živého alebo Pane Ježišu Kriste, nech mi prijatie tvojho Te
 ### §242
 
 Po modlitbe pred prijímaním hlavný celebrant pokľakne a trochu ustúpi. Koncelebranti jeden za druhým
-pristupujú do stredu oltára, pokľaknú a úctivo vezmú Kristovo Telo z oltára, držia ho v pravici a
-ľavou rukou ho chránia zospodu a odídu na svoje miesta. Koncelebranti však môžu ostať aj na svojich
-miestach a Kristovo Telo vziať z patény, ktorú drží hlavný celebrant alebo jeden či viacerí z
-koncelebrantov a prechádzajú popred nich, alebo tiež podávajú paténu susedovi až po posledného.
+pristupujú
 
 ### §243
 
 Nato hlavný celebrant vezme hostiu premenenú v tejto omši, drží ju trochu zdvihnutú nad paténou
 alebo nad kalichom a hovorí obrátený k ľudu: Hľa, Baránok Boží a pokračuje s koncelebrujúcimi a s
-ľudom hovoriac: Pane, nie som hoden.
+ľudom hovoriac: Pane, nie som hoden. Obrad prijímania
 
 ### §244
 
@@ -1880,15 +2015,7 @@ lyžičkou.
 
 ### §246
 
-Ak sa prijíma z kalicha, možno použiť jeden z týchto spôsobov: a) Hlavný celebrant stojí uprostred
-oltára, vezme kalich a ticho povie: Krv Kristova nech ma zachová pre večný život, prijme trochu Krvi
-a kalich odovzdá diakonovi alebo koncelebrantovi. Potom rozdáva veriacim prijímanie (porov. č. 160 –
-162). Koncelebranti za sebou alebo po dvoch, ak sú dva kalichy, pristupujú k oltáru, pokľaknú,
-prijímajú Krv, utrú okraj kalicha a idú k svojim sedadlám. b) Hlavný celebrant prijíma Pánovu Krv
-spravidla uprostred oltára. Koncelebranti však môžu prijímať Pánovu Krv na svojich miestach, a to
-tak, že pijú z kalicha, ktorý im podá diakon alebo jeden z koncelebrantov, alebo i tak, že si
-podávajú kalich rad-radom. Kalich vždy utiera buď ten, ktorý prijíma, alebo ten, ktorý kalich
-podáva. Po prijímaní sa každý vráti k svojmu sedadlu. VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
+Ak sa prijíma z kalicha, možno použiť jeden z týchto spôsobov:
 
 ### §247
 
@@ -1928,7 +2055,11 @@ Koncelebranti zostanú na svojich miestach.
 ### §251
 
 Skôr ako koncelebranti odídu od oltára, urobia hlboký úklon oltáru. Hlavný celebrant a diakon však
-úctivo pobozkajú oltár. III. OMŠA S JEDNÝM POSLUHUJÚCIM
+úctivo pobozkajú oltár.
+
+#### III. DE MISSA, CUIUS UNUS TANTUM MINISTER PARTICIPAT
+
+#### III. OMŠA S JEDNÝM POSLUHUJÚCIM
 
 ### §252
 
@@ -1963,7 +2094,12 @@ posluhujúcemu a pozdraví ho jednou z uvedených formúl.
 ### §258
 
 Nato nasleduje úkon kajúcnosti a podľa rubrík hovorí Pane, zmiluj sa a Sláva Bohu na výsostiach.
-VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
+živého alebo Pane Ježišu Kriste, nech mi prijatie. Nato pokľakne, vezme hostiu a ak posluhujúci bude
+prijímať, obráti sa k nemu, hostiu drží trochu pozdvihnutú nad paténou alebo nad kalichom a hovorí:
+Hľa, Baránok Boží a spoločne s posluhujúcim Pane, nie som hoden. Potom sa obráti k oltáru a prijme
+Kristovo Telo. Ak posluhujúci neprijíma, kňaz po pokľaknutí vezme hostiu a obrátený k oltáru povie
+raz potichu: Pane, nie som hoden a Telo Kristovo nech ma zachová a potom prijíma Telo Kristovo.
+Potom vezme kalich a potichu hovorí: Krv Kristova nech ma zachová a prijíma Krv.
 
 ### §259
 
@@ -1992,13 +2128,7 @@ Potom kňaz podľa rubrík spolu s posluhujúcim odrieka vyznanie viery.
 ### §264
 
 Nasleduje všeobecná modlitba, ktorá sa môže konať aj v tejto omši. Kňaz uvedie a dokončí modlitbu,
-úmysly prednáša posluhujúci. živého alebo Pane Ježišu Kriste, nech mi prijatie. Nato pokľakne, vezme
-hostiu a ak posluhujúci bude prijímať, obráti sa k nemu, hostiu drží trochu pozdvihnutú nad paténou
-alebo nad kalichom a hovorí: Hľa, Baránok Boží a spoločne s posluhujúcim Pane, nie som hoden. Potom
-sa obráti k oltáru a prijme Kristovo Telo. Ak posluhujúci neprijíma, kňaz po pokľaknutí vezme hostiu
-a obrátený k oltáru povie raz potichu: Pane, nie som hoden a Telo Kristovo nech ma zachová a potom
-prijíma Telo Kristovo. Potom vezme kalich a potichu hovorí: Krv Kristova nech ma zachová a prijíma
-Krv.
+úmysly prednáša posluhujúci.
 
 ### §265
 
@@ -2017,8 +2147,8 @@ Potom kňaz láme nad paténou hostiu a hovorí s posluhujúcim Baránok Boží.
 
 ### §268
 
-Po zmiešaní spôsobov kňaz ticho hovorí modlitbu Pane Ježišu Kriste, Syn Boha VŠEOBECNÉ SMERNICE
-RÍMSKEHO MISÁLA
+Po zmiešaní spôsobov kňaz ticho hovorí modlitbu Pane Ježišu Kriste, Syn Boha Pokľaknutie a úklony
+Kadidlo možno použiť ľubovoľne pri akejkoľvek forme omše:
 
 ### §269
 
@@ -2031,20 +2161,28 @@ odniesť na stolík alebo ho položí na bok oltára.
 
 ### §271
 
-Po purifikácii kalicha je vhodné, aby kňaz zachoval chvíľku posvätného ticha. Potom prednesie
-modlitbu po prijímaní. Záverečné obrady Liturgia Eucharistie
+Po purifi kácii kalicha je vhodné, aby kňaz zachoval chvíľku posvätného ticha. Potom prednesie
+modlitbu po prijímaní.
 
 ### §272
 
 Záverečné obrady sú ako v omši za účasti ľudu, len slová Choďte v mene Božom sa vynechajú. Kňaz ako
-zvyčajne bozkom uctí oltár, urobí hlboký úklon spolu s posluhujúcim a odíde. IV. NIEKTORÉ VŠEOBECNÉ
-SMERNICE PRE VŠETKY FORMY OMŠE Prejavy úcty oltáru a evanjeliáru
+zvyčajne bozkom uctí oltár, urobí hlboký úklon spolu s posluhujúcim a odíde.
+
+#### IV. QUAEDAM NORMAE GENERALIORES PRO OMNIBUS FORMIS MISSAE
+
+#### De veneratione altaris et Evangeliarii
+
+#### IV. NIEKTORÉ VŠEOBECNÉ SMERNICE 
+PRE VŠETKY FORMY OMŠE
 
 ### §273
 
 Podľa tradičného liturgického zvyku prejavujeme úctu oltáru a evanjeliáru bozkom. Ale tam, kde
 takýto znak nezodpovedá tradícii alebo povahe niektorého kraja, konferencia biskupov má namiesto
 neho určiť iný vhodný znak, o čom upovedomí Apoštolskú stolicu.
+
+#### De genuflexione et inclinatione
 
 ### §274
 
@@ -2056,15 +2194,27 @@ koncelebrovanej omši, sa uvádzajú na príslušných miestach (porov. č. 210 
 presbytériu svätostánok s Najsvätejšou sviatosťou, kňaz, diakon a ostatní posluhujúci pokľaknú, keď
 prídu k oltáru alebo od neho odchádzajú, ale nie počas slávenia samotnej omše. Inak každý, kto
 prechádza popred Najsvätejšiu sviatosť, si pokľakne, okrem procesiového sprievodu. Posluhujúci,
-ktorí nesú procesiový kríž alebo sviece, konajú namiesto pokľaknutia úklon hlavou.
+ktorí nesú procesiový kríž alebo sviece, konajú namiesto pokľaknutia úklon hlavou. a) keď sa ide k
+oltáru v sprievode, b) na začiatku omše, na incenzáciu kríža a oltára, c) pri sprievode k evanjeliu
+a pred jeho prednesom, d) po položení chleba a kalicha na oltár, na incenzáciu obetných darov, kríža
+a oltára, a takisto kňaza a ľudu, e) pri pozdvihovaní hostie a kalicha po premenení.
 
 ### §275
 
 Úklon znamená úctu a česť, ktorá sa vzdáva osobám alebo ich znakom. Sú dva druhy úklonov – úklon
-hlavy a úklon celého tela: Kadidlo možno použiť ľubovoľne pri akejkoľvek forme omše: a) keď sa ide k
-oltáru v sprievode, b) na začiatku omše, na incenzáciu kríža a oltára, c) pri sprievode k evanjeliu
-a pred jeho prednesom, d) po položení chleba a kalicha na oltár, na incenzáciu obetných darov, kríža
-a oltára, a takisto kňaza a ľudu, e) pri pozdvihovaní hostie a kalicha po premenení.
+hlavy a úklon celého tela: a) ak je oltár oddelený od steny, kňaz ho a) Úklon hlavy je pri
+vyslovovaní mena troch božských osôb spolu, pri mene Ježiša, preblahoslavenej Panny Márie a svätého,
+na ktorého počesť sa slávi omša. b) Úklon tela, čiže hlboký úklon, je pri oltári, pri modlitbe
+Všemohúci Bože, očisť mi srdce i pery a Prijmi nás, Pane, v duchu pokorných; vo vyznaní viery pri
+slovách A mocou Ducha Svätého vzal si telo; v Rímskom kánone pri slovách Pokorne ťa prosíme. Tak sa
+ukloní aj diakon, keď prosí o požehnanie pred čítaním evanjelia. Okrem toho sa kňaz trocha skloní,
+keď pri premenení vyslovuje Pánove slová. pri incenzovaní obíde; b) ak však oltár nie je oddelený od
+steny, kňaz idúcky incenzuje najprv pravú stranu oltára a potom ľavú. Ak je kríž na oltári alebo pri
+ňom, kňaz ho incenzuje pred incenzáciou oltára. V iných prípadoch ho incenzuje, keď prechádza pred
+ním. Kňaz incenzuje obetné dary pred incenzáciou kríža a oltára tromi ťahmi kadidelnice alebo urobí
+nad obetnými darmi kadidelnicou znak kríža. Incenzácia Purifi kácia
+
+#### De incensatione
 
 ### §276
 
@@ -2078,40 +2228,51 @@ svätej omše. Tromi ťahmi kadidelnice sa incenzujú: Najsvätejšia sviatosť,
 obrazy Pána vystavené na verejnú úctu, obetné dary na obetu svätej omše, oltárny kríž, evanjeliár,
 paškál, kňaz a ľud. Dvomi ťahmi kadidelnice sa incenzujú relikvie a obrazy svätých vystavené na
 verejnú úctu, a to len na začiatku slávenia po incenzovaní oltára. Oltár sa incenzuje po jednom ťahu
-takto: a) Úklon hlavy je pri vyslovovaní mena troch božských osôb spolu, pri mene Ježiša,
-preblahoslavenej Panny Márie a svätého, na ktorého počesť sa slávi omša. b) Úklon tela, čiže hlboký
-úklon, je pri oltári, pri modlitbe Všemohúci Bože, očisť mi srdce i pery a Prijmi nás, Pane, v duchu
-pokorných; vo vyznaní viery pri slovách A mocou Ducha Svätého vzal si telo; v Rímskom kánone pri
-slovách Pokorne ťa prosíme. Tak sa ukloní aj diakon, keď prosí o požehnanie pred čítaním evanjelia.
-Okrem toho sa kňaz trocha skloní, keď pri premenení vyslovuje Pánove slová. a) ak je oltár oddelený
-od steny, kňaz ho pri incenzovaní obíde; b) ak však oltár nie je oddelený od steny, kňaz idúcky
-incenzuje najprv pravú stranu oltára a potom ľavú. Incenzácia Purifikácia
+takto:
+
+#### De purificatione
 
 ### §278
 
 Ak ostane na prstoch odrobinka hostie, najmä po lámaní hostie alebo po prijímaní veriacich, kňaz
-otrie prsty nad VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA paténou, alebo ak treba, umyje si ich. Podobne
-pozbiera aj odrobinky mimo patény, ak nejaké zostali.
+otrie prsty nad paténou, alebo ak treba, umyje si ich. Podobne pozbiera aj odrobinky mimo patény, ak
+nejaké zostali. Nech ich poučia aj o tom, že Cirkev pri vysluhovaní sviatostí má moc – ak pritom
+zachová ich podstatu – určovať alebo meniť to, o čom si myslí, že lepšie poslúži úcte sviatostí
+alebo osohu prijímajúcich podľa okolností, času a miesta.107 Zároveň nech upozornia veriacich, aby
+sa čím horlivejšie zúčastňovali na tomto posvätnom obrade, ktorým sa plnšie vyjadruje znak
+eucharistickej hostiny.
 
 ### §279
 
 Posvätné nádoby čistí kňaz alebo diakon, prípadne ustanovený akolyta po prijímaní alebo po omši, ak
 je to možné, pri stolíku. Kalich sa čistí vodou alebo vodou a vínom, ktoré potom ten, čo čistil
-posvätné nádoby, vypije. Paténu zvyčajne treba utrieť purifikatóriom. Treba dbať, aby to, čo zostane
-po rozdávaní prijímania z Kristovej Krvi, sa hneď prijalo pri oltári.
+posvätné nádoby, vypije. Paténu zvyčajne treba utrieť purifi katóriom. Treba dbať, aby to, čo
+zostane po rozdávaní prijímania z Kristovej Krvi, sa hneď prijalo pri oltári.
 
 ### §280
 
 Ak hostia alebo nejaká čiastočka spadne, treba ju úctivo zodvihnúť. Ak sa však vyleje niečo z Krvi,
 treba vodou umyť miesto, na ktoré sa vyliala, a vodu potom vyliať do sakrária, ktoré je umiestnené v
-sakristii. Prijímanie pod obidvoma spôsobmi
+sakristii. koncelebrovať; b) diakon a ostatní, ktorí pri omši vykonávajú nejakú službu; c) členovia
+komunít pri konventuálnej omši alebo pri omši spoločenstiev, ktoré sa nazývajú komunitou – chovanci
+seminárov, všetci účastníci duchovných cvičení, duchovného alebo pastorálneho zhromaždenia.
+Prijímanie pod obidvoma spôsobmi
+
+#### De Communione sub utraque specie
 
 ### §281
 
 Plnšie zvýraznenie znaku svätého prijímania sa dosiahne prijímaním pod obidvoma spôsobmi. V tejto
 forme sa totiž dokonalejšie prejavuje znak eucharistickej hostiny a jasnejšie sa vyjadruje jednak
 Božia vôľa, ktorou sa potvrdzuje nová a večná zmluva v Pánovej Krvi, jednak vnútorná súvislosť medzi
-eucharistickou a eschatologickou hostinou v Otcovom kráľovstve.105
+eucharistickou a eschatologickou hostinou v Otcovom kráľovstve.105 Diecézny biskup môže pre svoju
+diecézu stanoviť predpisy o prijímaní pod obidvoma spôsobmi, ktoré sa majú zachovávať aj v rehoľných
+kostoloch a v malých spoločenstvách. Tomu istému biskupovi je daná právomoc povoliť prijímanie pod
+obidvoma spôsobmi, keď to kňaz, ktorému ako vlastnému pastierovi je zverená nejaká komunita,
+považuje za vhodné, len nech sú veriaci dobre poučení a je vylúčené nebezpečenstvo zneuctenia
+Eucharistie alebo by sa tento obrad stal obťažným pre množstvo prijímajúcich či pre inú príčinu. Ale
+predpisy o spôsobe rozdávania prijímania pod obidvoma spôsobmi a o rozsahu fakulty môžu konferencie
+biskupov vydať až po preskúmaní Apoštolskou stolicou.
 
 ### §282
 
@@ -2120,59 +2281,54 @@ svätého prijímania podľa Tridentského ekumenického koncilu tým veriacim, 
 obidvoma spôsobmi, ako aj ostatným prítomným. Predovšetkým nech upozornia veriacich kresťanov na
 učenie katolíckej viery, že aj pod jedným spôsobom sa prijíma celý a úplný Kristus a opravdivá
 sviatosť, a preto tí, čo prijímajú len pod jedným spôsobom, čo do úžitku nie sú ukrátení o nijakú
-milosť potrebnú na spasenie.106 Nech ich poučia aj o tom, že Cirkev pri vysluhovaní sviatostí má moc
-– ak pritom zachová ich podstatu – určovať alebo meniť to, o čom si myslí, že lepšie poslúži úcte
-sviatostí alebo osohu prijímajúcich podľa okolností, času a miesta.107 Zároveň nech upozornia
-veriacich, aby sa čím horlivejšie zúčastňovali na tomto posvätnom obrade, ktorým sa plnšie vyjadruje
-znak eucharistickej hostiny.
+milosť potrebnú na spasenie.1
 
 ### §283
 
 Prijímanie pod obidvoma spôsobmi okrem prípadov uvedených v knihách obradov majú dovolené: a) kňazi,
-ktorí nemôžu celebrovať alebo koncelebrovať; b) diakon a ostatní, ktorí pri omši vykonávajú nejakú
-službu; c) členovia komunít pri konventuálnej omši alebo pri omši spoločenstiev, ktoré sa nazývajú
-komunitou – chovanci seminárov, všetci účastníci duchovných cvičení, duchovného alebo pastorálneho
-zhromaždenia. Diecézny biskup môže pre svoju diecézu stanoviť predpisy o prijímaní pod obidvoma
-spôsobmi, ktoré sa majú zachovávať aj v rehoľných kostoloch a v malých spoločenstvách. Tomu istému
-biskupovi je daná právomoc povoliť prijímanie pod obidvoma spôsobmi, keď to kňaz, ktorému ako
-vlastnému pastierovi je zverená nejaká komunita, považuje za vhodné, len nech sú veriaci dobre
-poučení a je vylúčené nebezpečenstvo zneuctenia Eucharistie alebo by sa tento obrad stal obťažným
-pre množstvo prijímajúcich či pre inú príčinu. Ale predpisy o spôsobe rozdávania prijímania pod
-obidvoma spôsobmi a o rozsahu fakulty môžu konferencie biskupov vydať až po preskúmaní Apoštolskou
-stolicou.
+ktorí nemôžu celebrovať alebo
 
 ### §284
 
-Pri rozdávaní prijímania pod obidvoma spôsobmi: 105 Porov. POSVÄTNÁ KONGREGÁCIA OBRADOV, inštrukcia
-Eucharisticum mysterium, 25. mája 1967, č. 32: AAS 59 (1967) s. 558. 106 TRIDENTSKÝ KONCIL, Sesia
-XXI, 16. júla 1562, Dekrét o eucharistickom prijímaní, kap. 1 – 3: DS 1725 – 1729. 107 Porov. tamže,
-kap. 2: DS 1728. VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
+Pri rozdávaní prijímania pod obidvoma spôsobmi: a) pri kalichu zvyčajne posluhuje diakon, ak nie je
+prítomný, kňaz; alebo aj riadne ustanovený akolyta alebo iný mimoriadny vysluhovateľ svätého
+prijímania alebo veriaci, ktorému bola v prípade nutnosti zverená táto úloha;
+
+#### Kapitola V. 
+ZARIADENIE 
+A VÝZDOBA KOSTOLOV 
+NA SLÁVENIE EUCHARISTIE
 
 ### §285
 
-Na udeľovanie prijímania pod obidvoma spôsobmi treba pripraviť: a) keď prijímajúci pijú priamo z
-kalicha – buď dostatočne veľký kalich alebo viac kalichov, nech sa však vždy dáva pozor, aby
-Kristovej Krvi, ktorú bude treba prijať na konci prijímania, nezostalo priveľa; b) ak sa prijímanie
-udeľuje namáčaním, treba dať pozor, aby hostie neboli veľmi tenké alebo veľmi malé, ale trochu
-hrubšie ako zvyčajne, aby sa sčasti namočené do Krvi mohli ľahko podávať.
+Na udeľovanie prijímania pod obidvoma spôsobmi treba pripraviť:
 
 ### §286
 
 Keď prijímajúci pijú priamo z kalicha – potom, ako prijímajúci prijal Telo Kristovo, podíde k tomu,
 čo podáva kalich, a postaví sa pred neho. Posluhujúci hovorí: Krv Kristova a prijímajúci odpovie:
 Amen. Posluhujúci mu podá kalich, ktorý si prijímajúci sám priloží k ústam. Prijímajúci odpije
-trochu z kalicha, vráti ho posluhujúcemu a odíde. Posluhujúci utrie vonkajšiu časť kalicha
-purifikatóriom. čaním – prijímajúci si drží paténu pod ústami, pristúpi ku kňazovi, ktorý drží
-nádobu so svätými hostiami, vedľa neho stojí posluhujúci s kalichom. Kňaz vezme hostiu, sčasti ju
-namočí v kalichu, pozdvihne ju a povie: Telo a Krv Kristova a prijímajúci odpovie: Amen. Od kňaza
-prijme sviatosť do úst a potom odíde. Kapitola V. ZARIADENIE A VÝZDOBA KOSTOLOV NA SLÁVENIE
-EUCHARISTIE I. VŠEOBECNÉ ZÁSADY
-
-## Kapitola V: Zriadenie a výzdoba kostolov na slávenie Eucharistie
+trochu z kalicha, vráti ho posluhujúcemu a odíde. Posluhujúci utrie vonkajšiu časť kalicha purifi
+katóriom.
 
 ### §287
 
-Ak sa prijímanie z kalicha koná namáčaním – prijímajúci si drží paténu pod ústami, pristúpi ku kňazovi, ktorý drží nádobu so svätými hostiami, vedľa neho stojí posluhujúci s kalichom. Kňaz vezme hostiu, sčasti ju namočí v kalichu, pozdvihne ju a povie: Telo a Krv Kristova. Prijímajúci odpovie: Amen, prijme sviatosť do úst od kňaza a odíde.
+Ak sa prijímanie z kalicha koná namáčaním – prijímajúci si drží paténu pod ústami, pristúpi ku
+kňazovi, ktorý drží nádobu so svätými hostiami, vedľa neho stojí posluhujúci s kalichom. Kňaz vezme
+hostiu, sčasti ju namočí v kalichu, pozdvihne ju a povie: Telo a Krv Kristova a prijímajúci odpovie:
+Amen. Od kňaza prijme sviatosť do úst a potom odíde. b) Krv, ktorá zostala, prijme hneď pri oltári
+kňaz, diakon alebo riadne ustanovený akolyta, ktorý posluhoval pri kalichu, a zvyčajným spôsobom
+očistí, poutiera a uloží posvätné nádoby; c) veriacim, ktorí chcú prijímať len pod spôsobom chleba,
+treba udeliť sväté prijímanie týmto spôsobom.
+
+
+## Chapter V: The Arrangement and Ornamentation of Churches for the Celebration of the Eucharist
+
+#### Caput V DE ECCLESIARUM DISPOSITIONE ET ORNATU AD EUCHARISTIAM CELEBRANDAM
+
+#### I. PRINCIPIA GENERALIA
+
+#### I. VŠEOBECNÉ ZÁSADY
 
 ### §288
 
@@ -2180,25 +2336,26 @@ Na eucharistickú bohoslužbu sa schádza Boží ľud spravidla v kostole alebo 
 nepostačujúci – na inom, ale vhodnom mieste, dôstojnom takého veľkého tajomstva. Kostoly alebo iné
 miesta na slávenie bohoslužby majú byť primerané posvätným úkonom a činnej účasti veriacich. Okrem
 toho posvätné budovy a veci potrebné na bohoslužbu majú byť naozaj dôstojné, pekné a majú byť znakmi
-a symbolmi nadzemských skutočností.108
+a symbolmi nadzemských skutočností.108 b) ak sa prijímanie udeľuje namáčaním, treba dať pozor, aby
+hostie neboli veľmi tenké alebo veľmi malé, ale trochu hrubšie ako zvyčajne, aby sa sčasti namočené
+do Krvi mohli ľahko podávať.
 
 ### §289
 
 Preto Cirkev neustále vyhľadáva vznešenú službu umenia a pripúšťa umelecké prejavy všetkých národov
-a krajín.109 A nielenže sa snaží zachovať umelecké diela a poklady predchádzajúcich storočí110 a
+a krajín.109 A nielenže sa snaží zachovať umelecké diela a poklady predchádzajúcich storočí a
 primerane ich prispôsobiť novým požiadavkám, ale sa usiluje aj o rozvoj nových diel, zodpovedajúcich
-duchu doby.111 108 Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum
-concilium, č. 122 – 124; dekrét o účinkovaní a živote kňazov Presbyterorum ordinis, č. 5; POSVÄTNÁ
-KONGREGÁCIA OBRADOV, inštrukcia Inter œcumenici, 26. septembra 1964, č. 90: AAS 56 (1964) s. 897;
-inštrukcia Eucharisticum mysterium, 25. mája 1967, č. 24: AAS 59 (1967) s. 554; Kódex kánonického
-práva, kán. 932 § 1. 109 Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii
-Sacrosanctum concilium, č. 123. 110 Porov. POSVÄTNÁ KONGREGÁCIA OBRADOV, inštrukcia Eucharisticum
-mysterium, 25. mája 1967, č. 24: AAS 59 (1967) s. 554. 111 Porov. DRUHÝ VATIKÁNSKY KONCIL,
-konštitúcia o posvätnej liturgii Sacrosanctum concilium, č. 123, 129; POSVÄTNÁ KONGREGÁCIA OBRADOV,
-inštrukcia Inter œcumenici, 26. septembra 1964, č. 13c: AAS 56 (1964) s. 880. Pri výchove umelcov a
-pri výbere diel určených pre kostol treba požadovať skutočné umelecké hodnoty, ktorými by sa živila
-viera a nábožnosť a ktoré by boli v súlade s naznačovanou pravdou a s cieľom, ktorému majú
-slúžiť.112
+duchu doby.111 Pri výchove umelcov a pri výbere diel určených pre kostol treba požadovať skutočné
+umelecké hodnoty, ktorými by sa živila viera a nábožnosť a ktoré by boli v súlade s naznačovanou
+pravdou a s cieľom, ktorému majú slúžiť.112 tak usporiadané, aby určitým spôsobom vyjadrovalo
+štruktúru zídeného zhromaždenia, umožňovalo organicky usporiadanú účasť všetkých a každému pomáhalo
+náležite vykonávať jeho úlohu. Veriaci a zbor spevákov (schola cantorum) majú mať také miesto, ktoré
+im uľahčí činnú účasť.114 Miesto pre celebrujúceho kňaza, diakona a iných posluhujúcich má byť v
+presbytériu. Tam nech sa pripravia sedadlá pre koncelebrantov, keby ich však bolo veľa, nech sa
+sedadlá umiestnia v inej časti kostola, ale blízko oltára. Hoci toto všetko má vyjadrovať
+hierarchické usporiadanie a rozdielnosť funkcií, predsa má tvoriť vnútornú súvislú jednotu, v ktorej
+by sa jasne prejavovala jednota celého svätého ľudu. Povaha a krása miesta a celého zariadenia majú
+podnecovať nábožnosť a poukazovať na posvätnosť slávených tajomstiev.
 
 ### §290
 
@@ -2210,7 +2367,7 @@ posvätné slávnostným obradom.
 Pri stavbe nových posvätných budov, pri ich oprave a úprave nech sa všetci, ktorých sa to týka,
 radia s diecéznou komisiou pre posvätnú liturgiu a umenie. Diecézny biskup nech použije radu a pomoc
 tejto komisie, keď ide o stanovenie smerníc v tejto záležitosti alebo o schválenie plánov nových
-kostolov, ako aj o riešenie niektorých závažných otázok.113
+kostolov, ako aj o riešenie niektorých závažných otázok.1
 
 ### §292
 
@@ -2223,38 +2380,33 @@ veriacich a prispela k dôstojnosti celého posvätného miesta.
 Vhodné usporiadanie kostola a jeho príslušenstva, ktoré má primerane zodpovedať požiadavkám našej
 doby, vyžaduje nielen pozornosť voči veciam, ktoré majú priamy vzťah k bohoslužobným úkonom, ale aj
 starosť o to, čo môže priniesť veriacim väčšie pohodlie a o čo je zvyčajne postarané na miestach,
-kde sa ľudia zhromažďujú.
+kde sa ľudia zhromažďujú. Oltár a jeho výzdoba
 
 ### §294
 
 Boží ľud, ktorý sa schádza na omšu, má organické a hierarchické usporiadanie, čo sa prejavuje
 rozličnými službami a rozličnými úkonmi v jednotlivých častiach slávenia omše. Posvätné miesto má
-byť teda tak usporiadané, aby určitým spôsobom vyjadrovalo štruktúru zídeného zhromaždenia,
-umožňovalo organicky usporiadanú účasť všetkých a každému pomáhalo náležite vykonávať jeho úlohu.
-Veriaci a zbor spevákov (schola cantorum) majú mať také miesto, ktoré im uľahčí činnú účasť.114
-Miesto pre celebrujúceho kňaza, diakona a iných posluhujúcich má byť v presbytériu. Tam nech sa
-pripravia sedadlá pre koncelebrantov, keby ich však bolo veľa, nech sa sedadlá umiestnia v inej
-časti kostola, ale blízko oltára. Hoci toto všetko má vyjadrovať hierarchické usporiadanie a
-rozdielnosť funkcií, predsa má tvoriť vnútornú súvislú jednotu, v ktorej by sa jasne prejavovala
-jednota celého svätého ľudu. Povaha a krása miesta a celého zariadenia majú podnecovať nábožnosť a
-poukazovať na posvätnosť slávených tajomstiev. II. USPORIADANIE PRESBYTÉRIA NA SLÁVENIE SVÄTEJ OMŠE
+byť teda
+
+#### II. DE PRESBYTERII ORDINATIONE AD SACRAM SYNAXIM
+
+#### II. USPORIADANIE PRESBYTÉRIA 
+NA SLÁVENIE SVÄTEJ OMŠE
 
 ### §295
 
 Presbytérium je miesto, kde stojí oltár, prednáša sa Božie slovo a kde kňaz, diakon a ostatní
 posluhujúci vykonávajú svoju úlohu. Má sa primerane odlišovať od kostolnej lode, či už čiastočným
 vyvýšením, alebo osobitnou stavbou a výzdobou. Má byť však také priestranné, aby sa v ňom mohlo
-pohodlne konať a sledovať slávenie Eucharistie.115 Oltár a jeho výzdoba
+pohodlne konať a sledovať slávenie Eucharistie.1
+
+#### De altari eiusque ornatu
 
 ### §296
 
 Oltár, na ktorom sa pod sviatostnými znakmi sprítomňuje obeta kríža, je aj stolom Pána; Boží ľud sa
 povoláva k účasti na ňom pri omši. Oltár je aj stredom vzdávania vďaky, ktoré sa uskutočňuje
-Eucharistiou. 112 Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum
-concilium, č. 123. 113 Porov. tamže, č. 126; POSVÄTNÁ KONGREGÁCIA OBRADOV, inštrukcia Inter
-œcumenici, 26. septembra 1964, č. 91: AAS 56 (1964) s. 898. 114 Porov. POSVÄTNÁ KONGREGÁCIA OBRADOV,
-inštrukcia Inter œcumenici, 26. septembra 1964, č. 97 – 98: AAS 56 (1964) s. 899. 115 Porov. tamže,
-č. 91: AAS 56 (1964) s. 898. VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
+Eucharistiou.
 
 ### §297
 
@@ -2277,7 +2429,7 @@ Má byť spravidla pevný a posvätený.
 
 ### §300
 
-Oltáre pevné i prenosné treba posvätiť podľa obradov v Rímskom pontifikáli; prenosné oltáre však
+Oltáre pevné i prenosné treba posvätiť podľa obradov v Rímskom pontifi káli; prenosné oltáre však
 možno iba požehnať.
 
 ### §301
@@ -2320,21 +2472,31 @@ skôr okolo oltára ako na ňom.
 
 Na menzu oltára možno položiť len to, čo si vyžaduje slávenie omše, čiže evanjeliár od začiatku
 slávenia do prednášania evanjelia; od prinášania darov do očistenia nádob: kalich s paténou, pyxidu,
-ak je potrebná, napokon korporál, purifikatórium, pallu a misál. Nenápadne nech sa umiestni aj
+ak je potrebná, napokon korporál, purifi katórium, pallu a misál. Nenápadne nech sa umiestni aj
 mikrofón na zosilnenie hlasu.
 
 ### §307
 
 Svietniky, ktoré sa vyžadujú pri jednotlivých liturgických úkonoch kvôli úcte i slávnostnosti obradu
 (porov. č. 117), treba vhodne umiestniť, s prihliadnutím na štruktúru oltára a presbytéria, na oltár
-116 Porov. tamže. alebo vedľa neho. Celok má byť vkusne zladený, ale tak, aby veriaci mohli dobre
-vidieť, čo sa deje na oltári alebo čo sa naň kladie.
+alebo vedľa neho. Celok má byť vkusne zladený, ale tak, aby veriaci mohli dobre vidieť, čo sa deje
+na oltári alebo čo sa naň kladie. umiestniť ho v čele presbytéria oproti ľudu, ak tomu neprekáža
+stavba kostola alebo iné okolnosti, napríklad ak by bolo pre veľkú vzdialenosť sťažené spojenie
+medzi kňazom a zhromaždením veriacich alebo ak je svätostánok uprostred, vzadu za oltárom, ale nech
+vzhľadom nepripomína trón.119 Patrí sa, aby sedadlo bolo požehnané obradom opísaným v Rímskom
+rituáli predtým, ako sa začne v liturgii používať.120 V presbytériu sa rozložia aj sedadlá pre
+koncelebrujúcich kňazov a pre kňazov, ktorí sa zúčastňujú na slávení v chórovom odeve, ale
+nekoncelebrujú. Sedadlo pre diakona sa postaví blízko sedadla celebranta. Sedadlá pre iných
+posluhujúcich treba rozmiestniť tak, aby sa jasne odlišovali od sedadiel duchovných a aby mohli
+ľahko plniť im zverenú úlohu.1
 
 ### §308
 
 Na oltári alebo v jeho blízkosti má byť kríž s podobou ukrižovaného Krista, dobre viditeľný
 zhromaždenému ľudu. Je osožné, aby takýto kríž zostával blízko oltára aj mimo liturgického slávenia,
 aby sa tak myseľ veriacich obracala na spásonosné Pánovo umučenie. Ambóna
+
+#### De ambone
 
 ### §309
 
@@ -2345,21 +2507,25 @@ akákoľvek, ambóna sa musí umiestniť tak, aby vysvätených služobníkov a 
 vidieť a počuť. Z ambóny sa prednášajú najmä čítania, responzóriový žalm (medzispev) a veľkonočný
 chválospev. Môže sa z nej predniesť homília a úmysly spoločnej modlitby. Dôstojnosť ambóny si
 vyžaduje, aby k nej pristupoval len služobník slova. Patrí sa, aby nová ambóna bola požehnaná
-obradom uvedeným v Rímskom rituáli predtým, ako sa začne v liturgii používať.118 Sedadlá pre
-celebranta a posluhujúcich
+obradom uvedeným v Rímskom rituáli predtým, ako sa začne v liturgii používať.1
+
+#### De sede pro sacerdote celebrante aliisque sedibus
 
 ### §310
 
 Sedadlo celebrujúceho kňaza má naznačovať jeho úlohu: predsedať zhromaždeniu a viesť modlitbu. Preto
-je vhodné umiestniť ho v čele presbytéria oproti ľudu, ak tomu neprekáža stavba kostola alebo iné
-okolnosti, napríklad ak by bolo pre veľkú vzdialenosť sťažené spojenie medzi kňazom a zhromaždením
-veriacich alebo ak je svätostánok uprostred, vzadu za oltárom, ale nech vzhľadom nepripomína
-trón.119 Patrí sa, aby sedadlo bolo požehnané obradom opísaným v Rímskom rituáli predtým, ako sa
-začne v liturgii používať.120 V presbytériu sa rozložia aj sedadlá pre koncelebrujúcich kňazov a pre
-kňazov, ktorí sa zúčastňujú na slávení v chórovom odeve, ale nekoncelebrujú. Sedadlo pre diakona sa
-postaví blízko sedadla celebranta. Sedadlá pre iných posluhujúcich treba rozmiestniť tak, aby sa
-jasne odlišovali od sedadiel duchovných a aby mohli ľahko plniť im zverenú úlohu.121 III.
-USPORIADANIE KOSTOLA Miesta pre veriacich
+je vhodné Miesto pre zbor a hudobné nástroje treba Najsvätejšiu sviatosť uložiť v každom kostole vo
+svätostánku na najčestnejšom, označenom, viditeľnom a náležite vyzdobenom mieste kostola
+prispôsobenom na modlitbu.125 Svätostánok nech je zvyčajne len jeden, pevný, zhotovený z pevného a
+neporušiteľného nepriesvitného materiálu a tak uzavretý, aby sa čo najviac zabránilo nebezpečenstvu
+znesvätenia.126 Je vhodné, aby bol požehnaný pred uvedením do používania v liturgii stanoveným
+obradom v Rímskom rituáli.1
+
+#### III. DE ECCLESIAE ORDINATIONE
+
+#### De locis fidelium
+
+#### III. USPORIADANIE KOSTOLA
 
 ### §311
 
@@ -2369,22 +2535,17 @@ Treba zavrhnúť zvyk vyhradzovať sedadlá niektorým súkromným osobám.122 L
 predovšetkým v novopostavených kostoloch, treba umiestniť tak, aby veriaci mohli pohodlne zaujať
 taký postoj tela, aký sa od nich v rozličných častiach bohoslužby vyžaduje a aby mohli bez prekážky
 pristúpiť k svätému prijímaniu. Treba sa postarať o to, aby veriaci mohli kňaza, diakona a lektorov
-nielen vidieť, ale pri použití dnešnej techniky aj dobre počuť. 117 Porov. POSVÄTNÁ KONGREGÁCIA
-OBRADOV, inštrukcia Inter œcumenici, 26. septembra 1964, č. 96: AAS 56 (1964) s. 899. 118 Porov.
-RÍMSKY RITUÁL, Benedikcionál, typické vydanie 1984, Obrad požehnania novej ambóny, č. 900 – 918. 119
-Porov. POSVÄTNÁ KONGREGÁCIA OBRADOV, inštrukcia Inter œcumenici, 26. septembra 1964, č. 92: AAS 56
-(1964) s. 898. 120 Porov. RÍMSKY RITUÁL, Benedikcionál, typické vydanie 1984, Obrad požehnania novej
-katedry alebo predsedníckeho sedadla pri odovzdávaní do používania, č. 880 – 899. 121 Porov.
-POSVÄTNÁ KONGREGÁCIA OBRADOV, inštrukcia Inter œcumenici, 26. septembra 1964, č. 92: AAS 56 (1964)
-s. 898. 122 Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum concilium,
-č. 32. VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
+nielen vidieť, ale pri použití dnešnej techniky aj dobre počuť. Sedadlá pre celebranta a
+posluhujúcich
+
+#### De loco scholæ cantorum et instrumentorum musicorum
 
 ### §312
 
 Zbor spevákov (schola cantorum) má sa umiestniť podľa dispozície každého kostola tak, aby sa jasne
 ukázalo jeho začlenenie, že je totiž časťou zhromaždeného spoločenstva a že má osobitnú úlohu, aby
 mohol ľahko vykonávať túto službu a aby sa jednotlivým členom zboru lepšie umožnila plná účasť na
-omši, t. j. sviatostná účasť.123
+omši, t. j. sviatostná účasť.1
 
 ### §313
 
@@ -2394,16 +2555,14 @@ aby bol organ požehnaný pred uvedením do používania v liturgii stanoveným 
 rituáli.124 V Adventnom období sa organ a iné hudobné nástroje používajú s umiernenosťou, ktorá je v
 súlade s povahou tohto obdobia, aby sa nepredbiehalo plnej radosti Narodenia Pána. Počas Pôstneho
 obdobia je povolený zvuk organa a iných hudobných nástrojov len na podporu spevu. Výnimkou je nedeľa
-Lætare (Štvrtá pôstna nedeľa), slávnosti a sviatky. Miesto uchovávania Najsvätejšej sviatosti
+Lætare (Štvrtá pôstna nedeľa), slávnosti a sviatky.
+
+#### De loco asservationis sanctissimæ eucharistiæ
 
 ### §314
 
-Podľa štruktúry jednotlivých kostolov a podľa zákonitých miestnych zvykov treba Najsvätejšiu
-sviatosť uložiť v každom kostole vo svätostánku na najčestnejšom, označenom, viditeľnom a náležite
-vyzdobenom mieste kostola prispôsobenom na modlitbu.125 Svätostánok nech je zvyčajne len jeden,
-pevný, zhotovený z pevného a neporušiteľného nepriesvitného materiálu a tak uzavretý, aby sa čo
-najviac zabránilo nebezpečenstvu znesvätenia.126 Je vhodné, aby bol požehnaný pred uvedením do
-používania v liturgii stanoveným obradom v Rímskom rituáli.127
+Podľa štruktúry jednotlivých kostolov a podľa zákonitých miestnych zvykov Na Slovensku sa výnimočne
+môže pri svätostánku používať aj elektrické svetlo.
 
 ### §315
 
@@ -2411,36 +2570,20 @@ Na vyjadrenie znaku je vhodnejšie, aby svätostánok, v ktorom sa uchováva naj
 nebol na oltári, na ktorom sa slávi svätá omša.128 Podľa úsudku diecézneho biskupa možno svätostánok
 umiestniť: a) v presbytériu mimo oltára, na ktorom sa celebruje, vhodného tvaru a na najvhodnejšom
 mieste, nevylučuje sa ani starý oltár, na ktorom sa už necelebruje (č. 303); b) alebo aj v kaplnke
-vhodnej na súkromnú poklonu a modlitbu veriacich129, ktorá má byť organicky spojená s kostolom a
-prístupná veriacim.
+vhodnej na súkromnú poklonu a modlitbu veriacich, ktorá má byť organicky spojená s kostolom a
+prístupná veriacim. Miesto uchovávania Najsvätejšej sviatosti
 
 ### §316
 
 Podľa tradičného zvyku nech vedľa svätostánku nepretržite svieti zvláštna lampa živená olejom alebo
-voskom, na upozornenie a uctenie Kristovej prítomnosti.130 123 Porov. POSVÄTNÁ KONGREGÁCIA OBRADOV,
-inštrukcia Musicam sacram, 5. marca 1967, č. 23: AAS 59 (1967) s. 307. 124 Porov. RÍMSKY RITUÁL,
-Benedikcionál, typické vydanie 1984, Požehnanie organa, č. 1052 – 1067. 125 Porov. POSVÄTNÁ
-KONGREGÁCIA OBRADOV, inštrukcia Eucharisticum mysterium, 25. mája 1967, č. 54: AAS 59 (1967) s. 568;
-inštrukcia Inter œcumenici, 26. septembra 1964, č. 95: AAS 56 (1964) s. 898. 126 Porov. POSVÄTNÁ
-KONGREGÁCIA OBRADOV, inštrukcia Eucharisticum mysterium, 25. mája 1967, č. 52: AAS 59 (1967) s. 568;
-inštrukcia Inter œcumenici, 26. septembra 1964, č. 95: AAS 56 (1964) s. 898; POSVÄTNÁ KONGREGÁCIA
-SVIATOSTÍ, inštrukcia Nullo umquam tempore, 28. mája 1938, č. 4: AAS 30 (1938) s. 199 – 200; Rímsky
-rituál, Sväté prijímanie a kult eucharistického tajomstva mimo omše, typické vydanie 1973, č. 10 –
-11; Kódex kánonického práva, kán. 938 § 3. 127 Porov. RÍMSKY RITUÁL, Benedikcionál, typické vydanie
-1984, Obrad požehnania nového svätostánku, č. 919 – 929. 128 Porov. POSVÄTNÁ KONGREGÁCIA OBRADOV,
-inštrukcia Eucharisticum mysterium, 25. mája 1967, č. 55: AAS 59 (1967) s. 569. 129 Porov. tamže, č.
-53: AAS 59 (1967) s. 568; Rímsky rituál, Sväté prijímanie a kult eucharistického tajomstva mimo
-omše, typické vydanie 1973, č. 9; Kódex kánonického práva, kán. 938 § 2; JÁN PAVOL II., List
-Dominicæ Cenæ, 24. februára 1980, č. 3: AAS 72 (1980) s. 117 – 119. 130 Kódex kánonického práva,
-kán. 940; POSVÄTNÁ KONGREGÁCIA OBRADOV, inštrukcia Eucharisticum mysterium, 25. mája 1967, č. 57:
-AAS 59 (1967) s. 569; porov. Rímsky rituál, Sväté prijímanie a kult eucharistického tajomstva mimo
-omše, typické vydanie 1973, č. 11. Na Slovensku sa výnimočne môže pri svätostánku používať aj
-elektrické svetlo.
+voskom, na upozornenie a uctenie Kristovej prítomnosti.1
 
 ### §317
 
 Okrem toho sa nesmie zabúdať na všetky ďalšie predpisy o uchovávaní najsvätejšej Eucharistie podľa
-noriem práva.131 O posvätných obrazoch
+noriem práva.1
+
+#### De imaginibus sacris
 
 ### §318
 
@@ -2455,12 +2598,26 @@ toho istého svätého nech je zvyčajne len jeden. Vo všeobecnosti pri výzdob
 zariadenia, čo sa týka obrazov, treba mať na zreteli jednak nábožnosť celého spoločenstva, jednak
 krásu a dôstojnosť obrazov.
 
-## Kapitola VI: Potreby na slávenie svätej omše
+
+## Chapter VI: The Requisites for the Celebration of Mass
+
+#### Caput VI DE IIS QUAE AD MISSAE CELEBRATIONEM REQUIRUNTUR
+
+#### I. DE PANE ET VINO AD EUCHARISTIAM CELEBRANDAM
+
+#### Kapitola VI. 
+VECI POTREBNÉ 
+NA SLÁVENIE OMŠE
+
+#### I. CHLIEB A VÍNO NA SLÁVENIE 
+EUCHARISTIE
+
+#### II. O ZARIADENÍ KOSTOLA 
+VŠEOBECNE
 
 ### §319
 
-Cirkev podľa Kristovho príkladu vždy používala chlieb a víno s vodou na slávenie Pánovej večere. II.
-O ZARIADENÍ KOSTOLA VŠEOBECNE
+Cirkev podľa Kristovho príkladu vždy používala chlieb a víno s vodou na slávenie Pánovej večere.
 
 ### §320
 
@@ -2475,7 +2632,7 @@ omši slávenej za účasti ľudu mohol naozaj hostiu rozlomiť na viaceré čas
 veriacim ich aj podať. Malé hostie sa, pravda, nevylučujú, ak si to vyžaduje počet prijímajúcich a
 iné pastoračné dôvody. Ale úkon lámania chleba, ktorým sa v apoštolských časoch označovala
 jednoducho Eucharistia, zjavnejšie vyjadrí silu a dôležitosť znaku jednoty všetkých v jednom chlebe
-i znaku lásky, pretože jeden chlieb sa rozdeľuje bratom.
+i znaku lásky, pretože jeden chlieb sa rozdeľuje bratom. O posvätných obrazoch
 
 ### §322
 
@@ -2492,31 +2649,36 @@ stave, t. j. aby víno nezoctovatelo a chlieb sa neskazil alebo veľmi nestvrdol
 
 Ak kňaz po premenení alebo pri prijímaní zbadá, že nebolo naliate víno, ale voda, nech vodu vyleje
 do nejakej nádoby a do kalicha naleje víno s vodou a premení ho slovami, ktoré sa vzťahujú na
-konsekráciu kalicha; chlieb netreba znova konsekrovať. Kapitola VI. VECI POTREBNÉ NA SLÁVENIE OMŠE
-I. CHLIEB A VÍNO NA SLÁVENIE EUCHARISTIE
+konsekráciu kalicha; chlieb netreba znova konsekrovať.
+
+#### II. DE SACRA SUPELLECTILE IN GENERE
 
 ### §325
 
-Ako pri stavbe kostolov, tak aj pri celom zariadení kostola Cirkev pripúšťa 131 Porov. zvlášť
-POSVÄTNÁ KONGREGÁCIA SVIATOSTÍ, inštrukcia Nullo umquam tempore, 28. mája 1938: AAS 30 (1938) s. 198
-– 207; Kódex kánonického práva, kán. 934 – 944. 132 Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o
-posvätnej liturgii Sacrosanctum concilium, č. 8. 133 Porov. RÍMSKY PONTIFIKÁL, Posviacka kostola a
-oltára, typické vydanie 1977, kap. IV, č. 10; RÍMSKY RITUÁL, Benedikcionál, typické vydanie 1984,
-Požehnanie obrazov, ktoré sa vystavujú na uctievanie veriacim, č. 984 – 1031. 134 Porov. DRUHÝ
-VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum concilium, č. 125. VŠEOBECNÉ
-SMERNICE RÍMSKEHO MISÁLA
+Ako pri stavbe kostolov, tak aj pri celom zariadení kostola Cirkev pripúšťa umelecký štýl a vkus
+každej krajiny a prijíma tie prispôsobenia, ktoré sú v súlade s povahou a tradíciami jednotlivých
+národov, len aby všetko primerane zodpovedalo cieľu, na ktorý je zariadenie kostola určené.135 Aj na
+tomto poli treba starostlivo dbať o vznešenú jednoduchosť, ktorú možno výborne spojiť s opravdivým
+umením. vrchnú časť z takého materiálu, ktorý tekutiny neabsorbuje. Podstavec môže byť z iného
+pevného a ušľachtilého materiálu.
 
 ### §326
 
 Pri výbere materiálu na zariadenie kostola možno voliť okrem materiálu, ktorý sa tradične používa,
 aj taký, ktorý sa podľa mienky našej doby považuje za ušľachtilý, je trváci a dá sa dobre
 prispôsobiť na posvätné úkony. O tom pre jednotlivé oblasti rozhodne konferencia biskupov (porov. č.
-390). III. POSVÄTNÉ NÁDOBY
+390).
+
+#### III. DE SACRIS VASIS
+
+#### III. POSVÄTNÉ NÁDOBY
 
 ### §327
 
 Medzi predmetmi, ktoré sa vyžadujú na slávenie omše, patrí osobitná úcta posvätným nádobám, najmä
 kalichu a paténe, v ktorých sa chlieb a víno prináša, premieňa a z ktorých sa prijíma.
+
+#### IV. POSVÄTNÉ RÚCHO
 
 ### §328
 
@@ -2534,8 +2696,8 @@ použiť nádoby zo vzácnej ozdobnej keramiky.
 
 ### §330
 
-Kalichy a ostatné nádoby určené na prechovávanie Pánovej Krvi nech majú vrchnú časť z takého
-materiálu, ktorý tekutiny neabsorbuje. Podstavec môže byť z iného pevného a ušľachtilého materiálu.
+Kalichy a ostatné nádoby určené na prechovávanie Pánovej Krvi nech majú alebo podľa predpisov iba
+štólu bez ornátu alebo dalmatiky.
 
 ### §331
 
@@ -2550,31 +2712,28 @@ na všedné potreby.
 
 ### §333
 
-Pri požehnaní posvätných nádob treba zachovať obrad, ktorý predpisujú liturgické knihy.136
+Pri požehnaní posvätných nádob treba zachovať obrad, ktorý predpisujú liturgické knihy.1
 
 ### §334
 
 Nech sa zachová zvyk, že v sakristii je zriadené sakrárium, do ktorého sa vylieva voda z umývania
-posvätných nádob a rúšok (porov. č. 280). IV. POSVÄTNÉ RÚCHO
+posvätných nádob a rúšok (porov. č. 280).
+
+#### IV. DE SACRIS VESTIBUS
 
 ### §335
 
 V Cirkvi, ktorá je Kristovým telom, nevykonávajú všetky údy rovnakú úlohu. Táto rozdielnosť úloh pri
 slávení Eucharistie sa prejavuje navonok rozličnosťou posvätných rúch. Preto majú označovať
 príslušnú úlohu jednotlivých posluhujúcich. Rúcha, ktoré si obliekajú kňazi, diakoni a laickí
-posluhujúci, je vhodné požehnávať137 pred liturgickým použitím podľa predpisov Rímskeho rituálu.
+posluhujúci, je vhodné požehnávať pred liturgickým použitím podľa predpisov Rímskeho rituálu.
 
 ### §336
 
 Posvätné rúcho, spoločné všetkým služobníkom vysväteným a ustanoveným akéhokoľvek stupňa, je alba
 prepásaná na bedrách cingulom. Cingulum však netreba používať, ak je alba priliehavá. Ak alba
 nezakrýva obvyklé šaty okolo krku, treba si vziať najprv humerál. Superpelícia nemôže nahradiť albu,
-ani keď sa dá na reverendu, ak si treba obliecť ornát alebo dalmatiku, 135 Porov. DRUHÝ VATIKÁNSKY
-KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum concilium, č. 128. 136 Porov. RÍMSKY
-PONTIFIKÁL, Posviacka kostola a oltára, typické vydanie 1977, Požehnanie kalicha a patény; RÍMSKY
-RITUÁL, Benedikcionál, typické vydanie 1984, Požehnanie liturgických predmetov, 1068 – 1084. 137
-Porov. RÍMSKY RITUÁL, Benedikcionál, typické vydanie 1984, Požehnanie liturgických predmetov, č.
-1070. alebo podľa predpisov iba štólu bez ornátu alebo dalmatiky.
+ani keď sa dá na reverendu, ak si treba obliecť ornát alebo dalmatiku,
 
 ### §337
 
@@ -2594,29 +2753,37 @@ jednotlivých krajinách schválené konferenciou biskupov (porov. č. 390).
 ### §340
 
 Štólu si kňaz dá okolo krku, aby mu z pliec splývala po okrajoch hrude; diakon si ju dáva šikmo cez
-prsia od ľavého pleca k pravému boku tela a tam ju pripevní.
+prsia od ľavého pleca k pravému boku tela a tam ju pripevní. b) Červená farba sa používa na Palmovú
+nedeľu, v Piatok utrpenia Pána, v nedeľu Zoslania Ducha Svätého, na sviatky Pánovho utrpenia, na
+sviatky víťaznej smrti apoštolov a evanjelistov a na sviatky mučeníkov.
 
 ### §341
 
 Pluviál si berie kňaz na sprievody alebo na iné posvätné úkony podľa príslušných rubrík jednotlivých
-obradov.
+obradov. c) Zelená farba sa používa pri ofíciu a omšiach v Cezročnom období (per annum).
 
 ### §342
 
 Pokiaľ ide o formu posvätného rúcha, konferencie biskupov môžu určiť a Apoštolskej stolici
-predostrieť úpravy zodpovedajúce potrebám a zvykom jednotlivých oblastí.138
+predostrieť úpravy zodpovedajúce potrebám a zvykom jednotlivých oblastí.138 d) Fialová farba sa
+používa v Adventnom a Pôstnom období. Možno ju brať aj pri ofíciu a omšiach za zosnulých. e) Čierna
+farba sa môže používať, kde je to zvykom, pri omšiach za zosnulých. f) Ružová farba sa môže použiť,
+kde je to zvykom, v nedele Gaudete (Tretia adventná nedeľa) a Lætare (Štvrtá pôstna nedeľa).
 
 ### §343
 
 Okrem tradičného materiálu na zhotovenie posvätných rúch sa môže upotrebiť vlastné prirodzené
 tkanivo niektorej krajiny, ako aj iné umelé tkanivá, zodpovedajúce dôstojnosti obradu a osoby. O tom
-rozhoduje konferencia biskupov.139
+rozhoduje konferencia biskupov.139 g) Na slávnosti sa môžu používať sviatočné alebo vzácnejšie
+rúcha, aj keď nie sú vo farbe dňa.
 
 ### §344
 
 Svedčí sa, aby krásu a vznešenosť posvätnému rúchu nedodávalo nadbytočné množstvo ozdôb, ale použitá
 látka a strih rúcha. Ozdoby majú predstavovať námety, obrazy alebo symboly naznačujúce posvätný cieľ
-rúcha. Treba vylúčiť ozdoby, ktoré sa protivia posvätnosti liturgie.
+rúcha. Treba vylúčiť ozdoby, ktoré sa protivia posvätnosti liturgie. Čo sa však týka liturgických
+farieb, konferencie biskupov môžu určiť a predostrieť Apoštolskej stolici úpravy, ktoré zodpovedajú
+záujmom a duchu príslušných národov.
 
 ### §345
 
@@ -2630,30 +2797,29 @@ ofíciu a omšiach Veľkonočného a Vianočného obdobia; okrem toho pri sláve
 jeho umučení; na sviatky preblahoslavenej Panny Márie, svätých anjelov a svätých, ktorí nie sú
 mučeníci; na slávnosti Všetkých svätých (1. novembra) a sv. Jána Krstiteľa (24. júna), na sviatky
 sv. Jána, evanjelistu (27. decembra), Katedry sv. Petra (22. februára) a Obrátenia sv. Pavla (25.
-januára). b) Červená farba sa používa na Palmovú nedeľu, v Piatok utrpenia Pána, v nedeľu Zoslania
-Ducha Svätého, na sviatky Pánovho utrpenia, na sviatky víťaznej smrti apoštolov a evanjelistov a na
-sviatky mučeníkov. c) Zelená farba sa používa pri ofíciu a omšiach v Cezročnom období (per annum).
-d) Fialová farba sa používa v Adventnom a Pôstnom období. Možno ju brať aj pri ofíciu a omšiach za
-zosnulých. e) Čierna farba sa môže používať, kde je to zvykom, pri omšiach za zosnulých. f) Ružová
-farba sa môže použiť, kde je to zvykom, v nedele Gaudete (Tretia adventná nedeľa) a Lætare (Štvrtá
-pôstna nedeľa). g) Na slávnosti sa môžu používať sviatočné alebo vzácnejšie rúcha, aj keď nie sú vo
-farbe dňa. Čo sa však týka liturgických farieb, konferencie biskupov môžu určiť a predostrieť
-Apoštolskej stolici úpravy, ktoré zodpovedajú záujmom a duchu príslušných národov. 138 Porov. DRUHÝ
-VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum concilium, č. 128. 139 Porov.
-tamže. VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
+januára).
 
 ### §347
 
 Omše pri vysluhovaní sviatostí a svätenín sa slávia vo farbe, ktorá je pre ne určená, v bielej farbe
-alebo sviatočnej. Omše za rozličné potreby sa slávia vo farbe dňa alebo liturgického obdobia: vo
-fialovej farbe, ak majú kajúcny charakter, ako napríklad omše č. 31, 33, 38. Votívne omše sa slávia
-vo farbe pre ne určenej, vo farbe dňa alebo vo farbe liturgického obdobia. V. INÉ PREDMETY URČENÉ
-PRE KOSTOL
+alebo sviatočnej. Omše za rozličné potreby sa slávia vo farbe dňa alebo liturgického obdobia: vo fi
+alovej farbe, ak majú kajúcny charakter, ako napríklad omše č. 31, 33, 38. Votívne omše sa slávia vo
+farbe pre ne určenej, vo farbe dňa alebo vo farbe liturgického obdobia. mnohonásobných možností
+výberu, o čom ešte bude reč. Kňaz pri výbere textov omše nech prihliada skôr na spoločný duchovný
+osoh Božieho ľudu, než na svoje záľuby. Okrem toho nech pamätá, že voľba omšových častí sa má robiť
+v zhode s tými, ktorí majú účasť na slávení, a ani veriacich netreba vylučovať z rozhodovania o
+veciach, ktoré sa ich priamo týkajú. Keďže sa však ponúka mnohonásobná možnosť výberu rozličných
+omšových častí, ešte pred bohoslužbou musí diakon, lektori, žalmista, kantor, komentátor i zbor
+dobre vedieť, ktoré texty sa použijú, aby sa nič neimprovizovalo. Lebo harmonické usporiadanie a
+vykonávanie obradov veľmi napomáha prípravu veriacich na prijatie Eucharistie. V. INÉ PREDMETY
+URČENÉ PRE KOSTOL
+
+#### V. DE ALIIS REBUS AD USUM ECCLESIAE DESTINATIS
 
 ### §348
 
 Okrem posvätných nádob a posvätného rúcha, pre ktoré sa určuje osobitný materiál, iné zariadenie,
-predpísané na bohoslužbu140 alebo dovolené v kostole, nech je dôstojné a primerané svojmu cieľu.
+predpísané na bohoslužbu alebo dovolené v kostole, nech je dôstojné a primerané svojmu cieľu.
 
 ### §349
 
@@ -2664,48 +2830,33 @@ v úcte ako symboly a znaky vyšších vecí, a preto nech sú naozaj dôstojné
 ### §350
 
 Treba veľmi dbať o všetko, čo má priamy vzťah k oltáru a k eucharistickému sláveniu, ako je
-napríklad oltárny kríž a kríž procesiový.
+napríklad oltárny kríž a kríž procesiový. a) ak sa omša slávi s ľudom, kňaz sa má riadiť kalendárom
+kostola, v ktorom celebruje;
 
 ### §351
 
 Osobitne sa treba usilovať, aby sa aj vo veciach menšieho významu zachovávali požiadavky umenia a
-aby sa vznešená jednoduchosť vždy spájala s čistotou. mnohonásobných možností výberu, o čom ešte
-bude reč. Kňaz pri výbere textov omše nech prihliada skôr na spoločný duchovný osoh Božieho ľudu,
-než na svoje záľuby. Okrem toho nech pamätá, že voľba omšových častí sa má robiť v zhode s tými,
-ktorí majú účasť na slávení, a ani veriacich netreba vylučovať z rozhodovania o veciach, ktoré sa
-ich priamo týkajú. Keďže sa však ponúka mnohonásobná možnosť výberu rozličných omšových častí, ešte
-pred bohoslužbou musí diakon, lektori, žalmista, kantor, komentátor i zbor dobre vedieť, ktoré texty
-sa použijú, aby sa nič neimprovizovalo. Lebo harmonické usporiadanie a vykonávanie obradov veľmi
-napomáha prípravu veriacich na prijatie Eucharistie. I. VÝBER OMŠE
+aby sa vznešená jednoduchosť vždy spájala s čistotou. b) ak sa omša slúži bez ľudu, kňaz si môže
+voliť kalendár kostola alebo svoj vlastný.
 
-## Kapitola VII: Výber svätej omše a jej čiastok
+
+## Chapter VII: The Choice of the Mass and Its Parts
+
+#### Caput VII DE MISSA EIUSQUE PARTIBUS ELIGENDIS
+
+#### Kapitola VII.
+VÝBER OMŠE A JEJ ČASTÍ
 
 ### §352
 
 Pastoračný účinok bohoslužby sa zaiste zvýši, ak texty čítaní, modlitieb a spevov budú podľa
 možnosti čo najlepšie zodpovedať potrebám a duchovnej príprave, ako aj schopnostiam účastníkov. To
-možno dosiahnuť vhodným využitím a) Na všedné dni v Adventnom období od 17. do 24. decembra, cez
-Oktávu Narodenia Pána a v Pôstnom období okrem Popolcovej stredy a všedných dní Svätého týždňa kňaz
-berie formulár omše patričného liturgického dňa. Zo spomienky, ktorá azda pripadá na ten deň vo
-všeobecnom kalendári, môže vziať modlitbu dňa (kolektu), ak nie je Popolcová streda alebo všedný deň
-Svätého 140 Ohľadom požehnania vecí určených na liturgické používanie v kostoloch porov. RÍMSKY
-RITUÁL, Benedikcionál, typické vydanie 1984, tretia časť. týždňa. Vo všedné dni Veľkonočného obdobia
-sa môžu sláviť spomienky svätých s celým formulárom. b) Na všedné dni v Adventnom období pred 17.
-decembrom, vo Vianočnom období (od 2. januára) a na všedné dni Veľkonočného obdobia kňaz si môže
-vybrať formulár omše buď zo dňa príslušného liturgického obdobia, alebo formulár omše o svätom,
-alebo o jednom zo svätých, na ktorých je spomienka, alebo omšu o niektorom svätom, ktorý je na ten
-deň uvedený v martyrológiu. c) Na všedné dni Cezročného obdobia si kňaz môže vybrať omšu dňa, omšu
-prípadnej ľubovoľnej spomienky, alebo omšu o svätom uvedenom na ten deň v martyrológiu, ďalej omšu
-za rozličné potreby alebo votívnu omšu. Ak kňaz slávi omšu za účasti ľudu, nech sa stará
-predovšetkým o to, aby bez príčiny a často nevynechával čítania predpísané vo feriálnom lekcionári
-na jednotlivé dni. Cirkev si totiž želá, aby sa veriacim prestieral čím bohatší stôl Božieho
-slova.141 Pre tú istú príčinu nech kňaz umiernene berie formulár omše za zomrelých; veď každá omša
-sa obetuje za živých aj za zomrelých a v každej eucharistickej modlitbe je aj spomienka na
-zosnulých. Kde však veriaci ľud má v osobitnej láske ľubovoľné spomienky na preblahoslavenú Pannu
-Máriu alebo na iných svätých, nech sa vyhovie oprávneným požiadavkám ich nábožnosti. Keď je možnosť
-voliť medzi spomienkou zo všeobecného kalendára a spomienkou z diecézneho alebo rehoľného kalendára,
-odporúča sa za rovnakých podmienok a podľa tradície spomienka partikulárna. II. O VÝBERE OMŠOVÝCH
-ČASTÍ
+možno dosiahnuť vhodným využitím týždňa. Vo všedné dni Veľkonočného obdobia sa môžu sláviť spomienky
+svätých s celým formulárom. Čítania
+
+#### I. DE MISSA ELIGENDA
+
+#### I. VÝBER OMŠE
 
 ### §353
 
@@ -2714,17 +2865,33 @@ Na slávnosti je kňaz povinný riadiť sa kalendárom kostola, v ktorom celebru
 ### §354
 
 V nedele a na všedné dni adventné, vianočné, pôstne a na všedné dni Veľkonočného obdobia, na sviatky
-a povinné spomienky: a) ak sa omša slávi s ľudom, kňaz sa má riadiť kalendárom kostola, v ktorom
-celebruje; b) ak sa omša slúži bez ľudu, kňaz si môže voliť kalendár kostola alebo svoj vlastný.
+a povinné spomienky:
 
 ### §355
 
-Na ľubovoľné spomienky: Kapitola VII. VÝBER OMŠE A JEJ ČASTÍ
+Na ľubovoľné spomienky: a) Na všedné dni v Adventnom období od 17. do 24. decembra, cez Oktávu
+Narodenia Pána a v Pôstnom období okrem Popolcovej stredy a všedných dní Svätého týždňa kňaz berie
+formulár omše patričného liturgického dňa. Zo spomienky, ktorá azda pripadá na ten deň vo všeobecnom
+kalendári, môže vziať modlitbu dňa (kolektu), ak nie je Popolcová streda alebo všedný deň Svätého
+
+#### II. DE MISSAE PARTIBUS ELIGENDIS
 
 ### §356
 
 Pri výbere textov rozličných omšových častí tak z okruhu cirkevného roka, ako aj o svätých, majú sa
-zachovať nasledujúce smernice. Čítania
+zachovať nasledujúce smernice. k plnšiemu pochopeniu tajomstva, na ktorom sa zúčastňujú, a aby ich
+vychovávalo k väčšej láske k Božiemu slovu. Teda texty, ktoré sa čítajú pri slávení, treba určiť s
+prihliadnutím na pastoračnú vhodnosť a na možnosť výberu, ktorá sa v tejto veci dáva. Na spomienky
+svätých sa berie vlastná kolekta, ak chýba, z patričného spoločného formulára. Modlitby nad obetnými
+darmi a po prijímaní, ak nie sú vlastné, môžu sa brať buď zo spoločného formulára, alebo zo všedného
+dňa príslušného obdobia. Vo všedné dni Cezročného obdobia okrem modlitieb predchádzajúcej nedele
+môžu sa brať modlitby z inej nedele Cezročného obdobia alebo z formulára omší za rozličné potreby,
+ktoré sa nachádzajú v misáli. Vždy sa však môže z týchto omšových textov vziať hoci iba samotná
+kolekta. Takto sa poskytuje bohatšia zásoba textov, ktorými sa hojnejšie živí modlitba veriacich. V
+hlavných liturgických obdobiach je toto prispôsobenie už vo vlastných modlitbách týchto období, ako
+sú uvedené v misáli na jednotlivé všedné dni.
+
+#### De lectionibus
 
 ### §357
 
@@ -2736,7 +2903,21 @@ namiesto Starého zákona používajú čítania zo Skutkov apoštolov. Na sviat
 ktoré sa berie zo spoločnej časti. Na spomienky svätých, ak nie sú vlastné čítania, čítajú sa
 zvyčajne čítania z bežného dňa. Ponúkajú sa aj privlastnené čítania, čiže také, ktoré osvetľujú
 zvláštny aspekt duchovného života alebo aktivity svätca. Používanie týchto čítaní nie je záväzné,
-ibaže by si to vyžadoval pastoračný dôvod.
+ibaže by si to vyžadoval pastoračný dôvod. b) Na všedné dni v Adventnom období pred 17. decembrom,
+vo Vianočnom období (od 2. januára) a na všedné dni Veľkonočného obdobia kňaz si môže vybrať
+formulár omše buď zo dňa príslušného liturgického obdobia, alebo formulár omše o svätom, alebo o
+jednom zo svätých, na ktorých je spomienka, alebo omšu o niektorom svätom, ktorý je na ten deň
+uvedený v martyrológiu. c) Na všedné dni Cezročného obdobia si kňaz môže vybrať omšu dňa, omšu
+prípadnej ľubovoľnej spomienky, alebo omšu o svätom uvedenom na ten deň v martyrológiu, ďalej omšu
+za rozličné potreby alebo votívnu omšu. Ak kňaz slávi omšu za účasti ľudu, nech sa stará
+predovšetkým o to, aby bez príčiny a často nevynechával čítania predpísané vo feriálnom lekcionári
+na jednotlivé dni. Cirkev si totiž želá, aby sa veriacim prestieral čím bohatší stôl Božieho
+slova.141 Pre tú istú príčinu nech kňaz umiernene berie formulár omše za zomrelých; veď každá omša
+sa obetuje za živých aj za zomrelých a v každej eucharistickej modlitbe je aj spomienka na
+zosnulých. Kde však veriaci ľud má v osobitnej láske ľubovoľné spomienky na preblahoslavenú Pannu
+Máriu alebo na iných svätých, nech sa vyhovie oprávneným požiadavkám ich nábožnosti. Keď je možnosť
+voliť medzi spomienkou zo všeobecného kalendára a spomienkou z diecézneho alebo rehoľného kalendára,
+odporúča sa za rovnakých podmienok a podľa tradície spomienka partikulárna.
 
 ### §358
 
@@ -2749,19 +2930,19 @@ celého týždňa alebo rozhodnúť, ktorým textom sa má dať prednosť. V om�
 môže kňaz zo schváleného lekcionára vybrať tie čítania, ktoré sú pre také zhromaždenie
 najvhodnejšie.
 
+#### II. O VÝBERE OMŠOVÝCH ČASTÍ
+
 ### §359
 
 Okrem toho je osobitný výber textov Svätého písma v lekcionári na omše spojené s určitými obradmi,
 pri ktorých sa vysluhujú sviatosti alebo sväteniny, alebo na omše, ktoré sa slávia pri rozličných
 potrebách. Tieto lekcionáre slúžia na to, aby počúvanie primeraného Božieho slova viedlo veriacich
-141 Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum concilium, č. 51.
-VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
 
 ### §360
 
 Niekedy sa ponúka dlhšia a kratšia forma toho istého textu. Pri voľbe medzi týmito dvoma formami
 treba zohľadniť pastoračné kritérium. Treba zohľadniť schopnosť veriacich užitočne počúvať dlhšie
-alebo kratšie čítanie. Podľa ich schopnosti sa im môže lepšie vysvetliť úplný text v homílii.142
+alebo kratšie čítanie. Podľa ich schopnosti sa im môže lepšie vysvetliť úplný text v homílii.1
 
 ### §361
 
@@ -2772,25 +2953,33 @@ vynechať, keď je určený ako vlastný jednému sláveniu a ako ľubovoľný s
 to vyžaduje pastoračná potreba.143 Toto sa stáva, ak sa ten istý text má čítať v nasledujúcich
 dňoch, napríklad v nedeľu alebo nasledujúci všedný deň alebo pri obave, že nejaký text vyvolá
 ťažkosti v spoločenstve veriacich. Treba dávať pozor, aby sa pri výbere textov Svätého písma
-nevynechávali stále tie isté časti.
+nevynechávali stále tie isté časti. Eucharistická modlitba
 
 ### §362
 
 Okrem možností vybrať si niektoré vhodnejšie texty, o ktorých sa hovorilo vyššie, udeľuje sa
 konferenciám biskupov možnosť, aby vo zvláštnych okolnostiach mohli určiť úpravy o výbere
-priliehavých čítaní. Texty však treba vybrať z riadne schváleného lekcionára. Modlitby
+priliehavých čítaní. Texty však treba vybrať z riadne schváleného lekcionára. b) Druhá eucharistická
+modlitba sa pre svoje osobitné vlastnosti hodí na všedné dni týždňa alebo pri osobitných
+príležitostiach. Modlitby Hoci má vlastnú prefáciu, možno ju použiť aj s inými prefáciami, najmä s
+tými,
+
+#### De orationibus
 
 ### §363
 
-V každej omši, ak nie je určené inak, prednášajú sa modlitby patriace tejto omši. Na spomienky
-svätých sa berie vlastná kolekta, ak chýba, z patričného spoločného formulára. Modlitby nad obetnými
-darmi a po prijímaní, ak nie sú vlastné, môžu sa brať buď zo spoločného formulára, alebo zo všedného
-dňa príslušného obdobia. Vo všedné dni Cezročného obdobia okrem modlitieb predchádzajúcej nedele
-môžu sa brať modlitby z inej nedele Cezročného obdobia alebo z formulára omší za rozličné potreby,
-ktoré sa nachádzajú v misáli. Vždy sa však môže z týchto omšových textov vziať hoci iba samotná
-kolekta. Takto sa poskytuje bohatšia zásoba textov, ktorými sa hojnejšie živí modlitba veriacich. V
-hlavných liturgických obdobiach je toto prispôsobenie už vo vlastných modlitbách týchto období, ako
-sú uvedené v misáli na jednotlivé všedné dni. Eucharistická modlitba
+V každej omši, ak nie je určené inak, prednášajú sa modlitby patriace tejto omši. ktoré súhrnne
+vyjadrujú tajomstvo spásy, napríklad spoločné prefácie. ľudu možnosť posvätiť Božou milosťou,
+prameniacou z veľkonočného tajomstva, skoro každú udalosť jeho života, a keďže Eucharistia je
+sviatosťou sviatostí, misál podáva vzory omší a modlitieb, ktoré sa môžu použiť pri rozličných
+príležitostiach kresťanského života za potreby celého sveta a za potreby všeobecnej alebo miestnej
+cirkvi. Keď je omša za zosnulého, možno použiť osobitnú formulu vsunutú pred Pamätaj. c) Tretia
+eucharistická modlitba sa môže spájať s akoukoľvek piesňou vďaky (prefáciou). Nech sa uprednostní
+najmä v nedele a sviatky. V tejto eucharistickej modlitbe, ak sa používa v omši za zosnulého, možno
+použiť osobitnú formulu za zosnulého, uvedenú na svojom mieste po slovách: a láskavo priveď k sebe,
+dobrotivý Otče, všetky svoje roztratené deti.
+
+#### De Prece eucharistica
 
 ### §364
 
@@ -2804,18 +2993,9 @@ Voľba medzi eucharistickými modlitbami, ktoré obsahuje Omšový poriadok, sa 
 a) Prvú eucharistickú modlitbu, čiže Rímsky kánon, možno používať vždy. Zvlášť vhodne sa prednáša v
 dňoch, ktoré majú vlastné V spoločenstve alebo Prosíme ťa, Pane, ako aj pri sláveniach apoštolov a
 svätých, o ktorých je zmienka v tejto eucharistickej modlitbe; v nedele, ak sa z pastoračných
-dôvodov nedá prednosť Tretej eucharistickej modlitbe. b) Druhá eucharistická modlitba sa pre svoje
-osobitné vlastnosti hodí na všedné dni týždňa alebo pri osobitných príležitostiach. Hoci má vlastnú
-prefáciu, možno ju použiť aj s inými prefáciami, najmä s tými, 142 Porov. RÍMSKY MISÁL, Poriadok
-omšových čítaní, druhé typické vydanie 1981, Úvod, č. 80. 143 Tamže, č. 81. ktoré súhrnne vyjadrujú
-tajomstvo spásy, napríklad spoločné prefácie. Keď je omša za zosnulého, možno použiť osobitnú
-formulu vsunutú pred Pamätaj. c) Tretia eucharistická modlitba sa môže spájať s akoukoľvek piesňou
-vďaky (prefáciou). Nech sa uprednostní najmä v nedele a sviatky. V tejto eucharistickej modlitbe, ak
-sa používa v omši za zosnulého, možno použiť osobitnú formulu za zosnulého, uvedenú na svojom mieste
-po slovách: a láskavo priveď k sebe, dobrotivý Otče, všetky svoje roztratené deti. d) Štvrtá
-eucharistická modlitba má nezameniteľnú prefáciu a obsažnejšie podáva dejiny spásy. Môže sa použiť,
-keď omša nemá vlastnú prefáciu a v nedele Cezročného obdobia. Do tejto eucharistickej modlitby pre
-jej štruktúru nemožno vsúvať osobitnú modlitbu za zomrelého. Spevy
+dôvodov nedá prednosť Tretej eucharistickej modlitbe.
+
+#### De cantibus
 
 ### §366
 
@@ -2825,23 +3005,26 @@ Spevy Omšového poriadku, napríklad Baránok Boží, nie je dovolené nahradi�
 
 Pri výbere spevov, ktoré sa majú spievať medzi čítaniami, pri príchode kňaza, pri príprave obetných
 darov a na prijímanie, treba zachovať smernice uvedené na patričných miestach (porov. č. 40 – 41, 47
-– 48, 61 – 64, 74, 86 – 88). Kapitola VIII. OMŠE A MODLITBY ZA ROZLIČNÉ POTREBY A OMŠE ZA ZOSNULÝCH
-I. OMŠE A MODLITBY ZA ROZLIČNÉ POTREBY
+– 48, 61 – 64, 74, 86 – 88).
 
-## Kapitola VIII: Omše a modlitby pri rozličných príležitostiach a omše za zosnulých
+
+## Chapter VIII: Masses and Prayers for Various Needs and Occasions and Masses for the Dead
+
+#### Caput VIII DE MISSIS ET ORATIONIBUS AD DIVERSA ET DE MISSIS DEFUNCTORUM
+
+#### I. DE MISSIS ET ORATIONIBUS AD DIVERSA
 
 ### §368
 
-Keďže liturgia sviatostí a svätenín poskytuje dobre disponovanému veriacemu ľudu možnosť posvätiť
-Božou milosťou, prameniacou z veľkonočného tajomstva144, skoro každú udalosť jeho života, a keďže
-Eucharistia je sviatosťou sviatostí, misál podáva vzory omší a modlitieb, ktoré sa môžu použiť pri
-rozličných príležitostiach kresťanského života za potreby celého sveta a za potreby všeobecnej alebo
-miestnej cirkvi.
+Keďže liturgia sviatostí a svätenín poskytuje dobre disponovanému veriacemu
 
 ### §369
 
 Pretože je širšia možnosť výberu čítaní a modlitieb, patrí sa, aby sa omše za rozličné potreby brali
-umiernene, t. j. keď si to vyžaduje pastoračná potreba.
+umiernene, t. j. keď si to vyžaduje pastoračná potreba. d) Štvrtá eucharistická modlitba má
+nezameniteľnú prefáciu a obsažnejšie podáva dejiny spásy. Môže sa použiť, keď omša nemá vlastnú
+prefáciu a v nedele Cezročného obdobia. Do tejto eucharistickej modlitby pre jej štruktúru nemožno
+vsúvať osobitnú modlitbu za zomrelého.
 
 ### §370
 
@@ -2851,7 +3034,7 @@ ich spevmi, ak zodpovedajú slávenej bohoslužbe.
 ### §371
 
 Medzi omše tohto druhu sa počítajú omše spojené s vysluhovaním sviatostí alebo svätenín (Missæ
-rituales), omše na rozličné príležitosti, omše za rozličné potreby a votívne omše.
+rituales), omše na rozličné príležitosti, omše za rozličné potreby a votívne omše. Spevy
 
 ### §372
 
@@ -2866,12 +3049,18 @@ Omše za rozličné potreby a za niektoré osobitné potreby sa používajú pri
 alebo v pravidelne stanovený čas. Z nich môže príslušná cirkevná vrchnosť vybrať omše na prosebné
 pobožnosti v priebehu roka, ktoré určí konferencia biskupov.
 
+#### Kapitola VIII. 
+OMŠE A MODLITBY 
+ZA ROZLIČNÉ POTREBY 
+A OMŠE ZA ZOSNULÝCH
+
+#### I. OMŠE A MODLITBY ZA ROZLIČNÉ 
+POTREBY
+
 ### §374
 
 Ak sa vyskytne vážnejšia potreba alebo pastoračný dôvod, priliehavú omšu možno sláviť z nariadenia
-alebo povolenia miestneho ordinára vo všetky dni okrem slávností, nedieľ adventných, pôstnych 144
-Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum concilium, č. 61.
-VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
+alebo povolenia miestneho ordinára vo všetky dni okrem slávností, nedieľ adventných, pôstnych
 
 ### §375
 
@@ -2899,7 +3088,11 @@ príležitosti okrem omší spojených s vysluhovaním sviatostí a svätenín.
 ### §378
 
 Zvlášť sa odporúča spomienka preblahoslavenej Panny Márie v sobotu, pretože liturgia Cirkvi
-preukazuje Matke Vykupiteľa úctu v prvom rade a pred všetkými svätými.145 II. OMŠE ZA ZOSNULÝCH
+preukazuje Matke Vykupiteľa úctu v prvom rade a pred všetkými svätými.1
+
+#### II. DE MISSIS DEFUNCTORUM
+
+#### II. OMŠE ZA ZOSNULÝCH
 
 ### §379
 
@@ -2911,11 +3104,11 @@ nádeje.
 
 Medzi omšami za zosnulých má prvé miesto pohrebná omša, ktorá sa môže sláviť každý deň okrem
 prikázaných slávností, štvrtka Svätého týždňa a Veľkonočného trojdnia, ďalej okrem nedieľ
-adventných, pôstnych a veľkonočných, pri zachovaní všetkých právnych noriem.146
+adventných, pôstnych a veľkonočných, pri zachovaní všetkých právnych noriem.1
 
 ### §381
 
-Omšu za zosnulých po prijatí zvesti o smrti, pri definitívnom pochovávaní zomrelého alebo v deň
+Omšu za zosnulých po prijatí zvesti o smrti, pri defi nitívnom pochovávaní zomrelého alebo v deň
 prvého výročia možno sláviť aj v dňoch Vianočnej oktávy, ako aj v dňoch, na ktoré pripadá povinná
 spomienka, prípadne všedný deň liturgického obdobia, okrem Popolcovej stredy a dní Svätého týždňa.
 Iné omše za zosnulých, čiže omše „každodenné“, možno sláviť v dňoch Cezročného obdobia, na ktoré
@@ -2935,10 +3128,7 @@ eucharistickej obete konanej za zosnulého.
 
 Ak po pohrebnej omši bezprostredne nasleduje pohreb, vynechajú sa záverečné obrady omše a hneď po
 modlitbe po prijímaní nasleduje obrad posledného odporúčania a lúčenie. Tento obrad sa koná iba
-vtedy, ak je v kostole rakva s telom zosnulého. 145 Porov. DRUHÝ VATIKÁNSKY KONCIL, dogmatická
-konštitúcia o Cirkvi Lumen gentium, č. 54; PAVOL VI., apoštolská adhortácia Marialis cultus, 2.
-februára 1974, č. 9: AAS 66 (1974) s. 122 – 123. 146 Porov. zvlášť Kódex kánonického práva, kán.
-1176 – 1185; RÍMSKY RITUÁL, Pohrebné obrady, typické vydanie 1969.
+vtedy, ak je v kostole rakva s telom zosnulého.
 
 ### §385
 
@@ -2947,10 +3137,15 @@ Pri usporiadaní a výbere tých častí omše za zosnulých, ktoré sa môžu m
 na zomrelého, jeho rodinu a prítomných. Duchovní pastieri nech berú do úvahy najmä tých, ktorí sú
 pri príležitosti pohrebu prítomní na liturgických obradoch alebo počúvajú evanjelium, či sú to už
 nekatolíci alebo takí katolíci, ktorí sa na Eucharistii nikdy alebo zriedkakedy zúčastňujú, alebo
-stratili azda aj vieru. Kňazi sú totiž služobníkmi Kristovho evanjelia pre všetkých. Kapitola IX. O
-ÚPRAVÁCH, KTORÉ PATRIA BISKUPOM A ICH KONFERENCIÁM
+stratili azda aj vieru. Kňazi sú totiž služobníkmi Kristovho evanjelia pre všetkých. normy o
+liturgických službách kňazovi pri oltári (porov. č. 107), o podávaní svätého prijímania pod obidvoma
+spôsobmi (porov. č. 283), o výstavbe a zariadení kostolov (porov. č. 291). Ale predovšetkým má živiť
+ducha posvätnej liturgie v kňazoch, diakonoch a vo veriacich.
 
-## Kapitola IX: Adaptácie v kompetencii biskupov a biskupských konferencií
+
+## Chapter IX: Adaptations within the Competence of Bishops and Bishops’ Conferences
+
+#### Caput IX DE APTATIONIBUS QUAE EPISCOPIS EORUMQUE CONFERENTIIS COMPETUNT
 
 ### §386
 
@@ -2959,16 +3154,23 @@ všeobecného koncilu, sa zvlášť stará o to, aby sa pri eucharistickom sláv
 privádzali k plnej, uvedomelej a činnej účasti na liturgických úkonoch, ktorú si vyžaduje povaha
 liturgie a na ktorú majú právo a povinnosť mocou svojho stavu.147 Ale aby toto slávenie plnšie
 zodpovedalo normám a duchu posvätnej liturgie, v týchto Smerniciach a v Omšovom poriadku sa
-predkladajú úpravy zverené úsudku buď diecézneho biskupa, alebo konferenciámbiskupov.
+predkladajú úpravy zverené úsudku buď diecézneho biskupa, alebo konferenciámbiskupov. – gestá
+veriacich a postoje tela (porov. č. 43), – gesto úcty oltáru a evanjeliáru (porov. č. 273), – texty
+piesní na vstup, prinášanie obetných darov a prijímanie (porov. č. 48, 74, 87), – čítania zo Svätého
+písma, ktoré sa majú brať v osobitných okolnostiach (porov. č. 362), – spôsob odovzdávania znaku
+pokoja (po-
 
 ### §387
 
 Diecézneho biskupa treba považovať za veľkňaza svojho stáda. Od neho sa určitým spôsobom odvodzuje a
 závisí život veriacich v Krista.148 On nech rozvíja a usmerňuje liturgický život vo svojej diecéze a
 bdie nad ním. Jemu sa v týchto smerniciach zveruje, aby usmerňoval poriadok koncelebrácie (porov. č.
-202 – 374), stanovil normy o liturgických službách kňazovi pri oltári (porov. č. 107), o podávaní
-svätého prijímania pod obidvoma spôsobmi (porov. č. 283), o výstavbe a zariadení kostolov (porov. č.
-291). Ale predovšetkým má živiť ducha posvätnej liturgie v kňazoch, diakonoch a vo veriacich.
+202 – 374), stanovil rov. č. 82), – spôsob svätého prijímania (porov. č. 160, 283), – materiál
+oltára a posvätného zariadenia, predovšetkým posvätných nádob, a materiál, forma a farba
+liturgických rúch (porov. č. 301, 326, 329, 339, 342 – 346). Smernice alebo pastorálne ustanovenia,
+o ktorých potrebe rozhodli konferencie biskupov, môžu byť po predchádzajúcom schválení Apoštolskou
+stolicou vložené do Rímskeho misála na patričnom mieste. liturgických textov, ale predovšetkým
+biblických textov a omšového poriadku.1
 
 ### §388
 
@@ -2982,18 +3184,16 @@ národných jazykoch a aj ho schváliť; po písomnom uznaní Apoštolskou stoli
 príslušných oblastiach.149 Rímsky misál nech sa vydá ako celok buď v latinčine, alebo v platne
 schválenom národnom jazyku.
 
+#### Kapitola IX.
+O ÚPRAVÁCH, 
+KTORÉ PATRIA BISKUPOM 
+A ICH KONFERENCIÁM
+
 ### §390
 
-Úpravy naznačené v týchto Všeobecných smerniciach a v Omšovom poriadku nech v definitívnej podobe
+Úpravy naznačené v týchto Všeobecných smerniciach a v Omšovom poriadku nech v defi nitívnej podobe
 stanovia konferencie biskupov a po písomnom uznaní Apoštolskou stolicou nech sa uvedú do misála; sú
-to: – gestá veriacich a postoje tela (porov. č. 43), – gesto úcty oltáru a evanjeliáru (porov. č.
-273), – texty piesní na vstup, prinášanie obetných darov a prijímanie (porov. č. 48, 74, 87), –
-čítania zo Svätého písma, ktoré sa majú brať v osobitných okolnostiach (porov. č. 362), – spôsob
-odovzdávania znaku pokoja (porov. č. 82), – spôsob svätého prijímania (porov. č. 160, 283), –
-materiál oltára a posvätného zariadenia, predovšetkým posvätných nádob, a materiál, forma a farba
-liturgických rúch (porov. č. 301, 326, 329, 339, 342 – 346). 147 Porov. DRUHÝ VATIKÁNSKY KONCIL,
-konštitúcia o posvätnej liturgii Sacrosanctum concilium, č. 14. 148 Porov. tamže, č. 41. 149 Porov.
-Kódex kánonického práva, kán. 838 § 3. VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
+to:
 
 ### §391
 
@@ -3014,7 +3214,7 @@ mať na zreteli, že preklad textov nie je určený predovšetkým na meditáciu
 spev pri slávení. Nech sa používa reč prispôsobená kraju veriacich a predsa vhodná a vynikajúca
 literárnou kvalitou, pričom vždy zostáva potreba katechézy o biblickom a kresťanskom zmysle
 niektorých slov a myšlienok. V oblastiach, ktoré majú tú istú reč, je lepšie, ak je to možné, mať
-ten istý preklad liturgických textov, ale predovšetkým biblických textov a omšového poriadku.151
+ten istý preklad
 
 ### §393
 
@@ -3036,14 +3236,7 @@ obnovený podľa dekrétu Druhého vatikánskeho koncilu, nebol zastieraný druh
 tvorbe národného kalendára nech sa vyznačia (porov. č. 373) prosebné a kántrové dni, spôsob a texty
 na ich slávenie.155 Treba zohľadniť aj iné osobitné okolnosti. Je vhodné, aby sa slávenia vlastné
 celému štátu alebo kraju vo vydaní misála umiestnili medzi sláveniami generálneho kalendára, a
-vlastné slávenia pre menšie oblasti alebo diecézu nech sa uvedú v dodatku. Porov. DRUHÝ VATIKÁNSKY
-KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum concilium, č. 24. Porov. tamže, č. 36 § 3.
-Porov. tamže, č. 112. Porov. Všeobecné smernice o liturgickom roku a o kalendári, č. 48 – 51,
-nižšie, s. 77; POSVÄTNÁ KONGREGÁCIA PRE BOŽÍ KULT, inštrukcia Calendaria particularia, 24. júna
-1970, č. 4, 8: AAS 62 (1970), s. 652 – 653. 154 Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o
-posvätnej liturgii Sacrosanctum concilium, č. 106. 155 Porov. Všeobecné smernice o liturgickom roku
-a o kalendári, č. 46, nižšie, s. 77; POSVÄTNÁ KONGREGÁCIA PRE BOŽÍ KULT, inštrukcia Calendaria
-particularia, 24. júna 1970, č. 38: AAS 62 (1970), s. 660.
+vlastné slávenia pre menšie oblasti alebo diecézu nech sa uvedú v dodatku.
 
 ### §395
 
@@ -3066,7 +3259,7 @@ a organickým spôsobom včlenil do seba niektoré iné, ktoré vznikali zo zvyk
 národov a partikulárnych cirkví, buď západných alebo východných, a tak si získal akúsi nadregionálnu
 povahu. Dnes sa jednotný výraz a identita tohto rítu nachádza v typických vydaniach liturgických
 kníh schválených autoritou najvyššieho veľkňaza a v príslušných liturgických knihách, ktoré sú
-schválené konferenciami biskupov pre im prislúchajúce oblasti a uznané Apoštolskou stolicou.160
+schválené konferenciami biskupov pre im prislúchajúce oblasti a uznané Apoštolskou stolicou.1
 
 ### §396
 
@@ -3078,16 +3271,8 @@ zavádzali pastoračné normy, ktoré zodpovedajú duchu slávenia.
 
 Nech sa zachováva princíp, podľa ktorého každá partikulárna cirkev musí byť v súlade so všeobecnou
 Cirkvou nielen čo sa týka náuky viery a sviatostných znakov, ale aj v tom, čo sa týka všeobecne
-prijatých zvykov trvalej a apoštolskej tradície. Tieto 156 Porov. DRUHÝ VATIKÁNSKY KONCIL,
-konštitúcia o posvätnej liturgii Sacrosanctum concilium, č. 37 – 40. 157 Porov. KONGREGÁCIA PRE BOŽÍ
-KULT A DISCIPLÍNU SVIATOSTÍ, inštrukcia Varietates legitimæ, 25. januára 1994, č. 54, 62 – 69: AAS
-87 (1995), s. 308 – 309, 311 – 313. 158 Porov. tamže, č. 66 – 68: AAS 87 (1995), s. 313. 159 Porov.
-tamže, č. 26 – 27: AAS 87 (1995), s. 298 – 299. 160 Porov. JÁN PAVOL II., apoštolský list Vicesimus
-quintus annus, 4. decembra 1988, č. 16: AAS 81 (1989) s. 912; KONGREGÁCIA PRE BOŽÍ KULT A DISCIPLÍNU
-SVIATOSTÍ, inštrukcia Varietates legitimæ, 25. januára 1994, č. 2, 36: AAS 87 (1995), s. 288, 302.
-161 Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum concilium, č. 23.
-162 Porov. KONGREGÁCIA PRE BOŽÍ KULT A DISCIPLÍNU SVIATOSTÍ, inštrukcia Varietates legitimæ, 25.
-januára 1994, č. 46: AAS 87 (1995), s. 306. VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
+prijatých zvykov trvalej a apoštolskej tradície. Tieto okolnosti, aby do misála alebo do iných
+liturgických kníh uvádzané prispôsobenia nepoškodili rímsky rítus.1
 
 ### §398
 
@@ -3100,216 +3285,6 @@ vytváranie nových obradových rodín, ale nech sa tak zvažujú kultúrne
 
 ### §399
 
-Teda Rímsky misál sa musí aj naďalej zachovať, hoci v rozličnosti jazykov164 a aj v určitej
-rozličnosti zvykov, ako nástroj a jasný znak podstatnej jednoty a celistvosti rímskeho obradu.165
-163 Porov. tamže, č. 36: AAS 87 (1995), s. 302. 164 Porov. tamže, č. 54: AAS 87 (1995), s. 308 –
-309. 165 Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum concilium, č.
-38; PAVOL VI., apoštolská konštitúcia Missale Romanum, vyššie, s. 10.
+Teda Rímsky misál sa musí aj naďalej zachovať, hoci v rozličnosti jazykov a aj v určitej rozličnosti
+zvykov, ako nástroj a jasný znak podstatnej jednoty a celistvosti rímskeho obradu.1
 
----
-
-## Poznámky (Poznámky pod čiarou)
-
-[^1]: neveste, pamiatku svojej smrti a svojho zmŕtvychvstania.“2 Čo takto učí koncil, vyjadrujú omšové texty. Veď v eucharistických modlitbách sa vhodne a presne vyjadruje náuka, ktorú vynikajúco naznačuje táto myšlienka zo starodávneho sakramentára všeobecne nazývaného Leonianum: „Kedykoľvek slávime pamiatku tejto obety, uskutočňuje sa dielo nášho vykúpenia.“3 Keď kňaz v týchto modlitbách koná spomienku (anamnézu), obracia sa k Bohu i v mene všetkého ľudu, vzdáva Bohu vďaky a prináša živú a svätú obetu, čiže dar Cirkvi a obetu, ktorou Boh sám chcel byť uzmierený,4 a prosí, aby Kristovo Telo a Krv boli obetou, v ktorej má Otec zaľúbenie a celý svet spásu.5 Tak v novom misáli pravidlo modlitby (lex orandi) Cirkvi zodpovedá odvekému pravidlu viery (lex credendi). Tým sa nám totiž prízvukuje, že obeta kríža a jej sviatostné obnovenie vo svätej omši, ktorú Kristus Pán ustanovil pri Poslednej večeri a prikázal apoštolom konať na jeho pamiatku, je jedno a to isté, iba spôsob obetovania je odlišný. A preto omša je zároveň obetou chvály, vďaky, zmierenia a zadosťučinenia.
-
-[^2]: 
-
-[^3]: 
-
-[^4]: 
-
-[^5]: 
-
-[^6]: 
-
-[^7]: 
-
-[^8]: Porov. TRIDENTSKÝ KONCIL, Sesia XIII, 11. októbra 1551: DS 1635 – 1661.
-
-[^9]: Porov. DRUHÝ VATIKÁNSKY KONCIL, dekrét o účinkovaní a živote kňazov Presbyterorum ordinis, č. 2.
-
-[^10]: Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum concilium, č. 11. Tamže, č. 50.
-
-[^11]: VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
-
-[^12]: 
-
-[^13]: 
-
-[^14]: 
-
-[^15]: 
-
-[^16]: Tamže, č. 36. Tamže, č. 52. Tamže, č. 35, 3. Tamže, č. 55.
-
-[^17]: TRIDENTSKÝ KONCIL, Sesia XXII, Náuka o obete svätej omše, kap. 6: DS 1747.
-
-[^18]: Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum concilium, č. 55.
-
-[^19]: pravidlá, podľa ktorých majú prebiehať jednotlivé formy celebrovania.32
-
-[^20]: 
-
-[^21]: 
-
-[^22]: dého liturgického zhromaždenia a slávenie svätej omše sa usporiada tak, aby viedlo k vedomej, činnej a plnej účasti veriacich, totiž k účasti tela i duše: s vrúcnou vierou, nádejou a láskou, akú si želá Cirkev, akú si vyžaduje povaha slávenia, na akú kresťanský ľud na základe krstu má právo a k akej je sviatosťou krstu zaviazaný.28
-
-[^23]: ohlasovaním evanjelia prináša k ambóne evanjeliár alebo knihu evanjelií; keď veriaci prinášajú obetné dary a pristupujú k svätému prijímaniu. Sluší sa, aby tieto úkony a sprievody boli dôstojné, možno ich sprevádzať patričnými spevmi podľa smerníc pre jednotlivé úkony. Posvätné ticho
-
-[^24]: 
-
-[^25]: slove je sám Kristus prítomný uprostred veriacich.59 Toto Božie slovo si ľud osvojuje posvätným tichom a spevmi a vnútorný súhlas s ním vyjadruje aj vyznaním viery. Napokon ľud, posilnený Božím slovom, v modlitbe veriacich prednáša svoje prosby za potreby celej Cirkvi a za spásu sveta.
-
-[^26]: 
-
-[^27]: a vyznával veľké tajomstvá viery, prv ako by sa začalo ich slávenie v Eucharistii.
-
-[^28]: 
-
-[^29]: d) Opis ustanovenia Eucharistie a konsekrácia: slovami a úkonmi Krista sa koná obeta, ktorú Kristus ustanovil pri Poslednej večeri, keď pod spôsobmi chleba a vína obetoval svoje Telo a Krv a dal ich za pokrm a nápoj apoštolom a prikázal im nepretržite sláviť toto tajomstvo. e) Anamnéza: ňou Cirkev, plniac príkaz, ktorý prostredníctvom apoštolov dostala od Krista Pána, koná pamiatku Krista a pripomína si jeho požehnané umučenie, slávne zmŕtvychvstanie a nanebovstúpenie. f) Obetovanie: ním v spomínanej pamiatke Cirkev, a to najmä tá, ktorá je tu teraz zhromaždená, prináša v Duchu Svätom Otcovi nepoškvrnenú obetu. Cirkev si však želá, aby veriaci prinášali nielen nepoškvrnenú obetu, ale aby sa učili obetovať aj samých seba,71 aby sa prostredníctvom Krista zo dňa na deň zdokonaľovali v spojení s Bohom a medzi sebou, a tak aby napokon Boh bol všetko vo všetkých.72 g) Príhovory: nimi sa vyjadruje, že Eucharistia sa slávi v spoločenstve s celou Cirkvou, nebeskou i pozemskou, a že sa obeta koná za ňu a za všetkých jej členov, živých i mŕtvych, povolaných na účasť na vykúpení a na spásu získanú Telom a Krvou Krista. h) Záverečná doxológia: ňou sa vyjadruje oslava Boha: ľud ju zvolaním Amen potvrdzuje a zakončuje. Obrad prijímania
-
-[^30]: 
-
-[^31]: a vyjadruje modlitbou nad ľudom alebo inou slávnostnejšou formou; c) prepustenie ľudu diakonom alebo kňazom s povzbudením, aby sa každý odobral do svojej práce chváliac a oslavujúc Boha; d) pobozkanie oltára kňazom a diakonom; potom kňaz, diakon a ostatní posluhujúci pozdravia oltár hlbokým úklonom.
-
-[^32]: 
-
-[^33]: spevákov, platí aj o ostatných hudobníkoch, najmä však o organistovi.
-
-[^34]: 
-
-[^35]: ďalej paténu a pyxidy – ak sú potrebné – chlieb na prijímanie predsedajúceho kňaza, pre diakona, pre posluhujúcich a ľud, ampulky s vínom a vodou, ak ich neprinášajú sami veriaci na „obetovanie“, nádobu s vodou na požehnanie, ak sa má pokropiť ľud (Asperges), paténu potrebnú pri podávaní prijímania veriacim a veci potrebné na umývanie rúk. Kalich sa chvályhodne zakryje vélom, ktoré môže byť vo farbe dňa alebo bielej farby.
-
-[^36]: 
-
-[^37]: a víno na eucharistickú obetu sa prinesú celebrantovi, ktorý ich položí na oltár. Iné dary sa položia na patričné miesto (porov. č. 73).
-
-[^38]: jednu z tých, ktoré sa nachádzajú v Rímskom misáli alebo sú schválené Apoštolskou stolicou. Eucharistická modlitba si vyžaduje už zo svojej prirodzenosti, aby ju mocou vysviacky prednášal sám kňaz. Ľud sa zase ticho zjednocuje s kňazom vo viere a zapája sa určenými vstupmi do priebehu eucharistickej modlitby. Sú to odpovede v dialógu prefácie, Sanktus, aklamácia po premenení a aklamácia Amen po záverečnej doxológii, ako aj iné aklamácie schválené konferenciou biskupov a preskúmané Svätou stolicou. Je veľmi vhodné, aby kňaz prednášal spevom časti eucharistickej modlitby, ktoré sú znotované.
-
-[^39]: chcú prijímať pokľačiačky, nech idú poslední a – bez prerušenia sprievodu – môžu kľačiačky prijať Eucharistiu.
-
-[^40]: 
-
-[^41]: 
-
-[^42]: 
-
-[^43]: koncelebrovanie omší vo všetkých kostoloch a kaplnkách.
-
-[^44]: VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
-
-[^45]: e) Pokorne ťa prosíme vyslovujú sklonení a so zopätými rukami až po slová ktorí máme účasť na tejto oltárnej obete, potom sa vzpriamia a pri slovách naplnilo hojné nebeské požehnanie a milosť sa prežehnajú.
-
-[^46]: Tretia eucharistická modlitba
-
-[^47]: 
-
-[^48]: Záverečné obrady
-
-[^49]: Pokľaknutie a úklony
-
-[^50]: Ak je kríž na oltári alebo pri ňom, kňaz ho incenzuje pred incenzáciou oltára. V iných prípadoch ho incenzuje, keď prechádza pred ním. Kňaz incenzuje obetné dary pred incenzáciou kríža a oltára tromi ťahmi kadidelnice alebo urobí nad obetnými darmi kadidelnicou znak kríža.
-
-[^51]: a) pri kalichu zvyčajne posluhuje diakon, 287. Ak sa prijímanie z kalicha koná namáak nie je prítomný, kňaz; alebo aj riadne ustanovený akolyta alebo iný mimoriadny vysluhovateľ svätého prijímania alebo veriaci, ktorému bola v prípade nutnosti zverená táto úloha; b) Krv, ktorá zostala, prijme hneď pri oltári kňaz, diakon alebo riadne ustanovený akolyta, ktorý posluhoval pri kalichu, a zvyčajným spôsobom očistí, poutiera a uloží posvätné nádoby; c) veriacim, ktorí chcú prijímať len pod spôsobom chleba, treba udeliť sväté prijímanie týmto spôsobom.
-
-[^52]: VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
-
-[^53]: 
-
-[^54]: VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
-
-[^55]: Miesto pre zbor a hudobné nástroje
-
-[^56]: VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
-
-[^57]: umelecký štýl a vkus každej krajiny a prijíma tie prispôsobenia, ktoré sú v súlade s povahou a tradíciami jednotlivých národov, len aby všetko primerane zodpovedalo cieľu, na ktorý je zariadenie kostola určené.135 Aj na tomto poli treba starostlivo dbať o vznešenú jednoduchosť, ktorú možno výborne spojiť s opravdivým umením.
-
-[^58]: VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
-
-[^59]: 
-
-[^60]: VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
-
-[^61]: k plnšiemu pochopeniu tajomstva, na ktorom sa zúčastňujú, a aby ich vychovávalo k väčšej láske k Božiemu slovu. Teda texty, ktoré sa čítajú pri slávení, treba určiť s prihliadnutím na pastoračnú vhodnosť a na možnosť výberu, ktorá sa v tejto veci dáva.
-
-[^62]: VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
-
-[^63]: a veľkonočných, ďalej dní vo Veľkonočnej oktáve, dňa Spomienky na všetkých zosnulých veriacich, Popolcovej stredy a všedných dní Svätého týždňa.
-
-[^64]: VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
-
-[^65]: Smernice alebo pastorálne ustanovenia, o ktorých potrebe rozhodli konferencie biskupov, môžu byť po predchádzajúcom schválení Apoštolskou stolicou vložené do Rímskeho misála na patričnom mieste.
-
-[^66]: 
-
-[^67]: okolnosti, aby do misála alebo do iných liturgických kníh uvádzané prispôsobenia nepoškodili rímsky rítus.163
-
-[^68]: VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
-
-[^69]: 
-
-[^71]: 
-
-[^72]: DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum concilium, č. 48; POSVÄTNÁ KONGREGÁCIA OBRADOV, inštrukcia Eucharisticum mysterium, 25. mája 1967, č. 12: AAS 59 (1967) s. 548 – 549. Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum concilium, č. 48; dekrét o účinkovaní a živote kňazov Presbyterorum ordinis, č. 5; POSVÄTNÁ KONGREGÁCIA OBRADOV, inštrukcia Eucharisticum mysterium, 25. mája 1967, č. 12: AAS 59 (1967) s. 548 – 549. dôležitosť. Tento obrad je vyhradený kňazovi a diakonovi. Kňaz láme chlieb a časť hostie vpustí do kalicha na znak jednoty Tela a Krvi Pána v diele spásy, totiž Tela Ježiša Krista živého a osláveného. Podľa zvyku zbor alebo kantor spieva, alebo aspoň nahlas recituje prosbu Baránok Boží, pričom ľud nato odpovedá. Táto prosba sprevádza lámanie chleba a môže sa opakovať viackrát až do skončenia obradu. Posledný raz sa zakončí slovami daruj nám pokoj.
-
-[^73]: 
-
-[^74]: 
-
-[^75]: slávil Eucharistiu a pri slávení omše si pridružil kňazov ako koncelebrantov. Je to tak nielen preto, aby sa zvýšila vonkajšia slávnostnosť obradu, ale aby sa tým v plnšom svetle vyjadrilo tajomstvo Cirkvi, „sviatosť jednoty“.79 Ak však biskup neslávi Eucharistiu, ale poveruje tým iného, vtedy je vhodné, aby s náprsným krížom, štólou a pluviálom oblečeným na albe sám viedol liturgiu slova a na konci omše udelil požehnanie.80
-
-[^76]: 
-
-[^77]: 
-
-[^78]: 
-
-[^79]: 
-
-[^80]: 
-
-[^81]: 
-
-[^82]: 
-
-[^83]: V službe oltára má akolyta svoje vlastné úlohy, ktoré má aj sám plniť (porov. č. 187 – 193).
-
-[^84]: 
-
-[^85]: 
-
-[^86]: 
-
-[^87]: 
-
-[^88]: 
-
-[^89]: 
-
-[^90]: Porov. tamže, č. 21: AAS 59 (1967) s. 306 – 307. a na ktorej sa plne a činne zúčastňuje svätý Boží ľud. Tým sa totiž osobitným spôsobom prejavuje Cirkev. V omši, ktorú slávi biskup alebo ktorej predsedá, i keď neslávi Eucharistiu, treba zachovať predpisy, ktoré sú uvedené v knihe Cæremoniale episcoporum.92
-
-[^91]: Porov. PÁPEŽSKÁ RADA PRE INTERPRETÁCIU TEXTOV ZÁKONOV, odpoveď na predloženú pochybnosť o kán. 230 § 2: AAS 86 (1994) s. 541. Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum concilium, č. 22. Porov. DRUHÝ VATIKÁNSKY KONCIL, konštitúcia o posvätnej liturgii Sacrosanctum concilium, č. 41.
-
-[^92]: I. SVÄTÁ OMŠA ZA ÚČASTI ĽUDU
-
-[^93]: 
-
-[^94]: 
-
-[^95]: 
-
-[^96]: Porov. Medzidikasteriálna inštrukcia o niektorých otázkach okolo očakávanej spolupráce veriacich laikov v kňazskej službe Ecclesiæ de mysterio, 15. augusta 1997, čl. 6: AAS 89 (1997), s. 869.
-
-[^97]: 
-
-[^98]: Porov. POSVÄTNÁ KONGREGÁCIA PRE SVIATOSTI A BOŽÍ KULT, inštrukcia Inæstimabile donum, 3. apríla 1980, č. 10: AAS 72 (1980) s. 336; medzidikasteriálna inštrukcia o niektorých otázkach okolo očakávanej spolupráce veriacich laikov v kňazskej službe Ecclesiæ de mysterio, 15. augusta 1997, čl. 8: AAS 89 (1997), s. 871.
-
-[^99]: Porov. nižšie, Dodatok III, Obrad ustanovenia vysluhovateľa svätého prijímania na jednotlivý prípad, s. 1616. Porov. Cæremoniale episcoporum, č. 1118 – 1121.
-
-[^150]: VŠEOBECNÉ SMERNICE RÍMSKEHO MISÁLA
-
-[^151]: 
-
-[^152]: 
-
-[^153]: 
